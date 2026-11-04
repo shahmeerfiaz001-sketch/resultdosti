@@ -171,7 +171,7 @@ def main(argv=None):
                 bulk = len(new) > 5
                 for n in new:
                     n["context"] = next((f["context"] for f in r["items"] if f["url"] == n["url"]), "")
-                    if is_archive(n, src["id"] not in had or bulk, today):
+                    if not src.get("current") and is_archive(n, src["id"] not in had or bulk, today):
                         n["archive"] = True
                 all_new.extend(new)
                 total += len(r["items"])

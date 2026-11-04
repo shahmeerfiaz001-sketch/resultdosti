@@ -17861,31 +17861,6 @@
    "group": "dsssb-user-guide-special-applicant-2009-grade-2026"
   },
   {
-   "id": "ae90a4b2fded",
-   "source": "dsssb",
-   "org": "Delhi Subordinate Services Selection Board",
-   "short": "DSSSB",
-   "scope": "delhi",
-   "title": "Corrigendum regarding partial modification to the advertisement No. 03/2026 dated 29.05.2026 in respect to the post of Assistant Archivist Grade-I, post code- 33/26 in Department of Delhi Archives, GNCT Delhi.",
-   "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/corrigendum_33_26.pdf",
-   "is_doc": true,
-   "type": "notice",
-   "list_date": "2026-06-16",
-   "first_seen": "2026-11-04T17:35:17+00:00",
-   "last_seen": "2026-11-04T17:35:17+00:00",
-   "advt": "03/2026",
-   "link_policy": "deep",
-   "official_home": "https://dsssb.delhi.gov.in",
-   "slug": "dsssb-corrigendum-regarding-partial-modification-to-the-advertisement-ae90a4",
-   "details": {
-    "fields": {},
-    "parsed_at": null
-   },
-   "tier": 1,
-   "status": "info",
-   "group": "dsssb-advt-03-2026"
-  },
-  {
    "id": "ee7372696a55",
    "source": "dsssb",
    "org": "Delhi Subordinate Services Selection Board",
@@ -41085,32 +41060,6 @@
    "status": "info"
   },
   {
-   "id": "72c2969289ae",
-   "source": "rbi",
-   "org": "Reserve Bank of India Opportunities",
-   "short": "RBI",
-   "scope": "central",
-   "title": "an Information Kit!",
-   "url": "https://opportunities.rbi.org.in/Scripts/download.aspx",
-   "is_doc": false,
-   "type": "job",
-   "list_date": null,
-   "first_seen": "2026-11-04T20:51:25+00:00",
-   "last_seen": "2026-11-04T20:51:25+00:00",
-   "advt": null,
-   "link_policy": "deep",
-   "official_home": "https://opportunities.rbi.org.in",
-   "slug": "rbi-an-information-kit-72c296",
-   "details": {
-    "fields": {},
-    "parsed_at": null
-   },
-   "tier": 1,
-   "archive": true,
-   "status": "info",
-   "group": "rbi-an-information-kit-2026"
-  },
-  {
    "id": "03d241590069",
    "source": "rbi",
    "org": "Reserve Bank of India Opportunities",
@@ -41132,7 +41081,6 @@
     "parsed_at": null
    },
    "tier": 1,
-   "archive": true,
    "status": "info",
    "group": "rbi-engagement-part-time-medical-consultants-2026"
   },
@@ -41158,7 +41106,6 @@
     "parsed_at": null
    },
    "tier": 1,
-   "archive": true,
    "status": "info",
    "group": "rbi-engagement-part-time-bank-s-medical-consultant-2026"
   },
@@ -41184,7 +41131,6 @@
     "parsed_at": null
    },
    "tier": 1,
-   "archive": true,
    "status": "info",
    "group": "rbi-engagement-part-time-bank-s-medical-consultants-2026"
   },
@@ -41210,7 +41156,6 @@
     "parsed_at": null
    },
    "tier": 1,
-   "archive": true,
    "status": "info",
    "group": "rbi-engagement-pharmacist-bank-contract-basis-fixed-2026"
   },
@@ -41236,7 +41181,6 @@
     "parsed_at": null
    },
    "tier": 1,
-   "archive": true,
    "status": "info",
    "group": "rbi-engagement-medical-consultant-bank-contract-2026"
   },
@@ -41262,7 +41206,6 @@
     "parsed_at": null
    },
    "tier": 1,
-   "archive": true,
    "status": "info",
    "group": "rbi-engagement-part-time-bank-s-medical-consultant-2026"
   },
@@ -41288,7 +41231,6 @@
     "parsed_at": null
    },
    "tier": 1,
-   "archive": true,
    "status": "info",
    "group": "rbi-engagement-medical-consultant-bank-contract-2026"
   },
@@ -41314,7 +41256,6 @@
     "parsed_at": null
    },
    "tier": 1,
-   "archive": true,
    "status": "info",
    "group": "rbi-engagement-bank-s-medical-consultant-2026"
   },
@@ -41340,7 +41281,6 @@
     "parsed_at": null
    },
    "tier": 1,
-   "archive": true,
    "status": "info",
    "group": "rbi-engagement-medical-consultant-contract-basis-2026"
   },
@@ -41366,7 +41306,6 @@
     "parsed_at": null
    },
    "tier": 1,
-   "archive": true,
    "status": "info",
    "group": "rbi-engagement-medical-consultant-contract-basis-2026"
   },
@@ -41392,7 +41331,6 @@
     "parsed_at": null
    },
    "tier": 1,
-   "archive": true,
    "status": "info",
    "group": "rbi-director-iibm-guwahati-2026"
   },
@@ -41418,7 +41356,6 @@
     "parsed_at": null
    },
    "tier": 1,
-   "archive": true,
    "status": "info",
    "group": "rbi-engagement-bank-s-medical-consultant-contract-2026"
   },
@@ -41444,7 +41381,6 @@
     "parsed_at": null
    },
    "tier": 1,
-   "archive": true,
    "status": "info",
    "group": "rbi-engagement-bank-s-medical-consultant-contract-2026"
   },
@@ -41470,7 +41406,6 @@
     "parsed_at": null
    },
    "tier": 1,
-   "archive": true,
    "status": "info",
    "group": "rbi-engagement-bank-s-medical-consultant-contract-2026"
   },
@@ -41496,7 +41431,6 @@
     "parsed_at": null
    },
    "tier": 1,
-   "archive": true,
    "status": "info",
    "group": "rbi-engagement-part-time-bank-s-medical-consultant-2026"
   },
@@ -41547,7 +41481,6 @@
     "parsed_at": null
    },
    "tier": 1,
-   "archive": true,
    "status": "info",
    "group": "rbi-direct-officers-grade-b-dsim-cadre-panel-year-2026"
   },
@@ -41573,7 +41506,6 @@
     "parsed_at": null
    },
    "tier": 1,
-   "archive": true,
    "status": "info",
    "group": "rbi-officers-grade-b-general-cadre-py-2026"
   },
@@ -41599,7 +41531,6 @@
     "parsed_at": null
    },
    "tier": 1,
-   "archive": true,
    "status": "info",
    "group": "rbi-direct-officers-grade-b-depr-cadre-panel-year-2026"
   },
@@ -41625,7 +41556,6 @@
     "parsed_at": null
    },
    "tier": 1,
-   "archive": true,
    "status": "info",
    "group": "rbi-direct-officers-grade-b-general-cadre-panel-year-2026"
   },
@@ -41651,7 +41581,6 @@
     "parsed_at": null
    },
    "tier": 1,
-   "archive": true,
    "status": "info",
    "group": "rbi-engagement-bank-s-medical-consultant-contract-2026"
   },
@@ -41677,7 +41606,6 @@
     "parsed_at": null
    },
    "tier": 1,
-   "archive": true,
    "status": "info",
    "group": "rbi-assistant-panel-year-reserve-bank-india-display-2025"
   },
@@ -41703,7 +41631,6 @@
     "parsed_at": null
    },
    "tier": 1,
-   "archive": true,
    "status": "info",
    "group": "rbi-junior-engineer-panel-year-display-finally-2026"
   },
@@ -41729,7 +41656,6 @@
     "parsed_at": null
    },
    "tier": 1,
-   "archive": true,
    "status": "info",
    "group": "rbi-lateral-site-engineers-full-time-contract-basis-2026"
   },
@@ -41755,7 +41681,6 @@
     "parsed_at": null
    },
    "tier": 1,
-   "archive": true,
    "status": "info",
    "group": "rbi-lateral-site-engineers-full-time-contract-basis-2026"
   },
@@ -41781,7 +41706,6 @@
     "parsed_at": null
    },
    "tier": 1,
-   "archive": true,
    "status": "info",
    "group": "rbi-lateral-site-engineers-full-time-contract-basis-2026"
   },
@@ -41807,7 +41731,6 @@
     "parsed_at": null
    },
    "tier": 1,
-   "archive": true,
    "status": "info",
    "group": "rbi-junior-engineer-panel-year-display-finally-2026"
   },
@@ -41833,7 +41756,6 @@
     "parsed_at": null
    },
    "tier": 1,
-   "archive": true,
    "status": "info",
    "group": "rbi-junior-engineer-reserve-bank-india-panel-year-2026"
   },
@@ -41859,7 +41781,6 @@
     "parsed_at": null
    },
    "tier": 1,
-   "archive": true,
    "status": "info",
    "group": "rbi-junior-engineer-py-display-finally-appointment-2026"
   },
@@ -41885,7 +41806,6 @@
     "parsed_at": null
    },
    "tier": 1,
-   "archive": true,
    "status": "info",
    "group": "rbi-junior-engineer-panel-year-display-finally-2026"
   },
@@ -41936,7 +41856,6 @@
     "parsed_at": null
    },
    "tier": 1,
-   "archive": true,
    "status": "info",
    "group": "rbi-assistant-panel-year-marksheet-april-11-13-30-2025"
   },
@@ -42000,7 +41919,7 @@
    "url": "https://cisf.mha.gov.in/cisf_dbim_hindi/assets/pdfs/2026/10/depu_ndrf_dig.pdf",
    "is_doc": true,
    "type": "job",
-   "list_date": null,
+   "list_date": "2026-10-01",
    "first_seen": "2026-11-04T20:51:55+00:00",
    "last_seen": "2026-11-04T20:51:55+00:00",
    "advt": null,
@@ -42012,7 +41931,6 @@
     "parsed_at": null
    },
    "tier": 1,
-   "archive": true,
    "status": "info",
    "group": "cisf-notice-2026"
   },
@@ -42026,7 +41944,7 @@
    "url": "https://cisf.mha.gov.in/cisf_dbim_hindi/assets/pdfs/2026/09/1273_depu.pdf",
    "is_doc": true,
    "type": "job",
-   "list_date": null,
+   "list_date": "2026-09-01",
    "first_seen": "2026-11-04T20:51:55+00:00",
    "last_seen": "2026-11-04T20:51:55+00:00",
    "advt": null,
@@ -42038,7 +41956,6 @@
     "parsed_at": null
    },
    "tier": 1,
-   "archive": true,
    "status": "info",
    "group": "cisf-notice-2026"
   },
@@ -42052,7 +41969,7 @@
    "url": "https://cisf.mha.gov.in/cisf_dbim_hindi/assets/pdfs/2026/06/pms_2026_eng_noti.pdf",
    "is_doc": true,
    "type": "job",
-   "list_date": null,
+   "list_date": "2026-06-01",
    "first_seen": "2026-11-04T20:51:55+00:00",
    "last_seen": "2026-11-04T20:51:55+00:00",
    "advt": null,
@@ -42064,35 +41981,8 @@
     "parsed_at": null
    },
    "tier": 1,
-   "archive": true,
    "status": "info",
    "group": "cisf-notice-2026"
-  },
-  {
-   "id": "ecaf2dcb23a3",
-   "source": "crpf",
-   "org": "CRPF Recruitment",
-   "short": "CRPF",
-   "scope": "central",
-   "title": "पुरालेख देखें : महत्वपूर्ण अधिसूचना",
-   "url": "https://crpf.mha.gov.in/hi/Important-Notification/Archive",
-   "is_doc": false,
-   "type": "notice",
-   "list_date": null,
-   "first_seen": "2026-11-04T20:51:58+00:00",
-   "last_seen": "2026-11-04T20:51:58+00:00",
-   "advt": null,
-   "link_policy": "deep",
-   "official_home": "https://crpf.mha.gov.in",
-   "slug": "crpf-ecaf2d",
-   "details": {
-    "fields": {},
-    "parsed_at": null
-   },
-   "tier": 1,
-   "archive": true,
-   "status": "info",
-   "group": "crpf-notice-2026"
   },
   {
    "id": "1c38eb615c53",

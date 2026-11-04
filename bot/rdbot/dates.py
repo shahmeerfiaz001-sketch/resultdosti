@@ -73,6 +73,12 @@ def best_list_date(text, today=None, url=""):
     if not cands and url:
         cands = [d for d in find_dates(url.replace("_", " ")) if (d - today).days <= 1 and (today - d).days <= 730]
     if not cands and url:
+        m = re.search(r"/(20[1-3]\d)/(0[1-9]|1[0-2])/", url)
+        if m:
+            d = date(int(m.group(1)), int(m.group(2)), 1)
+            if (today - d).days <= 730 and (d - today).days <= 1:
+                cands.append(d)
+    if not cands and url:
         for m in re.finditer(r"(?<!\d)(1[4-9]\d{8})(?!\d)", url):
             try:
                 d = datetime.fromtimestamp(int(m.group(1)), tz=timezone.utc).date()
