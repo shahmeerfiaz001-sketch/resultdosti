@@ -6,6 +6,11 @@ on:
         description: URLs separated by spaces (empty = default set)
         required: false
         default: ""
+permissions:
+  contents: write
+concurrency:
+  group: data
+  cancel-in-progress: false
 jobs:
   diag:
     runs-on: ubuntu-latest
@@ -24,7 +29,13 @@ jobs:
         env:
           URLS: ${{ github.event.inputs.urls }}
         run: python bot/tools/diag.py $(printf '%s' "$URLS" | tr -cd 'A-Za-z0-9:/._?=&%-  ') | tee diag.txt
-      - uses: actions/upload-artifact@v4
-        with:
-          name: diag
-          path: diag.txt
+      - name: Save output
+        run: |
+          mkdir -p data/diag
+          cp diag.txt data/diag/latest.txt
+          git config user.name "resultdosti-bot"
+          git config user.email "bot@resultdosti.in"
+          git add data/diag
+          git diff --cached --quiet && exit 0
+          git commit -m "[CI Skip] Diagnostics"
+          for i in 1 2 3; do git pull --rebase -X theirs origin "${GITHUB_REF_NAME}" && git push && break; sleep 10; done

@@ -11,6 +11,12 @@ URLS = sys.argv[1:] or [
     "https://opportunities.rbi.org.in/scripts/index.aspx",
     "https://fci.gov.in/recruitments.php",
     "https://www.rrbapply.gov.in/",
+    "https://upsconline.gov.in/",
+    "https://upsconline.gov.in/ora/",
+    "https://crpf.gov.in/",
+    "https://www.cisf.gov.in/",
+    "https://indianrailways.gov.in/railwayboard/view_section.jsp?lang=0&id=0,7,1281",
+    "https://www.rrbald.gov.in/",
 ]
 UAS = {
     "chrome": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
