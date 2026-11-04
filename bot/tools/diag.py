@@ -2,7 +2,7 @@ import json
 import subprocess
 import sys
 
-URLS = sys.argv[1:] or [
+URLS = sys.argv[1:] or ["https://ssc.gov.in/"] or [
     "https://ssc.gov.in/",
     "https://www.epfindia.gov.in/site_en/Recruitments.php",
     "https://rectt.bsf.gov.in/",
