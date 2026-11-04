@@ -1,0 +1,257 @@
+================================================================================
+https://ssc.gov.in/
+curl chrome h1.1 : 200 80649 1.414855 1.1
+curl chrome h2   : 200 80649 1.580098 1.1
+curl plain       : 200 80649 1.637081 1.1
+curl insecure tls: 200 80649 1.436962 1.1
+browser          : {
+ "xhr": [
+  "200 document https://ssc.gov.in/",
+  "204 fetch https://www.google-analytics.com/g/collect?v=2&tid=G-PGXLWF9037&gtm=45je6b30v9177392750za208zd9177392750xf1&_p=1793818040516&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=EA",
+  "204 fetch https://www.google-analytics.com/g/collect?v=2&tid=G-MCN7V1QY1T&gtm=45je6b30v9177392750za208zd9177392750xf1&_p=1793818040516&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=EA",
+  "200 xhr https://ssc.gov.in/api/admin/5.1/allExams",
+  "200 xhr https://ssc.gov.in/api/general-website/portal//lastUpdates",
+  "200 xhr https://ssc.gov.in/api/general-website/statistics/visitor-count",
+  "200 xhr https://ssc.gov.in/api/general-website/statistics/visitor-count",
+  "200 xhr https://ssc.gov.in/api/general-website/portal/records?page=1&limit=10&contentType=browse-exam&key=createdAt&order=DESC&isPaginationRequired=false&isAttachment=t",
+  "200 xhr https://ssc.gov.in/api/general-website/portal/records?page=1&limit=10&contentType=ribbons&key=createdAt&order=DESC&isAttachment=false&language=english&attribute",
+  "200 xhr https://ssc.gov.in/api/general-website/portal/notice-boards?page=1&limit=10&contentType=notice-boards&key=createdAt&order=DESC&isAttachment=true&language=englis",
+  "200 xhr https://ssc.gov.in/api/general-website/portal/ssc-calendar?page=1&limit=10&contentType=ssc-calendar&key=startDate&order=ASC&isAttachment=true&isPaginationRequir",
+  "200 xhr https://ssc.gov.in/api/general-website/portal/records?page=1&limit=10&contentType=browse-exam&key=createdAt&isPaginationRequired=false&order=DESC&isAttachment=t",
+  "200 xhr https://ssc.gov.in/api/general-website/faq/records?page=1&limit=10&order=DESC&language=english&showInHome=true&attributes=id,question,answer,startDate,endDate,l",
+  "204 fetch https://www.google-analytics.com/g/collect?v=2&tid=G-MCN7V1QY1T&gtm=45je6b30v9177392750za200zd9177392750xf1&_p=1793818040516&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=EE"
+ ],
+ "status": 200,
+ "title": "Home | Staff Selection Commission | GoI",
+ "links": 66,
+ "text": "Feedback\nSSC Old Website\nSkip to Main Content\nEnglish \n+A\nA\n-A\n\nGovernment of India\n\nStaff Selection Commission\n\nLogin or Register\nHome\n Chairman’s Message\nFor Candidates \n Tender\nRTI \nAbout Us \n\nFollow the Staff Selection Commission on X (formerly Twitter): @SSC_GoI\n\nOne Time Registration(OTR) for Scribe is live. Please click here to register.\n\nJOIN INDIAN COAST GUARD\nNotice Board\nView All\nNew\nNo"
+}
+================================================================================
+https://www.epfindia.gov.in/site_en/Recruitments.php
+curl chrome h1.1 : 403 919 1.689192 1.1
+curl chrome h2   : 403 919 0.973214 2
+curl plain       : 403 919 0.938958 2
+curl insecure tls: 403 919 0.696207 2
+browser          : {
+ "xhr": [
+  "301 document https://www.epfindia.gov.in/site_en/Recruitments.php",
+  "403 document https://www.epfo.gov.in/site_en/Recruitments.php"
+ ],
+ "status": 403,
+ "title": "ERROR: The request could not be satisfied",
+ "links": 0,
+ "text": "403 ERROR\nThe request could not be satisfied.\nRequest blocked. We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.\nIf you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documenta"
+}
+================================================================================
+https://rectt.bsf.gov.in/
+curl chrome h1.1 : 403 520 0.934494 1.1
+curl chrome h2   : 403 520 0.673220 2
+curl plain       : 403 118 0.682966 2
+curl insecure tls: 403 520 0.673061 2
+browser          : {
+ "xhr": [
+  "403 document https://rectt.bsf.gov.in/"
+ ],
+ "status": 403,
+ "title": "403 Forbidden",
+ "links": 0,
+ "text": "403 Forbidden"
+}
+================================================================================
+https://upsssc.gov.in/
+curl chrome h1.1 : 000 0 25.002177 0
+curl chrome h2   : 000 0 25.002354 0
+curl plain       : 000 0 25.000867 0
+curl insecure tls: 000 0 25.000694 0
+browser          : {
+ "xhr": [],
+ "error": "TimeoutError: Page.goto: Timeout 45000ms exceeded.\nCall log:\nnavigating to \"https://upsssc.gov.in/\", waiting until \"networkidle\"\n"
+}
+================================================================================
+https://biharboardonline.bihar.gov.in/
+curl chrome h1.1 : 000 0 12.741021 0
+curl chrome h2   : 000 0 12.790564 0
+curl plain       : 000 0 12.765569 0
+curl insecure tls: 000 0 12.760610 0
+browser          : {
+ "xhr": [],
+ "error": "Error: Page.goto: net::ERR_CONNECTION_RESET at https://biharboardonline.bihar.gov.in/\nCall log:\nnavigating to \"https://biharboardonline.bihar.gov.in/\", waiting until \"networkidle\"\n"
+}
+================================================================================
+https://opportunities.rbi.org.in/scripts/index.aspx
+curl chrome h1.1 : 200 49453 1.051209 1.1
+curl chrome h2   : 200 43365 0.991987 1.1
+curl plain       : 000 0 0.874929 0
+curl insecure tls: 200 45589 1.008727 1.1
+browser          : {
+ "xhr": [
+  "200 document https://opportunities.rbi.org.in/scripts/index.aspx",
+  "200 xhr https://www.google-analytics.com/j/collect?v=1&_v=j102&a=1142083138&t=pageview&_s=1&dl=https%3A%2F%2Fopportunities.rbi.org.in%2Fscripts%2Findex.aspx&ul=en-in&dt",
+  "204 fetch https://www.google-analytics.com/g/collect?v=2&tid=G-4YRRXL2W1H&gtm=45je6b30v9125620920za20gxf1&_p=1793818292298&gcd=13l3l3l3l2l1&npa=0&dma=0&_eu=EBAI&are=1&cid",
+  "200 xhr https://opportunities.rbi.org.in/TSPD/?type=22"
+ ],
+ "status": 200,
+ "title": "Build Your Future with the RBI!",
+ "links": 53,
+ "text": "Home\nCurrent Vacancies\nSummer Placements\nResearch Internship\nScholarships\nPost based Rosters\nCareer with Central Bank\nWhat roles could you play?\n\n\n\n\n\nCaution: It has come to the notice of Reserve Bank of India that some fraudsters falsely promising to offer job for the posts in the bank are sending Appointment letters through emails by using fake domains which do not belong to the Reserve Bank of "
+}
+================================================================================
+https://fci.gov.in/recruitments.php
+curl chrome h1.1 : 200 292052 3.195426 1.1
+curl chrome h2   : 200 292052 3.236237 1.1
+curl plain       : 200 292052 3.215336 1.1
+curl insecure tls: 200 292052 2.986430 1.1
+browser          : {
+ "xhr": [
+  "200 document https://fci.gov.in/recruitments.php",
+  "200 document https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FFoodCorporation&tabs=timeline&width=500&height=400&small_header=true&hide_cover=",
+  "200 xhr https://www.facebook.com/platform/plugin/page/logging/",
+  "200 xhr https://www.facebook.com/platform/plugin/tab/renderer/?key=timeline&config_json=%7B%22app_id%22%3A%22776730922422337%22%2C%22href%22%3A%22https%3A%2F%2Fwww.face",
+  "400 document https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fplugins%2Fpage.php%3Fhref%3Dhttps%253A%252F%252Fwww.facebook.com%252FFoodCorporation%26tab",
+  "200 document https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FFoodCorporation&tabs=timeline&width=500&height=400&small_header=true&hide_cover=",
+  "200 xhr https://fci.gov.in/assets/json-data/explore-menu.json",
+  "200 xhr https://fci.gov.in/admin/api/visitor-counter",
+  "200 xhr https://fci.gov.in/admin/api/ManageMenu/viewall",
+  "200 xhr https://fci.gov.in/assets/language/Hindi.json",
+  "200 xhr https://fci.gov.in/admin/api/ManageZoneAbout/viewall",
+  "200 xhr https://www.facebook.com/platform/plugin/page/logging/",
+  "200 xhr https://fci.gov.in/admin/api/ManageBanner/viewall",
+  "400 document https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fplugins%2Fpage.php%3Fhref%3Dhttps%253A%252F%252Fwww.facebook.com%252FFoodCorporation%26tab",
+  "200 xhr https://fci.gov.in/admin/api/getWhatsNewDetails",
+  "200 xhr https://fci.gov.in/admin/api/ManageZoneAbout/viewall",
+  "200 xhr https://fci.gov.in/admin/api/getWhatsNewDetails",
+  "200 xhr https://fci.gov.in/admin/api/get-zone-list",
+  "200 xhr https://fci.gov.in/admin/getAllDepotData",
+  "200 xhr https://fci.gov.in/admin/api/ManageDivision/viewall",
+  "200 xhr https://fci.gov.in/admin/api/ManageNewsPage/viewall",
+  "200 xhr https://fci.gov.in/admin/api/tender-list",
+  "200 xhr https://fci.gov.in/admin/api/ManageImportantLink/viewall"
+ ],
+ "status": 200,
+ "title": "Food Corporation Of India, Govt. of India",
+ "links": 170,
+ "text": "मुख्यालय\nमुख्य विषयवस्तु में जाएं\n|\n-अ\nअ\n+अ\n|\n स्क्रीन रीडर\n|\n English\nअन्वेषण करना \nअंतर्दृष्टि \nसंचालन \nअनुभाग \nसंसाधन \nकर्मचारी कॉर्नर\nभर्ती\nशिकायत निवारण\nभ्रष्टाचार की शिकायत\nसबको अन्न\nसबको जीवन\nअधिप्राप्ति\n\nखाद्यान्न खरीद की सरकारी नीति का व्यापक उद्देश्य किसानों के लिए एमएसपी सुनिश्चित करना और कमजोर वर्गों को सस्ती कीमतों पर खाद्यान्न की उपलब्धता सुनिश्चित करना है।\n\nऔर पढ़ें\nPause\nStop\nभंडार"
+}
+================================================================================
+https://www.rrbapply.gov.in/
+curl chrome h1.1 : 404 37652 1.118145 1.1
+curl chrome h2   : 404 37652 0.798991 2
+curl plain       : 404 37652 0.798538 2
+curl insecure tls: 404 37652 0.799278 2
+browser          : {
+ "xhr": [
+  "404 document https://www.rrbapply.gov.in/"
+ ],
+ "status": 404,
+ "title": "Railway Recruitment Board",
+ "links": 0,
+ "text": ""
+}
+================================================================================
+https://upsconline.gov.in/
+curl chrome h1.1 : 200 5751 0.949421 1.1
+curl chrome h2   : 200 5751 0.960353 1.1
+curl plain       : 200 5751 1.191563 1.1
+curl insecure tls: 200 5751 1.203777 1.1
+browser          : {
+ "xhr": [
+  "200 document https://upsconline.gov.in/"
+ ],
+ "status": 200,
+ "title": "Union Public Service Commission",
+ "links": 0,
+ "text": "संघ लोक सेवा आयोग\nUnion Public Service Commission\nOnline Portal\nThursday गुरूवार, November नवंबर 05, 2026 V:103\nThis portal is only for preview of application forms filled/submitted on or before 25/03/2025.\n\nNew Registration for NDA-II & CDS-II 2025 and for all future UPSC examinations,\nPlease visit the URL https://upsconline.nic.in\n\nONE TIME REGISTRATION (OTR) FOR EXAMINATIONS OF UPSC AND ONLINE "
+}
+================================================================================
+https://upsconline.gov.in/ora/
+curl chrome h1.1 : 200 16456 2.513555 1.1
+curl chrome h2   : 200 16456 2.242398 1.1
+curl plain       : 200 16456 2.278010 1.1
+curl insecure tls: 200 16456 2.230160 1.1
+browser          : {
+ "xhr": [
+  "301 document https://upsconline.gov.in/ora/",
+  "302 document https://upsconline.nic.in/",
+  "200 document https://upsconline.nic.in/candidate/realms/candidate-portal/protocol/openid-connect/auth?client_id=account&redirect_uri=https%3A%2F%2Fupsconline.nic.in%2Fcandid",
+  "200 fetch https://upsconline.nic.in/ora/encr/api/v2/session/init",
+  "200 fetch https://upsconline.nic.in/ora/encr/api/v2/secure-endpoint"
+ ],
+ "status": 200,
+ "title": "Union Public Service Commission",
+ "links": 12,
+ "text": "Wednesday, November 4, 2026, 6:52:39 PM\nLogin\nImportant Notice regarding acceptance of e-Affidavit-e-notarized affidavit by the Commission\nPlease ensure that all documents to be uploaded are prepared in accordance with Instructions for uploading documents.\nCreate Account and Login\nCreate Account\nLogin\nUniversal Registration\nInstructions\nProceed for Universal Registration\nCommon Application Form\nIn"
+}
+================================================================================
+https://crpf.gov.in/
+curl chrome h1.1 : 200 142242 2.981388 1.1
+curl chrome h2   : 200 142242 3.444970 1.1
+curl plain       : 200 142242 2.675945 1.1
+curl insecure tls: 200 142242 2.914241 1.1
+browser          : {
+ "xhr": [
+  "302 document https://crpf.gov.in/",
+  "200 document https://crpf.mha.gov.in/",
+  "200 document https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FCentralReservePolice&tabs=timeline&width=500&height=420&small_header=true&adapt_",
+  "200 document https://www.youtube-nocookie.com/embed/videoseries?list=UUFmPl3QjIcPWsf6J1ZqfQ7g",
+  "200 document https://www.instagram.com/crpf_india/embed",
+  "200 document https://platform.twitter.com/widgets/widget_iframe.1227a5674072e080ffb1ba14ac0c1079.html?origin=https%3A%2F%2Fcrpf.mha.gov.in",
+  "200 document https://www.youtube-nocookie.com/embed/iqNFz8L_qqI",
+  "200 xhr https://www.facebook.com/platform/plugin/page/logging/",
+  "200 fetch https://syndication.twitter.com/settings?session_id=b8ef153de3673e6fa3c8761ce45f0b3cc04a579c",
+  "200 document https://platform.twitter.com/embed/Tweet.html?dnt=true&embedId=twitter-widget-0&features=eyJ0ZndfdGltZWxpbmVfbGlzdCI6eyJidWNrZXQiOltdLCJ2ZXJzaW9uIjpudWxsfSwidGZ",
+  "400 document https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fplugins%2Fpage.php%3Fhref%3Dhttps%253A%252F%252Fwww.facebook.com%252FCentralReservePolice%",
+  "200 fetch https://crpf.mha.gov.in/VisitorCounter/Visitor/1/",
+  "200 xhr https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT",
+  "200 xhr https://cdn.syndication.twimg.com/tweet-result?features=tfw_timeline_list%3A%3Btfw_follower_count_sunset%3Atrue%3Btfw_tweet_edit_backend%3Aon%3Btfw_refsrc_sessi",
+  "200 xhr https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT",
+  "200 xhr https://graph.instagram.com/logging_client_events",
+  "200 xhr https://www.youtube-nocookie.com/youtubei/v1/log_event?alt=json",
+  "200 xhr https://www.youtube-nocookie.com/youtubei/v1/log_event?alt=json"
+ ],
+ "status": 200,
+ "title": "होम | केन्द्रीय रिजर्व पुलिस बल, भारत सरकार, गृह मंत्रालय",
+ "links": 164,
+ "text": "मुख्य विषयवस्तु पर जाएं\n\nयह वेबसाइट ऐसी कुकीज़ का उपयोग करती है जो इसे चालू रखती हैं। आपकी अनुमति से यह आपके द्वारा चुने गए प्रदर्शन विकल्प, जैसे अक्षरों का आकार और कंट्रास्ट, भी याद रखती है और वेबसाइट को बेहतर बनाने के लिए आगंतुकों की गिनती करती है। विवरण कुकी नीति में हैं।\n\nकुकीज़ अनुकूलित करें\nवैकल्पिक कुकीज़ अस्वीकार करें\nसभी कुकीज़ स्वीकार करें\nकेन्द्रीय रिजर्व पुलिस बल\nभारत सरकार, गृह मंत्रा"
+}
+================================================================================
+https://www.cisf.gov.in/
+curl chrome h1.1 : 200 87390 2.749821 1.1
+curl chrome h2   : 200 87390 3.850701 1.1
+curl plain       : 200 87390 2.761410 1.1
+curl insecure tls: 200 87390 3.093770 1.1
+browser          : {
+ "xhr": [
+  "307 document https://www.cisf.gov.in/",
+  "302 document https://cisf.mha.gov.in/",
+  "200 document https://cisf.mha.gov.in/cisf_dbim_hindi/index.php"
+ ],
+ "status": 200,
+ "title": "मुख्य पृष्ठ | केंद्रीय औद्योगिक सुरक्षा बल, गृह मंत्रालय, भारत सरकार",
+ "links": 122,
+ "text": "मुख्य विषय-वस्तु पर जाएँ\n\nयह वेबसाइट कुकीज़ का उपयोग करती है जो इसे कार्यशील रखती हैं। आपकी अनुमति से यह आपके द्वारा किए गए प्रदर्शन विकल्प, जैसे अक्षर का आकार और कंट्रास्ट, भी याद रखती है। विवरण कुकी नीति में हैं।\n\nकुकीज़ अनुकूलित करें\nवैकल्पिक कुकीज़ अस्वीकारें\nसभी कुकीज़ स्वीकारें\nकेंद्रीय औद्योगिक सुरक्षा बल\nगृह मंत्रालय, भारत सरकार\n: मुख्य पृष्ठ\nइस वेबसाइट में खोजें\nखोजें\nमुख्य विषय-वस्तु पर "
+}
+================================================================================
+https://indianrailways.gov.in/railwayboard/view_section.jsp?lang=0&id=0,7,1281
+curl chrome h1.1 : 404 1040 1.242970 1.1
+curl chrome h2   : 404 1040 1.253537 1.1
+curl plain       : 404 1040 1.238390 1.1
+curl insecure tls: 404 1040 1.229059 1.1
+browser          : {
+ "xhr": [
+  "404 document https://indianrailways.gov.in/railwayboard/view_section.jsp?lang=0&id=0,7,1281"
+ ],
+ "status": 404,
+ "title": "Site Under Construction",
+ "links": 1,
+ "text": "We're Working on Something Exciting!\n\nOur website is currently under construction. Stay tuned for updates.Login"
+}
+================================================================================
+https://www.rrbald.gov.in/
+curl chrome h1.1 : 000 0 0.950099 0
+curl chrome h2   : 000 0 0.937828 0
+curl plain       : 000 0 0.952914 0
+curl insecure tls: 404 315 1.194163 1.1
+browser          : {
+ "xhr": [],
+ "error": "Error: Page.goto: net::ERR_CERT_DATE_INVALID at https://www.rrbald.gov.in/\nCall log:\nnavigating to \"https://www.rrbald.gov.in/\", waiting until \"networkidle\"\n"
+}
