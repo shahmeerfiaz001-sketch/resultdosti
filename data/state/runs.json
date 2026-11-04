@@ -1,0 +1,264 @@
+[
+ {
+  "run": "2026-11-04T17:40:11+00:00",
+  "today": "2026-11-04",
+  "new": 1584,
+  "announce": 0,
+  "changed": true,
+  "seconds": 875,
+  "sources": [
+   {
+    "source": "upsc",
+    "ok": false,
+    "items": 0,
+    "error": "ConnectTimeout: HTTPSConnectionPool(host='upsc.gov.in', port=443): Max retries exceeded with url: /whats-new (Caused by ConnectTimeoutError(<HTTPSConnection(host='upsc.gov.in',"
+   },
+   {
+    "source": "ssc",
+    "ok": true,
+    "items": 0,
+    "error": null
+   },
+   {
+    "source": "rrb-chandigarh",
+    "ok": false,
+    "items": 0,
+    "error": "ConnectTimeout: HTTPSConnectionPool(host='www.rrbcdg.gov.in', port=443): Max retries exceeded with url: /employment-notices.php (Caused by ConnectTimeoutError(<HTTPSConnection("
+   },
+   {
+    "source": "rrb-apply",
+    "ok": false,
+    "items": 0,
+    "error": "HTTP 404"
+   },
+   {
+    "source": "ibps",
+    "ok": true,
+    "items": 9,
+    "error": null
+   },
+   {
+    "source": "sbi",
+    "ok": true,
+    "items": 292,
+    "error": null
+   },
+   {
+    "source": "rbi",
+    "ok": true,
+    "items": 0,
+    "error": null
+   },
+   {
+    "source": "nta",
+    "ok": true,
+    "items": 398,
+    "error": null
+   },
+   {
+    "source": "cbse",
+    "ok": true,
+    "items": 134,
+    "error": null
+   },
+   {
+    "source": "indiapost",
+    "ok": true,
+    "items": 1,
+    "error": null
+   },
+   {
+    "source": "army",
+    "ok": false,
+    "items": 0,
+    "error": "ConnectTimeout: HTTPSConnectionPool(host='joinindianarmy.nic.in', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='joinindianar"
+   },
+   {
+    "source": "navy",
+    "ok": false,
+    "items": 0,
+    "error": "ConnectTimeout: HTTPSConnectionPool(host='www.joinindiannavy.gov.in', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.join"
+   },
+   {
+    "source": "airforce",
+    "ok": false,
+    "items": 0,
+    "error": "ConnectTimeout: HTTPSConnectionPool(host='agnipathvayu.cdac.in', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='agnipathvayu."
+   },
+   {
+    "source": "ssb",
+    "ok": true,
+    "items": 4,
+    "error": null
+   },
+   {
+    "source": "bsf",
+    "ok": false,
+    "items": 0,
+    "error": "HTTP 403"
+   },
+   {
+    "source": "itbp",
+    "ok": false,
+    "items": 0,
+    "error": "ConnectTimeout: HTTPSConnectionPool(host='recruitment.itbpolice.nic.in', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='recru"
+   },
+   {
+    "source": "cisf",
+    "ok": false,
+    "items": 0,
+    "error": "ConnectTimeout: HTTPSConnectionPool(host='cisfrectt.cisf.gov.in', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='cisfrectt.ci"
+   },
+   {
+    "source": "crpf",
+    "ok": false,
+    "items": 0,
+    "error": "ConnectTimeout: HTTPSConnectionPool(host='rect.crpf.gov.in', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='rect.crpf.gov.in'"
+   },
+   {
+    "source": "aiims",
+    "ok": true,
+    "items": 5,
+    "error": null
+   },
+   {
+    "source": "esic",
+    "ok": false,
+    "items": 0,
+    "error": "ConnectTimeout: HTTPSConnectionPool(host='esic.gov.in', port=443): Max retries exceeded with url: /recruitments (Caused by ConnectTimeoutError(<HTTPSConnection(host='esic.gov.i"
+   },
+   {
+    "source": "lic",
+    "ok": true,
+    "items": 2,
+    "error": null
+   },
+   {
+    "source": "epfo",
+    "ok": false,
+    "items": 0,
+    "error": "HTTP 403"
+   },
+   {
+    "source": "fci",
+    "ok": true,
+    "items": 0,
+    "error": null
+   },
+   {
+    "source": "dsssb",
+    "ok": true,
+    "items": 20,
+    "error": null
+   },
+   {
+    "source": "uppsc",
+    "ok": true,
+    "items": 39,
+    "error": null
+   },
+   {
+    "source": "upsssc",
+    "ok": false,
+    "items": 0,
+    "error": "ConnectTimeout: HTTPSConnectionPool(host='upsssc.gov.in', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='upsssc.gov.in', port"
+   },
+   {
+    "source": "upprpb",
+    "ok": true,
+    "items": 37,
+    "error": null
+   },
+   {
+    "source": "upmsp",
+    "ok": true,
+    "items": 3,
+    "error": null
+   },
+   {
+    "source": "upresults",
+    "ok": false,
+    "items": 0,
+    "error": "ConnectTimeout: HTTPSConnectionPool(host='upresults.nic.in', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='upresults.nic.in'"
+   },
+   {
+    "source": "updeled",
+    "ok": true,
+    "items": 3,
+    "error": null
+   },
+   {
+    "source": "upnhm",
+    "ok": true,
+    "items": 1,
+    "error": null
+   },
+   {
+    "source": "allahabadhc",
+    "ok": true,
+    "items": 2,
+    "error": null
+   },
+   {
+    "source": "uppcl",
+    "ok": false,
+    "items": 0,
+    "error": "HTTP 403"
+   },
+   {
+    "source": "bpsc",
+    "ok": true,
+    "items": 9,
+    "error": null
+   },
+   {
+    "source": "bssc",
+    "ok": true,
+    "items": 0,
+    "error": null
+   },
+   {
+    "source": "csbc",
+    "ok": true,
+    "items": 18,
+    "error": null
+   },
+   {
+    "source": "bpssc",
+    "ok": true,
+    "items": 150,
+    "error": null
+   },
+   {
+    "source": "btsc",
+    "ok": true,
+    "items": 29,
+    "error": null
+   },
+   {
+    "source": "bseb",
+    "ok": false,
+    "items": 0,
+    "error": "ReadTimeout: HTTPSConnectionPool(host='biharboardonline.bihar.gov.in', port=443): Read timed out. (read timeout=10)"
+   },
+   {
+    "source": "shsbihar",
+    "ok": true,
+    "items": 362,
+    "error": null
+   },
+   {
+    "source": "bceceb",
+    "ok": true,
+    "items": 177,
+    "error": null
+   },
+   {
+    "source": "patnahc",
+    "ok": true,
+    "items": 8,
+    "error": null
+   }
+  ]
+ }
+]

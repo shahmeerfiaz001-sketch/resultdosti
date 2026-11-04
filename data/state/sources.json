@@ -1,0 +1,339 @@
+{
+ "upsc": {
+  "last_run": "2026-11-04T17:27:10+00:00",
+  "fails": 1,
+  "last_ok": null,
+  "last_count": 0,
+  "zero_runs": 0,
+  "last_error": "ConnectTimeout: HTTPSConnectionPool(host='upsc.gov.in', port=443): Max retries exceeded with url: /whats-new (Caused by ConnectTimeoutError(<HTTPSConnection(host='upsc.gov.in',"
+ },
+ "ssc": {
+  "last_run": "2026-11-04T17:27:17+00:00",
+  "fails": 0,
+  "last_ok": "2026-11-04T17:27:17+00:00",
+  "last_count": 0,
+  "zero_runs": 1,
+  "last_error": null
+ },
+ "rrb-chandigarh": {
+  "last_run": "2026-11-04T17:28:23+00:00",
+  "fails": 1,
+  "last_ok": null,
+  "last_count": 0,
+  "zero_runs": 0,
+  "last_error": "ConnectTimeout: HTTPSConnectionPool(host='www.rrbcdg.gov.in', port=443): Max retries exceeded with url: /employment-notices.php (Caused by ConnectTimeoutError(<HTTPSConnection("
+ },
+ "rrb-apply": {
+  "last_run": "2026-11-04T17:28:28+00:00",
+  "fails": 1,
+  "last_ok": null,
+  "last_count": 0,
+  "zero_runs": 0,
+  "last_error": "HTTP 404"
+ },
+ "ibps": {
+  "last_run": "2026-11-04T17:28:34+00:00",
+  "fails": 0,
+  "last_ok": "2026-11-04T17:28:34+00:00",
+  "last_count": 9,
+  "zero_runs": 0,
+  "last_error": null
+ },
+ "sbi": {
+  "last_run": "2026-11-04T17:28:46+00:00",
+  "fails": 0,
+  "last_ok": "2026-11-04T17:28:46+00:00",
+  "last_count": 292,
+  "zero_runs": 0,
+  "last_error": null
+ },
+ "rbi": {
+  "last_run": "2026-11-04T17:28:49+00:00",
+  "fails": 0,
+  "last_ok": "2026-11-04T17:28:49+00:00",
+  "last_count": 0,
+  "zero_runs": 1,
+  "last_error": null
+ },
+ "nta": {
+  "last_run": "2026-11-04T17:28:59+00:00",
+  "fails": 0,
+  "last_ok": "2026-11-04T17:28:59+00:00",
+  "last_count": 398,
+  "zero_runs": 0,
+  "last_error": null
+ },
+ "cbse": {
+  "last_run": "2026-11-04T17:29:05+00:00",
+  "fails": 0,
+  "last_ok": "2026-11-04T17:29:05+00:00",
+  "last_count": 134,
+  "zero_runs": 0,
+  "last_error": null
+ },
+ "indiapost": {
+  "last_run": "2026-11-04T17:29:09+00:00",
+  "fails": 0,
+  "last_ok": "2026-11-04T17:29:09+00:00",
+  "last_count": 1,
+  "zero_runs": 0,
+  "last_error": null
+ },
+ "army": {
+  "last_run": "2026-11-04T17:29:46+00:00",
+  "fails": 1,
+  "last_ok": null,
+  "last_count": 0,
+  "zero_runs": 0,
+  "last_error": "ConnectTimeout: HTTPSConnectionPool(host='joinindianarmy.nic.in', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='joinindianar"
+ },
+ "navy": {
+  "last_run": "2026-11-04T17:30:25+00:00",
+  "fails": 1,
+  "last_ok": null,
+  "last_count": 0,
+  "zero_runs": 0,
+  "last_error": "ConnectTimeout: HTTPSConnectionPool(host='www.joinindiannavy.gov.in', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.join"
+ },
+ "airforce": {
+  "last_run": "2026-11-04T17:31:50+00:00",
+  "fails": 1,
+  "last_ok": null,
+  "last_count": 0,
+  "zero_runs": 0,
+  "last_error": "ConnectTimeout: HTTPSConnectionPool(host='agnipathvayu.cdac.in', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='agnipathvayu."
+ },
+ "ssb": {
+  "last_run": "2026-11-04T17:31:56+00:00",
+  "fails": 0,
+  "last_ok": "2026-11-04T17:31:56+00:00",
+  "last_count": 4,
+  "zero_runs": 0,
+  "last_error": null
+ },
+ "bsf": {
+  "last_run": "2026-11-04T17:31:59+00:00",
+  "fails": 1,
+  "last_ok": null,
+  "last_count": 0,
+  "zero_runs": 0,
+  "last_error": "HTTP 403"
+ },
+ "itbp": {
+  "last_run": "2026-11-04T17:32:37+00:00",
+  "fails": 1,
+  "last_ok": null,
+  "last_count": 0,
+  "zero_runs": 0,
+  "last_error": "ConnectTimeout: HTTPSConnectionPool(host='recruitment.itbpolice.nic.in', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='recru"
+ },
+ "cisf": {
+  "last_run": "2026-11-04T17:33:15+00:00",
+  "fails": 1,
+  "last_ok": null,
+  "last_count": 0,
+  "zero_runs": 0,
+  "last_error": "ConnectTimeout: HTTPSConnectionPool(host='cisfrectt.cisf.gov.in', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='cisfrectt.ci"
+ },
+ "crpf": {
+  "last_run": "2026-11-04T17:33:54+00:00",
+  "fails": 1,
+  "last_ok": null,
+  "last_count": 0,
+  "zero_runs": 0,
+  "last_error": "ConnectTimeout: HTTPSConnectionPool(host='rect.crpf.gov.in', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='rect.crpf.gov.in'"
+ },
+ "aiims": {
+  "last_run": "2026-11-04T17:34:00+00:00",
+  "fails": 0,
+  "last_ok": "2026-11-04T17:34:00+00:00",
+  "last_count": 5,
+  "zero_runs": 0,
+  "last_error": null
+ },
+ "esic": {
+  "last_run": "2026-11-04T17:35:07+00:00",
+  "fails": 1,
+  "last_ok": null,
+  "last_count": 0,
+  "zero_runs": 0,
+  "last_error": "ConnectTimeout: HTTPSConnectionPool(host='esic.gov.in', port=443): Max retries exceeded with url: /recruitments (Caused by ConnectTimeoutError(<HTTPSConnection(host='esic.gov.i"
+ },
+ "lic": {
+  "last_run": "2026-11-04T17:35:08+00:00",
+  "fails": 0,
+  "last_ok": "2026-11-04T17:35:08+00:00",
+  "last_count": 2,
+  "zero_runs": 0,
+  "last_error": null
+ },
+ "epfo": {
+  "last_run": "2026-11-04T17:35:12+00:00",
+  "fails": 1,
+  "last_ok": null,
+  "last_count": 0,
+  "zero_runs": 0,
+  "last_error": "HTTP 403"
+ },
+ "fci": {
+  "last_run": "2026-11-04T17:35:16+00:00",
+  "fails": 0,
+  "last_ok": "2026-11-04T17:35:16+00:00",
+  "last_count": 0,
+  "zero_runs": 1,
+  "last_error": null
+ },
+ "dsssb": {
+  "last_run": "2026-11-04T17:35:19+00:00",
+  "fails": 0,
+  "last_ok": "2026-11-04T17:35:19+00:00",
+  "last_count": 20,
+  "zero_runs": 0,
+  "last_error": null
+ },
+ "uppsc": {
+  "last_run": "2026-11-04T17:35:23+00:00",
+  "fails": 0,
+  "last_ok": "2026-11-04T17:35:23+00:00",
+  "last_count": 39,
+  "zero_runs": 0,
+  "last_error": null
+ },
+ "upsssc": {
+  "last_run": "2026-11-04T17:36:01+00:00",
+  "fails": 1,
+  "last_ok": null,
+  "last_count": 0,
+  "zero_runs": 0,
+  "last_error": "ConnectTimeout: HTTPSConnectionPool(host='upsssc.gov.in', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='upsssc.gov.in', port"
+ },
+ "upprpb": {
+  "last_run": "2026-11-04T17:36:04+00:00",
+  "fails": 0,
+  "last_ok": "2026-11-04T17:36:04+00:00",
+  "last_count": 37,
+  "zero_runs": 0,
+  "last_error": null
+ },
+ "upmsp": {
+  "last_run": "2026-11-04T17:36:08+00:00",
+  "fails": 0,
+  "last_ok": "2026-11-04T17:36:08+00:00",
+  "last_count": 3,
+  "zero_runs": 0,
+  "last_error": null
+ },
+ "upresults": {
+  "last_run": "2026-11-04T17:36:46+00:00",
+  "fails": 1,
+  "last_ok": null,
+  "last_count": 0,
+  "zero_runs": 0,
+  "last_error": "ConnectTimeout: HTTPSConnectionPool(host='upresults.nic.in', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='upresults.nic.in'"
+ },
+ "updeled": {
+  "last_run": "2026-11-04T17:36:48+00:00",
+  "fails": 0,
+  "last_ok": "2026-11-04T17:36:48+00:00",
+  "last_count": 3,
+  "zero_runs": 0,
+  "last_error": null
+ },
+ "upnhm": {
+  "last_run": "2026-11-04T17:36:52+00:00",
+  "fails": 0,
+  "last_ok": "2026-11-04T17:36:52+00:00",
+  "last_count": 1,
+  "zero_runs": 0,
+  "last_error": null
+ },
+ "allahabadhc": {
+  "last_run": "2026-11-04T17:36:55+00:00",
+  "fails": 0,
+  "last_ok": "2026-11-04T17:36:55+00:00",
+  "last_count": 2,
+  "zero_runs": 0,
+  "last_error": null
+ },
+ "uppcl": {
+  "last_run": "2026-11-04T17:36:58+00:00",
+  "fails": 1,
+  "last_ok": null,
+  "last_count": 0,
+  "zero_runs": 0,
+  "last_error": "HTTP 403"
+ },
+ "bpsc": {
+  "last_run": "2026-11-04T17:37:02+00:00",
+  "fails": 0,
+  "last_ok": "2026-11-04T17:37:02+00:00",
+  "last_count": 9,
+  "zero_runs": 0,
+  "last_error": null
+ },
+ "bssc": {
+  "last_run": "2026-11-04T17:37:06+00:00",
+  "fails": 0,
+  "last_ok": "2026-11-04T17:37:06+00:00",
+  "last_count": 0,
+  "zero_runs": 1,
+  "last_error": null
+ },
+ "csbc": {
+  "last_run": "2026-11-04T17:37:11+00:00",
+  "fails": 0,
+  "last_ok": "2026-11-04T17:37:11+00:00",
+  "last_count": 18,
+  "zero_runs": 0,
+  "last_error": null
+ },
+ "bpssc": {
+  "last_run": "2026-11-04T17:37:14+00:00",
+  "fails": 0,
+  "last_ok": "2026-11-04T17:37:14+00:00",
+  "last_count": 150,
+  "zero_runs": 0,
+  "last_error": null
+ },
+ "btsc": {
+  "last_run": "2026-11-04T17:37:17+00:00",
+  "fails": 0,
+  "last_ok": "2026-11-04T17:37:17+00:00",
+  "last_count": 29,
+  "zero_runs": 0,
+  "last_error": null
+ },
+ "bseb": {
+  "last_run": "2026-11-04T17:37:56+00:00",
+  "fails": 1,
+  "last_ok": null,
+  "last_count": 0,
+  "zero_runs": 0,
+  "last_error": "ReadTimeout: HTTPSConnectionPool(host='biharboardonline.bihar.gov.in', port=443): Read timed out. (read timeout=10)"
+ },
+ "shsbihar": {
+  "last_run": "2026-11-04T17:38:01+00:00",
+  "fails": 0,
+  "last_ok": "2026-11-04T17:38:01+00:00",
+  "last_count": 362,
+  "zero_runs": 0,
+  "last_error": null
+ },
+ "bceceb": {
+  "last_run": "2026-11-04T17:38:05+00:00",
+  "fails": 0,
+  "last_ok": "2026-11-04T17:38:05+00:00",
+  "last_count": 177,
+  "zero_runs": 0,
+  "last_error": null
+ },
+ "patnahc": {
+  "last_run": "2026-11-04T17:38:11+00:00",
+  "fails": 0,
+  "last_ok": "2026-11-04T17:38:11+00:00",
+  "last_count": 8,
+  "zero_runs": 0,
+  "last_error": null
+ },
+ "_fingerprint": "7d2860dc9dfaefa505734da600d29fdfb3d795f4"
+}
