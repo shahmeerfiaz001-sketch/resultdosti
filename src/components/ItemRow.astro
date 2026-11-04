@@ -10,7 +10,7 @@ const colors: Record<string, string> = { job: 'var(--c-job)', admit: 'var(--c-ad
 ---
 <li data-scope={item.scope}>
   <a class="row" href={itemPath(item)}>
-    <span class="t">{displayTitle(item)}</span>
+    <span class="t" title={displayTitle(item)}>{displayTitle(item)}</span>
     <span class="m">
       {showType && <span class="chip type" style={`--tc:${colors[item.type] ?? 'var(--c-notice)'}`}>{typeNames[item.type]}</span>}
       {isNew && <span class="chip new">New</span>}

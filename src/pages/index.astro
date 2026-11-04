@@ -3,18 +3,20 @@ import Base from '../layouts/Base.astro';
 import ItemRow from '../components/ItemRow.astro';
 import AdSlot from '../components/AdSlot.astro';
 import site from '../../site.config.json';
-import { load, fresh, liveExams, TYPES, fmt, examPath, scopeName } from '../lib/data';
+import { load, fresh, liveExams, TYPES, fmt, examPath, itemPath, scopeName } from '../lib/data';
+import { seoTitle, cutTitle } from '../lib/copy';
 
 const { updated } = load();
 const items = fresh();
 const exams = liveExams();
 const year = new Date().getFullYear();
-const of = (t: string, n = 15) => items.filter((i) => i.type === t).slice(0, n);
+const of = (t: string, n = 10) => items.filter((i) => i.type === t).slice(0, n);
 const closing = items
   .filter((i) => i.type === 'job' && i.status === 'open' && i.last_date)
   .sort((a, b) => (a.last_date as string).localeCompare(b.last_date as string))
-  .slice(0, 15);
-const other = items.filter((i) => ['notice', 'syllabus', 'admission'].includes(i.type)).slice(0, 15);
+  .slice(0, 10);
+const other = items.filter((i) => ['notice', 'syllabus', 'admission'].includes(i.type)).slice(0, 10);
+const trending = items.filter((i) => ['result', 'admit', 'answer', 'job'].includes(i.type) && !/[\u0900-\u097F]/.test(i.title)).slice(0, 12).map((i) => ({ href: itemPath(i), text: cutTitle(seoTitle(i), 46), type: i.type }));
 const scopes = ['central', 'up', 'bihar'].map((s) => ({ s, n: items.filter((i) => i.scope === s).length, ...scopeName(s) }));
 const panels = [
   { key: 'result', list: of('result'), title: 'Sarkari Result', hi: 'रिजल्ट', color: 'var(--c-result)', href: `/${TYPES.result.path}/` },
@@ -37,24 +39,42 @@ const schema = [{ '@context': 'https://schema.org', '@type': 'FAQPage', mainEnti
 <Base title={`Sarkari Result ${year}: Latest Jobs, Admit Card | ${site.name}`} fullTitle description={`Sarkari Result ${year} on ResultDosti: latest government jobs, admit cards, results and answer keys for SSC, UPSC, Railway, Bank, UP and Bihar exams, from official websites.`} schema={schema}>
   <div class="wrap">
     <section class="hero">
-      <h1>Sarkari Result {year}: Latest Jobs, Admit Card, Result</h1>
-      <p>Government job notices, admit cards, results and answer keys from official websites, for Central, UP and Bihar exams.</p>
-      <p class="hi" lang="hi">सरकारी नौकरी, एडमिट कार्ड, रिजल्ट और आंसर की, सीधे आधिकारिक वेबसाइटों से।</p>
-      {updated && <span class="updated"><span class="dot"></span>Updated {fmt(updated)} · {items.length} updates tracked</span>}
-      <nav class="scope-bar" aria-label="By state">
-        {scopes.map((s) => <a href={`/state/${s.s}/`}>{s.name} <span>{s.n}</span></a>)}
-      </nav>
-      <div class="dost-cta">
-        <div><strong>Meri Naukri: open jobs that fit you</strong><span>Enter your age and state, see open forms with days left.</span></div>
-        <a href="/meri-naukri/">Check now</a>
+      <div class="hero-main">
+        <h1>Sarkari Result {year}: Latest Jobs, Admit Card, Result</h1>
+        <p>Government job notices, admit cards, results and answer keys from official websites, for Central, UP and Bihar exams.</p>
+        <p class="hi" lang="hi">सरकारी नौकरी, एडमिट कार्ड, रिजल्ट और आंसर की, सीधे आधिकारिक वेबसाइटों से।</p>
+        {updated && <span class="updated"><span class="dot"></span>Updated {fmt(updated)} · {items.length} updates tracked</span>}
+        <nav class="scope-bar" aria-label="By state">
+          {scopes.map((s) => <a href={`/state/${s.s}/`}>{s.name} <span>{s.n}</span></a>)}
+        </nav>
       </div>
+      <aside class="hero-side">
+        <div class="dost-cta">
+          <div><strong>Meri Naukri</strong><span>Enter your age and state, see open forms with days left.</span></div>
+          <a href="/meri-naukri/">Check now</a>
+        </div>
+        <div class="quick">
+          <a href={`/${TYPES.result.path}/`} style="--qc:var(--c-result)"><b>Result</b><small lang="hi">रिजल्ट</small></a>
+          <a href={`/${TYPES.admit.path}/`} style="--qc:var(--c-admit)"><b>Admit Card</b><small lang="hi">एडमिट कार्ड</small></a>
+          <a href={`/${TYPES.job.path}/`} style="--qc:var(--c-job)"><b>Latest Jobs</b><small lang="hi">नई भर्ती</small></a>
+          <a href={`/${TYPES.answer.path}/`} style="--qc:var(--c-answer)"><b>Answer Key</b><small lang="hi">आंसर की</small></a>
+        </div>
+      </aside>
     </section>
+
+    {trending.length > 0 && (
+      <nav class="trending" aria-label="Exams in news">
+        <span class="trending-label">Latest</span>
+        <div class="trending-list">{trending.map((t) => <a href={t.href} style={`--tc:${TYPES[t.type].color}`}><i></i>{t.text}</a>)}</div>
+      </nav>
+    )}
 
     <div class="board">
       {panels.map((p) => (
         <section class="panel" style={`--pc:${p.color}`} aria-labelledby={`p-${p.key}`}>
           <div class="panel-head"><h2 id={`p-${p.key}`}>{p.title}<small lang="hi">{p.hi}</small></h2><a href={p.href}>View all</a></div>
           {p.list.length ? <ul>{p.list.map((i) => <ItemRow item={i} />)}</ul> : <p class="empty">New updates will appear here as soon as they are published.</p>}
+          <a class="panel-more" href={p.href}>All {p.title} →</a>
         </section>
       ))}
     </div>
@@ -66,6 +86,7 @@ const schema = [{ '@context': 'https://schema.org', '@type': 'FAQPage', mainEnti
         <section class="panel" style={`--pc:${p.color}`} aria-labelledby={`p-${p.key}`}>
           <div class="panel-head"><h2 id={`p-${p.key}`}>{p.title}<small lang="hi">{p.hi}</small></h2><a href={p.href}>View all</a></div>
           {p.list.length ? <ul>{p.list.map((i) => <ItemRow item={i} showType={p.key === 'other'} />)}</ul> : <p class="empty">Nothing here right now.</p>}
+          <a class="panel-more" href={p.href}>All {p.title} →</a>
         </section>
       ))}
     </div>

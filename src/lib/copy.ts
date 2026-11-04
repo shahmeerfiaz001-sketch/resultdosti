@@ -2,7 +2,8 @@ import { fmt, scopeName, live, dateKey, type Item, type Field } from './data';
 
 const one = (f?: Field) => (f && f.value !== undefined ? String(f.value) : '');
 
-export function lead(i: Item, f: Record<string, Field>): string {
+export function lead(i0: Item, f: Record<string, Field>): string {
+  const i = i0.title.length > 110 ? { ...i0, title: cutTitle(i0.title, 100) } : i0;
   const d = fmt(i.list_date);
   const where = scopeName(i.scope).name;
   const last = one(f.last_date);
