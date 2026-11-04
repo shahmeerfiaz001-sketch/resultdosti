@@ -165,9 +165,10 @@ def main(argv=None):
                 ok_any = ok_any or r["ok"]
                 err = err or r["error"]
                 new = merge(db, src, r["items"], skip=pruned)
+                bulk = len(new) > 5
                 for n in new:
                     n["context"] = next((f["context"] for f in r["items"] if f["url"] == n["url"]), "")
-                    if is_archive(n, src["id"] not in had, today):
+                    if is_archive(n, src["id"] not in had or bulk, today):
                         n["archive"] = True
                 all_new.extend(new)
                 total += len(r["items"])

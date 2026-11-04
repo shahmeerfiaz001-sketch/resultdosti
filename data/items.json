@@ -39786,7 +39786,8 @@
    },
    "tier": 1,
    "status": "info",
-   "group": "aiims-update-eligible-not-eligible-walk-interivew-2026"
+   "group": "aiims-update-eligible-not-eligible-walk-interivew-2026",
+   "archive": true
   },
   {
    "id": "c0f7a34cd576",
@@ -39811,7 +39812,8 @@
    },
    "tier": 1,
    "status": "info",
-   "group": "aiims-fees-optometry-bachelor-medical-radiology-2026"
+   "group": "aiims-fees-optometry-bachelor-medical-radiology-2026",
+   "archive": true
   },
   {
    "id": "7ae95a74a9d1",
@@ -39836,7 +39838,8 @@
    },
    "tier": 1,
    "status": "info",
-   "group": "aiims-eligible-not-eligible-walk-junior-resident-2026"
+   "group": "aiims-eligible-not-eligible-walk-junior-resident-2026",
+   "archive": true
   },
   {
    "id": "7f61107c00ce",
@@ -39886,7 +39889,8 @@
    },
    "tier": 1,
    "status": "info",
-   "group": "aiims-01-faculty-disciplines-at-aiims-awantipora-2026"
+   "group": "aiims-01-faculty-disciplines-at-aiims-awantipora-2026",
+   "archive": true
   },
   {
    "id": "999971b5e13d",
@@ -39911,7 +39915,8 @@
    },
    "tier": 1,
    "status": "info",
-   "group": "shsbihar-advt-03-2026"
+   "group": "shsbihar-advt-03-2026",
+   "archive": true
   },
   {
    "id": "aad7bb548c6a",
@@ -39961,7 +39966,8 @@
    },
    "tier": 1,
    "status": "info",
-   "group": "shsbihar-advt-02-2026"
+   "group": "shsbihar-advt-02-2026",
+   "archive": true
   },
   {
    "id": "01f7ccc97b81",
@@ -39986,7 +39992,8 @@
    },
    "tier": 1,
    "status": "info",
-   "group": "shsbihar-advt-01-2026"
+   "group": "shsbihar-advt-01-2026",
+   "archive": true
   },
   {
    "id": "5c058d8c3fc1",
