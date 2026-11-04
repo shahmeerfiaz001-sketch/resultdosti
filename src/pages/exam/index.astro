@@ -1,0 +1,21 @@
+---
+import Base from '../../layouts/Base.astro';
+import Crumbs from '../../components/Crumbs.astro';
+import { liveExams, examPath, fmt, scopeName } from '../../lib/data';
+const exams = liveExams().slice().sort((a, b) => b.latest.localeCompare(a.latest)).slice(0, 600);
+const c = [{ name: 'Home', url: '/' }, { name: 'All Exams' }];
+---
+<Base title="All Government Exams: Notification, Admit Card, Result" description="Every government exam tracked on ResultDosti, with its notification, admit card, answer key and result on one page." crumbs={c}>
+  <div class="wrap">
+    <Crumbs items={c} />
+    <div class="list-head">
+      <h1>All Government Exams</h1>
+      <p>Each exam page brings together its notification, admit card, answer key and result in date order.</p>
+    </div>
+    {exams.length ? (
+      <div class="grid-cards">
+        {exams.map((e) => <a href={examPath(e)}><strong>{e.name}</strong><span>{scopeName(e.scope).name} · {e.items.length} updates · {fmt(e.latest)}</span></a>)}
+      </div>
+    ) : <p class="empty card">Exams will appear here as updates are found.</p>}
+  </div>
+</Base>

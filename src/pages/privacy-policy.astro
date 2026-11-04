@@ -1,0 +1,22 @@
+---
+import Page from '../layouts/Page.astro';
+import site from '../../site.config.json';
+---
+<Page title="Privacy Policy" description="Privacy policy of ResultDosti: what data is collected, cookies, advertising and your choices." updated="4 November 2026">
+  <p>This policy explains how {site.name} ({site.domain}) handles information when you use the website.</p>
+  <h2>Information we collect</h2>
+  <p>We do not ask you to create an account and we do not collect your name, phone number or exam details. Tools such as Meri Naukri work in your browser; the date of birth and state you enter are stored only on your own device so the tool remembers them, and are not sent to us.</p>
+  <p>Like most websites, our hosting provider and analytics tools may record standard technical data such as your browser type, device, approximate location from your IP address, pages visited and time of visit. This is used to keep the website secure and to understand which pages are useful.</p>
+  <h2>Cookies and advertising</h2>
+  <p>We may show advertisements from Google and its partners. Third party vendors, including Google, use cookies to serve ads based on your prior visits to this and other websites. Google's use of advertising cookies enables it and its partners to serve ads to you based on your visits to this site and other sites on the internet.</p>
+  <p>You can opt out of personalised advertising by visiting <a href="https://adssettings.google.com" rel="noopener nofollow" target="_blank">Google Ads Settings</a>, or opt out of some third party vendors' use of cookies at <a href="https://www.aboutads.info/choices/" rel="noopener nofollow" target="_blank">aboutads.info</a>. Learn more about <a href="https://policies.google.com/technologies/partner-sites" rel="noopener nofollow" target="_blank">how Google uses data from sites that use its services</a>.</p>
+  <p>We may use Google Analytics to measure traffic. It uses cookies to collect information in aggregated form.</p>
+  <h2>Links to other websites</h2>
+  <p>Our pages link to official government websites and other sites. Their privacy practices are their own; please read their policies.</p>
+  <h2>Children</h2>
+  <p>The website is meant for job seekers and students and does not knowingly collect personal information from children.</p>
+  <h2>Your rights</h2>
+  <p>You can block or delete cookies in your browser settings. For any privacy question or request, email <a href={`mailto:${site.email}`}>{site.email}</a>.</p>
+  <h2>Changes</h2>
+  <p>We may update this policy. The date at the top shows the latest version.</p>
+</Page>

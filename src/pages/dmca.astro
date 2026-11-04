@@ -1,0 +1,14 @@
+---
+import Page from '../layouts/Page.astro';
+import site from '../../site.config.json';
+---
+<Page title="DMCA and Content Policy" description="How to report a copyright or content concern to ResultDosti." updated="4 November 2026">
+  <p>ResultDosti lists short factual details of public notices and links to the official source. We do not host copies of official PDFs; links open the file on the official website.</p>
+  <p>If you believe any content on ResultDosti infringes your rights or is incorrect, email <a href={`mailto:${site.email}`}>{site.email}</a> with:</p>
+  <ul>
+    <li>The link to the page on ResultDosti.</li>
+    <li>A description of the content and why you believe it should be changed or removed.</li>
+    <li>Your name and contact details, and proof that you are the owner or authorised to act for the owner.</li>
+  </ul>
+  <p>We review every valid request and, where appropriate, update or remove the content promptly, usually within three working days.</p>
+</Page>

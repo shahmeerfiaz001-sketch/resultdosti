@@ -1,0 +1,73 @@
+---
+import '../styles/global.css';
+import site from '../../site.config.json';
+import ads from '../data/ads.json';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import AdSlot from '../components/AdSlot.astro';
+
+interface Props {
+  title: string;
+  description: string;
+  schema?: object[];
+  noindex?: boolean;
+  type?: 'website' | 'article';
+  fullTitle?: boolean;
+  crumbs?: { name: string; url?: string }[];
+}
+const { title, description, schema = [], noindex = false, type = 'website', fullTitle = false, crumbs = [] } = Astro.props;
+const canonical = site.url + Astro.url.pathname;
+const pageTitle = fullTitle ? title : `${title} | ${site.name}`;
+const org = { '@context': 'https://schema.org', '@type': 'Organization', name: site.name, url: site.url + '/', logo: site.url + '/logo.png' };
+const web = { '@context': 'https://schema.org', '@type': 'WebSite', name: site.name, url: site.url + '/', potentialAction: { '@type': 'SearchAction', target: site.url + '/search/?q={search_term_string}', 'query-input': 'required name=search_term_string' } };
+const bc = crumbs.length > 1 ? [{ '@context': 'https://schema.org', '@type': 'BreadcrumbList', itemListElement: crumbs.map((c, n) => ({ '@type': 'ListItem', position: n + 1, name: c.name, ...(c.url ? { item: site.url + c.url } : {}) })) }] : [];
+const graph = Astro.url.pathname === '/' ? [org, web, ...schema] : [org, ...bc, ...schema];
+const adsOn = ads.enabled && ads.adsenseClient;
+const env = (globalThis as any).process?.env ?? {};
+const gsc = env.GOOGLE_SITE_VERIFICATION || '';
+const ga = env.GA_ID || '';
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{pageTitle}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+    <meta name="robots" content={noindex ? 'noindex, follow' : 'index, follow, max-image-preview:large, max-snippet:-1'} />
+    <meta name="theme-color" content="#2F3BBF" />
+    <link rel="icon" href="/favicon-48.png" sizes="48x48" type="image/png" />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="manifest" href="/manifest.webmanifest" />
+    <link rel="alternate" type="application/rss+xml" title={site.name} href="/rss.xml" />
+    <meta property="og:site_name" content={site.name} />
+    <meta property="og:type" content={type} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:image" content={site.url + '/og.png'} />
+    <meta property="og:locale" content="en_IN" />
+    <meta name="twitter:card" content="summary_large_image" />
+    {gsc && <meta name="google-site-verification" content={gsc} />}
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Mukta:wght@400;600;800&display=swap" />
+    {graph.map((g) => <script type="application/ld+json" set:html={JSON.stringify(g)} />)}
+    {adsOn && <script async src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${ads.adsenseClient}`} crossorigin="anonymous"></script>}
+    {ga && (
+      <>
+        <script async src={`https://www.googletagmanager.com/gtag/js?id=${ga}`}></script>
+        <script set:html={`window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','${ga}');`} />
+      </>
+    )}
+  </head>
+  <body>
+    <a class="skip" href="#main">Skip to content</a>
+    <Header />
+    <AdSlot name="header" />
+    <main id="main"><slot /></main>
+    <Footer />
+  </body>
+</html>

@@ -1,0 +1,51 @@
+---
+import Base from '../../layouts/Base.astro';
+import Crumbs from '../../components/Crumbs.astro';
+import AdSlot from '../../components/AdSlot.astro';
+import Side from '../../components/Side.astro';
+import { live, liveExams, TYPES, fmt, itemPath, displayTitle, dateKey, scopeName, daysLeft, type Exam } from '../../lib/data';
+
+export function getStaticPaths() {
+  return liveExams().map((exam) => ({ params: { slug: exam.slug }, props: { exam } }));
+}
+const { exam } = Astro.props as { exam: Exam };
+const ids = new Set(exam.items);
+const all = live();
+const items = all.filter((x) => ids.has(x.id)).sort((a, b) => dateKey(a).localeCompare(dateKey(b)));
+const latest = items[items.length - 1];
+const job = items.find((x) => x.type === 'job' && x.last_date);
+const has = (t: string) => items.some((x) => x.type === t);
+const stage = has('result') ? 'Result declared' : has('answer') ? 'Answer key released' : has('admit') ? 'Admit card released' : has('job') ? 'Notification out' : 'Notice published';
+const others = all.filter((x) => x.source === exam.source && !ids.has(x.id)).slice(0, 8);
+const kinds = [...new Set(items.map((x) => TYPES[x.type].short))].join(', ');
+const c = [{ name: 'Home', url: '/' }, { name: 'Exams', url: '/exam/' }, { name: exam.name }];
+---
+<Base title={`${exam.name}: ${kinds}`} description={`${exam.name} by ${exam.org}: ${kinds} with dates and official links. Current stage: ${stage}. Last updated ${fmt(exam.latest)}.`} crumbs={c}>
+  <div class="wrap">
+    <Crumbs items={c} />
+    <div class="page-grid">
+      <article data-pagefind-body>
+        <header class="card post-head">
+          <div class="post-meta"><span class="chip type">{stage}</span><a class="chip org" href={`/org/${exam.source}/`}>{exam.short}</a><span class="chip">{scopeName(exam.scope).name}</span></div>
+          <h1>{exam.name}</h1>
+          <p class="lead">This page follows {exam.name} conducted by {exam.org}. Every update found on the official website is listed below in date order, from the first notice to the latest. Latest update: <a href={itemPath(latest)}>{displayTitle(latest)}</a> on {fmt(dateKey(latest))}.</p>
+          {job && job.status === 'open' && (daysLeft(job.last_date) ?? -1) >= 0 && <p class="note">Application is open. Last date {fmt(job.last_date)} ({daysLeft(job.last_date)} days left), as read from the official notification. <a href={itemPath(job)}>See details</a></p>}
+        </header>
+        <section class="card">
+          <h2>All updates</h2>
+          <ol class="timeline">
+            {items.map((x) => (
+              <li class={x === latest ? 'here' : ''} style={`--tc:${TYPES[x.type].color}`}>
+                <a href={itemPath(x)}>{displayTitle(x)}</a>
+                <span class="m"><span>{TYPES[x.type].short}</span><span>{fmt(dateKey(x))}</span></span>
+              </li>
+            ))}
+          </ol>
+        </section>
+        <AdSlot name="inContent" />
+        <div class="note">Dates and links on this page come from {exam.org}'s official website. ResultDosti is not a government website; always confirm on the official website.</div>
+      </article>
+      <Side title={`More from ${exam.short}`} list={others} more={`/org/${exam.source}/`} />
+    </div>
+  </div>
+</Base>

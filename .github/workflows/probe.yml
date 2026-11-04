@@ -1,0 +1,43 @@
+name: Source probe
+on:
+  workflow_dispatch:
+    inputs:
+      sources:
+        description: Source ids separated by spaces (empty = all)
+        required: false
+        default: ""
+permissions:
+  contents: write
+concurrency:
+  group: data
+  cancel-in-progress: false
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: bot/requirements.txt
+      - run: pip install -r bot/requirements.txt
+      - run: python -m playwright install --with-deps chromium
+      - name: Run probe
+        working-directory: bot
+        env:
+          SOURCES: ${{ github.event.inputs.sources }}
+        run: python -m rdbot.probe $(printf '%s' "$SOURCES" | tr -cd 'a-z0-9 -')
+      - uses: actions/upload-artifact@v4
+        with:
+          name: probe-report
+          path: data/probe/
+      - name: Save report
+        run: |
+          git config user.name "resultdosti-bot"
+          git config user.email "bot@resultdosti.in"
+          git add data/probe
+          git diff --cached --quiet && exit 0
+          git commit -m "[CI Skip] Probe report"
+          for i in 1 2 3; do git pull --rebase -X theirs origin "${GITHUB_REF_NAME}" && git push && break; sleep 10; done

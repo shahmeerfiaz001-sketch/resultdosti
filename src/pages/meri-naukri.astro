@@ -1,0 +1,88 @@
+---
+import Base from '../layouts/Base.astro';
+import Crumbs from '../components/Crumbs.astro';
+import AdSlot from '../components/AdSlot.astro';
+import site from '../../site.config.json';
+const c = [{ name: 'Home', url: '/' }, { name: 'Meri Naukri' }];
+const faq = [
+  { q: 'How does Meri Naukri work?', a: 'It looks at the government job notices that are open right now on ResultDosti and shows the ones for your state and for all-India posts. If the official notification gives an age limit, jobs outside your age are hidden.' },
+  { q: 'Why does a job show "Check age in notification"?', a: 'Some notifications have many posts with different age limits, or the age limit could not be read reliably from the PDF. Those jobs are still shown so you do not miss them. Open the notification to confirm.' },
+  { q: 'Is age relaxation counted?', a: 'No. The result uses the general age limit. Reserved categories often get extra years of relaxation, so also check jobs just above your limit.' }
+];
+const schema = [{ '@context': 'https://schema.org', '@type': 'FAQPage', mainEntity: faq.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })) }];
+---
+<Base title="Meri Naukri: Find Open Govt Jobs for Your Age and State" description="Enter your date of birth and state to see open government job forms that fit you, with last dates and days left. Free, no sign up." schema={schema} crumbs={c}>
+  <div class="wrap">
+    <Crumbs items={c} />
+    <div class="list-head">
+      <h1>Meri Naukri: open govt jobs for you</h1>
+      <p lang="hi" class="hi">अपनी उम्र और राज्य डालें, और देखें कौन से सरकारी फॉर्म अभी खुले हैं।</p>
+    </div>
+    <section class="card">
+      <form class="tool" id="mn" onsubmit="return false">
+        <label>Date of birth<input type="date" id="dob" name="dob" /></label>
+        <label>Your state<select id="st" name="st">
+          <option value="all">All regions</option>
+          {Object.entries(site.scopes).map(([k, v]) => k !== 'central' && <option value={k}>{(v as any).name}</option>)}
+        </select></label>
+        <label>Keyword (optional)<input type="search" id="kw" placeholder="e.g. constable, teacher, clerk" /></label>
+      </form>
+      <p class="fine" id="mn-sum" aria-live="polite">Loading open jobs...</p>
+    </section>
+    <AdSlot name="inContent" />
+    <section class="panel" style="--pc:var(--sun)">
+      <ul id="mn-list"></ul>
+      <p class="empty hidden" id="mn-empty">No open jobs match right now. Try All regions or clear the keyword.</p>
+    </section>
+    <section class="card prose" style="margin-top:16px">
+      <h2>About this tool</h2>
+      <div class="faq">{faq.map((f) => <details><summary>{f.q}</summary><div class="a">{f.a}</div></details>)}</div>
+    </section>
+  </div>
+</Base>
+<script>
+  type J = { t: string; u: string; s: string; o: string; l: string | null; a: [number | null, number | null] | null; p: number | null; d: string };
+  const $ = (id: string) => document.getElementById(id) as HTMLInputElement;
+  const list = document.getElementById('mn-list')!;
+  const sum = document.getElementById('mn-sum')!;
+  const empty = document.getElementById('mn-empty')!;
+  let jobs: J[] = [];
+  const MON = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+  const fmt = (d: string) => { const [y, m, x] = d.split('-').map(Number); return `${String(x).padStart(2, '0')} ${MON[m - 1]} ${y}`; };
+  const today = new Date(Date.now() + 5.5 * 3600e3).toISOString().slice(0, 10);
+  const left = (d: string) => Math.round((Date.parse(d) - Date.parse(today)) / 864e5);
+  const esc = (s: string) => s.replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[c]!);
+  function ageOn(dob: string, on: string) {
+    const a = new Date(dob), b = new Date(on);
+    let y = b.getFullYear() - a.getFullYear();
+    if (b.getMonth() < a.getMonth() || (b.getMonth() === a.getMonth() && b.getDate() < a.getDate())) y--;
+    return y;
+  }
+  function save() { try { localStorage.setItem('mn', JSON.stringify({ dob: $('dob').value, st: $('st').value })); } catch {} }
+  function restore() { try { const v = JSON.parse(localStorage.getItem('mn') || '{}'); if (v.dob) $('dob').value = v.dob; if (v.st) $('st').value = v.st; } catch {} }
+  function render() {
+    const dob = $('dob').value, st = $('st').value, kw = $('kw').value.trim().toLowerCase();
+    let out = jobs.filter((j) => (j.l === null || left(j.l) >= 0) && (st === 'all' || j.s === 'central' || j.s === st) && (!kw || j.t.toLowerCase().includes(kw)));
+    let hidden = 0;
+    if (dob) {
+      out = out.filter((j) => {
+        if (!j.a) return true;
+        const age = ageOn(dob, j.l || today);
+        const ok = (j.a[0] === null || age >= j.a[0]) && (j.a[1] === null || age <= j.a[1]);
+        if (!ok) hidden++;
+        return ok;
+      });
+    }
+    out.sort((x, y) => (x.l || '9999').localeCompare(y.l || '9999'));
+    list.innerHTML = out.map((j) => {
+      const n = j.l ? left(j.l) : null;
+      const age = j.a ? (j.a[0] && j.a[1] ? `Age ${j.a[0]}-${j.a[1]}` : j.a[1] ? `Age up to ${j.a[1]}` : '') : 'Check age in notification';
+      return `<li><a class="row" href="${j.u}"><span class="t">${esc(j.t)}</span><span class="m"><span>${esc(j.o)}</span>${j.l ? `<span>Last date ${fmt(j.l)}</span>` : ''}${n !== null ? `<span class="chip left">${n === 0 ? 'Last day today' : n + ' days left'}</span>` : ''}${j.p ? `<span>${j.p} posts</span>` : ''}<span>${age}</span></span></a></li>`;
+    }).join('');
+    empty.classList.toggle('hidden', out.length > 0);
+    sum.textContent = `${out.length} open job${out.length === 1 ? '' : 's'} found${hidden ? `, ${hidden} hidden because of the age limit` : ''}. Closing soonest shown first.`;
+  }
+  restore();
+  ['dob', 'st', 'kw'].forEach((id) => $(id).addEventListener('input', () => { save(); render(); }));
+  fetch('/jobs.json').then((r) => r.json()).then((d) => { jobs = d; render(); }).catch(() => { sum.textContent = 'Could not load jobs. Please refresh the page.'; });
+</script>

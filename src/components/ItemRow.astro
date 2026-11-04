@@ -1,0 +1,22 @@
+---
+import { itemPath, fmt, daysLeft, dateKey, displayTitle, istToday, type Item } from '../lib/data';
+interface Props { item: Item; showType?: boolean; }
+const { item, showType = false } = Astro.props;
+const left = item.type === 'job' && item.status === 'open' ? daysLeft(item.last_date) : null;
+const d = dateKey(item);
+const isNew = (Date.parse(istToday()) - Date.parse(d)) / 86400000 <= 2;
+const typeNames: Record<string, string> = { job: 'Job', admit: 'Admit Card', result: 'Result', answer: 'Answer Key', syllabus: 'Syllabus', admission: 'Admission', notice: 'Notice' };
+const colors: Record<string, string> = { job: 'var(--c-job)', admit: 'var(--c-admit)', result: 'var(--c-result)', answer: 'var(--c-answer)' };
+---
+<li data-scope={item.scope}>
+  <a class="row" href={itemPath(item)}>
+    <span class="t">{displayTitle(item)}</span>
+    <span class="m">
+      {showType && <span class="chip type" style={`--tc:${colors[item.type] ?? 'var(--c-notice)'}`}>{typeNames[item.type]}</span>}
+      {isNew && <span class="chip new">New</span>}
+      <span>{fmt(d)}</span>
+      {left !== null && left >= 0 && <span class="chip left">{left === 0 ? 'Last day today' : `${left} days left`}</span>}
+      {item.type === 'job' && item.status === 'closed' && <span class="chip closed">Closed</span>}
+    </span>
+  </a>
+</li>

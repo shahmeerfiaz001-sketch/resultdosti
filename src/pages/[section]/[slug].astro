@@ -1,0 +1,151 @@
+---
+import Base from '../../layouts/Base.astro';
+import AdSlot from '../../components/AdSlot.astro';
+import ItemRow from '../../components/ItemRow.astro';
+import Crumbs from '../../components/Crumbs.astro';
+import Side from '../../components/Side.astro';
+import site from '../../../site.config.json';
+import { live, TYPES, fmt, daysLeft, officialLink, displayTitle, examOf, itemPath, examPath, scopeName, fieldsOf, dateKey, isIndexable, type Item } from '../../lib/data';
+import { lead, steps, feeText, ageText, metaDesc, jobTitle } from '../../lib/copy';
+
+export function getStaticPaths() {
+  return live().map((item) => ({ params: { section: TYPES[item.type].path, slug: item.slug }, props: { item } }));
+}
+
+const { item } = Astro.props as { item: Item };
+const T = TYPES[item.type];
+const f = fieldsOf(item);
+const link = officialLink(item);
+const exam = examOf(item);
+const all = live();
+const ids = new Set(exam ? exam.items : []);
+const timeline = exam ? all.filter((x) => ids.has(x.id)).sort((a, b) => dateKey(a).localeCompare(dateKey(b))) : [];
+const related = all.filter((x) => x.id !== item.id && !ids.has(x.id) && x.source === item.source).slice(0, 8);
+const sameType = all.filter((x) => x.id !== item.id && x.type === item.type && x.source !== item.source).slice(0, 8);
+const left = item.type === 'job' ? daysLeft(item.last_date) : null;
+const title = displayTitle(item);
+const published = item.list_date || item.first_seen.slice(0, 10);
+const dateLabel = item.list_date ? 'Date on official website' : 'Found on ResultDosti';
+const host = link.label;
+const isPdf = item.is_doc && /\.pdf(\?|$)/i.test(item.url);
+const btn = !link.deep ? 'Visit official website' : isPdf ? 'Open official notice (PDF)' : 'Open official page';
+const rows: [string, string][] = [];
+rows.push(['Organisation', item.org]);
+if (item.advt) rows.push(['Advertisement No.', item.advt]);
+rows.push([dateLabel, fmt(published)]);
+if (f.start_date) rows.push(['Application start', fmt(String(f.start_date.value))]);
+if (f.last_date) rows.push(['Last date to apply', fmt(String(f.last_date.value))]);
+if (f.exam_date) rows.push(['Exam date', fmt(String(f.exam_date.value))]);
+if (f.posts) rows.push(['Total posts', String(f.posts.value)]);
+if (f.fee) rows.push(['Application fee', feeText(f.fee)]);
+if (f.age) rows.push(['Age limit', ageText(f.age)]);
+rows.push(['Region', scopeName(item.scope).name]);
+rows.push(['Official website', host]);
+const extracted = ['start_date', 'last_date', 'exam_date', 'posts', 'fee', 'age'].some((k) => f[k]);
+
+const crumbs = [{ name: 'Home', url: '/' }, { name: T.list, url: `/${T.path}/` }, ...(exam ? [{ name: exam.name, url: examPath(exam) }] : []), { name: title }];
+const schema: object[] = [];
+const jt = jobTitle(item);
+const jobOn = item.type === 'job' && item.status === 'open' && !!f.last_date && !!jt && (left ?? -1) >= 0 && site.jobPostingMode !== 'off' && isIndexable(item);
+if (jobOn) {
+  const facts = rows.filter(([k]) => !['Official website', 'Region'].includes(k)).map(([k, v]) => `<li>${k}: ${v.replace(/[<>&]/g, '')}</li>`).join('');
+  const job: Record<string, unknown> = {
+    '@context': 'https://schema.org',
+    '@type': 'JobPosting',
+    title: jt,
+    description: `<p>${lead(item, f).replace(/[<>&]/g, '')}</p><ul>${facts}</ul><p>Read the official notification on ${host} for complete eligibility, selection process and application details.</p>`,
+    datePosted: published,
+    hiringOrganization: { '@type': 'Organization', name: item.org, sameAs: item.official_home },
+    jobLocation: { '@type': 'Place', address: { '@type': 'PostalAddress', addressRegion: item.scope === 'central' || item.scope === 'delhi' ? (item.scope === 'delhi' ? 'Delhi' : 'India') : scopeName(item.scope).name, addressCountry: 'IN' } },
+    directApply: false
+  };
+  if (f.last_date) job.validThrough = `${f.last_date.value}T23:59:00+05:30`;
+  if (f.posts) job.totalJobOpenings = f.posts.value;
+  if (item.scope === 'central') job.applicantLocationRequirements = { '@type': 'Country', name: 'India' };
+  schema.push(job);
+}
+---
+<Base title={title} description={metaDesc(item, f)} schema={schema} type="article" crumbs={crumbs} noindex={!isIndexable(item)}>
+  <div class="wrap">
+    <Crumbs items={crumbs} />
+    <div class="page-grid">
+      <article data-pagefind-body>
+        <header class="post-head card">
+          <div class="post-meta" data-pagefind-ignore>
+            <span class="chip type" style={`--tc:${T.color}`} data-pagefind-filter="Type">{T.short}</span>
+            <a class="chip org" href={`/org/${item.source}/`}>{item.short}</a>
+            <span class="chip">{scopeName(item.scope).name}</span>
+            {item.type === 'job' && item.status === 'open' && <span class="chip open">Apply open</span>}
+            {item.type === 'job' && item.status === 'closed' && <span class="chip closed">Closed</span>}
+          </div>
+          <h1>{title}</h1>
+          <p class="fine" data-pagefind-ignore>{item.list_date ? `Dated ${fmt(item.list_date)} on the official website · ` : ''}Found on ResultDosti {fmt(item.first_seen)}</p>
+          <p class="lead">{lead(item, f)}</p>
+          <div class="cta-row">
+            <a class="btn btn-main" href={link.href} target="_blank" rel="noopener nofollow">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M14 4h6v6"/><path d="M20 4l-9 9"/><path d="M18 14v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h5"/></svg>
+              {btn}
+            </a>
+            {exam && timeline.length > 1 && <a class="btn btn-line" href={examPath(exam)}>All updates of this exam</a>}
+          </div>
+          <p class="fine">{link.deep ? `The button opens ${host}, the official website of ${item.org}.` : `${host} allows linking to its home page only. Find this notice in the latest updates section after opening it.`}</p>
+        </header>
+
+        {left !== null && left >= 0 && item.status === 'open' && (
+          <div class={`countdown ${left > 7 ? 'ok' : ''}`} role="status">
+            <span class="big">{left}</span>
+            <span class="lbl">{left === 0 ? 'Last day today' : left === 1 ? 'day left to apply' : 'days left to apply'}<small>Last date {fmt(item.last_date)}, as read from the official notification</small></span>
+          </div>
+        )}
+        {item.type === 'job' && item.status === 'closed' && (
+          <div class="countdown closed" role="status"><span class="lbl">Application closed on {fmt(item.last_date)}<small>Watch this exam page for the admit card, answer key and result.</small></span></div>
+        )}
+
+        <section class="card" aria-labelledby="dt">
+          <h2 id="dt">Important details</h2>
+          <table class="kv">
+            <tbody>
+              {rows.map(([k, v]) => <tr><th scope="row">{k}</th><td>{v}</td></tr>)}
+            </tbody>
+          </table>
+          <p class="fine">{extracted ? 'Dates, fee and age shown here were read automatically from the official notification and passed basic consistency checks. Always confirm them in the notification; if anything differs, the notification is correct.' : 'Full dates, fee and eligibility are given in the official notice. Open it with the button above before applying.'}</p>
+        </section>
+
+        <AdSlot name="afterInfo" />
+
+        <section class="card" aria-labelledby="hw">
+          <h2 id="hw">{item.type === 'job' ? 'How to apply' : item.type === 'admit' ? 'How to download the admit card' : item.type === 'result' ? 'How to check the result' : item.type === 'answer' ? 'How to check the answer key' : 'How to read this notice'}</h2>
+          <ol class="steps">{steps(item, link.deep, host).map((s) => <li>{s}</li>)}</ol>
+        </section>
+
+        {timeline.length > 1 && exam && (
+          <section class="card" aria-labelledby="tl">
+            <h2 id="tl">{exam.name}: all updates</h2>
+            <ol class="timeline">
+              {timeline.map((x) => (
+                <li class={x.id === item.id ? 'here' : ''} style={`--tc:${TYPES[x.type].color}`}>
+                  {x.id === item.id ? <strong>{displayTitle(x)}</strong> : <a href={itemPath(x)}>{displayTitle(x)}</a>}
+                  <span class="m"><span>{TYPES[x.type].short}</span><span>{fmt(dateKey(x))}</span></span>
+                </li>
+              ))}
+            </ol>
+          </section>
+        )}
+
+        <div class="note">
+          <strong>Note:</strong> ResultDosti is not a government website. This page is based on the notice published at {host}. Never pay anyone for a job or result. Apply and pay fees only on the official website.
+        </div>
+
+        <AdSlot name="beforeRelated" />
+
+        {related.length > 0 && (
+          <section class="panel" style="--pc:var(--brand);margin-top:16px" aria-labelledby="rl">
+            <div class="panel-head"><h2 id="rl">More from {item.short}</h2><a href={`/org/${item.source}/`}>View all</a></div>
+            <ul>{related.map((x) => <ItemRow item={x} showType />)}</ul>
+          </section>
+        )}
+      </article>
+      <Side title={T.list.startsWith('Latest') ? T.list : `Latest ${T.list}`} list={sameType} more={`/${T.path}/`} />
+    </div>
+  </div>
+</Base>

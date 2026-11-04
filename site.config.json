@@ -1,0 +1,39 @@
+{
+  "name": "ResultDosti",
+  "domain": "resultdosti.in",
+  "url": "https://resultdosti.in",
+  "tagline": "Sarkari Result, Latest Govt Jobs, Admit Card and Answer Key",
+  "taglineHi": "सरकारी रिजल्ट, नई सरकारी नौकरी, एडमिट कार्ड और आंसर की",
+  "email": "contact@resultdosti.in",
+  "telegram": "",
+  "whatsapp": "",
+  "jobPostingMode": "all",
+  "paths": {
+    "job": "job",
+    "admit": "admit-card",
+    "result": "result",
+    "answer": "answer-key",
+    "syllabus": "syllabus",
+    "admission": "admission",
+    "notice": "notice"
+  },
+  "scopes": {
+    "central": {
+      "name": "Central Govt",
+      "nameHi": "केंद्र सरकार"
+    },
+    "up": {
+      "name": "Uttar Pradesh",
+      "nameHi": "उत्तर प्रदेश"
+    },
+    "bihar": {
+      "name": "Bihar",
+      "nameHi": "बिहार"
+    },
+    "delhi": {
+      "name": "Delhi",
+      "nameHi": "दिल्ली"
+    }
+  },
+  "indexNowKey": "a2800244457288b546e885c4a56ec1fa"
+}

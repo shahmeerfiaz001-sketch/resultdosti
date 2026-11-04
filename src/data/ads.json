@@ -1,0 +1,48 @@
+{
+  "enabled": false,
+  "adsenseClient": "",
+  "autoAds": false,
+  "slots": {
+    "header": {
+      "enabled": true,
+      "adsenseSlot": "",
+      "html": ""
+    },
+    "home1": {
+      "enabled": true,
+      "adsenseSlot": "",
+      "html": ""
+    },
+    "home2": {
+      "enabled": true,
+      "adsenseSlot": "",
+      "html": ""
+    },
+    "list": {
+      "enabled": true,
+      "adsenseSlot": "",
+      "html": ""
+    },
+    "afterInfo": {
+      "enabled": true,
+      "adsenseSlot": "",
+      "html": ""
+    },
+    "inContent": {
+      "enabled": true,
+      "adsenseSlot": "",
+      "html": ""
+    },
+    "sidebar": {
+      "enabled": true,
+      "adsenseSlot": "",
+      "html": ""
+    },
+    "beforeRelated": {
+      "enabled": true,
+      "adsenseSlot": "",
+      "html": ""
+    }
+  },
+  "adsTxt": ""
+}

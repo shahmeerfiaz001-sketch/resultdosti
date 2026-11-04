@@ -1,0 +1,28 @@
+---
+import ItemRow from './ItemRow.astro';
+import { scopeName, type Item } from '../lib/data';
+interface Props { items: Item[]; showType?: boolean; empty?: string; filter?: boolean; }
+const { items, showType = false, empty = 'No updates here yet. New updates are added automatically through the day.', filter = true } = Astro.props;
+const scopes = [...new Set(items.map((i) => i.scope))];
+---
+{filter && scopes.length > 1 && (
+  <div class="list-filters" role="group" aria-label="Filter by region">
+    <button type="button" aria-pressed="true" data-f="all">All</button>
+    {scopes.map((s) => <button type="button" aria-pressed="false" data-f={s}>{scopeName(s).name}</button>)}
+  </div>
+)}
+<section class="panel" style="--pc:var(--brand)">
+  {items.length ? <ul class="flist">{items.map((i) => <ItemRow item={i} showType={showType} />)}</ul> : <p class="empty">{empty}</p>}
+</section>
+<script>
+  document.querySelectorAll('.list-filters').forEach((g) => {
+    const list = g.nextElementSibling?.querySelector('.flist');
+    g.addEventListener('click', (e) => {
+      const b = (e.target as HTMLElement).closest('button');
+      if (!b || !list) return;
+      g.querySelectorAll('button').forEach((x) => x.setAttribute('aria-pressed', String(x === b)));
+      const f = b.dataset.f;
+      list.querySelectorAll('li').forEach((li) => li.classList.toggle('hidden', f !== 'all' && (li as HTMLElement).dataset.scope !== f));
+    });
+  });
+</script>

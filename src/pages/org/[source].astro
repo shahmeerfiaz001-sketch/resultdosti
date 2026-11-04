@@ -1,0 +1,38 @@
+---
+import Base from '../../layouts/Base.astro';
+import Crumbs from '../../components/Crumbs.astro';
+import FilterList from '../../components/FilterList.astro';
+import AdSlot from '../../components/AdSlot.astro';
+import sources from '../../../bot/config/sources.json';
+import { live, liveExams, examPath, fmt, scopeName } from '../../lib/data';
+
+export function getStaticPaths() {
+  const list = ((sources as any).sources ?? sources) as any[];
+  const has = new Set(live().map((i) => i.source));
+  return list.filter((s) => has.has(s.id)).map((s) => ({ params: { source: s.id }, props: { s, dup: list.filter((x) => x.short === s.short).length > 1 } }));
+}
+const { s, dup } = Astro.props as { s: { id: string; name: string; short: string; scope: string; base: string }; dup: boolean };
+const label = dup ? s.name : s.short;
+const items = live().filter((i) => i.source === s.id).slice(0, 250);
+const exams = liveExams().filter((e) => e.source === s.id).slice(0, 30);
+const year = new Date().getFullYear();
+const host = new URL(s.base).hostname.replace(/^www\./, '');
+const c = [{ name: 'Home', url: '/' }, { name: scopeName(s.scope).name, url: `/state/${s.scope}/` }, { name: s.short }];
+---
+<Base title={`${label} Recruitment ${year}: Notification, Admit Card, Result`} description={`Latest ${s.name} (${s.short}) updates: recruitment notices, admit cards, answer keys and results with official links from ${host}.`} crumbs={c}>
+  <div class="wrap">
+    <Crumbs items={c} />
+    <div class="list-head">
+      <h1>{label} Recruitment {year}: Latest Updates</h1>
+      <p>All updates published by {s.name} on its official website <a href={s.base} target="_blank" rel="noopener nofollow">{host}</a>, collected in one list.</p>
+    </div>
+    {exams.length > 0 && (
+      <section class="card">
+        <h2>{s.short} exams</h2>
+        <div class="grid-cards">{exams.map((e) => <a href={examPath(e)}><strong>{e.name}</strong><span>{e.items.length} updates · {fmt(e.latest)}</span></a>)}</div>
+      </section>
+    )}
+    <AdSlot name="list" />
+    <FilterList items={items} showType filter={false} />
+  </div>
+</Base>

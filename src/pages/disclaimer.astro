@@ -1,0 +1,11 @@
+---
+import Page from '../layouts/Page.astro';
+import site from '../../site.config.json';
+---
+<Page title="Disclaimer" description="ResultDosti is an independent information website and not a government website." updated="4 November 2026">
+  <p><strong>ResultDosti is not a government website.</strong> It is an independent website that lists updates published on the official websites of government recruitment bodies in India. It is not affiliated with, endorsed by or connected to any government department, commission, board or any other job website.</p>
+  <p>All information comes from official websites and notifications, and each page links to its source. Dates, fees, age limits and other details can change, and errors are possible. Always read the official notification and confirm on the official website before applying or paying any fee.</p>
+  <p>ResultDosti does not conduct any exam, accept applications or collect fees. If anyone asks you for money in the name of ResultDosti or promises a government job, it is a fraud.</p>
+  <p>Exam and organisation names belong to their respective owners and are used only to describe their published updates.</p>
+  <p>For corrections, email <a href={`mailto:${site.email}`}>{site.email}</a>.</p>
+</Page>

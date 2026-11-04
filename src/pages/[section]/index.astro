@@ -1,0 +1,47 @@
+---
+import Base from '../../layouts/Base.astro';
+import Crumbs from '../../components/Crumbs.astro';
+import FilterList from '../../components/FilterList.astro';
+import AdSlot from '../../components/AdSlot.astro';
+import { live, TYPES } from '../../lib/data';
+
+export function getStaticPaths() {
+  return Object.entries(TYPES).map(([type, t]) => ({ params: { section: t.path }, props: { type } }));
+}
+const { type } = Astro.props as { type: string };
+const T = TYPES[type];
+const year = new Date().getFullYear();
+let items = live().filter((i) => i.type === type);
+if (type === 'job') items = [...items.filter((i) => i.status !== 'closed'), ...items.filter((i) => i.status === 'closed')];
+items = items.slice(0, 250);
+const intro: Record<string, string> = {
+  job: 'Latest government job notifications from central recruitment bodies, Uttar Pradesh and Bihar. Open forms are shown first, with the last date and days left where the official notice gives them.',
+  admit: 'Latest admit cards and hall tickets released on official websites. Open a page to see how to download and the official link.',
+  result: 'Latest Sarkari Result updates: exam results, merit lists, cut off and final selection lists, from official websites.',
+  answer: 'Latest answer keys, provisional and final, with links to the official notice and objection details.',
+  syllabus: 'Official syllabus and exam pattern notices for government recruitment exams.',
+  admission: 'Admission notices and entrance forms from official education boards and bodies.',
+  notice: 'Important notices such as exam dates, physical test schedules, interviews and document verification.'
+};
+const titles: Record<string, string> = {
+  job: `Latest Govt Jobs ${year}: Sarkari Naukri Notifications`,
+  admit: `Admit Card ${year}: Latest Hall Ticket Download`,
+  result: `Sarkari Result ${year}: Latest Exam Results`,
+  answer: `Answer Key ${year}: Latest Official Answer Keys`,
+  syllabus: `Syllabus ${year}: Govt Exam Syllabus and Pattern`,
+  admission: `Admission ${year}: Latest Admission Forms`,
+  notice: `Important Notices ${year}: Exam Dates and Schedules`
+};
+---
+<Base title={titles[type]} description={`${intro[type]} Updated through the day on ResultDosti.`} crumbs={[{ name: 'Home', url: '/' }, { name: T.list }]}>
+  <div class="wrap">
+    <Crumbs items={[{ name: 'Home', url: '/' }, { name: T.list }]} />
+    <div class="list-head">
+      <h1>{titles[type]}</h1>
+      <p lang="hi" class="hi">{T.listHi}</p>
+      <p>{intro[type]}</p>
+    </div>
+    <AdSlot name="list" />
+    <FilterList items={items} />
+  </div>
+</Base>

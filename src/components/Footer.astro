@@ -1,0 +1,38 @@
+---
+import site from '../../site.config.json';
+const year = new Date().getFullYear();
+---
+<footer class="foot">
+  <div class="wrap">
+    <div class="foot-grid">
+      <div>
+        <h2>{site.name}</h2>
+        <p>Sarkari Result, latest government jobs, admit cards, answer keys and results from official sources, updated through the day.</p>
+        <p lang="hi">सभी जानकारी आधिकारिक वेबसाइटों से ली जाती है। आवेदन से पहले आधिकारिक नोटिफिकेशन ज़रूर पढ़ें।</p>
+      </div>
+      <nav aria-label="Sections">
+        <h2>Sections</h2>
+        <ul>
+          <li><a href={`/${site.paths.job}/`}>Latest Jobs</a></li>
+          <li><a href={`/${site.paths.admit}/`}>Admit Card</a></li>
+          <li><a href={`/${site.paths.result}/`}>Sarkari Result</a></li>
+          <li><a href={`/${site.paths.answer}/`}>Answer Key</a></li>
+          <li><a href="/exam/">All Exams</a></li>
+          <li><a href="/meri-naukri/">Meri Naukri</a></li>
+        </ul>
+      </nav>
+      <nav aria-label="About">
+        <h2>About</h2>
+        <ul>
+          <li><a href="/about/">About us</a></li>
+          <li><a href="/how-we-verify/">How we verify</a></li>
+          <li><a href="/contact/">Contact</a></li>
+          <li><a href="/privacy-policy/">Privacy Policy</a></li>
+          <li><a href="/terms/">Terms of Use</a></li>
+          <li><a href="/disclaimer/">Disclaimer</a></li>
+        </ul>
+      </nav>
+    </div>
+    <p class="legal">© {year} {site.name}. ResultDosti is an independent information website. It is not a government website and is not linked to any government department, recruitment board or other job portal. Always confirm details on the official website before applying or paying any fee.</p>
+  </div>
+</footer>

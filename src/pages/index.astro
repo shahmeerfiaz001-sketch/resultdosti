@@ -1,0 +1,95 @@
+---
+import Base from '../layouts/Base.astro';
+import ItemRow from '../components/ItemRow.astro';
+import AdSlot from '../components/AdSlot.astro';
+import site from '../../site.config.json';
+import { load, live, liveExams, TYPES, fmt, examPath, scopeName } from '../lib/data';
+
+const { updated } = load();
+const items = live();
+const exams = liveExams();
+const year = new Date().getFullYear();
+const of = (t: string, n = 15) => items.filter((i) => i.type === t).slice(0, n);
+const closing = items
+  .filter((i) => i.type === 'job' && i.status === 'open' && i.last_date)
+  .sort((a, b) => (a.last_date as string).localeCompare(b.last_date as string))
+  .slice(0, 15);
+const other = items.filter((i) => ['notice', 'syllabus', 'admission'].includes(i.type)).slice(0, 15);
+const scopes = ['central', 'up', 'bihar'].map((s) => ({ s, n: items.filter((i) => i.scope === s).length, ...scopeName(s) }));
+const panels = [
+  { key: 'result', list: of('result'), title: 'Sarkari Result', hi: 'रिजल्ट', color: 'var(--c-result)', href: `/${TYPES.result.path}/` },
+  { key: 'admit', list: of('admit'), title: 'Admit Card', hi: 'एडमिट कार्ड', color: 'var(--c-admit)', href: `/${TYPES.admit.path}/` },
+  { key: 'job', list: of('job'), title: 'Latest Jobs', hi: 'नई भर्ती', color: 'var(--c-job)', href: `/${TYPES.job.path}/` }
+];
+const panels2 = [
+  { key: 'answer', list: of('answer'), title: 'Answer Key', hi: 'आंसर की', color: 'var(--c-answer)', href: `/${TYPES.answer.path}/` },
+  { key: 'closing', list: closing, title: 'Last Date Soon', hi: 'अंतिम तिथि', color: 'var(--urgent)', href: `/${TYPES.job.path}/` },
+  { key: 'other', list: other, title: 'Notices & Syllabus', hi: 'सूचना', color: 'var(--c-notice)', href: `/${TYPES.notice.path}/` }
+];
+const faq = [
+  { q: 'What is Sarkari Result?', a: '"Sarkari Result" is the common name people use for results, admit cards and job notices of government recruitment exams in India. ResultDosti collects these updates from official websites in one place.' },
+  { q: 'Is ResultDosti an official government website?', a: 'No. ResultDosti is an independent information website. Every page links to the official website or notice, and you should always confirm details there before applying or paying a fee.' },
+  { q: 'How often is ResultDosti updated?', a: 'Official websites are checked automatically through the day, roughly every two hours. Each page shows when it was found and updated.' },
+  { q: 'ResultDosti पर जानकारी कहाँ से आती है?', a: 'सारी जानकारी सीधे आयोगों और भर्ती बोर्ड की आधिकारिक वेबसाइटों से ली जाती है। हर पेज पर आधिकारिक लिंक दिया गया है।' }
+];
+const schema = [{ '@context': 'https://schema.org', '@type': 'FAQPage', mainEntity: faq.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })) }];
+---
+<Base title={`Sarkari Result ${year}: Latest Govt Jobs, Admit Card, Result, Answer Key | ${site.name}`} fullTitle description={`Sarkari Result ${year} on ResultDosti: latest government jobs, admit cards, results and answer keys for SSC, UPSC, Railway, Bank, UP and Bihar exams, from official websites.`} schema={schema}>
+  <div class="wrap">
+    <section class="hero">
+      <h1>Sarkari Result {year}: Latest Jobs, Admit Card, Result</h1>
+      <p>Government job notices, admit cards, results and answer keys from official websites, for Central, UP and Bihar exams.</p>
+      <p class="hi" lang="hi">सरकारी नौकरी, एडमिट कार्ड, रिजल्ट और आंसर की, सीधे आधिकारिक वेबसाइटों से।</p>
+      {updated && <span class="updated"><span class="dot"></span>Updated {fmt(updated)} · {items.length} updates tracked</span>}
+      <nav class="scope-bar" aria-label="By state">
+        {scopes.map((s) => <a href={`/state/${s.s}/`}>{s.name} <span>{s.n}</span></a>)}
+      </nav>
+      <div class="dost-cta">
+        <div><strong>Meri Naukri: open jobs that fit you</strong><span>Enter your age and state, see open forms with days left.</span></div>
+        <a href="/meri-naukri/">Check now</a>
+      </div>
+    </section>
+
+    <div class="board">
+      {panels.map((p) => (
+        <section class="panel" style={`--pc:${p.color}`} aria-labelledby={`p-${p.key}`}>
+          <div class="panel-head"><h2 id={`p-${p.key}`}>{p.title}<small lang="hi">{p.hi}</small></h2><a href={p.href}>View all</a></div>
+          {p.list.length ? <ul>{p.list.map((i) => <ItemRow item={i} />)}</ul> : <p class="empty">New updates will appear here as soon as they are published.</p>}
+        </section>
+      ))}
+    </div>
+
+    <AdSlot name="home1" />
+
+    <div class="board">
+      {panels2.map((p) => (
+        <section class="panel" style={`--pc:${p.color}`} aria-labelledby={`p-${p.key}`}>
+          <div class="panel-head"><h2 id={`p-${p.key}`}>{p.title}<small lang="hi">{p.hi}</small></h2><a href={p.href}>View all</a></div>
+          {p.list.length ? <ul>{p.list.map((i) => <ItemRow item={i} showType={p.key === 'other'} />)}</ul> : <p class="empty">Nothing here right now.</p>}
+        </section>
+      ))}
+    </div>
+
+    {exams.length > 0 && (
+      <section class="panel" style="--pc:var(--brand);margin:18px 0" aria-labelledby="p-exams">
+        <div class="panel-head"><h2 id="p-exams">Exams with recent updates<small lang="hi">परीक्षा</small></h2><a href="/exam/">All exams</a></div>
+        <ul>
+          {exams.slice(0, 15).map((e) => (
+            <li><a class="row" href={examPath(e)}><span class="t">{e.name}</span><span class="m"><span>{e.short}</span><span>{e.items.length} updates</span><span>Latest {fmt(e.latest)}</span></span></a></li>
+          ))}
+        </ul>
+      </section>
+    )}
+
+    <AdSlot name="home2" />
+
+    <section class="card prose" aria-labelledby="about-h">
+      <h2 id="about-h">About ResultDosti</h2>
+      <p>ResultDosti tracks the official websites of recruitment commissions and boards, including UPSC, SSC, Railway Recruitment Boards, IBPS, SBI, NTA, UPSSSC, UPPSC, BPSC, BSSC and CSBC Bihar. When a new job notice, admit card, answer key or result appears, it is listed here with the date, the official link and, where the official PDF can be read reliably, the key dates, fee and age limit.</p>
+      <p>Dates, fee and age limits are read automatically from official notifications and shown only when they pass basic consistency checks. When they cannot be read, the page points you to the official notice instead. Read <a href="/how-we-verify/">how updates are collected and checked</a>.</p>
+      <div class="faq">
+        {faq.map((f) => <details><summary>{f.q}</summary><div class="a">{f.a}</div></details>)}
+      </div>
+    </section>
+  </div>
+</Base>

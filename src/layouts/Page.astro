@@ -1,0 +1,17 @@
+---
+import Base from './Base.astro';
+import Crumbs from '../components/Crumbs.astro';
+interface Props { title: string; description: string; updated?: string; }
+const { title, description, updated } = Astro.props;
+const c = [{ name: 'Home', url: '/' }, { name: title }];
+---
+<Base title={title} description={description} crumbs={c}>
+  <div class="wrap">
+    <Crumbs items={c} />
+    <article class="card prose page-text">
+      <h1>{title}</h1>
+      {updated && <p class="fine">Last updated: {updated}</p>}
+      <slot />
+    </article>
+  </div>
+</Base>

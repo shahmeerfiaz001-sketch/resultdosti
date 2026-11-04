@@ -1,0 +1,22 @@
+---
+import site from '../../site.config.json';
+import AdSlot from './AdSlot.astro';
+import ItemRow from './ItemRow.astro';
+import type { Item } from '../lib/data';
+interface Props { title: string; list: Item[]; more: string; }
+const { title, list, more } = Astro.props;
+---
+<aside class="side">
+  <div class="dost-cta side-cta">
+    <div><strong>Meri Naukri</strong><span>See open forms that match your age and state.</span></div>
+    <a href="/meri-naukri/">Check</a>
+  </div>
+  {site.telegram && <a class="btn btn-line side-tg" href={site.telegram} target="_blank" rel="noopener">Get updates on Telegram</a>}
+  <AdSlot name="sidebar" />
+  {list.length > 0 && (
+    <section class="panel" style="--pc:var(--sun)">
+      <div class="panel-head"><h2>{title}</h2><a href={more}>All</a></div>
+      <ul>{list.map((x) => <ItemRow item={x} />)}</ul>
+    </section>
+  )}
+</aside>

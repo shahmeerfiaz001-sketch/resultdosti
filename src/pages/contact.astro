@@ -1,0 +1,10 @@
+---
+import Page from '../layouts/Page.astro';
+import site from '../../site.config.json';
+---
+<Page title="Contact Us" description="Contact ResultDosti for corrections, feedback or content concerns.">
+  <p>For corrections, feedback, advertising or content concerns, email <a href={`mailto:${site.email}`}>{site.email}</a>.</p>
+  <p>When reporting an error, please include the page link and the official notice that shows the correct detail. We usually reply within two working days.</p>
+  <p><strong>Please note:</strong> we cannot help with application status, fee refunds, admit card login problems or results. These are handled only by the body that conducts the exam. Use the contact details given on its official website.</p>
+  <p>For copyright concerns, see our <a href="/dmca/">DMCA and content policy</a>.</p>
+</Page>

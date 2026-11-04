@@ -1,0 +1,47 @@
+---
+import Base from '../../layouts/Base.astro';
+import Crumbs from '../../components/Crumbs.astro';
+import ItemRow from '../../components/ItemRow.astro';
+import AdSlot from '../../components/AdSlot.astro';
+import site from '../../../site.config.json';
+import sources from '../../../bot/config/sources.json';
+import { live, TYPES } from '../../lib/data';
+
+export function getStaticPaths() {
+  return Object.keys(site.scopes).map((scope) => ({ params: { scope } }));
+}
+const { scope } = Astro.params as { scope: string };
+const sc = (site.scopes as any)[scope];
+const items = live().filter((i) => i.scope === scope);
+const year = new Date().getFullYear();
+const list = ((sources as any).sources ?? sources) as any[];
+const has = new Set(live().map((i) => i.source));
+const orgs = list.filter((s) => s.scope === scope);
+const orgLinks = orgs.filter((s) => has.has(s.id));
+const groups = ['job', 'admit', 'result', 'answer', 'notice'].map((t) => ({ t, list: items.filter((i) => i.type === t || (t === 'notice' && (i.type === 'syllabus' || i.type === 'admission'))).slice(0, 20) }));
+const label = scope === 'central' ? 'Central Govt Jobs' : `${sc.name} Govt Jobs`;
+const c = [{ name: 'Home', url: '/' }, { name: sc.name }];
+---
+<Base title={`${label} ${year}: ${sc.name} Sarkari Result, Admit Card`} description={`Latest ${sc.name} government jobs, admit cards, results and answer keys from ${orgs.map((o) => o.short).slice(0, 8).join(', ')} and more, with official links.`} crumbs={c}>
+  <div class="wrap">
+    <Crumbs items={c} />
+    <div class="list-head">
+      <h1>{label} {year}: Latest Updates</h1>
+      <p lang="hi" class="hi">{sc.nameHi} सरकारी नौकरी, रिजल्ट और एडमिट कार्ड</p>
+      <p>Updates from {orgs.length} official {scope === 'central' ? 'central recruitment bodies' : `${sc.name} recruitment bodies and boards`}, checked through the day.</p>
+    </div>
+    <div class="board">
+      {groups.map((g) => (
+        <section class="panel" style={`--pc:${TYPES[g.t].color}`}>
+          <div class="panel-head"><h2>{TYPES[g.t].list}</h2><a href={`/${TYPES[g.t].path}/`}>All</a></div>
+          {g.list.length ? <ul>{g.list.map((i) => <ItemRow item={i} />)}</ul> : <p class="empty">Nothing here right now.</p>}
+        </section>
+      ))}
+    </div>
+    <AdSlot name="list" />
+    {orgLinks.length > 0 && <section class="card">
+      <h2>Organisations</h2>
+      <div class="grid-cards">{orgLinks.map((o) => <a href={`/org/${o.id}/`}><strong>{o.short}</strong><span>{o.name}</span></a>)}</div>
+    </section>}
+  </div>
+</Base>
