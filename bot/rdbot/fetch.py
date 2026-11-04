@@ -1,3 +1,4 @@
+import ssl
 import time
 import urllib.robotparser
 from urllib.parse import urlparse
@@ -15,7 +16,32 @@ HEADERS = {
 }
 
 _session = None
+_legacy = None
 _robots = {}
+
+
+class _LegacyAdapter(requests.adapters.HTTPAdapter):
+    def init_poolmanager(self, *a, **kw):
+        ctx = ssl.create_default_context()
+        ctx.check_hostname = False
+        ctx.verify_mode = ssl.CERT_NONE
+        ctx.options |= getattr(ssl, "OP_LEGACY_SERVER_CONNECT", 0x4)
+        try:
+            ctx.set_ciphers("DEFAULT@SECLEVEL=0")
+        except ssl.SSLError:
+            pass
+        ctx.minimum_version = ssl.TLSVersion.TLSv1
+        kw["ssl_context"] = ctx
+        return super().init_poolmanager(*a, **kw)
+
+
+def legacy_session():
+    global _legacy
+    if _legacy is None:
+        _legacy = requests.Session()
+        _legacy.headers.update(HEADERS)
+        _legacy.mount("https://", _LegacyAdapter())
+    return _legacy
 
 
 def session():
@@ -29,10 +55,13 @@ def session():
 def get(url, timeout=(10, 25), retries=1, binary=False):
     last = None
     for attempt in range(retries + 1):
-        for verify in (True, False):
+        for verify in (True, False, "legacy"):
             try:
                 t0 = time.time()
-                r = session().get(url, timeout=timeout, verify=verify, allow_redirects=True)
+                if verify == "legacy":
+                    r = legacy_session().get(url, timeout=timeout, verify=False, allow_redirects=True)
+                else:
+                    r = session().get(url, timeout=timeout, verify=verify, allow_redirects=True)
                 return {
                     "ok": r.status_code < 400,
                     "status": r.status_code,
@@ -41,7 +70,7 @@ def get(url, timeout=(10, 25), retries=1, binary=False):
                     "content": r.content if binary else None,
                     "text": None if binary else _decode(r),
                     "ctype": r.headers.get("content-type", ""),
-                    "tls_insecure": not verify,
+                    "tls_insecure": verify is not True,
                     "error": None if r.status_code < 400 else f"HTTP {r.status_code}",
                 }
             except requests.exceptions.SSLError as e:
