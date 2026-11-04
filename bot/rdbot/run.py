@@ -7,6 +7,7 @@ import time
 from datetime import date, datetime, timedelta, timezone
 
 from . import fetch, notify
+from .adapters import ADAPTERS
 from .extract import extract
 from .group import build_groups
 from .pdfparse import parse_pdf_url
@@ -26,6 +27,8 @@ def site_url(item):
 
 
 def fetch_list(src, lst):
+    if src.get("api") in ADAPTERS:
+        return ADAPTERS[src["api"]]()
     url = lst["url"]
     allowed, _ = fetch.robots_allowed(url)
     if not allowed:

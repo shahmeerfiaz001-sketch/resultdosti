@@ -71,3 +71,13 @@ def test_corrupt_items_fails(tmpdata):
     (tmpdata / "items.json").write_text("<<<<<<< HEAD")
     with pytest.raises(Exception):
         store.load_items()
+
+
+def test_ssc_adapter():
+    import json as _j
+    from rdbot.adapters import ssc_items
+    payload = _j.load(open(os.path.join(os.path.dirname(__file__), "fixtures", "ssc_notices.json"), encoding="utf-8"))
+    items = ssc_items(payload)
+    assert items and all(i["url"].startswith("https://ssc.gov.in/home/notice-board?notice=") for i in items)
+    cgl = [i for i in items if "Combined Graduate Level" in i["title"]][0]
+    assert cgl["type"] == "answer" and cgl["list_date"] == "2026-11-04"

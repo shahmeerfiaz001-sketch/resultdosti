@@ -5,6 +5,7 @@ import time
 from datetime import date
 
 from . import fetch
+from .adapters import ADAPTERS
 from .extract import extract, discover_lists, page_title
 from .store import ROOT, DATA, save_json, now_iso
 
@@ -23,9 +24,14 @@ def probe_source(src, use_browser=True):
         url = lst["url"]
         allowed, rob = fetch.robots_allowed(url)
         out["robots"] = {"status": rob["status"], "allowed": allowed, "snippet": rob["body"][:400]}
-        res = fetch.get(url)
-        via = "requests"
-        items = extract(res["text"], res["url"], lst.get("hint", "")) if res["ok"] else []
+        if src.get("api") in ADAPTERS:
+            a = ADAPTERS[src["api"]]()
+            res = {"url": url, "ok": a["ok"], "status": a["status"], "error": a["error"], "text": "", "ms": 0, "tls_insecure": False}
+            items, via = a["items"], "api"
+        else:
+            res = fetch.get(url)
+            via = "requests"
+            items = extract(res["text"], res["url"], lst.get("hint", "")) if res["ok"] else []
         if (not res["ok"] or len(items) == 0) and use_browser and src.get("browser"):
             b = fetch.browser_get(url)
             if b["ok"]:
