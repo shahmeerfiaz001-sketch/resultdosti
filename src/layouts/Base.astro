@@ -22,7 +22,7 @@ interface Props {
 const { title, description, schema = [], noindex = false, type = 'website', fullTitle = false, crumbs = [], lang = 'en' } = Astro.props;
 const canonical = site.url + Astro.url.pathname;
 const cut = (t: string, n: number) => (t.length <= n ? t : t.slice(0, t.lastIndexOf(' ', n - 1) > n * 0.6 ? t.lastIndexOf(' ', n - 1) : n - 1).replace(/[\s,:;\-–(]+$/, '') + '…');
-const pageTitle = fullTitle ? title : `${cut(title, 60 - site.name.length - 3)} | ${site.name}`;
+const pageTitle = fullTitle ? title : `${cut(title, 80 - site.name.length - 3)} | ${site.name}`;
 const metaDesc = cut(description, 158);
 const org = { '@context': 'https://schema.org', '@type': 'Organization', name: site.name, url: site.url + '/', logo: site.url + '/logo.png' };
 const web = { '@context': 'https://schema.org', '@type': 'WebSite', name: site.name, url: site.url + '/', potentialAction: { '@type': 'SearchAction', target: site.url + '/search/?q={search_term_string}', 'query-input': 'required name=search_term_string' } };

@@ -1,4 +1,4 @@
-import { fmt, scopeName, type Item, type Field } from './data';
+import { fmt, scopeName, live, dateKey, type Item, type Field } from './data';
 
 const one = (f?: Field) => (f && f.value !== undefined ? String(f.value) : '');
 
@@ -92,6 +92,56 @@ export function seoTitle(i: Item, examName?: string): string {
     const t = `${base} ${kind} ${year}`;
     if (t.length <= 52) return t;
   }
-  const d = i.title.toLowerCase().includes(i.short.toLowerCase()) ? i.title : `${i.short} ${i.title}`;
-  return d.replace(/\s+/g, ' ').trim();
+  let t = i.title.replace(/\s+/g, ' ').trim();
+  for (let k = 0; k < 2; k++) t = t.replace(/^(?:important\s+)?(?:notice|details?|detail|public\s+notice|ref\.?)\s*(?:[:\-–]\s*|regarding\s+|for\s+|of\s+|reg\.?\s+)?/i, '').trim();
+  t = t.replace(/^(?:regarding|for|to)\s+/i, '');
+  t = t.charAt(0).toUpperCase() + t.slice(1);
+  let d = t.slice(0, 25).toLowerCase().includes(i.short.toLowerCase()) ? t : `${i.short} ${t}`;
+  if (d.length > 62) d = compress(d);
+  return cutTitle(d, 62);
+}
+
+const FILLER = /^(?:up|the|for|of|regarding|reg\.?|online|filling|details?|notice|important|to|in|on|and|choice|submission|from|under|with|a|an|by|at|is|are|has|been|hereby|candidates?|which|who|all|its|about|various|&)$/i;
+
+function compress(t: string): string {
+  const w = t.split(' ');
+  const out = [w[0]];
+  for (const x of w.slice(1)) if (!FILLER.test(x.replace(/[,:;]$/, ''))) out.push(x);
+  return out.join(' ').replace(/\s+([,:;])/g, '$1');
+}
+
+export function cutTitle(t: string, n: number): string {
+  if (t.length <= n) return t;
+  const sp = t.lastIndexOf(' ', n - 1);
+  return t.slice(0, sp > n * 0.6 ? sp : n - 1).replace(/[\s,:;\-–(\/]+$/, '') + '…';
+}
+
+let seen: Map<string, number> | null = null;
+export function uniqueTitle(i: Item, examName?: string): string {
+  if (!seen) {
+    seen = new Map();
+    for (const x of live()) {
+      const k = seoTitle(x, undefined).toLowerCase();
+      seen.set(k, (seen.get(k) || 0) + 1);
+    }
+  }
+  const base = seoTitle(i, examName);
+  const plain = seoTitle(i, undefined).toLowerCase();
+  if ((seen.get(plain) || 0) > 1 || base.endsWith('…')) {
+    const t = `${cutTitle(base.replace(/…$/, ''), 48).replace(/…$/, '')} (${fmt(dateKey(i))})`;
+    if ((seen.get(plain) || 0) > 1) return t;
+  }
+  return base;
+}
+
+let firstOf: Map<string, string> | null = null;
+export function isTitleDuplicate(i: Item, examName?: string): boolean {
+  if (!firstOf) {
+    firstOf = new Map();
+    for (const x of live()) {
+      const k = uniqueTitle(x).toLowerCase();
+      if (!firstOf.has(k)) firstOf.set(k, x.id);
+    }
+  }
+  return firstOf.get(uniqueTitle(i).toLowerCase()) !== i.id;
 }

@@ -3,12 +3,20 @@ import Base from '../../layouts/Base.astro';
 import Crumbs from '../../components/Crumbs.astro';
 import AdSlot from '../../components/AdSlot.astro';
 import Side from '../../components/Side.astro';
-import { live, liveExams, TYPES, fmt, itemPath, displayTitle, dateKey, scopeName, daysLeft, type Exam } from '../../lib/data';
+import { live, liveExams, TYPES, fmt, itemPath, displayTitle, dateKey, scopeName, daysLeft, istToday, type Exam } from '../../lib/data';
+import { cutTitle } from '../../lib/copy';
 
 export function getStaticPaths() {
-  return liveExams().map((exam) => ({ params: { slug: exam.slug }, props: { exam } }));
+  const ex = liveExams().slice().sort((a, b) => b.items.length - a.items.length);
+  const seen = new Set<string>();
+  return ex.map((exam) => {
+    const k = cutTitle(exam.name, 50).toLowerCase();
+    const dup = seen.has(k);
+    seen.add(k);
+    return { params: { slug: exam.slug }, props: { exam, dup } };
+  });
 }
-const { exam } = Astro.props as { exam: Exam };
+const { exam, dup } = Astro.props as { exam: Exam; dup: boolean };
 const ids = new Set(exam.items);
 const all = live();
 const items = all.filter((x) => ids.has(x.id)).sort((a, b) => dateKey(a).localeCompare(dateKey(b)));
@@ -18,9 +26,10 @@ const has = (t: string) => items.some((x) => x.type === t);
 const stage = has('result') ? 'Result declared' : has('answer') ? 'Answer key released' : has('admit') ? 'Admit card released' : has('job') ? 'Notification out' : 'Notice published';
 const others = all.filter((x) => x.source === exam.source && !ids.has(x.id)).slice(0, 8);
 const kinds = [...new Set(items.map((x) => TYPES[x.type].short))].join(', ');
+const stale = items.every((x) => x.archive) || (Date.parse(istToday()) - Date.parse(dateKey(latest))) / 86400000 > 180;
 const c = [{ name: 'Home', url: '/' }, { name: 'Exams', url: '/exam/' }, { name: exam.name }];
 ---
-<Base title={`${exam.name}: ${kinds}`} description={`${exam.name} by ${exam.org}: ${kinds} with dates and official links. Current stage: ${stage}. Last updated ${fmt(exam.latest)}.`} crumbs={c}>
+<Base title={`${cutTitle(exam.name, 50)}: ${kinds}`} noindex={stale || dup} description={`${exam.name} by ${exam.org}: ${kinds} with dates and official links. Current stage: ${stage}. Last updated ${fmt(exam.latest)}.`} crumbs={c}>
   <div class="wrap">
     <Crumbs items={c} />
     <div class="page-grid">
