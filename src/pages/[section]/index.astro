@@ -24,13 +24,13 @@ const intro: Record<string, string> = {
   notice: 'Important notices such as exam dates, physical test schedules, interviews and document verification.'
 };
 const titles: Record<string, string> = {
-  job: `Latest Govt Jobs ${year}: Sarkari Naukri Notifications`,
-  admit: `Admit Card ${year}: Latest Hall Ticket Download`,
-  result: `Sarkari Result ${year}: Latest Exam Results`,
-  answer: `Answer Key ${year}: Latest Official Answer Keys`,
-  syllabus: `Syllabus ${year}: Govt Exam Syllabus and Pattern`,
-  admission: `Admission ${year}: Latest Admission Forms`,
-  notice: `Important Notices ${year}: Exam Dates and Schedules`
+  job: `Latest Govt Jobs ${year}, Sarkari Naukri`,
+  admit: `Admit Card ${year}, Hall Ticket Download`,
+  result: `Sarkari Result ${year}, Latest Results`,
+  answer: `Answer Key ${year}, Official Answer Keys`,
+  syllabus: `Govt Exam Syllabus ${year} and Pattern`,
+  admission: `Admission Form ${year}, Latest Notices`,
+  notice: `Exam Date and Notices ${year}`
 };
 ---
 <Base title={titles[type]} description={`${intro[type]} Updated through the day on ResultDosti.`} crumbs={[{ name: 'Home', url: '/' }, { name: T.list }]}>

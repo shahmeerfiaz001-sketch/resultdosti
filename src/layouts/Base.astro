@@ -1,4 +1,7 @@
 ---
+import '@fontsource/mukta/400.css';
+import '@fontsource/mukta/600.css';
+import '@fontsource/mukta/800.css';
 import '../styles/global.css';
 import site from '../../site.config.json';
 import ads from '../data/ads.json';
@@ -14,10 +17,13 @@ interface Props {
   type?: 'website' | 'article';
   fullTitle?: boolean;
   crumbs?: { name: string; url?: string }[];
+  lang?: string;
 }
-const { title, description, schema = [], noindex = false, type = 'website', fullTitle = false, crumbs = [] } = Astro.props;
+const { title, description, schema = [], noindex = false, type = 'website', fullTitle = false, crumbs = [], lang = 'en' } = Astro.props;
 const canonical = site.url + Astro.url.pathname;
-const pageTitle = fullTitle ? title : `${title} | ${site.name}`;
+const cut = (t: string, n: number) => (t.length <= n ? t : t.slice(0, t.lastIndexOf(' ', n - 1) > n * 0.6 ? t.lastIndexOf(' ', n - 1) : n - 1).replace(/[\s,:;\-–(]+$/, '') + '…');
+const pageTitle = fullTitle ? title : `${cut(title, 60 - site.name.length - 3)} | ${site.name}`;
+const metaDesc = cut(description, 158);
 const org = { '@context': 'https://schema.org', '@type': 'Organization', name: site.name, url: site.url + '/', logo: site.url + '/logo.png' };
 const web = { '@context': 'https://schema.org', '@type': 'WebSite', name: site.name, url: site.url + '/', potentialAction: { '@type': 'SearchAction', target: site.url + '/search/?q={search_term_string}', 'query-input': 'required name=search_term_string' } };
 const bc = crumbs.length > 1 ? [{ '@context': 'https://schema.org', '@type': 'BreadcrumbList', itemListElement: crumbs.map((c, n) => ({ '@type': 'ListItem', position: n + 1, name: c.name, ...(c.url ? { item: site.url + c.url } : {}) })) }] : [];
@@ -28,12 +34,12 @@ const gsc = env.GOOGLE_SITE_VERIFICATION || '';
 const ga = env.GA_ID || '';
 ---
 <!doctype html>
-<html lang="en">
+<html lang={lang === 'hi' ? 'hi' : 'en-IN'}>
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{pageTitle}</title>
-    <meta name="description" content={description} />
+    <meta name="description" content={metaDesc} />
     <link rel="canonical" href={canonical} />
     <meta name="robots" content={noindex ? 'noindex, follow' : 'index, follow, max-image-preview:large, max-snippet:-1'} />
     <meta name="theme-color" content="#2F3BBF" />
@@ -45,15 +51,12 @@ const ga = env.GA_ID || '';
     <meta property="og:site_name" content={site.name} />
     <meta property="og:type" content={type} />
     <meta property="og:title" content={title} />
-    <meta property="og:description" content={description} />
+    <meta property="og:description" content={metaDesc} />
     <meta property="og:url" content={canonical} />
     <meta property="og:image" content={site.url + '/og.png'} />
     <meta property="og:locale" content="en_IN" />
     <meta name="twitter:card" content="summary_large_image" />
     {gsc && <meta name="google-site-verification" content={gsc} />}
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Mukta:wght@400;600;800&display=swap" />
     {graph.map((g) => <script type="application/ld+json" set:html={JSON.stringify(g)} />)}
     {adsOn && <script async src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${ads.adsenseClient}`} crossorigin="anonymous"></script>}
     {ga && (

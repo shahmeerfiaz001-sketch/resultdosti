@@ -6,7 +6,7 @@ import Crumbs from '../../components/Crumbs.astro';
 import Side from '../../components/Side.astro';
 import site from '../../../site.config.json';
 import { live, TYPES, fmt, daysLeft, officialLink, displayTitle, examOf, itemPath, examPath, scopeName, fieldsOf, dateKey, isIndexable, type Item } from '../../lib/data';
-import { lead, steps, feeText, ageText, metaDesc, jobTitle } from '../../lib/copy';
+import { lead, steps, feeText, ageText, metaDesc, jobTitle, seoTitle } from '../../lib/copy';
 
 export function getStaticPaths() {
   return live().map((item) => ({ params: { section: TYPES[item.type].path, slug: item.slug }, props: { item } }));
@@ -65,7 +65,7 @@ if (jobOn) {
   schema.push(job);
 }
 ---
-<Base title={title} description={metaDesc(item, f)} schema={schema} type="article" crumbs={crumbs} noindex={!isIndexable(item)}>
+<Base title={seoTitle(item, exam?.name)} lang={/[\u0900-\u097F]/.test(item.title) ? 'hi' : 'en'} description={metaDesc(item, f)} schema={schema} type="article" crumbs={crumbs} noindex={!isIndexable(item)}>
   <div class="wrap">
     <Crumbs items={crumbs} />
     <div class="page-grid">

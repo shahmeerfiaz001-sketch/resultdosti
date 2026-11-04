@@ -81,3 +81,17 @@ export function jobTitle(i: Item): string | null {
   if (t.length < 4 || !/[a-z]/i.test(t)) return null;
   return t.slice(0, 100);
 }
+
+const KIND: Record<string, string> = { job: 'Recruitment', admit: 'Admit Card', result: 'Result', answer: 'Answer Key', syllabus: 'Syllabus', admission: 'Admission', notice: 'Notice' };
+
+export function seoTitle(i: Item, examName?: string): string {
+  const year = (i.title.match(/\b(20[2-3]\d)\b/) || [])[1] || (i.list_date || i.first_seen).slice(0, 4);
+  const kind = KIND[i.type];
+  if (examName) {
+    const base = examName.replace(/\b20[2-3]\d\b/g, '').replace(/\s+/g, ' ').trim();
+    const t = `${base} ${kind} ${year}`;
+    if (t.length <= 52) return t;
+  }
+  const d = i.title.toLowerCase().includes(i.short.toLowerCase()) ? i.title : `${i.short} ${i.title}`;
+  return d.replace(/\s+/g, ' ').trim();
+}
