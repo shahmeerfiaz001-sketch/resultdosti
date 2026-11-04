@@ -1,0 +1,92 @@
+================================================================================
+https://ssc.gov.in/api/general-website/portal/notice-boards?page=1&limit=5&contentType=notice-boards&key=createdAt&order=DESC&isAttachment=true&language=english
+status 203 ctype application/json; charset=utf-8 error None
+{"statusCode":"203","statusMessage":"Error Occurred!","error":"Invalid attributes in request","attribute":null}
+================================================================================
+https://ssc.gov.in/api/general-website/portal//lastUpdates
+status 200 ctype application/json; charset=utf-8 error None
+{"statusCode":"200","statusMessage":"Document Found!","data":{"createdAt":"2026-11-04T12:15:37.704Z"}}
+================================================================================
+https://ssc.gov.in/api/general-website/portal/records?page=1&limit=5&contentType=browse-exam&key=createdAt&order=DESC&isPaginationRequired=false&isAttachment=true
+status 203 ctype application/json; charset=utf-8 error None
+{"statusCode":"203","statusMessage":"Error Occurred!","error":"Invalid attributes in request","attribute":null}
+================================================================================
+https://fci.gov.in/admin/api/getWhatsNewDetails
+status 404 ctype application/json error HTTP 404
+{"message":"Route not found.","status":404}
+================================================================================
+https://fci.gov.in/admin/api/ManageNewsPage/viewall
+status 404 ctype application/json error HTTP 404
+{"message":"Route not found.","status":404}
+================================================================================
+https://opportunities.rbi.org.in/Scripts/Vacancies.aspx
+status 200 ctype text/html; charset=utf-8 error None
+items 15
+   job None Engagement of Part-Time Medical Consultants (MC) on Contractual Basis with Fixed Hourly Remuneration | https://opportunities.rbi.org.in/Scripts/bs_viewcontent.aspx?Id=5199
+   notice None Extension of last date for submission of Application - Engagement of Part-time Bank’s Medical Consul | https://opportunities.rbi.org.in/Scripts/bs_viewcontent.aspx?Id=5194
+   job None Engagement of Part- Time Bank’s Medical Consultants (BMC) on Contract Basis with Fixed Hourly Remune | https://opportunities.rbi.org.in/Scripts/bs_viewcontent.aspx?Id=5192
+   job None Engagement of Pharmacist in the Bank on contract basis with fixed hourly remuneration, Mumbai | https://opportunities.rbi.org.in/Scripts/bs_viewcontent.aspx?Id=5189
+   notice None Extension of last date for submission of Application - Engagement of Medical Consultant (MC) in the  | https://opportunities.rbi.org.in/Scripts/bs_viewcontent.aspx?Id=5188
+   job None Engagement of Part-time Bank’s Medical Consultant on Contract Basis with Fixed Hourly Remuneration a | https://opportunities.rbi.org.in/Scripts/bs_viewcontent.aspx?Id=5178
+   job None Engagement of Medical Consultant (MC) in the Bank on Contract Basis with Fixed Hourly Remuneration,  | https://opportunities.rbi.org.in/Scripts/bs_viewcontent.aspx?Id=5177
+   job None Engagement of Bank’s Medical Consultant (BMC) on Contractual Basis with Fixed Hourly Remuneration at | https://opportunities.rbi.org.in/Scripts/bs_viewcontent.aspx?Id=5176
+   job None Application for Engagement of Medical consultant On contract basis with fixed hourly remuneration at | https://opportunities.rbi.org.in/Scripts/bs_viewcontent.aspx?Id=5173
+   job None Application for Engagement of Medical consultant On contract basis with fixed hourly remuneration at | https://opportunities.rbi.org.in/Scripts/bs_viewcontent.aspx?Id=5172
+   job None Inviting Applications for the Post of Director, IIBM, Guwahati | https://opportunities.rbi.org.in/Scripts/bs_viewcontent.aspx?Id=5171
+   notice None Extension of last date for submission of Application - Engagement of Bank’s Medical Consultant (BMC) | https://opportunities.rbi.org.in/Scripts/bs_viewcontent.aspx?Id=5162
+discover:
+   Current Vacancies | https://opportunities.rbi.org.in/Scripts/Vacancies.aspx
+   Results | https://opportunities.rbi.org.in/Scripts/resultsnew.aspx
+   Recruitment | https://opportunities.rbi.org.in/Scripts/bs_viewcontent.aspx?Id=2802
+================================================================================
+https://crpf.gov.in/
+status 200 ctype text/html; charset=utf-8 error None
+items 3
+   job None पशु चिकित्सा संवर्ग (ग्रुप-ए) के लिए ड्राफ्ट मॉडल भर्ती नियम ( , ) | https://crpf.mha.gov.in/Upload/Document/1_871_2_323062023.pdf
+   syllabus 2026-05-27 आरजेआईटी, बीएसएफ टेकानपुर में वर्ष 2026-27 के लिए प्रथम वर्ष में दो वर्षीय एमसीए पाठ्यक्रम में प्रवे | https://crpf.mha.gov.in/hi/Media-Centre/Latest-News/3267
+   result None करियर के अवसर भर्ती सूचनाएं, परिणाम और प्रशिक्षण का जीवन। | https://crpf.mha.gov.in/hi/Job-Seeker
+discover:
+   महत्वपूर्ण अधिसूचना | https://crpf.mha.gov.in/hi/Important-Notification
+   सूचना का अधिकार | https://crpf.mha.gov.in/hi/Right-To-Information
+   करियर के अवसर भर्ती सूचनाएं, परिणाम और प्रशिक्षण क | https://crpf.mha.gov.in/hi/Job-Seeker
+   वेब सूचना प्रबंधक | https://crpf.mha.gov.in/hi/Contact-Us
+================================================================================
+https://www.cisf.gov.in/
+status 200 ctype text/html; charset=UTF-8 error None
+items 4
+   job None सीआईएसएफ में भर्ती (बाहरी वेबसाइट, नई विंडो में खुलती है) | https://cisfrectt.cisf.gov.in/
+   job None एनडीआरएफ में प्रतिनियुक्ति के लिए उप महानिरीक्षक का नामांकन | https://cisf.mha.gov.in/cisf_dbim_hindi/assets/pdfs/2026/10/depu_ndrf_dig.pdf
+   job None सीआईएसएफ मुख्यालय दिल्ली एवं एफएसटीआई हैदराबाद में डीआईजी/अग्नि की रिक्ति | https://cisf.mha.gov.in/cisf_dbim_hindi/assets/pdfs/2026/09/1273_depu.pdf
+   job None सीआईएसएफ में पैरामेडिकल स्टाफ की भर्ती - 2026 | https://cisf.mha.gov.in/cisf_dbim_hindi/assets/pdfs/2026/06/pms_2026_eng_noti.pdf
+discover:
+   भर्ती संबंधी | https://cisf.mha.gov.in/cisf_dbim_hindi/recruitment.php
+   वेब सूचना प्रबंधक | https://cisf.mha.gov.in/cisf_dbim_hindi/contact_us.php
+================================================================================
+https://www.employmentnews.gov.in/NEW/Home.aspx
+status 404 ctype text/html error HTTP 404
+items 0
+discover:
+================================================================================
+https://pib.gov.in/allRel.aspx
+status 200 ctype text/html; charset=utf-8 error None
+items 0
+discover:
+   पत्र सूचना कार्यालय | https://www.pib.gov.in/index.aspx
+   पत्र सूचना कार्यालय के क्षेत्रीय शाखा | https://www.pib.gov.in/content/3683_5_pib.gov.in.aspx
+   केंद्रीय जन सूचना अधिकारी, अपीलीय प्राधिकारियों की | https://www.pib.gov.in/content/3708_5_pib.nic.in.aspx
+   वेब सूचना प्रबंधक | https://www.pib.gov.in/content/3840_5_pib.gov.in.aspx
+================================================================================
+https://www.ncs.gov.in/
+status 200 ctype text/html error None
+items 1
+   job None Recruitment Agencies/International Employer | https://emigrate.gov.in/#/emigrate/emigrant/list-of-active-ra
+discover:
+   Career Tools & Learning | https://ncs.gov.in
+   Find Career Center | https://ncs.gov.in/career-center
+   Career Schemes | https://ncs.gov.in/careerSchemes
+   Career Guidance | https://ncs.gov.in/career-counsellors
+================================================================================
+https://indianrailways.gov.in/
+status 200 ctype text/html;charset=UTF-8 error None
+items 0
+discover:
