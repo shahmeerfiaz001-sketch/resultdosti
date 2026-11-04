@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T19:08:16+00:00",
+ "updated": "2026-11-04T20:54:51+00:00",
  "exams": [
   {
    "key": "uppsc-d-e-medical-education-department-u-p-professor-2026",
@@ -5517,7 +5517,8 @@
    "scope": "central",
    "items": [
     "40a3aabb9e50",
-    "388197207005"
+    "388197207005",
+    "1c38eb615c53"
    ],
    "year": 2026,
    "name": "AIIMS Update list of eligible / not eligible for walk-in-interivew/offline counseling 2026",
@@ -5535,7 +5536,8 @@
    "scope": "central",
    "items": [
     "72cbc97a6324",
-    "c0f7a34cd576"
+    "c0f7a34cd576",
+    "e77a14bfc0aa"
    ],
    "year": 2026,
    "name": "AIIMS Fees and Admit Card for Optometry Phase - III/Bachelor of Medical Radiology and 2026",
@@ -5553,7 +5555,8 @@
    "scope": "central",
    "items": [
     "f2e25c52d95e",
-    "7ae95a74a9d1"
+    "7ae95a74a9d1",
+    "b9d797deb5bc"
    ],
    "year": 2026,
    "name": "AIIMS List of eligible / Not eligible candidates for walk-in-interview for the post 2026",
@@ -5571,7 +5574,8 @@
    "scope": "central",
    "items": [
     "fb220de4d49c",
-    "0f993686be98"
+    "0f993686be98",
+    "d853a22f182a"
    ],
    "year": 2026,
    "name": "AIIMS No. 01 of 2026 :- Regarding the Interview schedule for various faculty posts of",
@@ -8813,6 +8817,431 @@
    "latest": "2026-11-04"
   },
   {
+   "key": "ssc-combined-graduate-level-s-response-sheet-along-2026",
+   "source": "ssc",
+   "short": "SSC",
+   "org": "Staff Selection Commission",
+   "scope": "central",
+   "items": [
+    "26c9bc5d3b52"
+   ],
+   "year": 2026,
+   "name": "SSC Combined Graduate Level Examination, 2026 :Uploading of Candidate’s Response",
+   "slug": "ssc-combined-graduate-level-examination-2026-uploading-of-candidate-s-response-9cfae",
+   "types": [
+    "answer"
+   ],
+   "latest": "2026-11-04"
+  },
+  {
+   "key": "ssc-engagement-retired-central-government-officer-2026",
+   "source": "ssc",
+   "short": "SSC",
+   "org": "Staff Selection Commission",
+   "scope": "central",
+   "items": [
+    "5da4668471fd"
+   ],
+   "year": 2026,
+   "name": "SSC Engagement of retired Central Government Officer as Consultant in Staff 2026",
+   "slug": "ssc-engagement-of-retired-central-government-officer-as-consultant-in-staff-2026-ed633",
+   "types": [
+    "job"
+   ],
+   "latest": "2026-11-04"
+  },
+  {
+   "key": "rbi-an-information-kit-2026",
+   "source": "rbi",
+   "short": "RBI",
+   "org": "Reserve Bank of India Opportunities",
+   "scope": "central",
+   "items": [
+    "72c2969289ae"
+   ],
+   "year": 2026,
+   "name": "RBI an Information Kit! 2026",
+   "slug": "rbi-an-information-kit-2026-e3b5d",
+   "types": [
+    "job"
+   ],
+   "latest": "2026-11-04"
+  },
+  {
+   "key": "rbi-engagement-part-time-medical-consultants-2026",
+   "source": "rbi",
+   "short": "RBI",
+   "org": "Reserve Bank of India Opportunities",
+   "scope": "central",
+   "items": [
+    "03d241590069"
+   ],
+   "year": 2026,
+   "name": "RBI Engagement of Part-Time Medical Consultants on Contractual Basis with Fixed 2026",
+   "slug": "rbi-engagement-of-part-time-medical-consultants-on-contractual-basis-with-fixed-095a9",
+   "types": [
+    "job"
+   ],
+   "latest": "2026-11-04"
+  },
+  {
+   "key": "rbi-engagement-part-time-bank-s-medical-consultant-2026",
+   "source": "rbi",
+   "short": "RBI",
+   "org": "Reserve Bank of India Opportunities",
+   "scope": "central",
+   "items": [
+    "aeea5e7727a9",
+    "b28e2303908a",
+    "70a3ca93a17c"
+   ],
+   "year": 2026,
+   "name": "RBI Engagement of Part-time Bank’s Medical Consultant on Contract Basis with Fixed 2026",
+   "slug": "rbi-engagement-of-part-time-bank-s-medical-consultant-on-contract-basis-with-8c732",
+   "types": [
+    "job",
+    "notice"
+   ],
+   "latest": "2026-11-04"
+  },
+  {
+   "key": "rbi-engagement-part-time-bank-s-medical-consultants-2026",
+   "source": "rbi",
+   "short": "RBI",
+   "org": "Reserve Bank of India Opportunities",
+   "scope": "central",
+   "items": [
+    "14e47028f771"
+   ],
+   "year": 2026,
+   "name": "RBI Engagement of Part- Time Bank’s Medical Consultants on Contract Basis with 2026",
+   "slug": "rbi-engagement-of-part-time-bank-s-medical-consultants-on-contract-basis-with-d26e4",
+   "types": [
+    "job"
+   ],
+   "latest": "2026-11-04"
+  },
+  {
+   "key": "rbi-engagement-pharmacist-bank-contract-basis-fixed-2026",
+   "source": "rbi",
+   "short": "RBI",
+   "org": "Reserve Bank of India Opportunities",
+   "scope": "central",
+   "items": [
+    "d025c96bfa3f"
+   ],
+   "year": 2026,
+   "name": "RBI Engagement of Pharmacist in the Bank on contract basis with fixed hourly 2026",
+   "slug": "rbi-engagement-of-pharmacist-in-the-bank-on-contract-basis-with-fixed-hourly-34a92",
+   "types": [
+    "job"
+   ],
+   "latest": "2026-11-04"
+  },
+  {
+   "key": "rbi-engagement-medical-consultant-bank-contract-2026",
+   "source": "rbi",
+   "short": "RBI",
+   "org": "Reserve Bank of India Opportunities",
+   "scope": "central",
+   "items": [
+    "504534ca5fd4",
+    "77b4c7eff3c7"
+   ],
+   "year": 2026,
+   "name": "RBI Engagement of Medical Consultant in the Bank on Contract Basis with Fixed 2026",
+   "slug": "rbi-engagement-of-medical-consultant-in-the-bank-on-contract-basis-with-fixed-8d6a3",
+   "types": [
+    "job",
+    "notice"
+   ],
+   "latest": "2026-11-04"
+  },
+  {
+   "key": "rbi-engagement-bank-s-medical-consultant-2026",
+   "source": "rbi",
+   "short": "RBI",
+   "org": "Reserve Bank of India Opportunities",
+   "scope": "central",
+   "items": [
+    "f6cb6e7c56d5"
+   ],
+   "year": 2026,
+   "name": "RBI Engagement of Bank’s Medical Consultant on Contractual Basis with Fixed Hourly 2026",
+   "slug": "rbi-engagement-of-bank-s-medical-consultant-on-contractual-basis-with-fixed-b87f2",
+   "types": [
+    "job"
+   ],
+   "latest": "2026-11-04"
+  },
+  {
+   "key": "rbi-engagement-medical-consultant-contract-basis-2026",
+   "source": "rbi",
+   "short": "RBI",
+   "org": "Reserve Bank of India Opportunities",
+   "scope": "central",
+   "items": [
+    "96c6b2be7b69",
+    "8f5d389d1c55"
+   ],
+   "year": 2026,
+   "name": "RBI Application for Engagement of Medical consultant On contract basis with fixed 2026",
+   "slug": "rbi-application-for-engagement-of-medical-consultant-on-contract-basis-with-f2764",
+   "types": [
+    "job"
+   ],
+   "latest": "2026-11-04"
+  },
+  {
+   "key": "rbi-director-iibm-guwahati-2026",
+   "source": "rbi",
+   "short": "RBI",
+   "org": "Reserve Bank of India Opportunities",
+   "scope": "central",
+   "items": [
+    "3e3bae5479ad"
+   ],
+   "year": 2026,
+   "name": "RBI Inviting Applications for the Post of Director, IIBM, Guwahati 2026",
+   "slug": "rbi-inviting-applications-for-the-post-of-director-iibm-guwahati-2026-69fff",
+   "types": [
+    "job"
+   ],
+   "latest": "2026-11-04"
+  },
+  {
+   "key": "rbi-engagement-bank-s-medical-consultant-contract-2026",
+   "source": "rbi",
+   "short": "RBI",
+   "org": "Reserve Bank of India Opportunities",
+   "scope": "central",
+   "items": [
+    "9668e077910b",
+    "553789635b45",
+    "090fd114741e",
+    "9d78650e0ea4"
+   ],
+   "year": 2026,
+   "name": "RBI Advertisement for Engagement of Bank’s Medical Consultant on contract basis 2026",
+   "slug": "rbi-advertisement-for-engagement-of-bank-s-medical-consultant-on-contract-basis-8bee4",
+   "types": [
+    "job",
+    "notice",
+    "result"
+   ],
+   "latest": "2026-11-04"
+  },
+  {
+   "key": "rbi-direct-officers-grade-b-dsim-cadre-panel-year-2026",
+   "source": "rbi",
+   "short": "RBI",
+   "org": "Reserve Bank of India Opportunities",
+   "scope": "central",
+   "items": [
+    "88169f247ecd"
+   ],
+   "year": 2026,
+   "name": "RBI Final Result of Direct Recruitment for the Post of Officers in Grade ‘B’ – DSIM 2026",
+   "slug": "rbi-final-result-of-direct-recruitment-for-the-post-of-officers-in-grade-b-dsim-d0e36",
+   "types": [
+    "result"
+   ],
+   "latest": "2026-11-04"
+  },
+  {
+   "key": "rbi-officers-grade-b-general-cadre-py-2026",
+   "source": "rbi",
+   "short": "RBI",
+   "org": "Reserve Bank of India Opportunities",
+   "scope": "central",
+   "items": [
+    "d537057b4fc2"
+   ],
+   "year": 2026,
+   "name": "RBI Scorecard and Cut-off Marks for Recruitment of Officers in Grade ‘B’ – General 2026",
+   "slug": "rbi-scorecard-and-cut-off-marks-for-recruitment-of-officers-in-grade-b-general-40412",
+   "types": [
+    "result"
+   ],
+   "latest": "2026-11-04"
+  },
+  {
+   "key": "rbi-direct-officers-grade-b-depr-cadre-panel-year-2026",
+   "source": "rbi",
+   "short": "RBI",
+   "org": "Reserve Bank of India Opportunities",
+   "scope": "central",
+   "items": [
+    "f8bb0ee5f720"
+   ],
+   "year": 2026,
+   "name": "RBI Final Result of Direct Recruitment for the Post of Officers in Grade ‘B’ – DEPR 2026",
+   "slug": "rbi-final-result-of-direct-recruitment-for-the-post-of-officers-in-grade-b-depr-5dd9f",
+   "types": [
+    "result"
+   ],
+   "latest": "2026-11-04"
+  },
+  {
+   "key": "rbi-direct-officers-grade-b-general-cadre-panel-year-2026",
+   "source": "rbi",
+   "short": "RBI",
+   "org": "Reserve Bank of India Opportunities",
+   "scope": "central",
+   "items": [
+    "299be47c1787"
+   ],
+   "year": 2026,
+   "name": "RBI Final Result of Direct Recruitment for the Post of Officers in Grade ‘B’ – 2026",
+   "slug": "rbi-final-result-of-direct-recruitment-for-the-post-of-officers-in-grade-b-2026-7daf0",
+   "types": [
+    "result"
+   ],
+   "latest": "2026-11-04"
+  },
+  {
+   "key": "rbi-assistant-panel-year-reserve-bank-india-display-2025",
+   "source": "rbi",
+   "short": "RBI",
+   "org": "Reserve Bank of India Opportunities",
+   "scope": "central",
+   "items": [
+    "2abeb8283486"
+   ],
+   "year": 2025,
+   "name": "RBI Recruitment for the Post of Assistant - Panel Year 2025 in Reserve Bank of",
+   "slug": "rbi-recruitment-for-the-post-of-assistant-panel-year-2025-in-reserve-bank-of-6fe0b",
+   "types": [
+    "result"
+   ],
+   "latest": "2026-11-04"
+  },
+  {
+   "key": "rbi-junior-engineer-panel-year-display-finally-2026",
+   "source": "rbi",
+   "short": "RBI",
+   "org": "Reserve Bank of India Opportunities",
+   "scope": "central",
+   "items": [
+    "b94bbc3cb42b",
+    "264470746286",
+    "951f8605e1c4"
+   ],
+   "year": 2026,
+   "name": "RBI Recruitment for the post of Junior Engineer - Panel Year 2026 - Display of Roll",
+   "slug": "rbi-recruitment-for-the-post-of-junior-engineer-panel-year-2026-display-of-roll-17084",
+   "types": [
+    "result"
+   ],
+   "latest": "2026-11-04"
+  },
+  {
+   "key": "rbi-lateral-site-engineers-full-time-contract-basis-2026",
+   "source": "rbi",
+   "short": "RBI",
+   "org": "Reserve Bank of India Opportunities",
+   "scope": "central",
+   "items": [
+    "2928edd60810",
+    "42ce58128086",
+    "1e1113b16b5c"
+   ],
+   "year": 2026,
+   "name": "RBI Lateral Recruitment of Site Engineers on Full-Time Contract Basis in Reserve 2026",
+   "slug": "rbi-lateral-recruitment-of-site-engineers-on-full-time-contract-basis-in-d5631",
+   "types": [
+    "result"
+   ],
+   "latest": "2026-11-04"
+  },
+  {
+   "key": "rbi-junior-engineer-reserve-bank-india-panel-year-2026",
+   "source": "rbi",
+   "short": "RBI",
+   "org": "Reserve Bank of India Opportunities",
+   "scope": "central",
+   "items": [
+    "775d0a72168b"
+   ],
+   "year": 2026,
+   "name": "RBI Recruitment for the Post of Junior Engineer in Reserve Bank of India - Panel 2026",
+   "slug": "rbi-recruitment-for-the-post-of-junior-engineer-in-reserve-bank-of-india-panel-8c253",
+   "types": [
+    "result"
+   ],
+   "latest": "2026-11-04"
+  },
+  {
+   "key": "rbi-junior-engineer-py-display-finally-appointment-2026",
+   "source": "rbi",
+   "short": "RBI",
+   "org": "Reserve Bank of India Opportunities",
+   "scope": "central",
+   "items": [
+    "3d4968179aa3"
+   ],
+   "year": 2026,
+   "name": "RBI Recruitment for the post of Junior Engineer - PY - 2026: Display of Roll Number",
+   "slug": "rbi-recruitment-for-the-post-of-junior-engineer-py-2026-display-of-roll-number-30954",
+   "types": [
+    "job"
+   ],
+   "latest": "2026-11-04"
+  },
+  {
+   "key": "rbi-assistant-panel-year-marksheet-april-11-13-30-2025",
+   "source": "rbi",
+   "short": "RBI",
+   "org": "Reserve Bank of India Opportunities",
+   "scope": "central",
+   "items": [
+    "0e41d409b6ca"
+   ],
+   "year": 2025,
+   "name": "RBI Recruitment for the Post of Assistant - Panel Year 2025 – Marksheet of",
+   "slug": "rbi-recruitment-for-the-post-of-assistant-panel-year-2025-marksheet-of-b6f61",
+   "types": [
+    "job"
+   ],
+   "latest": "2026-11-04"
+  },
+  {
+   "key": "cisf-notice-2026",
+   "source": "cisf",
+   "short": "CISF",
+   "org": "CISF Recruitment",
+   "scope": "central",
+   "items": [
+    "bbea760d583c",
+    "5cfefadb84a1",
+    "8df49a137a46"
+   ],
+   "year": 2026,
+   "name": "CISF एनडीआरएफ में प्रतिनियुक्ति के लिए उप महानिरीक्षक का नामांकन 2026",
+   "slug": "cisf-2026-d59f6",
+   "types": [
+    "job"
+   ],
+   "latest": "2026-11-04"
+  },
+  {
+   "key": "crpf-notice-2026",
+   "source": "crpf",
+   "short": "CRPF",
+   "org": "CRPF Recruitment",
+   "scope": "central",
+   "items": [
+    "ecaf2dcb23a3"
+   ],
+   "year": 2026,
+   "name": "CRPF पुरालेख देखें : महत्वपूर्ण अधिसूचना 2026",
+   "slug": "crpf-2026-13ed5",
+   "types": [
+    "notice"
+   ],
+   "latest": "2026-11-04"
+  },
+  {
    "key": "upprpb-notice-2026",
    "source": "upprpb",
    "short": "UPPRPB",
@@ -8864,6 +9293,44 @@
     "job"
    ],
    "latest": "2026-11-03"
+  },
+  {
+   "key": "ssc-constable-central-armed-police-forces-ssf-2026",
+   "source": "ssc",
+   "short": "SSC",
+   "org": "Staff Selection Commission",
+   "scope": "central",
+   "items": [
+    "71ad180f295a",
+    "41458ce37c59",
+    "17c24777e967"
+   ],
+   "year": 2026,
+   "name": "SSC Constable in Central Armed Police Forces and SSF, and Rifleman in Assam Rifles 2026",
+   "slug": "ssc-constable-in-central-armed-police-forces-and-ssf-and-rifleman-in-assam-01830",
+   "types": [
+    "answer",
+    "notice",
+    "result"
+   ],
+   "latest": "2026-11-03"
+  },
+  {
+   "key": "ssc-cgept-annual-skill-si-dp-capfs-2027",
+   "source": "ssc",
+   "short": "SSC",
+   "org": "Staff Selection Commission",
+   "scope": "central",
+   "items": [
+    "f9ad2b2cbae6"
+   ],
+   "year": 2027,
+   "name": "SSC Dates of CGEPT, 2027, Annual Skill Test, 2025 and SI in DP and CAPFs, Exam, 2026",
+   "slug": "ssc-dates-of-cgept-2027-annual-skill-test-2025-and-si-in-dp-and-capfs-exam-2026-24275",
+   "types": [
+    "notice"
+   ],
+   "latest": "2026-11-02"
   },
   {
    "key": "bceceb-extesion-registration-cum-choice-filling-2026",
@@ -8978,6 +9445,23 @@
    "latest": "2026-10-29"
   },
   {
+   "key": "ssc-sub-inspector-delhi-police-central-armed-police-2025",
+   "source": "ssc",
+   "short": "SSC",
+   "org": "Staff Selection Commission",
+   "scope": "central",
+   "items": [
+    "5eb9b30a1795"
+   ],
+   "year": 2025,
+   "name": "SSC Sub-Inspector in Delhi Police and Central Armed Police Forces Examination 2025",
+   "slug": "ssc-sub-inspector-in-delhi-police-and-central-armed-police-forces-examination-acc91",
+   "types": [
+    "result"
+   ],
+   "latest": "2026-10-29"
+  },
+  {
    "key": "upprpb-11427-2020",
    "source": "upprpb",
    "short": "UPPRPB",
@@ -8993,6 +9477,23 @@
     "job"
    ],
    "latest": "2026-10-27"
+  },
+  {
+   "key": "ssc-junior-engineer-sub-inspector-delhi-police-2026",
+   "source": "ssc",
+   "short": "SSC",
+   "org": "Staff Selection Commission",
+   "scope": "central",
+   "items": [
+    "1a38a88ed4be"
+   ],
+   "year": 2026,
+   "name": "SSC Revised dates for Junior Engineer Examination, 2026 and Sub-Inspector in Delhi",
+   "slug": "ssc-revised-dates-for-junior-engineer-examination-2026-and-sub-inspector-in-3f407",
+   "types": [
+    "notice"
+   ],
+   "latest": "2026-10-26"
   },
   {
    "key": "upprpb-notice-2025",
@@ -9101,6 +9602,44 @@
    "latest": "2026-10-23"
   },
   {
+   "key": "ssc-information-admission-certificate-junior-2026",
+   "source": "ssc",
+   "short": "SSC",
+   "org": "Staff Selection Commission",
+   "scope": "central",
+   "items": [
+    "31ffd16b970a"
+   ],
+   "year": 2026,
+   "name": "SSC Information regarding the city of examination and Admission Certificate for the 2026",
+   "slug": "ssc-information-regarding-the-city-of-examination-and-admission-certificate-for-67ef0",
+   "types": [
+    "admit"
+   ],
+   "latest": "2026-10-23"
+  },
+  {
+   "key": "ssc-grade-c-stenographers-limited-departmental-2025",
+   "source": "ssc",
+   "short": "SSC",
+   "org": "Staff Selection Commission",
+   "scope": "central",
+   "items": [
+    "1cd310286eb3",
+    "e5a9b086842b",
+    "8a32aa70e250"
+   ],
+   "year": 2025,
+   "name": "SSC Tentative Vacancy of Grade 'C' Stenographers Limited Departmental Competitive 2025",
+   "slug": "ssc-tentative-vacancy-of-grade-c-stenographers-limited-departmental-competitive-e58d2",
+   "types": [
+    "answer",
+    "job",
+    "notice"
+   ],
+   "latest": "2026-10-23"
+  },
+  {
    "key": "bceceb-filling-choice-filling-stray-round-ugmac-2026",
    "source": "bceceb",
    "short": "BCECEB",
@@ -9128,7 +9667,8 @@
    "scope": "central",
    "items": [
     "6a649b21b844",
-    "7f61107c00ce"
+    "7f61107c00ce",
+    "848f9f1546f1"
    ],
    "year": 2026,
    "name": "AIIMS Revised date for Walk-in interview/counseling for the post of Junior Resident 2026",
@@ -9291,6 +9831,110 @@
    "latest": "2026-10-09"
   },
   {
+   "key": "ssc-xiv-posts-s-response-sheet-along-challenges-2026",
+   "source": "ssc",
+   "short": "SSC",
+   "org": "Staff Selection Commission",
+   "scope": "central",
+   "items": [
+    "441d71ad4b2a"
+   ],
+   "year": 2026,
+   "name": "SSC Phase-XIV/2026/Selection Posts Examination - Uploading of Candidate’s Response",
+   "slug": "ssc-phase-xiv-2026-selection-posts-examination-uploading-of-candidate-s-response-336dd",
+   "types": [
+    "answer"
+   ],
+   "latest": "2026-10-09"
+  },
+  {
+   "key": "ssc-junior-engineer-2026",
+   "source": "ssc",
+   "short": "SSC",
+   "org": "Staff Selection Commission",
+   "scope": "central",
+   "items": [
+    "7ed45fdf7eea",
+    "445acd9b6563"
+   ],
+   "year": 2026,
+   "name": "SSC Tentative Vacancies of Junior Engineer Examination, 2026.",
+   "slug": "ssc-tentative-vacancies-of-junior-engineer-examination-2026-60fa2",
+   "types": [
+    "job",
+    "notice"
+   ],
+   "latest": "2026-10-08"
+  },
+  {
+   "key": "ssc-stenographer-grade-c-d-cbe-skill-2025",
+   "source": "ssc",
+   "short": "SSC",
+   "org": "Staff Selection Commission",
+   "scope": "central",
+   "items": [
+    "095b06fed215"
+   ],
+   "year": 2025,
+   "name": "SSC Stenographer Grade 'C' and 'D' Examination, 2025: Uploading Marks of CBE and",
+   "slug": "ssc-stenographer-grade-c-and-d-examination-2025-uploading-marks-of-cbe-and-33a4f",
+   "types": [
+    "result"
+   ],
+   "latest": "2026-10-07"
+  },
+  {
+   "key": "ssc-combined-higher-secondary-level-declaration-2025",
+   "source": "ssc",
+   "short": "SSC",
+   "org": "Staff Selection Commission",
+   "scope": "central",
+   "items": [
+    "134b0085ad9b"
+   ],
+   "year": 2025,
+   "name": "SSC Combined Higher Secondary Level Examination, 2025: Declaration of Final Result",
+   "slug": "ssc-combined-higher-secondary-level-examination-2025-declaration-of-final-result-cf32a",
+   "types": [
+    "result"
+   ],
+   "latest": "2026-10-07"
+  },
+  {
+   "key": "ssc-multi-tasking-staff-havaldar-declaration-2025",
+   "source": "ssc",
+   "short": "SSC",
+   "org": "Staff Selection Commission",
+   "scope": "central",
+   "items": [
+    "83c498e3c607"
+   ],
+   "year": 2025,
+   "name": "SSC Multi Tasking Staff, and Havaldar Examination, 2025: Declaration of additional",
+   "slug": "ssc-multi-tasking-staff-and-havaldar-examination-2025-declaration-of-additional-90686",
+   "types": [
+    "result"
+   ],
+   "latest": "2026-10-07"
+  },
+  {
+   "key": "ssc-enrolled-persons-indian-coast-guard-through-2027",
+   "source": "ssc",
+   "short": "SSC",
+   "org": "Staff Selection Commission",
+   "scope": "central",
+   "items": [
+    "e8f736414e1b"
+   ],
+   "year": 2027,
+   "name": "SSC Recruitment of Enrolled Persons in the Indian Coast Guard Through Coast Guard 2027",
+   "slug": "ssc-recruitment-of-enrolled-persons-in-the-indian-coast-guard-through-coast-12806",
+   "types": [
+    "job"
+   ],
+   "latest": "2026-10-06"
+  },
+  {
    "key": "dsssb-advt-03-2026",
    "source": "dsssb",
    "short": "DSSSB",
@@ -9411,6 +10055,40 @@
    "slug": "pnp-prayagraj-updeled-2026-counselling-schedule-vigyapti-4f6d1",
    "types": [
     "admission"
+   ],
+   "latest": "2026-10-01"
+  },
+  {
+   "key": "ssc-cancellation-junior-technical-officer-post-code-2026",
+   "source": "ssc",
+   "short": "SSC",
+   "org": "Staff Selection Commission",
+   "scope": "central",
+   "items": [
+    "1a151d746c09"
+   ],
+   "year": 2026,
+   "name": "SSC Cancellation Notice for the post of 'Junior Technical Officer', Post Code 2026",
+   "slug": "ssc-cancellation-notice-for-the-post-of-junior-technical-officer-post-code-2026-183ef",
+   "types": [
+    "notice"
+   ],
+   "latest": "2026-10-01"
+  },
+  {
+   "key": "ssc-cancellation-agriculture-assistant-post-code-2026",
+   "source": "ssc",
+   "short": "SSC",
+   "org": "Staff Selection Commission",
+   "scope": "central",
+   "items": [
+    "8f2c462ffc16"
+   ],
+   "year": 2026,
+   "name": "SSC Cancellation Notice for the post of 'Agriculture Assistant', Post Code KK11426 2026",
+   "slug": "ssc-cancellation-notice-for-the-post-of-agriculture-assistant-post-code-kk11426-f9500",
+   "types": [
+    "notice"
    ],
    "latest": "2026-10-01"
   },
@@ -9578,6 +10256,23 @@
    "latest": "2026-09-24"
   },
   {
+   "key": "ssc-combined-graduate-level-as-2026",
+   "source": "ssc",
+   "short": "SSC",
+   "org": "Staff Selection Commission",
+   "scope": "central",
+   "items": [
+    "4b3fa7ad7e49"
+   ],
+   "year": 2026,
+   "name": "SSC Tentative Vacancy of Combined Graduate Level Examination, 2026 as on 24.09.2026",
+   "slug": "ssc-tentative-vacancy-of-combined-graduate-level-examination-2026-as-on-24-09-015b7",
+   "types": [
+    "job"
+   ],
+   "latest": "2026-09-24"
+  },
+  {
    "key": "bpssc-advt-05-2025",
    "source": "bpssc",
    "short": "BPSSC",
@@ -9634,6 +10329,40 @@
    "latest": "2026-09-23"
   },
   {
+   "key": "ssc-stenographer-grade-c-d-along-response-sheet-2026",
+   "source": "ssc",
+   "short": "SSC",
+   "org": "Staff Selection Commission",
+   "scope": "central",
+   "items": [
+    "1c53a5a54c18"
+   ],
+   "year": 2026,
+   "name": "SSC Stenographer Grade C and D Examination 2026 : Uploading of Tentative Answer",
+   "slug": "ssc-stenographer-grade-c-and-d-examination-2026-uploading-of-tentative-answer-42857",
+   "types": [
+    "answer"
+   ],
+   "latest": "2026-09-23"
+  },
+  {
+   "key": "ssc-stenographer-grade-c-d-mandatory-use-mangal-2026",
+   "source": "ssc",
+   "short": "SSC",
+   "org": "Staff Selection Commission",
+   "scope": "central",
+   "items": [
+    "dbd537505369"
+   ],
+   "year": 2026,
+   "name": "SSC Stenographer Grade C and D Examination 2026, Addendum: Mandatory use of Mangal",
+   "slug": "ssc-stenographer-grade-c-and-d-examination-2026-addendum-mandatory-use-of-mangal-46e7d",
+   "types": [
+    "notice"
+   ],
+   "latest": "2026-09-23"
+  },
+  {
    "key": "cbse-public-drq2026-2026",
    "source": "cbse",
    "short": "CBSE",
@@ -9664,6 +10393,40 @@
    "slug": "cbse-announcements-detailed-2026-69c65",
    "types": [
     "job"
+   ],
+   "latest": "2026-09-21"
+  },
+  {
+   "key": "ssc-information-admission-certificate-combined-2026",
+   "source": "ssc",
+   "short": "SSC",
+   "org": "Staff Selection Commission",
+   "scope": "central",
+   "items": [
+    "776144108443"
+   ],
+   "year": 2026,
+   "name": "SSC Information regarding the city of examination and Admission Certificate for the 2026",
+   "slug": "ssc-information-regarding-the-city-of-examination-and-admission-certificate-for-55560",
+   "types": [
+    "admit"
+   ],
+   "latest": "2026-09-21"
+  },
+  {
+   "key": "ssc-combined-hindi-translators-along-response-sheet-2026",
+   "source": "ssc",
+   "short": "SSC",
+   "org": "Staff Selection Commission",
+   "scope": "central",
+   "items": [
+    "afbe34282db8"
+   ],
+   "year": 2026,
+   "name": "SSC Combined Hindi Translators Examination, 2026: Uploading of Tentative Answer Key",
+   "slug": "ssc-combined-hindi-translators-examination-2026-uploading-of-tentative-answer-cba76",
+   "types": [
+    "answer"
    ],
    "latest": "2026-09-21"
   },
@@ -9792,6 +10555,23 @@
    "latest": "2026-09-16"
   },
   {
+   "key": "ssc-scientific-assistant-imd-through-junior-engineer-2026",
+   "source": "ssc",
+   "short": "SSC",
+   "org": "Staff Selection Commission",
+   "scope": "central",
+   "items": [
+    "9f46afae3d09"
+   ],
+   "year": 2026,
+   "name": "SSC Recruitment of Scientific Assistant in IMD through Junior Engineer Examination 2026",
+   "slug": "ssc-recruitment-of-scientific-assistant-in-imd-through-junior-engineer-20135",
+   "types": [
+    "job"
+   ],
+   "latest": "2026-09-16"
+  },
+  {
    "key": "bceceb-post-gradudate-dental-courses-2026",
    "source": "bceceb",
    "short": "BCECEB",
@@ -9805,6 +10585,23 @@
    "slug": "bceceb-revised-schedule-of-post-gradudate-dental-courses-2026-2026-03-91d29",
    "types": [
     "notice"
+   ],
+   "latest": "2026-09-14"
+  },
+  {
+   "key": "ssc-viii-posts-x-posts-ladakh-declaration-computer-2020",
+   "source": "ssc",
+   "short": "SSC",
+   "org": "Staff Selection Commission",
+   "scope": "central",
+   "items": [
+    "0636b1b98958"
+   ],
+   "year": 2020,
+   "name": "SSC Phase-VIII/2020/Selection Posts and Phase-X/2022/Selection Posts and",
+   "slug": "ssc-phase-viii-2020-selection-posts-and-phase-x-2022-selection-posts-and-ce9b3",
+   "types": [
+    "result"
    ],
    "latest": "2026-09-14"
   },
@@ -10510,6 +11307,40 @@
    "latest": "2026-07-28"
   },
   {
+   "key": "rbi-direct-officers-grade-b-dsim-cadre-py-july-26-2026",
+   "source": "rbi",
+   "short": "RBI",
+   "org": "Reserve Bank of India Opportunities",
+   "scope": "central",
+   "items": [
+    "de7dbb5f4718"
+   ],
+   "year": 2026,
+   "name": "RBI Direct Recruitment for the Posts of Officers in Grade ‘B’ - DSIM Cadre - PY 2026",
+   "slug": "rbi-direct-recruitment-for-the-posts-of-officers-in-grade-b-dsim-cadre-py-2026-11cae",
+   "types": [
+    "result"
+   ],
+   "latest": "2026-07-26"
+  },
+  {
+   "key": "rbi-direct-officers-grade-b-depr-cadre-py-july-26-2026",
+   "source": "rbi",
+   "short": "RBI",
+   "org": "Reserve Bank of India Opportunities",
+   "scope": "central",
+   "items": [
+    "2973dc586713"
+   ],
+   "year": 2026,
+   "name": "RBI Direct Recruitment for the Posts of Officers in Grade ‘B’ - DEPR Cadre - PY 2026",
+   "slug": "rbi-direct-recruitment-for-the-posts-of-officers-in-grade-b-depr-cadre-py-2026-d09b1",
+   "types": [
+    "result"
+   ],
+   "latest": "2026-07-26"
+  },
+  {
    "key": "bceceb-counselling-bcece-pcm-pcm-pcmb-group-2026",
    "source": "bceceb",
    "short": "BCECEB",
@@ -10524,6 +11355,23 @@
    "slug": "bceceb-online-counselling-of-bcece-pcm-pcm-of-pcmb-group-2026-2026-09-ca74f",
    "types": [
     "admission"
+   ],
+   "latest": "2026-07-25"
+  },
+  {
+   "key": "rbi-direct-officers-grade-b-general-cadre-py-july-25-2026",
+   "source": "rbi",
+   "short": "RBI",
+   "org": "Reserve Bank of India Opportunities",
+   "scope": "central",
+   "items": [
+    "512a498befde"
+   ],
+   "year": 2026,
+   "name": "RBI Direct Recruitment for the Posts of Officers in Grade ‘B’ - General Cadre - PY 2026",
+   "slug": "rbi-direct-recruitment-for-the-posts-of-officers-in-grade-b-general-cadre-py-9a67e",
+   "types": [
+    "result"
    ],
    "latest": "2026-07-25"
   },
@@ -11744,6 +12592,23 @@
     "admit"
    ],
    "latest": "2026-03-10"
+  },
+  {
+   "key": "rbi-attendant-panel-year-march-01-2025",
+   "source": "rbi",
+   "short": "RBI",
+   "org": "Reserve Bank of India Opportunities",
+   "scope": "central",
+   "items": [
+    "a5e405a830fc"
+   ],
+   "year": 2025,
+   "name": "RBI Recruitment for the Post of Office Attendant - Panel Year 2025: Scorecard of",
+   "slug": "rbi-recruitment-for-the-post-of-office-attendant-panel-year-2025-scorecard-of-ffa4f",
+   "types": [
+    "result"
+   ],
+   "latest": "2026-03-01"
   },
   {
    "key": "cbse-junior-assistant-2026",
