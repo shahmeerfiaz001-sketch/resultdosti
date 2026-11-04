@@ -1,4 +1,4 @@
-import { live, itemPath, displayTitle, fieldsOf, istToday } from '../lib/data';
+import { fresh as live, itemPath, displayTitle, fieldsOf, istToday } from '../lib/data';
 
 export function GET() {
   const jobs = live()

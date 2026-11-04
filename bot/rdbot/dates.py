@@ -1,5 +1,5 @@
 import re
-from datetime import date
+from datetime import date, datetime, timezone
 
 from .text import clean
 
@@ -69,9 +69,17 @@ def find_dates(text):
 
 def best_list_date(text, today=None, url=""):
     today = today or date.today()
-    cands = [d for d in find_dates(text) if (d - today).days <= 3 and (today - d).days <= 730]
+    cands = [d for d in find_dates(text) if (d - today).days <= 1 and (today - d).days <= 730]
     if not cands and url:
-        cands = [d for d in find_dates(url.replace("_", " ")) if (d - today).days <= 3 and (today - d).days <= 730]
+        cands = [d for d in find_dates(url.replace("_", " ")) if (d - today).days <= 1 and (today - d).days <= 730]
+    if not cands and url:
+        for m in re.finditer(r"(?<!\d)(1[4-9]\d{8})(?!\d)", url):
+            try:
+                d = datetime.fromtimestamp(int(m.group(1)), tz=timezone.utc).date()
+            except (ValueError, OSError):
+                continue
+            if (d - today).days <= 1 and (today - d).days <= 730:
+                cands.append(d)
     if not cands:
         return None
     return max(cands)

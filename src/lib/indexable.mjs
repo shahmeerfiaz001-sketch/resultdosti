@@ -15,7 +15,7 @@ export function hubCounts(exams, liveIds) {
 }
 
 export function indexable(item, todayIso, hubs) {
-  if (!item.tier || item.tier < 1) return false;
+  if (!item.tier || item.tier < 1 || item.archive) return false;
   const inHub = (hubs.get(item.group) || 0) >= 2;
   if (item.type === 'job') return item.tier >= 2 || ageDays(item, todayIso) <= INDEX_DAYS || inHub;
   if (item.type === 'notice') return inHub && ageDays(item, todayIso) <= INDEX_DAYS;

@@ -5,14 +5,14 @@ import ItemRow from '../../components/ItemRow.astro';
 import AdSlot from '../../components/AdSlot.astro';
 import site from '../../../site.config.json';
 import sources from '../../../bot/config/sources.json';
-import { live, TYPES } from '../../lib/data';
+import { live, fresh, TYPES } from '../../lib/data';
 
 export function getStaticPaths() {
   return Object.keys(site.scopes).map((scope) => ({ params: { scope } }));
 }
 const { scope } = Astro.params as { scope: string };
 const sc = (site.scopes as any)[scope];
-const items = live().filter((i) => i.scope === scope);
+const items = fresh().filter((i) => i.scope === scope);
 const year = new Date().getFullYear();
 const list = ((sources as any).sources ?? sources) as any[];
 const has = new Set(live().map((i) => i.source));

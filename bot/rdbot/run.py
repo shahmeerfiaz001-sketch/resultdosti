@@ -112,8 +112,19 @@ def age_days(it, today):
         return 0
 
 
+def is_archive(it, first_for_source, today):
+    if it.get("list_date"):
+        return False
+    years = [int(y) for y in re.findall(r"\b(20[1-3]\d)\b", it.get("title", ""))]
+    if years and max(years) < today.year - (1 if today.month <= 3 else 0):
+        return True
+    return first_for_source
+
+
 def pdf_pending(it, today):
     if it["type"] != "job" or not it["is_doc"] or not it["url"].lower().split("?")[0].endswith(".pdf"):
+        return False
+    if it.get("archive"):
         return False
     if age_days(it, today) > 120:
         return False
@@ -156,6 +167,8 @@ def main(argv=None):
                 new = merge(db, src, r["items"], skip=pruned)
                 for n in new:
                     n["context"] = next((f["context"] for f in r["items"] if f["url"] == n["url"]), "")
+                    if is_archive(n, src["id"] not in had, today):
+                        n["archive"] = True
                 all_new.extend(new)
                 total += len(r["items"])
                 time.sleep(1.2)
@@ -171,7 +184,7 @@ def main(argv=None):
             it["details"] = {"fields": {}, "parsed_at": None}
             it["tier"] = tier(it, {})
     budget = MAX_PDF
-    queue = sorted((it for it in db["items"] if pdf_pending(it, today)), key=lambda x: x.get("list_date") or x["first_seen"], reverse=True)
+    queue = sorted((it for it in db["items"] if pdf_pending(it, today)), key=lambda x: (bool(x.get("list_date")), x.get("list_date") or x["first_seen"]), reverse=True)
     for it in queue:
         if budget <= 0 or time.time() - t_start > BUDGET + 300:
             break

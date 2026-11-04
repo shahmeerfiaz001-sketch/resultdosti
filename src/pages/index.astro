@@ -3,10 +3,10 @@ import Base from '../layouts/Base.astro';
 import ItemRow from '../components/ItemRow.astro';
 import AdSlot from '../components/AdSlot.astro';
 import site from '../../site.config.json';
-import { load, live, liveExams, TYPES, fmt, examPath, scopeName } from '../lib/data';
+import { load, fresh, liveExams, TYPES, fmt, examPath, scopeName } from '../lib/data';
 
 const { updated } = load();
-const items = live();
+const items = fresh();
 const exams = liveExams();
 const year = new Date().getFullYear();
 const of = (t: string, n = 15) => items.filter((i) => i.type === t).slice(0, n);

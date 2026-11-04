@@ -5,7 +5,7 @@ from .text import clean
 RULES = [
     ("answer", [r"answer\s*key", r"answer\s*sheet", r"provisional\s+key", r"final\s+key", r"उत्तर\s*कुंजी", r"उत्तरकुंजी", r"objection"]),
     ("admit", [r"admit\s*card", r"e[\s-]*admit", r"call\s*letter", r"hall\s*ticket", r"प्रवेश\s*पत्र", r"exam\s*city", r"city\s*intimation", r"admission\s*certificate"]),
-    ("result", [r"\bresult", r"merit\s*list", r"select(ed|ion)\s+list", r"final\s+selection", r"score\s*card", r"marks\s+of", r"cut[\s-]*off", r"qualified\s+candidates", r"परिणाम", r"रिजल्ट", r"मेधा\s*सूची", r"चयन\s*सूची"]),
+    ("result", [r"\bresult", r"merit\s*list", r"select(ed|ion)\s+list", r"(provisionally\s+)?selected\s+candidates", r"shortlisted\s+candidates", r"final\s+selection", r"score\s*card", r"marks\s+of", r"cut[\s-]*off", r"qualified\s+candidates", r"परिणाम", r"रिजल्ट", r"मेधा\s*सूची", r"चयन\s*सूची"]),
     ("syllabus", [r"syllabus", r"exam(ination)?\s+pattern", r"scheme\s+of\s+exam", r"पाठ्यक्रम"]),
     ("admission", [r"admission", r"counsell?ing", r"seat\s+allotment", r"प्रवेश\s+हेतु"]),
     ("notice", [r"corrigendum", r"addendum", r"postpone", r"cancell?ation", r"rebuttal", r"important\s+notices?\b", r"extension\s+(of|in)\b", r"extended", r"शुद्धि\s*पत्र", r"स्थगित", r"physical\s+(efficiency|standard|measurement)", r"\bp\.?e\.?t\b", r"\bp\.?s\.?t\b", r"document\s+verification", r"\bd\.?v\.?\s+(schedule|notice)", r"interview\s+(schedule|programme|program|letter)", r"exam(ination)?\s+(schedule|date|programme)", r"date\s*sheet", r"शारीरिक\s+दक्षता", r"साक्षात्कार"]),

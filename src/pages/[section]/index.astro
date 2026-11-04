@@ -3,7 +3,7 @@ import Base from '../../layouts/Base.astro';
 import Crumbs from '../../components/Crumbs.astro';
 import FilterList from '../../components/FilterList.astro';
 import AdSlot from '../../components/AdSlot.astro';
-import { live, TYPES } from '../../lib/data';
+import { fresh, TYPES } from '../../lib/data';
 
 export function getStaticPaths() {
   return Object.entries(TYPES).map(([type, t]) => ({ params: { section: t.path }, props: { type } }));
@@ -11,7 +11,7 @@ export function getStaticPaths() {
 const { type } = Astro.props as { type: string };
 const T = TYPES[type];
 const year = new Date().getFullYear();
-let items = live().filter((i) => i.type === type);
+let items = fresh().filter((i) => i.type === type);
 if (type === 'job') items = [...items.filter((i) => i.status !== 'closed'), ...items.filter((i) => i.status === 'closed')];
 items = items.slice(0, 250);
 const intro: Record<string, string> = {

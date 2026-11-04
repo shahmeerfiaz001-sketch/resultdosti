@@ -26,6 +26,7 @@ export type Item = {
   status?: string;
   last_date?: string;
   group?: string;
+  archive?: boolean;
 };
 export type Exam = { key: string; source: string; short: string; org: string; scope: string; items: string[]; year: number | null; name: string; slug: string; types: string[]; latest: string };
 
@@ -128,6 +129,13 @@ export function live(): Item[] {
     if (i.type === 'notice' || i.type === 'admit' || i.type === 'answer') return age <= 365;
     return age <= 548;
   });
+  const seen = new Set<string>();
+  liveCache = liveCache.filter((i) => {
+    const k = `${i.source}|${i.type}|${i.title.toLowerCase().replace(/[^a-z0-9\u0900-\u097f]+/g, ' ').trim()}|${i.list_date || ''}`;
+    if (seen.has(k)) return false;
+    seen.add(k);
+    return true;
+  });
   return liveCache;
 }
 
@@ -140,6 +148,10 @@ export function liveExams(): Exam[] {
 
 export function fieldsOf(i: Item): Record<string, Field> {
   return (i.details && i.details.fields) || {};
+}
+
+export function fresh(): Item[] {
+  return live().filter((i) => !i.archive);
 }
 
 let hubCache: Map<string, number> | null = null;

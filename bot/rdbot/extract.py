@@ -38,11 +38,13 @@ LABEL = re.compile(
     r"information\s+handout|(?:preliminary|prelims?|main|mains|final|interview)?\s*(?:examination\s+)?results?|admit\s+cards?|call\s+letters?|answer\s+keys?|"
     r"recruitments?|vacanc(?:y|ies)|tribunal\s+vacancy|important\s+notices?|notices?|notice\s+board(?:\s+\d{4})?|old\s+advertisements|download\s+forms?|forms?|"
     r"annexure(?:\s*[-\s]?\s*[0-9ivx]+)?|syllabus|instructions?|details|status|login|register|registration|"
-    r"[a-z]{2,10}\s+(?:advertisement|recruitment|notification)s?|search\s+in\s+.*|home\b.*|bsf\s+recruitment.*)"
+    r"[a-z]{2,10}\s+(?:advertisement|recruitment|notification)s?|search\s+in\s+.*|home\b.*|bsf\s+recruitment.*|"
+    r"apply\s+online\s*\(.*|adv(?:t|ertisement)?\.?\s*no\.?\s*[:\-]?\s*[\w()\[\]/.\-]+|last\s+date\s+to\s+apply\s*[:\-]?.*)"
     r")(?:\s*(?:\(|\)|/|-|,|english|hindi|हिंदी|अंग्रेजी|\d{1,2}[./-]\d{1,2}[./-]\d{2,4}|to|till))*$",
     re.I,
 )
 FILE_LIKE = re.compile(r"^[\w\-]+\.(?:aspx?|php|html?|jsp|pdf|docx?)$|^[a-z]+[A-Z]\w*$")
+SKIP_HEAD = re.compile(r"^(?:adv(?:t|ertisement)?\.?\s*no|last\s+date|start\s+date|date\s+of|apply\s+online|important\s+dates?|fee\s+payment)\b", re.I)
 JUNK = re.compile(r"\bhome\s*/|can\s+check\s+below|^skip\s+to|^menu\b", re.I)
 
 
@@ -59,7 +61,7 @@ def _heading_for(a):
         if el.find("a") is not None and el.name not in ("h1", "h2", "h3", "h4", "h5", "h6", "strong", "b", "th"):
             continue
         txt = _strip_row_noise(clean(el.get_text(" ")))
-        if 18 <= len(txt) <= 220 and len(txt.split()) >= 3 and not _label_like(txt) and not JUNK.search(txt):
+        if 18 <= len(txt) <= 220 and len(txt.split()) >= 3 and not _label_like(txt) and not JUNK.search(txt) and not SKIP_HEAD.match(txt):
             return txt
     return ""
 
@@ -100,7 +102,10 @@ def _tidy_title(t):
     t = re.sub(r"^\s*\[\s*\]\s*[:\-]?\s*", "", t)
     t = re.sub(r"^\s*[:\-|]+\s*", "", t)
     t = re.sub(r"^\s*\d{1,5}\s+(?=[A-Za-z\u0900-\u097F])", "", clean(t))
-    t = re.sub(r"\s+(?:apply|apply\s+here|click)\s*$", "", t, flags=re.I)
+    t = re.sub(r"\s+(?:apply|apply\s+here|click|read\s+more|more)\s*$", "", t, flags=re.I)
+    t = re.sub(r"\s+(?:posted|published|uploaded)\s+on\s+.*$", "", t, flags=re.I)
+    t = re.sub(r"^\s*(?:jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*\.?\s+20\d{2}\s+", "", t, flags=re.I)
+    t = re.sub(r"\s*-\s*(?:hindi|english)(?:\s*/\s*(?:hindi|english))?\s*$", "", t, flags=re.I)
     t = re.sub(r"\(\s*\)", " ", t)
     return clean(t).strip(" -:|")
 

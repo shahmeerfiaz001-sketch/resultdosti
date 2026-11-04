@@ -1,6 +1,6 @@
 import rss from '@astrojs/rss';
 import site from '../../site.config.json';
-import { live, itemPath, displayTitle, TYPES, fmt } from '../lib/data';
+import { fresh as live, itemPath, displayTitle, TYPES, fmt } from '../lib/data';
 
 export function GET() {
   const items = live().slice(0, 60);
