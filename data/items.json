@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T17:40:11+00:00",
+ "updated": "2026-11-04T19:08:16+00:00",
  "items": [
   {
    "id": "eb5a27ddb770",
@@ -2794,31 +2794,6 @@
    "group": "sbi-crpd-po-20-english-2024"
   },
   {
-   "id": "55ca6c504aad",
-   "source": "sbi",
-   "org": "State Bank of India Careers",
-   "short": "SBI",
-   "scope": "central",
-   "title": "ADVERTISEMENT No: CRPD/PO/2024-25/22 - ADVERTISEMENT( Hindi )/ English )",
-   "url": "https://sbi.bank.in/documents/77530/43947057/261220241932-1_Detailed_Adv.2024_27.12.2024.pdf/dfe093da-d25c-8cc5-67df-cf29f3f61645?t=1735221832896",
-   "is_doc": false,
-   "type": "job",
-   "list_date": "2024-12-27",
-   "first_seen": "2026-11-04T17:28:41+00:00",
-   "last_seen": "2026-11-04T17:28:41+00:00",
-   "advt": null,
-   "link_policy": "deep",
-   "official_home": "https://sbi.bank.in",
-   "slug": "sbi-advertisement-no-crpd-po-2024-25-22-advertisement-hindi-english-55ca6c",
-   "details": {
-    "fields": {},
-    "parsed_at": null
-   },
-   "tier": 1,
-   "status": "info",
-   "group": "sbi-crpd-po-20-english-2024"
-  },
-  {
    "id": "8cf524ffee68",
    "source": "sbi",
    "org": "State Bank of India Careers",
@@ -2917,31 +2892,6 @@
    "tier": 1,
    "status": "info",
    "archive": true
-  },
-  {
-   "id": "651415f8c7a0",
-   "source": "sbi",
-   "org": "State Bank of India Careers",
-   "short": "SBI",
-   "scope": "central",
-   "title": "ADVERTISEMENT No: CRPD/CR-SPLDRIVE/2024-25/23 - ADVERTISEMENT( Hindi / English )",
-   "url": "https://sbi.bank.in/documents/77530/43947057/18122024_SBI+-+CRPD+23+JA+2024+-+Ladakh-Detailed+Ad+-+Hindi_17.12.24.pdf/ef256158-001c-1bbe-ca97-d2b1886ecff3?t=1734520478398",
-   "is_doc": false,
-   "type": "job",
-   "list_date": "2024-12-17",
-   "first_seen": "2026-11-04T17:28:41+00:00",
-   "last_seen": "2026-11-04T17:28:41+00:00",
-   "advt": null,
-   "link_policy": "deep",
-   "official_home": "https://sbi.bank.in",
-   "slug": "sbi-advertisement-no-crpd-cr-spldrive-2024-25-23-advertisement-hindi-651415",
-   "details": {
-    "fields": {},
-    "parsed_at": null
-   },
-   "tier": 1,
-   "status": "info",
-   "group": "sbi-crpd-cr-spldrive-20-2024"
   },
   {
    "id": "79ccf20be93b",
@@ -11787,31 +11737,6 @@
    "group": "nta-cancellation-cuet-scheduled-at-kite-polytechnic-2025"
   },
   {
-   "id": "748770fecd7b",
-   "source": "nta",
-   "org": "National Testing Agency",
-   "short": "NTA",
-   "scope": "central",
-   "title": "Roll No. wise (Complete) Result of candidates who were called for Interviews in respect of Personal Assistant (Open) Examination 2023 held on 01.03.2025, 03.03.2025 &",
-   "url": "https://nta.ac.in/Download/Notice/Notice_20250512233928.pdf",
-   "is_doc": true,
-   "type": "result",
-   "list_date": "2025-03-04",
-   "first_seen": "2026-11-04T17:28:52+00:00",
-   "last_seen": "2026-11-04T17:28:52+00:00",
-   "advt": null,
-   "link_policy": "deep",
-   "official_home": "https://nta.ac.in",
-   "slug": "nta-roll-no-wise-complete-result-of-candidates-who-were-called-for-748770",
-   "details": {
-    "fields": {},
-    "parsed_at": null
-   },
-   "tier": 1,
-   "status": "info",
-   "group": "nta-who-were-called-interviews-respect-personal-2023"
-  },
-  {
    "id": "e98462e4c46a",
    "source": "nta",
    "org": "National Testing Agency",
@@ -12847,31 +12772,6 @@
    "group": "nta-biotechnology-eligibility-2025"
   },
   {
-   "id": "5bac6f216cba",
-   "source": "nta",
-   "org": "National Testing Agency",
-   "short": "NTA",
-   "scope": "central",
-   "title": "Admit Cards for reschedule of Joint CSIR-UGC NET December 2024 Exam held on 28.02.2025 (Shift-1 Only) in Assam Down Town University, Guwahati, Assam",
-   "url": "https://nta.ac.in/Download/Notice/Notice_20250228204321.pdf",
-   "is_doc": true,
-   "type": "admit",
-   "list_date": "2025-02-28",
-   "first_seen": "2026-11-04T17:28:52+00:00",
-   "last_seen": "2026-11-04T17:28:52+00:00",
-   "advt": null,
-   "link_policy": "deep",
-   "official_home": "https://nta.ac.in",
-   "slug": "nta-admit-cards-for-reschedule-of-joint-csir-ugc-net-december-2024-5bac6f",
-   "details": {
-    "fields": {},
-    "parsed_at": null
-   },
-   "tier": 1,
-   "status": "info",
-   "group": "nta-reschedule-joint-csir-ugc-net-december-assam-2024"
-  },
-  {
    "id": "9327697f1fc2",
    "source": "nta",
    "org": "National Testing Agency",
@@ -12896,31 +12796,6 @@
    "status": "info",
    "archive": true,
    "group": "nta-national-council-hotel-management-joint-entrance-2025"
-  },
-  {
-   "id": "c3d003d2a846",
-   "source": "nta",
-   "org": "National Testing Agency",
-   "short": "NTA",
-   "scope": "central",
-   "title": "Reschedule of Exam held on 28th February 2025 ( Shift-1 Only) in Assam Down Town University, Guwahati- reg.",
-   "url": "https://nta.ac.in/Download/Notice/Notice_20250228145626.pdf",
-   "is_doc": true,
-   "type": "notice",
-   "list_date": "2025-02-28",
-   "first_seen": "2026-11-04T17:28:52+00:00",
-   "last_seen": "2026-11-04T17:28:52+00:00",
-   "advt": null,
-   "link_policy": "deep",
-   "official_home": "https://nta.ac.in",
-   "slug": "nta-reschedule-of-exam-held-on-28th-february-2025-shift-1-only-in-c3d003",
-   "details": {
-    "fields": {},
-    "parsed_at": null
-   },
-   "tier": 1,
-   "status": "info",
-   "group": "nta-reschedule-28th-february-assam-down-town-2025"
   },
   {
    "id": "df5f4648d603",
@@ -13130,31 +13005,6 @@
    "archive": true
   },
   {
-   "id": "679e1acaf58c",
-   "source": "nta",
-   "org": "National Testing Agency",
-   "short": "NTA",
-   "scope": "central",
-   "title": "JEE (Main) – 2025 : SESSION – 1 Final Answer Key Of B.E. / B.Tech As On",
-   "url": "https://nta.ac.in/Download/Notice/Notice_20250210115032.pdf",
-   "is_doc": true,
-   "type": "answer",
-   "list_date": "2025-02-09",
-   "first_seen": "2026-11-04T17:28:52+00:00",
-   "last_seen": "2026-11-04T17:28:52+00:00",
-   "advt": null,
-   "link_policy": "deep",
-   "official_home": "https://nta.ac.in",
-   "slug": "nta-jee-main-2025-session-1-final-answer-key-of-b-e-b-tech-as-on-09-679e1a",
-   "details": {
-    "fields": {},
-    "parsed_at": null
-   },
-   "tier": 1,
-   "status": "info",
-   "group": "nta-jee-session-b-e-b-tech-as-2025"
-  },
-  {
    "id": "6be648a42375",
    "source": "nta",
    "org": "National Testing Agency",
@@ -13361,56 +13211,6 @@
    "status": "info",
    "archive": true,
    "group": "nta-joint-csir-ugc-net-december-2024"
-  },
-  {
-   "id": "11c5d0831656",
-   "source": "nta",
-   "org": "National Testing Agency",
-   "short": "NTA",
-   "scope": "central",
-   "title": "Change in venue of examination for candidates scheduled to appear in Institute for Advanced Computer Technology 21/03/44/03, behind Choti Devkali Mandir, Tulsi Nagar Ayodhya, Faizabad 224723 for JEE (Main) 2025 Session-1 on 28, 29 and 30 January 2025",
-   "url": "https://nta.ac.in/Download/Notice/Notice_20250125131851.pdf",
-   "is_doc": true,
-   "type": "notice",
-   "list_date": "2025-01-30",
-   "first_seen": "2026-11-04T17:28:52+00:00",
-   "last_seen": "2026-11-04T17:28:52+00:00",
-   "advt": null,
-   "link_policy": "deep",
-   "official_home": "https://nta.ac.in",
-   "slug": "nta-change-in-venue-of-examination-for-candidates-scheduled-to-appear-11c5d0",
-   "details": {
-    "fields": {},
-    "parsed_at": null
-   },
-   "tier": 1,
-   "status": "info",
-   "group": "nta-change-venue-scheduled-appear-institute-2025"
-  },
-  {
-   "id": "5db6b82f7438",
-   "source": "nta",
-   "org": "National Testing Agency",
-   "short": "NTA",
-   "scope": "central",
-   "title": "Release of Admit Cards for the Candidates of JEE (Main)-2025 Session-l(January 2025) scheduled to appear on 28, 29 and 30 January 2025- Reg.",
-   "url": "https://nta.ac.in/Download/Notice/Notice_20250123193735.pdf",
-   "is_doc": true,
-   "type": "admit",
-   "list_date": "2025-01-30",
-   "first_seen": "2026-11-04T17:28:52+00:00",
-   "last_seen": "2026-11-04T17:28:52+00:00",
-   "advt": null,
-   "link_policy": "deep",
-   "official_home": "https://nta.ac.in",
-   "slug": "nta-release-of-admit-cards-for-the-candidates-of-jee-main-2025-5db6b8",
-   "details": {
-    "fields": {},
-    "parsed_at": null
-   },
-   "tier": 1,
-   "status": "info",
-   "group": "nta-jee-session-l-scheduled-appear-28-29-30-january-2025"
   },
   {
    "id": "3e5ec6b9d219",
@@ -14934,7 +14734,16 @@
    "slug": "cbse-notice-announcements-vacancy-notification-64b31c",
    "details": {
     "fields": {},
-    "parsed_at": null
+    "pdf_quality": {
+     "chars": 2621,
+     "latin": 0.668,
+     "devanagari": 0.018,
+     "legacy_suspect": false,
+     "scanned_suspect": false
+    },
+    "parsed_at": "2026-11-04T19:07:51+00:00",
+    "pdf_error": null,
+    "attempts": 1
    },
    "tier": 1,
    "status": "info"
@@ -14958,7 +14767,16 @@
    "slug": "cbse-notice-announcements-detailed-advertisement-eb59cf",
    "details": {
     "fields": {},
-    "parsed_at": null
+    "pdf_quality": {
+     "chars": 21028,
+     "latin": 0.764,
+     "devanagari": 0.002,
+     "legacy_suspect": false,
+     "scanned_suspect": false
+    },
+    "parsed_at": "2026-11-04T19:07:52+00:00",
+    "pdf_error": null,
+    "attempts": 1
    },
    "tier": 1,
    "status": "info",
@@ -16645,380 +16463,6 @@
    "group": "cbse-cancellation-candidature-junior-accountant-2025"
   },
   {
-   "id": "bcc281371e9f",
-   "source": "cbse",
-   "org": "Central Board of Secondary Education",
-   "short": "CBSE",
-   "scope": "central",
-   "title": "Question papers for the Tier 1 and Tier 2 examinations conducted in 2024 for the recruitment of various posts | Tier 1 | Tier 2",
-   "url": "https://www.cbse.gov.in/cbsenew/documents/Tier_1_QP_28022025.zip",
-   "is_doc": false,
-   "type": "job",
-   "list_date": "2025-02-28",
-   "first_seen": "2026-11-04T17:29:04+00:00",
-   "last_seen": "2026-11-04T17:29:04+00:00",
-   "advt": null,
-   "link_policy": "deep",
-   "official_home": "https://cbse.gov.in",
-   "slug": "cbse-question-papers-for-the-tier-1-and-tier-2-examinations-conducted-bcc281",
-   "details": {
-    "fields": {},
-    "parsed_at": null
-   },
-   "tier": 1,
-   "status": "info",
-   "group": "cbse-question-papers-conducted-posts-2024"
-  },
-  {
-   "id": "3e3276285c6c",
-   "source": "cbse",
-   "org": "Central Board of Secondary Education",
-   "short": "CBSE",
-   "scope": "central",
-   "title": "Public notice regarding the recruitment for the Post of Superintendent (Group B) and Junior Assistant (Group C)",
-   "url": "https://www.cbse.gov.in/cbsenew/documents/Public_Notice_Supdt_JR_Assistant_25022025.pdf",
-   "is_doc": true,
-   "type": "job",
-   "list_date": "2025-02-25",
-   "first_seen": "2026-11-04T17:29:04+00:00",
-   "last_seen": "2026-11-04T17:29:04+00:00",
-   "advt": null,
-   "link_policy": "deep",
-   "official_home": "https://cbse.gov.in",
-   "slug": "cbse-public-notice-regarding-the-recruitment-for-the-post-of-3e3276",
-   "details": {
-    "fields": {},
-    "parsed_at": null
-   },
-   "tier": 1,
-   "status": "info",
-   "group": "cbse-public-superintendent-junior-assistant-2025"
-  },
-  {
-   "id": "cd80bd495a2b",
-   "source": "cbse",
-   "org": "Central Board of Secondary Education",
-   "short": "CBSE",
-   "scope": "central",
-   "title": "Result Notice for the post of Junior Accountant and Accountant",
-   "url": "https://www.cbse.gov.in/cbsenew/documents/Result_Notice_Accountant_JR_Accountant_20022025.pdf",
-   "is_doc": true,
-   "type": "result",
-   "list_date": "2025-02-20",
-   "first_seen": "2026-11-04T17:29:04+00:00",
-   "last_seen": "2026-11-04T17:29:04+00:00",
-   "advt": null,
-   "link_policy": "deep",
-   "official_home": "https://cbse.gov.in",
-   "slug": "cbse-result-notice-for-the-post-of-junior-accountant-and-accountant-cd80bd",
-   "details": {
-    "fields": {},
-    "parsed_at": null
-   },
-   "tier": 1,
-   "status": "info",
-   "group": "cbse-junior-accountant-accountant-2025"
-  },
-  {
-   "id": "f6e8de154a9d",
-   "source": "cbse",
-   "org": "Central Board of Secondary Education",
-   "short": "CBSE",
-   "scope": "central",
-   "title": "Public Notice - CBSE recruitment (Tier - 2 ) Examination November, 2024",
-   "url": "https://www.cbse.gov.in/cbsenew/documents/Public_Notice_Tier_2_11022025.pdf",
-   "is_doc": true,
-   "type": "job",
-   "list_date": "2025-02-11",
-   "first_seen": "2026-11-04T17:29:04+00:00",
-   "last_seen": "2026-11-04T17:29:04+00:00",
-   "advt": null,
-   "link_policy": "deep",
-   "official_home": "https://cbse.gov.in",
-   "slug": "public-notice-cbse-recruitment-tier-2-examination-november-2024-f6e8de",
-   "details": {
-    "fields": {},
-    "parsed_at": null
-   },
-   "tier": 1,
-   "status": "info",
-   "group": "cbse-public-cbse-november-2024"
-  },
-  {
-   "id": "6c4feb1640b2",
-   "source": "cbse",
-   "org": "Central Board of Secondary Education",
-   "short": "CBSE",
-   "scope": "central",
-   "title": "Public Notice : CBSE recruitment for Superintendent and Junior Assistant",
-   "url": "https://www.cbse.gov.in/cbsenew/documents/Public_Notice_for_Correction_CBSE_Recruitment_2025_06022025.pdf",
-   "is_doc": true,
-   "type": "job",
-   "list_date": "2025-02-06",
-   "first_seen": "2026-11-04T17:29:04+00:00",
-   "last_seen": "2026-11-04T17:29:04+00:00",
-   "advt": null,
-   "link_policy": "deep",
-   "official_home": "https://cbse.gov.in",
-   "slug": "public-notice-cbse-recruitment-for-superintendent-and-junior-assistant-6c4feb",
-   "details": {
-    "fields": {},
-    "parsed_at": null
-   },
-   "tier": 1,
-   "status": "info",
-   "group": "cbse-public-cbse-superintendent-junior-assistant-2025"
-  },
-  {
-   "id": "1843085648cc",
-   "source": "cbse",
-   "org": "Central Board of Secondary Education",
-   "short": "CBSE",
-   "scope": "central",
-   "title": "Result notification (reserve panel) for the post of Junior Engineer and Junior Translation Officer on direct recruitment basis - regarding",
-   "url": "https://www.cbse.gov.in/cbsenew/documents/Result_Notice_Reserve_Panel_JE_JTO_21012025 .pdf",
-   "is_doc": true,
-   "type": "result",
-   "list_date": "2025-01-21",
-   "first_seen": "2026-11-04T17:29:04+00:00",
-   "last_seen": "2026-11-04T17:29:04+00:00",
-   "advt": null,
-   "link_policy": "deep",
-   "official_home": "https://cbse.gov.in",
-   "slug": "cbse-result-notification-reserve-panel-for-the-post-of-junior-184308",
-   "details": {
-    "fields": {},
-    "parsed_at": null
-   },
-   "tier": 1,
-   "status": "info",
-   "group": "cbse-junior-engineer-junior-translation-officer-2025"
-  },
-  {
-   "id": "5854a449afd2",
-   "source": "cbse",
-   "org": "Central Board of Secondary Education",
-   "short": "CBSE",
-   "scope": "central",
-   "title": "Candidature cancellation notification for the post of Junior Engineer and Junior Translation Officer on direct recruitment basis - regarding",
-   "url": "https://www.cbse.gov.in/cbsenew/documents/Candidature_Cancelation_JE_JTO_20012025.pdf",
-   "is_doc": true,
-   "type": "notice",
-   "list_date": "2025-01-20",
-   "first_seen": "2026-11-04T17:29:04+00:00",
-   "last_seen": "2026-11-04T17:29:04+00:00",
-   "advt": null,
-   "link_policy": "deep",
-   "official_home": "https://cbse.gov.in",
-   "slug": "cbse-candidature-cancellation-notification-for-the-post-of-junior-5854a4",
-   "details": {
-    "fields": {},
-    "parsed_at": null
-   },
-   "tier": 1,
-   "status": "info",
-   "group": "cbse-candidature-cancellation-junior-engineer-junior-2025"
-  },
-  {
-   "id": "c21964645773",
-   "source": "cbse",
-   "org": "Central Board of Secondary Education",
-   "short": "CBSE",
-   "scope": "central",
-   "title": "Cancellation of recruitment process for the post of Assistant Secretary (Vigilance) on deputation basis advertised vide Vacancy Notification No. CBSE/RC/ADVT./01/2024 dated 14.06.2024-reg",
-   "url": "https://www.cbse.gov.in/cbsenew/documents/Cancellation_AS_Vigilance_15012025.pdf",
-   "is_doc": true,
-   "type": "notice",
-   "list_date": "2025-01-16",
-   "first_seen": "2026-11-04T17:29:04+00:00",
-   "last_seen": "2026-11-04T17:29:04+00:00",
-   "advt": null,
-   "link_policy": "deep",
-   "official_home": "https://cbse.gov.in",
-   "slug": "cancellation-of-recruitment-process-for-the-post-of-assistant-c21964",
-   "details": {
-    "fields": {},
-    "parsed_at": null
-   },
-   "tier": 1,
-   "status": "info",
-   "group": "cbse-cancellation-process-assistant-secretary-2024"
-  },
-  {
-   "id": "a23b2b2a52aa",
-   "source": "cbse",
-   "org": "Central Board of Secondary Education",
-   "short": "CBSE",
-   "scope": "central",
-   "title": "Public Notice - CBSE recruitment Examination, 2024",
-   "url": "https://www.cbse.gov.in/cbsenew/documents/Public_Notice_Recruitment_2024_10012025.pdf",
-   "is_doc": true,
-   "type": "job",
-   "list_date": "2025-01-10",
-   "first_seen": "2026-11-04T17:29:04+00:00",
-   "last_seen": "2026-11-04T17:29:04+00:00",
-   "advt": null,
-   "link_policy": "deep",
-   "official_home": "https://cbse.gov.in",
-   "slug": "public-notice-cbse-recruitment-examination-2024-a23b2b",
-   "details": {
-    "fields": {},
-    "parsed_at": null
-   },
-   "tier": 1,
-   "status": "info"
-  },
-  {
-   "id": "735c1de69b0f",
-   "source": "cbse",
-   "org": "Central Board of Secondary Education",
-   "short": "CBSE",
-   "scope": "central",
-   "title": "Online applications for direct recruitment for the post of Superintendent and Junior Assistant | Vacancy Notification | Detailed Advertisement",
-   "url": "https://www.cbse.gov.in/cbsenew/documents/Notification_SUPDT_JA_31122024.pdf",
-   "is_doc": true,
-   "type": "job",
-   "list_date": "2024-12-31",
-   "first_seen": "2026-11-04T17:29:04+00:00",
-   "last_seen": "2026-11-04T17:29:04+00:00",
-   "advt": null,
-   "link_policy": "deep",
-   "official_home": "https://cbse.gov.in",
-   "slug": "cbse-online-applications-for-direct-recruitment-for-the-post-of-735c1d",
-   "details": {
-    "fields": {},
-    "parsed_at": null
-   },
-   "tier": 1,
-   "status": "info",
-   "group": "cbse-direct-superintendent-junior-assistant-detailed-2024"
-  },
-  {
-   "id": "04d3c1a03957",
-   "source": "cbse",
-   "org": "Central Board of Secondary Education",
-   "short": "CBSE",
-   "scope": "central",
-   "title": "Notice regarding for the post of Junior Translation Officer and Junior Engineer",
-   "url": "https://www.cbse.gov.in/cbsenew/documents/Public_Notice_JE_JTO_18122024.pdf",
-   "is_doc": true,
-   "type": "job",
-   "list_date": "2024-12-18",
-   "first_seen": "2026-11-04T17:29:04+00:00",
-   "last_seen": "2026-11-04T17:29:04+00:00",
-   "advt": null,
-   "link_policy": "deep",
-   "official_home": "https://cbse.gov.in",
-   "slug": "cbse-notice-regarding-for-the-post-of-junior-translation-officer-and-04d3c1",
-   "details": {
-    "fields": {},
-    "parsed_at": null
-   },
-   "tier": 1,
-   "status": "info",
-   "group": "cbse-junior-translation-officer-junior-engineer-2024"
-  },
-  {
-   "id": "b41e39e5c69a",
-   "source": "cbse",
-   "org": "Central Board of Secondary Education",
-   "short": "CBSE",
-   "scope": "central",
-   "title": "Result notification for the post of Under Secretary (Skill Education) on deputation basis - regarding",
-   "url": "https://www.cbse.gov.in/cbsenew/documents/Result_Notification_US_SKILL_08112024.pdf",
-   "is_doc": true,
-   "type": "result",
-   "list_date": "2024-11-08",
-   "first_seen": "2026-11-04T17:29:04+00:00",
-   "last_seen": "2026-11-04T17:29:04+00:00",
-   "advt": null,
-   "link_policy": "deep",
-   "official_home": "https://cbse.gov.in",
-   "slug": "cbse-result-notification-for-the-post-of-under-secretary-skill-b41e39",
-   "details": {
-    "fields": {},
-    "parsed_at": null
-   },
-   "tier": 1,
-   "status": "info",
-   "group": "cbse-secretary-deputation-basis-2024"
-  },
-  {
-   "id": "0a050a5b84bc",
-   "source": "cbse",
-   "org": "Central Board of Secondary Education",
-   "short": "CBSE",
-   "scope": "central",
-   "title": "Cancellation of recruitment process for various post of Training Cadre on deputation basis",
-   "url": "https://www.cbse.gov.in/cbsenew/documents/Cancellation_Various_Training_cadre_08112024.pdf",
-   "is_doc": true,
-   "type": "notice",
-   "list_date": "2024-11-08",
-   "first_seen": "2026-11-04T17:29:04+00:00",
-   "last_seen": "2026-11-04T17:29:04+00:00",
-   "advt": null,
-   "link_policy": "deep",
-   "official_home": "https://cbse.gov.in",
-   "slug": "cbse-cancellation-of-recruitment-process-for-various-post-of-training-0a050a",
-   "details": {
-    "fields": {},
-    "parsed_at": null
-   },
-   "tier": 1,
-   "status": "info",
-   "group": "cbse-cancellation-process-training-cadre-deputation-2024"
-  },
-  {
-   "id": "9c766315873f",
-   "source": "cbse",
-   "org": "Central Board of Secondary Education",
-   "short": "CBSE",
-   "scope": "central",
-   "title": "Result notification for the post of Assistant Secretary (Skill Education) on deputation basis - regarding",
-   "url": "https://www.cbse.gov.in/cbsenew/documents/Result_Notification_AS_Skill_Edu_05112024.pdf",
-   "is_doc": true,
-   "type": "result",
-   "list_date": "2024-11-04",
-   "first_seen": "2026-11-04T17:29:04+00:00",
-   "last_seen": "2026-11-04T17:29:04+00:00",
-   "advt": null,
-   "link_policy": "deep",
-   "official_home": "https://cbse.gov.in",
-   "slug": "cbse-result-notification-for-the-post-of-assistant-secretary-skill-9c7663",
-   "details": {
-    "fields": {},
-    "parsed_at": null
-   },
-   "tier": 1,
-   "status": "info",
-   "group": "cbse-assistant-secretary-deputation-basis-2024"
-  },
-  {
-   "id": "62689a231193",
-   "source": "cbse",
-   "org": "Central Board of Secondary Education",
-   "short": "CBSE",
-   "scope": "central",
-   "title": "Cancellation of recruitment process for the post of Assistant Secretary (Media Relations) on deputation basis",
-   "url": "https://www.cbse.gov.in/cbsenew/documents/Cancellation_AS_MR_Deputation_05112024.pdf",
-   "is_doc": true,
-   "type": "notice",
-   "list_date": "2024-11-04",
-   "first_seen": "2026-11-04T17:29:04+00:00",
-   "last_seen": "2026-11-04T17:29:04+00:00",
-   "advt": null,
-   "link_policy": "deep",
-   "official_home": "https://cbse.gov.in",
-   "slug": "cbse-cancellation-of-recruitment-process-for-the-post-of-assistant-62689a",
-   "details": {
-    "fields": {},
-    "parsed_at": null
-   },
-   "tier": 1,
-   "status": "info",
-   "group": "cbse-cancellation-process-assistant-secretary-2024"
-  },
-  {
    "id": "5d6808ef382b",
    "source": "cbse",
    "org": "Central Board of Secondary Education",
@@ -18175,8 +17619,35 @@
    "official_home": "https://dsssb.delhi.gov.in",
    "slug": "dsssb-vacancy-notice-advertisement-no-05-2026-0d7331",
    "details": {
-    "fields": {},
-    "parsed_at": null
+    "fields": {
+     "start_date": {
+      "value": "2026-10-13",
+      "confidence": "valid"
+     },
+     "fee": {
+      "values": [
+       0,
+       100
+      ],
+      "max": 100,
+      "min": 0,
+      "confidence": "valid"
+     },
+     "posts": {
+      "value": 12,
+      "confidence": "valid"
+     }
+    },
+    "pdf_quality": {
+     "chars": 15887,
+     "latin": 0.755,
+     "devanagari": 0.0,
+     "legacy_suspect": false,
+     "scanned_suspect": false
+    },
+    "parsed_at": "2026-11-04T19:07:30+00:00",
+    "pdf_error": null,
+    "attempts": 1
    },
    "tier": 1,
    "status": "info",
@@ -18225,8 +17696,31 @@
    "official_home": "https://dsssb.delhi.gov.in",
    "slug": "dsssb-vacancy-notice-advertisement-no-04-2026-combined-examination-b1082b",
    "details": {
-    "fields": {},
-    "parsed_at": null
+    "fields": {
+     "start_date": {
+      "value": "2026-10-06",
+      "confidence": "valid"
+     },
+     "fee": {
+      "values": [
+       0,
+       100
+      ],
+      "max": 100,
+      "min": 0,
+      "confidence": "valid"
+     }
+    },
+    "pdf_quality": {
+     "chars": 18902,
+     "latin": 0.727,
+     "devanagari": 0.0,
+     "legacy_suspect": false,
+     "scanned_suspect": false
+    },
+    "parsed_at": "2026-11-04T19:07:36+00:00",
+    "pdf_error": null,
+    "attempts": 1
    },
    "tier": 1,
    "status": "info",
@@ -19684,7 +19178,16 @@
    "slug": "upprpb-2020-21-651-2026-0-01-09-2026-11427-2022-06eced",
    "details": {
     "fields": {},
-    "parsed_at": null
+    "pdf_quality": {
+     "chars": 243,
+     "latin": 0.399,
+     "devanagari": 0.0,
+     "legacy_suspect": true,
+     "scanned_suspect": false
+    },
+    "parsed_at": "2026-11-04T19:07:13+00:00",
+    "pdf_error": null,
+    "attempts": 1
    },
    "tier": 1,
    "status": "info",
@@ -20034,7 +19537,16 @@
    "slug": "upprpb-0-0-2025-notice-board-86c2b0",
    "details": {
     "fields": {},
-    "parsed_at": null
+    "pdf_quality": {
+     "chars": 3407,
+     "latin": 0.64,
+     "devanagari": 0.0,
+     "legacy_suspect": false,
+     "scanned_suspect": false
+    },
+    "parsed_at": "2026-11-04T19:07:50+00:00",
+    "pdf_error": null,
+    "attempts": 1
    },
    "tier": 1,
    "status": "info",
@@ -22704,256 +22216,6 @@
    "group": "bpssc-advt-01-2024"
   },
   {
-   "id": "0d5346185146",
-   "source": "bpssc",
-   "org": "Bihar Police Subordinate Services Commission",
-   "short": "BPSSC",
-   "scope": "bihar",
-   "title": "Result: Result of Written Examination for the post of Steno Assistant Sub-Inspector in Home (Police) Dept., Govt. of Bihar",
-   "url": "https://bpssc.bihar.gov.in/Notices/Result Written exam 01-24 -11032025.pdf",
-   "is_doc": true,
-   "type": "result",
-   "list_date": "2025-03-11",
-   "first_seen": "2026-11-04T17:37:13+00:00",
-   "last_seen": "2026-11-04T17:37:13+00:00",
-   "advt": "01/2024",
-   "link_policy": "deep",
-   "official_home": "https://bpssc.bihar.gov.in",
-   "slug": "bpssc-result-result-of-written-examination-for-the-post-of-steno-0d5346",
-   "details": {
-    "fields": {},
-    "parsed_at": null
-   },
-   "tier": 1,
-   "status": "info",
-   "group": "bpssc-advt-01-2024"
-  },
-  {
-   "id": "0e4c0112ab39",
-   "source": "bpssc",
-   "org": "Bihar Police Subordinate Services Commission",
-   "short": "BPSSC",
-   "scope": "bihar",
-   "title": "Important Notice: Admit Card of Written Examination for the post of Steno Assistant Sub-Inspector in Home (Police) Dept., Govt. of Bihar",
-   "url": "https://apply-bpssc.com/StenoAsiWEAdmit124/applicationIndex",
-   "is_doc": false,
-   "type": "admit",
-   "list_date": "2025-02-07",
-   "first_seen": "2026-11-04T17:37:13+00:00",
-   "last_seen": "2026-11-04T17:37:13+00:00",
-   "advt": "01/2024",
-   "link_policy": "deep",
-   "official_home": "https://bpssc.bihar.gov.in",
-   "slug": "bpssc-important-notice-admit-card-of-written-examination-for-the-post-0e4c01",
-   "details": {
-    "fields": {},
-    "parsed_at": null
-   },
-   "tier": 1,
-   "status": "info",
-   "group": "bpssc-advt-01-2024"
-  },
-  {
-   "id": "04e1c035d37f",
-   "source": "bpssc",
-   "org": "Bihar Police Subordinate Services Commission",
-   "short": "BPSSC",
-   "scope": "bihar",
-   "title": "Important Notice: Center List of Candidates according to Roll No. of Written Examination for the Post of Steno Assistant Sub-Inspector in Home (Police) Dept., Govt. of Bihar",
-   "url": "https://bpssc.bihar.gov.in/Notices/Centre list with Roll number on website.pdf",
-   "is_doc": true,
-   "type": "notice",
-   "list_date": "2025-02-07",
-   "first_seen": "2026-11-04T17:37:13+00:00",
-   "last_seen": "2026-11-04T17:37:13+00:00",
-   "advt": "01/2024",
-   "link_policy": "deep",
-   "official_home": "https://bpssc.bihar.gov.in",
-   "slug": "bpssc-important-notice-center-list-of-candidates-according-to-roll-no-04e1c0",
-   "details": {
-    "fields": {},
-    "parsed_at": null
-   },
-   "tier": 1,
-   "status": "info",
-   "group": "bpssc-advt-01-2024"
-  },
-  {
-   "id": "e668f76b3541",
-   "source": "bpssc",
-   "org": "Bihar Police Subordinate Services Commission",
-   "short": "BPSSC",
-   "scope": "bihar",
-   "title": "Important Notice: Regarding Written Examination and e-Admit Card of Steno Assistant Sub-Inspector in Home (Police) Dept., Govt. of Bihar",
-   "url": "https://bpssc.bihar.gov.in/Notices/Notice e-Admit Card on Website.pdf",
-   "is_doc": true,
-   "type": "admit",
-   "list_date": "2025-02-07",
-   "first_seen": "2026-11-04T17:37:13+00:00",
-   "last_seen": "2026-11-04T17:37:13+00:00",
-   "advt": "01/2024",
-   "link_policy": "deep",
-   "official_home": "https://bpssc.bihar.gov.in",
-   "slug": "bpssc-important-notice-regarding-written-examination-and-e-admit-card-e668f7",
-   "details": {
-    "fields": {},
-    "parsed_at": null
-   },
-   "tier": 1,
-   "status": "info",
-   "group": "bpssc-advt-01-2024"
-  },
-  {
-   "id": "e64bc1a34df2",
-   "source": "bpssc",
-   "org": "Bihar Police Subordinate Services Commission",
-   "short": "BPSSC",
-   "scope": "bihar",
-   "title": "Important Notice: List of invalid applications with Reason of Rejection related to the Post of Steno Assistant Sub-Inspector in Home (Police) Dept., Govt. of Bihar",
-   "url": "https://bpssc.bihar.gov.in/Notices/04-02-2025.pdf",
-   "is_doc": true,
-   "type": "notice",
-   "list_date": "2025-02-04",
-   "first_seen": "2026-11-04T17:37:13+00:00",
-   "last_seen": "2026-11-04T17:37:13+00:00",
-   "advt": "01/2024",
-   "link_policy": "deep",
-   "official_home": "https://bpssc.bihar.gov.in",
-   "slug": "bpssc-important-notice-list-of-invalid-applications-with-reason-of-e64bc1",
-   "details": {
-    "fields": {},
-    "parsed_at": null
-   },
-   "tier": 1,
-   "status": "info",
-   "group": "bpssc-advt-01-2024"
-  },
-  {
-   "id": "3bbd845e0ae2",
-   "source": "bpssc",
-   "org": "Bihar Police Subordinate Services Commission",
-   "short": "BPSSC",
-   "scope": "bihar",
-   "title": "Ref.:Advt. No.-01/2024: to upload details of scribe (For PH Candidates only)",
-   "url": "https://apply-bpssc.com/StenoAsi124Scribe/applicationIndex",
-   "is_doc": false,
-   "type": "job",
-   "list_date": "2025-01-21",
-   "first_seen": "2026-11-04T17:37:13+00:00",
-   "last_seen": "2026-11-04T17:37:13+00:00",
-   "advt": "01/2024",
-   "link_policy": "deep",
-   "official_home": "https://bpssc.bihar.gov.in",
-   "slug": "bpssc-ref-advt-no-01-2024-to-upload-details-of-scribe-for-ph-3bbd84",
-   "details": {
-    "fields": {},
-    "parsed_at": null
-   },
-   "tier": 1,
-   "status": "info",
-   "group": "bpssc-advt-01-2024"
-  },
-  {
-   "id": "503891e6e24b",
-   "source": "bpssc",
-   "org": "Bihar Police Subordinate Services Commission",
-   "short": "BPSSC",
-   "scope": "bihar",
-   "title": "Ref.:Advt. No.-01/2024: Important Notice Regarding Disabled Candidates",
-   "url": "https://bpssc.bihar.gov.in/Notices/Memo No. 37 dt 20-01-2025.pdf",
-   "is_doc": true,
-   "type": "notice",
-   "list_date": "2025-01-20",
-   "first_seen": "2026-11-04T17:37:13+00:00",
-   "last_seen": "2026-11-04T17:37:13+00:00",
-   "advt": "01/2024",
-   "link_policy": "deep",
-   "official_home": "https://bpssc.bihar.gov.in",
-   "slug": "bpssc-ref-advt-no-01-2024-important-notice-regarding-disabled-503891",
-   "details": {
-    "fields": {},
-    "parsed_at": null
-   },
-   "tier": 1,
-   "status": "info",
-   "group": "bpssc-advt-01-2024"
-  },
-  {
-   "id": "416ba3fdd1d8",
-   "source": "bpssc",
-   "org": "Bihar Police Subordinate Services Commission",
-   "short": "BPSSC",
-   "scope": "bihar",
-   "title": "Ref.:Advt. No.-01/2024: Apply Online for the post of Steno Assistant Sub-Inspector in Home (Police) Dept. Govt. Of Bihar.",
-   "url": "https://apply-bpssc.com/StenoAsi124/applicationIndex",
-   "is_doc": false,
-   "type": "job",
-   "list_date": "2024-12-16",
-   "first_seen": "2026-11-04T17:37:13+00:00",
-   "last_seen": "2026-11-04T17:37:13+00:00",
-   "advt": "01/2024",
-   "link_policy": "deep",
-   "official_home": "https://bpssc.bihar.gov.in",
-   "slug": "bpssc-ref-advt-no-01-2024-apply-online-for-the-post-of-steno-416ba3",
-   "details": {
-    "fields": {},
-    "parsed_at": null
-   },
-   "tier": 1,
-   "status": "info",
-   "group": "bpssc-advt-01-2024"
-  },
-  {
-   "id": "70a3f5470d4a",
-   "source": "bpssc",
-   "org": "Bihar Police Subordinate Services Commission",
-   "short": "BPSSC",
-   "scope": "bihar",
-   "title": "Advt-01/2024: For Selection Of Steno Assistant Sub-Inspector in Home (Police) Dept. Govt. Of Bihar.",
-   "url": "https://bpssc.bihar.gov.in/Advts/Advt. No.-01-2024-Steno ASI.pdf",
-   "is_doc": true,
-   "type": "job",
-   "list_date": "2024-12-14",
-   "first_seen": "2026-11-04T17:37:13+00:00",
-   "last_seen": "2026-11-04T17:37:13+00:00",
-   "advt": "01/2024",
-   "link_policy": "deep",
-   "official_home": "https://bpssc.bihar.gov.in",
-   "slug": "bpssc-advt-01-2024-for-selection-of-steno-assistant-sub-inspector-in-70a3f5",
-   "details": {
-    "fields": {},
-    "parsed_at": null
-   },
-   "tier": 1,
-   "status": "info",
-   "group": "bpssc-advt-01-2024"
-  },
-  {
-   "id": "206e899f41e2",
-   "source": "bpssc",
-   "org": "Bihar Police Subordinate Services Commission",
-   "short": "BPSSC",
-   "scope": "bihar",
-   "title": "Important Notice: Regarding Change of Address of BPSSC Official Website",
-   "url": "https://bpssc.bihar.gov.in/Notices/Notice _WebsiteChange.pdf",
-   "is_doc": true,
-   "type": "notice",
-   "list_date": "2024-12-13",
-   "first_seen": "2026-11-04T17:37:13+00:00",
-   "last_seen": "2026-11-04T17:37:13+00:00",
-   "advt": null,
-   "link_policy": "deep",
-   "official_home": "https://bpssc.bihar.gov.in",
-   "slug": "important-notice-regarding-change-of-address-of-bpssc-official-website-206e89",
-   "details": {
-    "fields": {},
-    "parsed_at": null
-   },
-   "tier": 1,
-   "status": "info",
-   "group": "bpssc-change-address-bpssc-official-website-2024"
-  },
-  {
    "id": "f4897e337bde",
    "source": "bpssc",
    "org": "Bihar Police Subordinate Services Commission",
@@ -25436,7 +24698,16 @@
    "slug": "btsc-03-2025-ot-assistant-hold-notice-no-3020-dated-16-09-2026-2ce77c",
    "details": {
     "fields": {},
-    "parsed_at": null
+    "pdf_quality": {
+     "chars": 0,
+     "latin": 0.0,
+     "devanagari": 0.0,
+     "legacy_suspect": false,
+     "scanned_suspect": true
+    },
+    "parsed_at": "2026-11-04T19:08:00+00:00",
+    "pdf_error": null,
+    "attempts": 1
    },
    "tier": 1,
    "status": "info",
@@ -25461,7 +24732,16 @@
    "slug": "btsc-05-2025-x-ray-technician-hold-notice-no-3016-dated-16-09-2026-cbb674",
    "details": {
     "fields": {},
-    "parsed_at": null
+    "pdf_quality": {
+     "chars": 0,
+     "latin": 0.0,
+     "devanagari": 0.0,
+     "legacy_suspect": false,
+     "scanned_suspect": true
+    },
+    "parsed_at": "2026-11-04T19:08:00+00:00",
+    "pdf_error": null,
+    "attempts": 1
    },
    "tier": 1,
    "status": "info",
@@ -29370,7 +28650,16 @@
    "slug": "shs-bihar-office-order-regarding-surety-bond-for-cho-selected-under-e95bd4",
    "details": {
     "fields": {},
-    "parsed_at": null
+    "pdf_quality": {
+     "chars": 797,
+     "latin": 0.514,
+     "devanagari": 0.0,
+     "legacy_suspect": true,
+     "scanned_suspect": false
+    },
+    "parsed_at": "2026-11-04T19:07:22+00:00",
+    "pdf_error": null,
+    "attempts": 1
    },
    "tier": 1,
    "status": "info",
@@ -29777,31 +29066,6 @@
    "group": "shsbihar-tor-posts-2025"
   },
   {
-   "id": "a8558b1cde7f",
-   "source": "shsbihar",
-   "org": "State Health Society Bihar",
-   "short": "SHS Bihar",
-   "scope": "bihar",
-   "title": "Applications invited for the post of recruitment of Ophthalmic Assistant under National Health Mission against Advt. No. 09/2024",
-   "url": "https://shs.bihar.gov.in/shs/advertisement/1732876126.pdf",
-   "is_doc": true,
-   "type": "job",
-   "list_date": "2024-11-29",
-   "first_seen": "2026-11-04T17:38:00+00:00",
-   "last_seen": "2026-11-04T17:38:00+00:00",
-   "advt": "09/2024",
-   "link_policy": "deep",
-   "official_home": "https://shs.bihar.gov.in",
-   "slug": "shs-bihar-applications-invited-for-the-post-of-recruitment-of-a8558b",
-   "details": {
-    "fields": {},
-    "parsed_at": null
-   },
-   "tier": 1,
-   "status": "info",
-   "group": "shsbihar-advt-09-2024"
-  },
-  {
    "id": "68a98f5efdc7",
    "source": "shsbihar",
    "org": "State Health Society Bihar",
@@ -29826,56 +29090,6 @@
    "status": "info",
    "archive": true,
    "group": "shsbihar-detailed-instructions-tor-2026"
-  },
-  {
-   "id": "11cf833d2256",
-   "source": "shsbihar",
-   "org": "State Health Society Bihar",
-   "short": "SHS Bihar",
-   "scope": "bihar",
-   "title": "Cancellation Notice against Advt. No. 09/2024",
-   "url": "https://shs.bihar.gov.in/shs/advertisement/1733827026.pdf",
-   "is_doc": true,
-   "type": "notice",
-   "list_date": "2024-12-10",
-   "first_seen": "2026-11-04T17:38:00+00:00",
-   "last_seen": "2026-11-04T17:38:00+00:00",
-   "advt": "09/2024",
-   "link_policy": "deep",
-   "official_home": "https://shs.bihar.gov.in",
-   "slug": "shs-bihar-cancellation-notice-against-advt-no-09-2024-11cf83",
-   "details": {
-    "fields": {},
-    "parsed_at": null
-   },
-   "tier": 1,
-   "status": "info",
-   "group": "shsbihar-advt-09-2024"
-  },
-  {
-   "id": "a9ee52b96166",
-   "source": "shsbihar",
-   "org": "State Health Society Bihar",
-   "short": "SHS Bihar",
-   "scope": "bihar",
-   "title": "Applications invited for the post of recruitment of AYUSH Doctor (Mainstream and RBSK) under National Health Mission against Advt. No. 08/2024",
-   "url": "https://shs.bihar.gov.in/shs/advertisement/1732187389.pdf",
-   "is_doc": true,
-   "type": "job",
-   "list_date": "2024-11-21",
-   "first_seen": "2026-11-04T17:38:00+00:00",
-   "last_seen": "2026-11-04T17:38:00+00:00",
-   "advt": "08/2024",
-   "link_policy": "deep",
-   "official_home": "https://shs.bihar.gov.in",
-   "slug": "shs-bihar-applications-invited-for-the-post-of-recruitment-of-ayush-a9ee52",
-   "details": {
-    "fields": {},
-    "parsed_at": null
-   },
-   "tier": 1,
-   "status": "info",
-   "group": "shsbihar-advt-08-2024"
   },
   {
    "id": "d29729f8f40f",
@@ -29956,56 +29170,6 @@
    "group": "shsbihar-tor-ayush-doctor-2026"
   },
   {
-   "id": "d311bce2b420",
-   "source": "shsbihar",
-   "org": "State Health Society Bihar",
-   "short": "SHS Bihar",
-   "scope": "bihar",
-   "title": "Cancellation Notice against Advt. No. 08/2024",
-   "url": "https://shs.bihar.gov.in/shs/advertisement/1733827007.pdf",
-   "is_doc": true,
-   "type": "notice",
-   "list_date": "2024-12-10",
-   "first_seen": "2026-11-04T17:38:00+00:00",
-   "last_seen": "2026-11-04T17:38:00+00:00",
-   "advt": "08/2024",
-   "link_policy": "deep",
-   "official_home": "https://shs.bihar.gov.in",
-   "slug": "shs-bihar-cancellation-notice-against-advt-no-08-2024-d311bc",
-   "details": {
-    "fields": {},
-    "parsed_at": null
-   },
-   "tier": 1,
-   "status": "info",
-   "group": "shsbihar-advt-08-2024"
-  },
-  {
-   "id": "6b9868b341f3",
-   "source": "shsbihar",
-   "org": "State Health Society Bihar",
-   "short": "SHS Bihar",
-   "scope": "bihar",
-   "title": "Advertisement No. 08/2024 : Important Notice-cum-Corrigendum",
-   "url": "https://shs.bihar.gov.in/shs/advertisement/1732875406.pdf",
-   "is_doc": true,
-   "type": "notice",
-   "list_date": "2024-11-29",
-   "first_seen": "2026-11-04T17:38:00+00:00",
-   "last_seen": "2026-11-04T17:38:00+00:00",
-   "advt": "08/2024",
-   "link_policy": "deep",
-   "official_home": "https://shs.bihar.gov.in",
-   "slug": "shs-bihar-advertisement-no-08-2024-important-notice-cum-corrigendum-6b9868",
-   "details": {
-    "fields": {},
-    "parsed_at": null
-   },
-   "tier": 1,
-   "status": "info",
-   "group": "shsbihar-advt-08-2024"
-  },
-  {
    "id": "b48a5fbcaf87",
    "source": "shsbihar",
    "org": "State Health Society Bihar",
@@ -30056,156 +29220,6 @@
    "status": "info",
    "archive": true,
    "group": "shsbihar-detailed-instructions-annexure-mock-2026"
-  },
-  {
-   "id": "23e0e575ef6a",
-   "source": "shsbihar",
-   "org": "State Health Society Bihar",
-   "short": "SHS Bihar",
-   "scope": "bihar",
-   "title": "Important Notice of Cancellation of CBT against Advt. No. 07/2024",
-   "url": "https://shs.bihar.gov.in/shs/advertisement/1733109221.pdf",
-   "is_doc": true,
-   "type": "notice",
-   "list_date": "2024-12-02",
-   "first_seen": "2026-11-04T17:38:00+00:00",
-   "last_seen": "2026-11-04T17:38:00+00:00",
-   "advt": "07/2024",
-   "link_policy": "deep",
-   "official_home": "https://shs.bihar.gov.in",
-   "slug": "shs-bihar-important-notice-of-cancellation-of-cbt-against-advt-no-07-23e0e5",
-   "details": {
-    "fields": {},
-    "parsed_at": null
-   },
-   "tier": 1,
-   "status": "info",
-   "group": "shsbihar-advt-07-2024"
-  },
-  {
-   "id": "fdf34f130a09",
-   "source": "shsbihar",
-   "org": "State Health Society Bihar",
-   "short": "SHS Bihar",
-   "scope": "bihar",
-   "title": "Syllabus for CBT against Advt. No. 07/2024",
-   "url": "https://shs.bihar.gov.in/shs/advertisement/1732955936.pdf",
-   "is_doc": true,
-   "type": "syllabus",
-   "list_date": "2024-11-30",
-   "first_seen": "2026-11-04T17:38:00+00:00",
-   "last_seen": "2026-11-04T17:38:00+00:00",
-   "advt": "07/2024",
-   "link_policy": "deep",
-   "official_home": "https://shs.bihar.gov.in",
-   "slug": "shs-bihar-syllabus-for-cbt-against-advt-no-07-2024-fdf34f",
-   "details": {
-    "fields": {},
-    "parsed_at": null
-   },
-   "tier": 1,
-   "status": "info",
-   "group": "shsbihar-advt-07-2024"
-  },
-  {
-   "id": "22fb7224495e",
-   "source": "shsbihar",
-   "org": "State Health Society Bihar",
-   "short": "SHS Bihar",
-   "scope": "bihar",
-   "title": "Important Notice - Equipercentile against Advt. No. 07/2024",
-   "url": "https://shs.bihar.gov.in/shs/advertisement/1732955884.pdf",
-   "is_doc": true,
-   "type": "notice",
-   "list_date": "2024-11-30",
-   "first_seen": "2026-11-04T17:38:00+00:00",
-   "last_seen": "2026-11-04T17:38:00+00:00",
-   "advt": "07/2024",
-   "link_policy": "deep",
-   "official_home": "https://shs.bihar.gov.in",
-   "slug": "shs-bihar-important-notice-equipercentile-against-advt-no-07-2024-22fb72",
-   "details": {
-    "fields": {},
-    "parsed_at": null
-   },
-   "tier": 1,
-   "status": "info",
-   "group": "shsbihar-advt-07-2024"
-  },
-  {
-   "id": "8067c034c6d2",
-   "source": "shsbihar",
-   "org": "State Health Society Bihar",
-   "short": "SHS Bihar",
-   "scope": "bihar",
-   "title": "Important Notice of Scribe against Advertisement No. 07/2024",
-   "url": "https://shs.bihar.gov.in/shs/advertisement/1732865113.pdf",
-   "is_doc": true,
-   "type": "notice",
-   "list_date": "2024-11-29",
-   "first_seen": "2026-11-04T17:38:00+00:00",
-   "last_seen": "2026-11-04T17:38:00+00:00",
-   "advt": "07/2024",
-   "link_policy": "deep",
-   "official_home": "https://shs.bihar.gov.in",
-   "slug": "shs-bihar-important-notice-of-scribe-against-advertisement-no-07-2024-8067c0",
-   "details": {
-    "fields": {},
-    "parsed_at": null
-   },
-   "tier": 1,
-   "status": "info",
-   "group": "shsbihar-advt-07-2024"
-  },
-  {
-   "id": "9df44e996519",
-   "source": "shsbihar",
-   "org": "State Health Society Bihar",
-   "short": "SHS Bihar",
-   "scope": "bihar",
-   "title": "Important Notice of CBT against Advertisement No. 07/2024",
-   "url": "https://shs.bihar.gov.in/shs/advertisement/1732864919.pdf",
-   "is_doc": true,
-   "type": "notice",
-   "list_date": "2024-11-29",
-   "first_seen": "2026-11-04T17:38:00+00:00",
-   "last_seen": "2026-11-04T17:38:00+00:00",
-   "advt": "07/2024",
-   "link_policy": "deep",
-   "official_home": "https://shs.bihar.gov.in",
-   "slug": "shs-bihar-important-notice-of-cbt-against-advertisement-no-07-2024-9df44e",
-   "details": {
-    "fields": {},
-    "parsed_at": null
-   },
-   "tier": 1,
-   "status": "info",
-   "group": "shsbihar-advt-07-2024"
-  },
-  {
-   "id": "c12508c0feb8",
-   "source": "shsbihar",
-   "org": "State Health Society Bihar",
-   "short": "SHS Bihar",
-   "scope": "bihar",
-   "title": "Advertisement No. 07/2024 : Important Notice for \"Online Application Correction Window\"",
-   "url": "https://shs.bihar.gov.in/shs/advertisement/1732169997.pdf",
-   "is_doc": true,
-   "type": "notice",
-   "list_date": "2024-11-21",
-   "first_seen": "2026-11-04T17:38:00+00:00",
-   "last_seen": "2026-11-04T17:38:00+00:00",
-   "advt": "07/2024",
-   "link_policy": "deep",
-   "official_home": "https://shs.bihar.gov.in",
-   "slug": "shs-bihar-advertisement-no-07-2024-important-notice-for-online-c12508",
-   "details": {
-    "fields": {},
-    "parsed_at": null
-   },
-   "tier": 1,
-   "status": "info",
-   "group": "shsbihar-advt-07-2024"
   },
   {
    "id": "994fb68d8c70",
@@ -35712,8 +34726,26 @@
    "official_home": "https://bceceboard.bihar.gov.in",
    "slug": "details-for-filling-up-online-application-form-for-third-round-of-ac8249",
    "details": {
-    "fields": {},
-    "parsed_at": null
+    "fields": {
+     "fee": {
+      "values": [
+       2200
+      ],
+      "max": 2200,
+      "min": 2200,
+      "confidence": "valid"
+     }
+    },
+    "pdf_quality": {
+     "chars": 14199,
+     "latin": 0.761,
+     "devanagari": 0.0,
+     "legacy_suspect": false,
+     "scanned_suspect": false
+    },
+    "parsed_at": "2026-11-04T19:08:04+00:00",
+    "pdf_error": null,
+    "attempts": 1
    },
    "tier": 1,
    "status": "info",
@@ -35963,7 +34995,16 @@
    "slug": "details-for-online-application-and-choice-filling-for-ugmac-ayush-fdb581",
    "details": {
     "fields": {},
-    "parsed_at": null
+    "pdf_quality": {
+     "chars": 34684,
+     "latin": 0.768,
+     "devanagari": 0.0,
+     "legacy_suspect": false,
+     "scanned_suspect": false
+    },
+    "parsed_at": "2026-11-04T19:07:17+00:00",
+    "pdf_error": null,
+    "attempts": 1
    },
    "tier": 1,
    "status": "info",
@@ -36012,12 +35053,31 @@
    "official_home": "https://bceceboard.bihar.gov.in",
    "slug": "details-for-online-application-and-choice-filling-for-ugmac-ayush-0eaaba",
    "details": {
-    "fields": {},
-    "parsed_at": null
+    "fields": {
+     "last_date": {
+      "value": "2026-10-15",
+      "confidence": "valid"
+     },
+     "start_date": {
+      "value": "2026-10-10",
+      "confidence": "valid"
+     }
+    },
+    "pdf_quality": {
+     "chars": 8798,
+     "latin": 0.716,
+     "devanagari": 0.0,
+     "legacy_suspect": false,
+     "scanned_suspect": false
+    },
+    "parsed_at": "2026-11-04T19:07:33+00:00",
+    "pdf_error": null,
+    "attempts": 1
    },
-   "tier": 1,
-   "status": "info",
-   "group": "bceceb-choice-filling-ugmac-ayush-round-2026"
+   "tier": 2,
+   "status": "closed",
+   "group": "bceceb-choice-filling-ugmac-ayush-round-2026",
+   "last_date": "2026-10-15"
   },
   {
    "id": "71a36c126b46",
@@ -36063,7 +35123,16 @@
    "slug": "notice-for-online-application-and-choice-filling-for-ugmac-ayush-2026-8f163d",
    "details": {
     "fields": {},
-    "parsed_at": null
+    "pdf_quality": {
+     "chars": 1724,
+     "latin": 0.754,
+     "devanagari": 0.0,
+     "legacy_suspect": false,
+     "scanned_suspect": false
+    },
+    "parsed_at": "2026-11-04T19:07:55+00:00",
+    "pdf_error": null,
+    "attempts": 1
    },
    "tier": 1,
    "status": "info",
@@ -36087,12 +35156,31 @@
    "official_home": "https://bceceboard.bihar.gov.in",
    "slug": "details-for-online-application-and-choice-filling-for-ugmac-ayush-028f51",
    "details": {
-    "fields": {},
-    "parsed_at": null
+    "fields": {
+     "last_date": {
+      "value": "2026-09-29",
+      "confidence": "valid"
+     },
+     "start_date": {
+      "value": "2026-09-21",
+      "confidence": "valid"
+     }
+    },
+    "pdf_quality": {
+     "chars": 33005,
+     "latin": 0.774,
+     "devanagari": 0.0,
+     "legacy_suspect": false,
+     "scanned_suspect": false
+    },
+    "parsed_at": "2026-11-04T19:07:57+00:00",
+    "pdf_error": null,
+    "attempts": 1
    },
-   "tier": 1,
-   "status": "info",
-   "group": "bceceb-choice-filling-ugmac-ayush-2026"
+   "tier": 2,
+   "status": "closed",
+   "group": "bceceb-choice-filling-ugmac-ayush-2026",
+   "last_date": "2026-09-29"
   },
   {
    "id": "ecd45254e972",
@@ -36113,7 +35201,16 @@
    "slug": "notice-for-filling-online-application-form-and-choice-filling-for-ecd452",
    "details": {
     "fields": {},
-    "parsed_at": null
+    "pdf_quality": {
+     "chars": 3190,
+     "latin": 0.729,
+     "devanagari": 0.0,
+     "legacy_suspect": false,
+     "scanned_suspect": false
+    },
+    "parsed_at": "2026-11-04T19:07:00+00:00",
+    "pdf_error": null,
+    "attempts": 1
    },
    "tier": 1,
    "status": "info",
@@ -36138,7 +35235,16 @@
    "slug": "details-for-filling-online-application-form-and-choice-special-cbedf1",
    "details": {
     "fields": {},
-    "parsed_at": null
+    "pdf_quality": {
+     "chars": 44163,
+     "latin": 0.762,
+     "devanagari": 0.0,
+     "legacy_suspect": false,
+     "scanned_suspect": false
+    },
+    "parsed_at": "2026-11-04T19:07:03+00:00",
+    "pdf_error": null,
+    "attempts": 1
    },
    "tier": 1,
    "status": "info",
@@ -36213,7 +35319,16 @@
    "slug": "notice-for-filling-online-application-form-and-choice-filling-for-0cb7a3",
    "details": {
     "fields": {},
-    "parsed_at": null
+    "pdf_quality": {
+     "chars": 3017,
+     "latin": 0.739,
+     "devanagari": 0.0,
+     "legacy_suspect": false,
+     "scanned_suspect": false
+    },
+    "parsed_at": "2026-11-04T19:07:24+00:00",
+    "pdf_error": null,
+    "attempts": 1
    },
    "tier": 1,
    "status": "info",
@@ -36237,8 +35352,22 @@
    "official_home": "https://bceceboard.bihar.gov.in",
    "slug": "details-for-filling-online-application-form-and-choice-filling-for-473832",
    "details": {
-    "fields": {},
-    "parsed_at": null
+    "fields": {
+     "start_date": {
+      "value": "2026-10-19",
+      "confidence": "valid"
+     }
+    },
+    "pdf_quality": {
+     "chars": 43016,
+     "latin": 0.765,
+     "devanagari": 0.0,
+     "legacy_suspect": false,
+     "scanned_suspect": false
+    },
+    "parsed_at": "2026-11-04T19:07:27+00:00",
+    "pdf_error": null,
+    "attempts": 1
    },
    "tier": 1,
    "status": "info",
@@ -36338,7 +35467,10 @@
    "slug": "notice-for-filling-online-application-form-and-choice-filling-for-4526b9",
    "details": {
     "fields": {},
-    "parsed_at": null
+    "pdf_quality": null,
+    "parsed_at": "2026-11-04T19:07:38+00:00",
+    "pdf_error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+    "attempts": 1
    },
    "tier": 1,
    "status": "info",
@@ -36362,12 +35494,27 @@
    "official_home": "https://bceceboard.bihar.gov.in",
    "slug": "details-for-filling-online-application-form-and-choice-filling-for-f0d3fc",
    "details": {
-    "fields": {},
-    "parsed_at": null
+    "fields": {
+     "last_date": {
+      "value": "2026-10-09",
+      "confidence": "valid"
+     }
+    },
+    "pdf_quality": {
+     "chars": 42201,
+     "latin": 0.767,
+     "devanagari": 0.0,
+     "legacy_suspect": false,
+     "scanned_suspect": false
+    },
+    "parsed_at": "2026-11-04T19:07:42+00:00",
+    "pdf_error": null,
+    "attempts": 1
    },
    "tier": 1,
-   "status": "info",
-   "group": "bceceb-filling-choice-filling-round-ugmac-2026"
+   "status": "closed",
+   "group": "bceceb-filling-choice-filling-round-ugmac-2026",
+   "last_date": "2026-10-09"
   },
   {
    "id": "efef884d9fa7",
@@ -36438,7 +35585,16 @@
    "slug": "notice-for-filling-online-application-form-and-choice-filling-for-09f7cc",
    "details": {
     "fields": {},
-    "parsed_at": null
+    "pdf_quality": {
+     "chars": 1867,
+     "latin": 0.728,
+     "devanagari": 0.0,
+     "legacy_suspect": false,
+     "scanned_suspect": false
+    },
+    "parsed_at": "2026-11-04T19:08:01+00:00",
+    "pdf_error": null,
+    "attempts": 1
    },
    "tier": 1,
    "status": "info",
@@ -36462,12 +35618,27 @@
    "official_home": "https://bceceboard.bihar.gov.in",
    "slug": "details-for-filling-online-application-form-and-choice-filling-for-7be4f2",
    "details": {
-    "fields": {},
-    "parsed_at": null
+    "fields": {
+     "last_date": {
+      "value": "2026-09-18",
+      "confidence": "valid"
+     }
+    },
+    "pdf_quality": {
+     "chars": 7710,
+     "latin": 0.676,
+     "devanagari": 0.0,
+     "legacy_suspect": false,
+     "scanned_suspect": false
+    },
+    "parsed_at": "2026-11-04T19:08:03+00:00",
+    "pdf_error": null,
+    "attempts": 1
    },
    "tier": 1,
-   "status": "info",
-   "group": "bceceb-filling-choice-filling-round-ugmac-2026"
+   "status": "closed",
+   "group": "bceceb-filling-choice-filling-round-ugmac-2026",
+   "last_date": "2026-09-18"
   },
   {
    "id": "22f8587855e1",
@@ -36538,7 +35709,16 @@
    "slug": "notice-for-filling-online-application-form-and-choice-filling-for-909cb2",
    "details": {
     "fields": {},
-    "parsed_at": null
+    "pdf_quality": {
+     "chars": 1834,
+     "latin": 0.755,
+     "devanagari": 0.0,
+     "legacy_suspect": false,
+     "scanned_suspect": false
+    },
+    "parsed_at": "2026-11-04T19:08:13+00:00",
+    "pdf_error": null,
+    "attempts": 1
    },
    "tier": 1,
    "status": "info",
@@ -36562,12 +35742,31 @@
    "official_home": "https://bceceboard.bihar.gov.in",
    "slug": "details-for-filling-online-application-form-and-choice-filling-for-815f68",
    "details": {
-    "fields": {},
-    "parsed_at": null
+    "fields": {
+     "last_date": {
+      "value": "2026-08-17",
+      "confidence": "valid"
+     },
+     "start_date": {
+      "value": "2026-08-10",
+      "confidence": "valid"
+     }
+    },
+    "pdf_quality": {
+     "chars": 40562,
+     "latin": 0.769,
+     "devanagari": 0.0,
+     "legacy_suspect": false,
+     "scanned_suspect": false
+    },
+    "parsed_at": "2026-11-04T19:08:15+00:00",
+    "pdf_error": null,
+    "attempts": 1
    },
-   "tier": 1,
-   "status": "info",
-   "group": "bceceb-filling-choice-filling-ugmac-2026"
+   "tier": 2,
+   "status": "closed",
+   "group": "bceceb-filling-choice-filling-ugmac-2026",
+   "last_date": "2026-08-17"
   },
   {
    "id": "6a2d528df19c",
@@ -38512,12 +37711,39 @@
    "official_home": "https://bceceboard.bihar.gov.in",
    "slug": "bceceb-detail-regarding-filling-up-online-application-form-for-the-a1c729",
    "details": {
-    "fields": {},
-    "parsed_at": null
+    "fields": {
+     "last_date": {
+      "value": "2026-11-23",
+      "confidence": "valid"
+     },
+     "start_date": {
+      "value": "2026-11-02",
+      "confidence": "valid"
+     },
+     "fee": {
+      "values": [
+       2250
+      ],
+      "max": 2250,
+      "min": 2250,
+      "confidence": "valid"
+     }
+    },
+    "pdf_quality": {
+     "chars": 9952,
+     "latin": 0.786,
+     "devanagari": 0.0,
+     "legacy_suspect": false,
+     "scanned_suspect": false
+    },
+    "parsed_at": "2026-11-04T19:07:05+00:00",
+    "pdf_error": null,
+    "attempts": 1
    },
-   "tier": 1,
-   "status": "info",
-   "group": "bceceb-filling-up-senior-resident-tutor-health-2026"
+   "tier": 2,
+   "status": "open",
+   "group": "bceceb-filling-up-senior-resident-tutor-health-2026",
+   "last_date": "2026-11-23"
   },
   {
    "id": "06e6dbd48631",
@@ -38588,7 +37814,16 @@
    "slug": "notice-for-document-verificatioin-for-the-post-of-senior-resident-7728f9",
    "details": {
     "fields": {},
-    "parsed_at": null
+    "pdf_quality": {
+     "chars": 6242,
+     "latin": 0.238,
+     "devanagari": 0.0,
+     "legacy_suspect": false,
+     "scanned_suspect": false
+    },
+    "parsed_at": "2026-11-04T19:07:58+00:00",
+    "pdf_error": null,
+    "attempts": 1
    },
    "tier": 1,
    "status": "info",
@@ -38662,12 +37897,39 @@
    "official_home": "https://bceceboard.bihar.gov.in",
    "slug": "detail-regarding-filling-up-online-application-form-for-the-post-of-614af4",
    "details": {
-    "fields": {},
-    "parsed_at": null
+    "fields": {
+     "last_date": {
+      "value": "2026-09-08",
+      "confidence": "valid"
+     },
+     "start_date": {
+      "value": "2026-08-25",
+      "confidence": "valid"
+     },
+     "fee": {
+      "values": [
+       2250
+      ],
+      "max": 2250,
+      "min": 2250,
+      "confidence": "valid"
+     }
+    },
+    "pdf_quality": {
+     "chars": 9893,
+     "latin": 0.789,
+     "devanagari": 0.0,
+     "legacy_suspect": false,
+     "scanned_suspect": false
+    },
+    "parsed_at": "2026-11-04T19:08:07+00:00",
+    "pdf_error": null,
+    "attempts": 1
    },
-   "tier": 1,
-   "status": "info",
-   "group": "bceceb-filling-up-senior-resident-tutor-health-2026"
+   "tier": 2,
+   "status": "closed",
+   "group": "bceceb-filling-up-senior-resident-tutor-health-2026",
+   "last_date": "2026-09-08"
   },
   {
    "id": "328b18d763c8",
@@ -38863,7 +38125,16 @@
    "slug": "bceceb-notice-for-filling-online-application-form-for-the-post-of-21b66e",
    "details": {
     "fields": {},
-    "parsed_at": null
+    "pdf_quality": {
+     "chars": 244,
+     "latin": 0.656,
+     "devanagari": 0.0,
+     "legacy_suspect": false,
+     "scanned_suspect": false
+    },
+    "parsed_at": "2026-11-04T19:08:08+00:00",
+    "pdf_error": null,
+    "attempts": 1
    },
    "tier": 1,
    "status": "info",
@@ -38888,7 +38159,16 @@
    "slug": "bceceb-details-for-filling-online-application-form-for-the-post-of-6b0e7f",
    "details": {
     "fields": {},
-    "parsed_at": null
+    "pdf_quality": {
+     "chars": 3053,
+     "latin": 0.613,
+     "devanagari": 0.0,
+     "legacy_suspect": false,
+     "scanned_suspect": false
+    },
+    "parsed_at": "2026-11-04T19:08:12+00:00",
+    "pdf_error": null,
+    "attempts": 1
    },
    "tier": 1,
    "status": "info",
@@ -39953,6 +39233,1040 @@
    "status": "info",
    "archive": true,
    "group": "patnahc-appointment-ms-saleha-sabiha-judicial-2026"
+  },
+  {
+   "id": "975b99751873",
+   "source": "ssc",
+   "org": "Staff Selection Commission",
+   "short": "SSC",
+   "scope": "central",
+   "title": "Scheme of Examination",
+   "url": "https://ssc.gov.in/for-candidates/scheme-of-examination",
+   "is_doc": false,
+   "type": "syllabus",
+   "list_date": null,
+   "first_seen": "2026-11-04T18:56:08+00:00",
+   "last_seen": "2026-11-04T18:56:08+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://ssc.gov.in",
+   "slug": "ssc-scheme-of-examination-975b99",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "archive": true,
+   "status": "info"
+  },
+  {
+   "id": "36afd076ffe9",
+   "source": "ibps",
+   "org": "Institute of Banking Personnel Selection",
+   "short": "IBPS",
+   "scope": "central",
+   "title": "CRP Specialist Officers - IBPS Advertisement",
+   "url": "https://www.ibps.in/wp-content/uploads/Advertisement-for-Server-Administrator-Programming-Assistant-and-Assistant-Oct._Nov.-2026.pdf",
+   "is_doc": true,
+   "type": "job",
+   "list_date": "2026-10-29",
+   "first_seen": "2026-11-04T18:57:26+00:00",
+   "last_seen": "2026-11-04T18:57:26+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://www.ibps.in",
+   "slug": "crp-specialist-officers-ibps-advertisement-36afd0",
+   "details": {
+    "fields": {
+     "last_date": {
+      "value": "2026-11-12",
+      "confidence": "valid"
+     }
+    },
+    "pdf_quality": {
+     "chars": 19699,
+     "latin": 0.803,
+     "devanagari": 0.0,
+     "legacy_suspect": false,
+     "scanned_suspect": false
+    },
+    "parsed_at": "2026-11-04T19:07:09+00:00",
+    "pdf_error": null,
+    "attempts": 1
+   },
+   "tier": 1,
+   "last_date": "2026-11-12",
+   "status": "open",
+   "group": "ibps-crp-specialist-officers-ibps-2026"
+  },
+  {
+   "id": "c03eb0a37a9d",
+   "source": "ibps",
+   "org": "Institute of Banking Personnel Selection",
+   "short": "IBPS",
+   "scope": "central",
+   "title": "Notification for Common Recruitment Process for CRP- PO/MTs-XVI",
+   "url": "https://www.ibps.in/wp-content/uploads/Detailed-Notification_CRP-PO-XVI_Final_V1_30.06.2026.pdf",
+   "is_doc": true,
+   "type": "job",
+   "list_date": "2026-07-01",
+   "first_seen": "2026-11-04T18:57:26+00:00",
+   "last_seen": "2026-11-04T18:57:26+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://www.ibps.in",
+   "slug": "ibps-notification-for-common-recruitment-process-for-crp-po-mts-xvi-c03eb0",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "ibps-common-process-crp-po-mts-xvi-2026"
+  },
+  {
+   "id": "ec0c167b8875",
+   "source": "sbi",
+   "org": "State Bank of India Careers",
+   "short": "SBI",
+   "scope": "central",
+   "title": "(Apply Online from 04.11.2026 TO 25.11.2026) - ADVERTISEMENT( English )",
+   "url": "https://sbi.bank.in/documents/77530/57941334/04112026_FINAL+DRAFT+ADVERTISEMENT+CRPD-SCO_29_ENGINEER.pdf/4d1be5a0-727d-61b5-1ea4-85570f437345?t=1793788834905",
+   "is_doc": false,
+   "type": "job",
+   "list_date": "2026-11-04",
+   "first_seen": "2026-11-04T18:57:33+00:00",
+   "last_seen": "2026-11-04T18:57:33+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://sbi.bank.in",
+   "slug": "sbi-apply-online-from-04-11-2026-to-25-11-2026-advertisement-english-ec0c16",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info"
+  },
+  {
+   "id": "9d1708631af1",
+   "source": "sbi",
+   "org": "State Bank of India Careers",
+   "short": "SBI",
+   "scope": "central",
+   "title": "(Apply Online from 02.11.2026 TO 23.11.2026) - ADVERTISEMENT English",
+   "url": "https://sbi.bank.in/documents/77530/57941334/FINAL+ADVT+CRPD+_SCO_2026-27_26_GMU.pdf/ade1acc4-609b-5c9a-ed89-670e70d0a82c?t=1793600742622",
+   "is_doc": false,
+   "type": "job",
+   "list_date": "2026-11-02",
+   "first_seen": "2026-11-04T18:57:33+00:00",
+   "last_seen": "2026-11-04T18:57:33+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://sbi.bank.in",
+   "slug": "sbi-apply-online-from-02-11-2026-to-23-11-2026-advertisement-english-9d1708",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info"
+  },
+  {
+   "id": "668ede07d2f2",
+   "source": "sbi",
+   "org": "State Bank of India Careers",
+   "short": "SBI",
+   "scope": "central",
+   "title": "(Apply Online from 02.11.2026 TO 23.11.2026) - APPLY ONLINE (02.11.2026 TO",
+   "url": "https://recruitment.sbi.bank.in/crpd-sco-2026-27-26/apply",
+   "is_doc": false,
+   "type": "job",
+   "list_date": "2026-11-02",
+   "first_seen": "2026-11-04T18:57:33+00:00",
+   "last_seen": "2026-11-04T18:57:33+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://sbi.bank.in",
+   "slug": "sbi-apply-online-from-02-11-2026-to-23-11-2026-apply-online-02-11-668ede",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info"
+  },
+  {
+   "id": "0894daade082",
+   "source": "sbi",
+   "org": "State Bank of India Careers",
+   "short": "SBI",
+   "scope": "central",
+   "title": "(Online Registration Extended till 16.11.2026) - ADVERTISEMENT Hindi / English",
+   "url": "https://sbi.bank.in/documents/77530/57941334/SBI+-+CRPD-SCO-2026-27_30+-+Hindi.pdf/d8e4a24c-d80a-23dd-8676-d71c267b979f?t=1793615990478",
+   "is_doc": false,
+   "type": "notice",
+   "list_date": null,
+   "first_seen": "2026-11-04T18:57:33+00:00",
+   "last_seen": "2026-11-04T18:57:33+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://sbi.bank.in",
+   "slug": "sbi-online-registration-extended-till-16-11-2026-advertisement-hindi-0894da",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "sbi-hindi-english-2026"
+  },
+  {
+   "id": "cb47f1661b3c",
+   "source": "sbi",
+   "org": "State Bank of India Careers",
+   "short": "SBI",
+   "scope": "central",
+   "title": "(Online Registration Extended till",
+   "url": "https://recruitment.sbi.bank.in/crpd-sco-2026-27-30/apply",
+   "is_doc": false,
+   "type": "notice",
+   "list_date": null,
+   "first_seen": "2026-11-04T18:57:33+00:00",
+   "last_seen": "2026-11-04T18:57:33+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://sbi.bank.in",
+   "slug": "sbi-online-registration-extended-till-cb47f1",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "sbi-registration-till-2026"
+  },
+  {
+   "id": "34c738b1f9c6",
+   "source": "sbi",
+   "org": "State Bank of India Careers",
+   "short": "SBI",
+   "scope": "central",
+   "title": "(Online Registration Extended till 16.11.2026) - CORRIGENDUM",
+   "url": "https://sbi.bank.in/documents/77530/57941334/Corrigendum_Digital+Banking.pdf/47f8c040-884a-2f0d-5df8-df5c6da648ce?t=1793777875383",
+   "is_doc": false,
+   "type": "notice",
+   "list_date": null,
+   "first_seen": "2026-11-04T18:57:33+00:00",
+   "last_seen": "2026-11-04T18:57:33+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://sbi.bank.in",
+   "slug": "sbi-online-registration-extended-till-16-11-2026-corrigendum-34c738",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info"
+  },
+  {
+   "id": "0650e83bd939",
+   "source": "sbi",
+   "org": "State Bank of India Careers",
+   "short": "SBI",
+   "scope": "central",
+   "title": "(Online Registration Extended till 04.11.2026) - ADVERTISEMENT English",
+   "url": "https://sbi.bank.in/documents/77530/57941334/1_Advertisement+_Wealth+MGMT_30.09.2026.pdf/ed836f34-1d3a-408a-f3a5-09005623781a?t=1790692625089",
+   "is_doc": false,
+   "type": "notice",
+   "list_date": "2026-11-04",
+   "first_seen": "2026-11-04T18:57:33+00:00",
+   "last_seen": "2026-11-04T18:57:33+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://sbi.bank.in",
+   "slug": "sbi-online-registration-extended-till-04-11-2026-advertisement-english-0650e8",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info"
+  },
+  {
+   "id": "f42d2166aa6d",
+   "source": "sbi",
+   "org": "State Bank of India Careers",
+   "short": "SBI",
+   "scope": "central",
+   "title": "(Online Registration Extended till",
+   "url": "https://recruitment.sbi.bank.in/crpd-sco-2026-27-25/apply",
+   "is_doc": false,
+   "type": "notice",
+   "list_date": "2026-11-04",
+   "first_seen": "2026-11-04T18:57:33+00:00",
+   "last_seen": "2026-11-04T18:57:33+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://sbi.bank.in",
+   "slug": "sbi-online-registration-extended-till-f42d21",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "sbi-registration-till-2026"
+  },
+  {
+   "id": "08c06009504e",
+   "source": "sbi",
+   "org": "State Bank of India Careers",
+   "short": "SBI",
+   "scope": "central",
+   "title": "(Online Registration Extended till 04.11.2026) - ADVERTISEMENT Hindi / English",
+   "url": "https://sbi.bank.in/documents/77530/57941334/SBI+-+CRPD-SCO-2026-27_24+-+Hindi.pdf/f7e425fd-051c-e9ad-9e4b-d4b258af9636?t=1792068580332",
+   "is_doc": false,
+   "type": "notice",
+   "list_date": "2026-11-04",
+   "first_seen": "2026-11-04T18:57:33+00:00",
+   "last_seen": "2026-11-04T18:57:33+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://sbi.bank.in",
+   "slug": "sbi-online-registration-extended-till-04-11-2026-advertisement-hindi-08c060",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "sbi-hindi-english-2026"
+  },
+  {
+   "id": "5a44c3373489",
+   "source": "sbi",
+   "org": "State Bank of India Careers",
+   "short": "SBI",
+   "scope": "central",
+   "title": "Extension of Last Date of Registration: from 06.10.2026 to 16.10.2026 - Advertisement( Hindi / English )",
+   "url": "https://sbi.bank.in/documents/77530/57941334/08102026_SBI+-+CRPD-SCO-2026-27_20+-+Hindi.pdf/6e599e5d-2ac6-c1ef-a9b6-bfefa8f2b914?t=1791461918486",
+   "is_doc": false,
+   "type": "notice",
+   "list_date": "2026-10-16",
+   "first_seen": "2026-11-04T18:57:33+00:00",
+   "last_seen": "2026-11-04T18:57:33+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://sbi.bank.in",
+   "slug": "sbi-extension-of-last-date-of-registration-from-06-10-2026-to-16-10-5a44c3",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info"
+  },
+  {
+   "id": "9239686f8761",
+   "source": "sbi",
+   "org": "State Bank of India Careers",
+   "short": "SBI",
+   "scope": "central",
+   "title": "Extension of Last Date of Registration: from 06.10.2026 to 16.10.2026 - Apply Online (16.10.2026 to",
+   "url": "https://recruitment.sbi.bank.in/crpd-sco-2026-27-20/apply",
+   "is_doc": false,
+   "type": "notice",
+   "list_date": "2026-10-16",
+   "first_seen": "2026-11-04T18:57:33+00:00",
+   "last_seen": "2026-11-04T18:57:33+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://sbi.bank.in",
+   "slug": "sbi-extension-of-last-date-of-registration-from-06-10-2026-to-16-10-923968",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info"
+  },
+  {
+   "id": "9fd4c7856dbf",
+   "source": "sbi",
+   "org": "State Bank of India Careers",
+   "short": "SBI",
+   "scope": "central",
+   "title": "Extension of Last Date of Registration: from 06.10.2026 to 16.10.2026 - Apply Online (16.09.2026 to",
+   "url": "https://recruitment.sbi.bank.in/crpd-sco-2026-27-22/apply",
+   "is_doc": false,
+   "type": "notice",
+   "list_date": "2026-10-16",
+   "first_seen": "2026-11-04T18:57:33+00:00",
+   "last_seen": "2026-11-04T18:57:33+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://sbi.bank.in",
+   "slug": "sbi-extension-of-last-date-of-registration-from-06-10-2026-to-16-10-9fd4c7",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info"
+  },
+  {
+   "id": "edfeed24f6e3",
+   "source": "sbi",
+   "org": "State Bank of India Careers",
+   "short": "SBI",
+   "scope": "central",
+   "title": "(Online Registration Extended till 05.10.2026) - ADVERTISEMENT Hindi / English",
+   "url": "https://sbi.bank.in/documents/77530/57941334/SBI+-+CRPD-SCO-2026-27_23+-+Hindi_23092026.pdf/9176d35c-772d-484d-1776-a0479537d3a6?t=1790171378048",
+   "is_doc": false,
+   "type": "notice",
+   "list_date": "2026-10-05",
+   "first_seen": "2026-11-04T18:57:33+00:00",
+   "last_seen": "2026-11-04T18:57:33+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://sbi.bank.in",
+   "slug": "sbi-online-registration-extended-till-05-10-2026-advertisement-hindi-edfeed",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "sbi-hindi-english-2026"
+  },
+  {
+   "id": "1203fc293de7",
+   "source": "sbi",
+   "org": "State Bank of India Careers",
+   "short": "SBI",
+   "scope": "central",
+   "title": "(Online Registration Extended till",
+   "url": "https://recruitment.sbi.bank.in/crpd-sco-2026-27-23/apply",
+   "is_doc": false,
+   "type": "notice",
+   "list_date": "2026-10-05",
+   "first_seen": "2026-11-04T18:57:33+00:00",
+   "last_seen": "2026-11-04T18:57:33+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://sbi.bank.in",
+   "slug": "sbi-online-registration-extended-till-1203fc",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "sbi-registration-till-2026"
+  },
+  {
+   "id": "47c682d18589",
+   "source": "nta",
+   "org": "National Testing Agency",
+   "short": "NTA",
+   "scope": "central",
+   "title": "Conduct of Stage-2 of NIFTEE-2026 for Shortlisted Candidates - Reg.",
+   "url": "https://nta.ac.in/Download/Notice/Notice_20260327182714.pdf",
+   "is_doc": true,
+   "type": "result",
+   "list_date": null,
+   "first_seen": "2026-11-04T18:57:44+00:00",
+   "last_seen": "2026-11-04T18:57:44+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://nta.ac.in",
+   "slug": "nta-conduct-of-stage-2-of-niftee-2026-for-shortlisted-candidates-reg-47c682",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "nta-conduct-niftee-shortlisted-2026"
+  },
+  {
+   "id": "473232f47155",
+   "source": "cbse",
+   "org": "Central Board of Secondary Education",
+   "short": "CBSE",
+   "scope": "central",
+   "title": "Public Notice Dated : 27/12/2025",
+   "url": "https://www.cbse.gov.in/cbsenew/documents/Public_Notice_Correction_Modification_DRQ2026_27122025.pdf",
+   "is_doc": true,
+   "type": "notice",
+   "list_date": "2026-09-21",
+   "first_seen": "2026-11-04T18:57:58+00:00",
+   "last_seen": "2026-11-04T18:57:58+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://cbse.gov.in",
+   "slug": "cbse-public-notice-dated-27-12-2025-473232",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info"
+  },
+  {
+   "id": "2e739cc989d1",
+   "source": "cbse",
+   "org": "Central Board of Secondary Education",
+   "short": "CBSE",
+   "scope": "central",
+   "title": "Public Notice Dated : 22/12/2025",
+   "url": "https://www.cbse.gov.in/cbsenew/documents/Public_Notice_Extension_last_date_DRQ2026_22122025.pdf",
+   "is_doc": true,
+   "type": "notice",
+   "list_date": "2026-09-21",
+   "first_seen": "2026-11-04T18:57:58+00:00",
+   "last_seen": "2026-11-04T18:57:58+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://cbse.gov.in",
+   "slug": "cbse-public-notice-dated-22-12-2025-2e739c",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info"
+  },
+  {
+   "id": "f801fed9cb8d",
+   "source": "cbse",
+   "org": "Central Board of Secondary Education",
+   "short": "CBSE",
+   "scope": "central",
+   "title": "Corrigendum Dated : 18/12/2025",
+   "url": "https://www.cbse.gov.in/cbsenew/documents/Corrigendum_DRQ2026_18122025.pdf",
+   "is_doc": true,
+   "type": "notice",
+   "list_date": "2026-09-21",
+   "first_seen": "2026-11-04T18:57:58+00:00",
+   "last_seen": "2026-11-04T18:57:58+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://cbse.gov.in",
+   "slug": "cbse-corrigendum-dated-18-12-2025-f801fe",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info"
+  },
+  {
+   "id": "388197207005",
+   "source": "aiims",
+   "org": "AIIMS Examinations",
+   "short": "AIIMS",
+   "scope": "central",
+   "title": "Update list of eligible / not eligible for walk-in-interivew/offline counseling for JR July 2026 session",
+   "url": "https://rrpdocuments.aiimsexams.ac.in/1793793407393-287725237.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVRUVRLXWMSLVSAP7%2F20261104%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261104T190031Z&X-Amz-Expires=604800&X-Amz-Signature=ff3faf8820441364f3a24fa9f81e1a0c741d34fae13840449c657c996d43d4c7&X-Amz-SignedHeaders=host&response-content-type=application%2Fpdf",
+   "is_doc": true,
+   "type": "admission",
+   "list_date": null,
+   "first_seen": "2026-11-04T19:02:59+00:00",
+   "last_seen": "2026-11-04T19:02:59+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://aiimsexams.ac.in",
+   "slug": "aiims-update-list-of-eligible-not-eligible-for-walk-in-interivew-388197",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "aiims-update-eligible-not-eligible-walk-interivew-2026"
+  },
+  {
+   "id": "c0f7a34cd576",
+   "source": "aiims",
+   "org": "AIIMS Examinations",
+   "short": "AIIMS",
+   "scope": "central",
+   "title": "Notice: Fees and Admit Card for Optometry Phase - III/Bachelor of Medical Radiology and Imaging Technology Phase - I, II & III/B.Sc. in Operation Theatre Technology Phase - I, II & III Professional Examinations to be held in November 2026",
+   "url": "https://rrpdocuments.aiimsexams.ac.in/1793790866170-767391222.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVRUVRLXWMSLVSAP7%2F20261104%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261104T190031Z&X-Amz-Expires=604800&X-Amz-Signature=a6be8155c67897e5967f4daeb55eeb65edb6ffded5ecc0dc61e0fa0d449731db&X-Amz-SignedHeaders=host&response-content-type=application%2Fpdf",
+   "is_doc": true,
+   "type": "admit",
+   "list_date": null,
+   "first_seen": "2026-11-04T19:02:59+00:00",
+   "last_seen": "2026-11-04T19:02:59+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://aiimsexams.ac.in",
+   "slug": "aiims-notice-fees-and-admit-card-for-optometry-phase-iii-bachelor-of-c0f7a3",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "aiims-fees-optometry-bachelor-medical-radiology-2026"
+  },
+  {
+   "id": "7ae95a74a9d1",
+   "source": "aiims",
+   "org": "AIIMS Examinations",
+   "short": "AIIMS",
+   "scope": "central",
+   "title": "List of eligible / Not eligible candidates for walk-in-interview for the post of Junior Resident",
+   "url": "https://rrpdocuments.aiimsexams.ac.in/1793704949904-948663010.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVRUVRLXWMSLVSAP7%2F20261104%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261104T190031Z&X-Amz-Expires=604800&X-Amz-Signature=11f3e1a772545c3e954b088e13654c7f2f67f28fccad24935772371544aa93b0&X-Amz-SignedHeaders=host&response-content-type=application%2Fpdf",
+   "is_doc": true,
+   "type": "job",
+   "list_date": null,
+   "first_seen": "2026-11-04T19:02:59+00:00",
+   "last_seen": "2026-11-04T19:02:59+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://aiimsexams.ac.in",
+   "slug": "aiims-list-of-eligible-not-eligible-candidates-for-walk-in-interview-7ae95a",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "aiims-eligible-not-eligible-walk-junior-resident-2026"
+  },
+  {
+   "id": "7f61107c00ce",
+   "source": "aiims",
+   "org": "AIIMS Examinations",
+   "short": "AIIMS",
+   "scope": "central",
+   "title": "Revised date for Walk-in interview/counseling for the post of Junior Resident - Advertisement No. AS/JR.07/2026/Special Recruitment drive",
+   "url": "https://rrpdocuments.aiimsexams.ac.in/1793685604040-925543909.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVRUVRLXWMSLVSAP7%2F20261104%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261104T190031Z&X-Amz-Expires=604800&X-Amz-Signature=ad93003edbc5d423b4eaf4a1acd8e5205dd90bc023d4e513b7f690cf8ec1cd21&X-Amz-SignedHeaders=host&response-content-type=application%2Fpdf",
+   "is_doc": true,
+   "type": "admission",
+   "list_date": "2026-10-19",
+   "first_seen": "2026-11-04T19:02:59+00:00",
+   "last_seen": "2026-11-04T19:02:59+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://aiimsexams.ac.in",
+   "slug": "aiims-revised-date-for-walk-in-interview-counseling-for-the-post-of-7f6110",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "aiims-walk-counseling-junior-resident-as-jr-special-2026"
+  },
+  {
+   "id": "0f993686be98",
+   "source": "aiims",
+   "org": "AIIMS Examinations",
+   "short": "AIIMS",
+   "scope": "central",
+   "title": "Notice No. 01 of 2026 :- Regarding the Interview schedule for various faculty posts of various disciplines at AIIMS-Awantipora.",
+   "url": "https://rrpdocuments.aiimsexams.ac.in/1793621714134-402137555.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVRUVRLXWMSLVSAP7%2F20261104%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261104T190031Z&X-Amz-Expires=604800&X-Amz-Signature=ad3281337fc8fb3ad87e3896e611f988db0714f812dbb50e15434f3f7986294a&X-Amz-SignedHeaders=host&response-content-type=application%2Fpdf",
+   "is_doc": true,
+   "type": "notice",
+   "list_date": null,
+   "first_seen": "2026-11-04T19:02:59+00:00",
+   "last_seen": "2026-11-04T19:02:59+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://aiimsexams.ac.in",
+   "slug": "notice-no-01-of-2026-regarding-the-interview-schedule-for-various-0f9936",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "aiims-01-faculty-disciplines-at-aiims-awantipora-2026"
+  },
+  {
+   "id": "999971b5e13d",
+   "source": "shsbihar",
+   "org": "State Health Society Bihar",
+   "short": "SHS Bihar",
+   "scope": "bihar",
+   "title": "Walk-in-recruitment ' for Specialist Doctors against Advt. No. - 03/2026",
+   "url": "https://healthhrshs.bihar.gov.in/specialistdoctor0326/",
+   "is_doc": false,
+   "type": "job",
+   "list_date": null,
+   "first_seen": "2026-11-04T19:06:47+00:00",
+   "last_seen": "2026-11-04T19:06:47+00:00",
+   "advt": "03/2026",
+   "link_policy": "deep",
+   "official_home": "https://shs.bihar.gov.in",
+   "slug": "shs-bihar-walk-in-recruitment-for-specialist-doctors-against-advt-no-999971",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "shsbihar-advt-03-2026"
+  },
+  {
+   "id": "aad7bb548c6a",
+   "source": "shsbihar",
+   "org": "State Health Society Bihar",
+   "short": "SHS Bihar",
+   "scope": "bihar",
+   "title": "Important Notice - Document Verification Extended Date (Advt -03/2026) - Advt no. 03/2026",
+   "url": "https://shs.bihar.gov.in/shs/advertisement/1785991666.pdf",
+   "is_doc": true,
+   "type": "notice",
+   "list_date": "2026-08-06",
+   "first_seen": "2026-11-04T19:06:47+00:00",
+   "last_seen": "2026-11-04T19:06:47+00:00",
+   "advt": "03/2026",
+   "link_policy": "deep",
+   "official_home": "https://shs.bihar.gov.in",
+   "slug": "shs-bihar-important-notice-document-verification-extended-date-advt-aad7bb",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "shsbihar-advt-03-2026"
+  },
+  {
+   "id": "c9d9f14c5825",
+   "source": "shsbihar",
+   "org": "State Health Society Bihar",
+   "short": "SHS Bihar",
+   "scope": "bihar",
+   "title": "Walk-in Recruitment for Medical Officer - Dental Against Advertisement No. 02/2026",
+   "url": "https://healthhrshs.bihar.gov.in/modental/",
+   "is_doc": false,
+   "type": "job",
+   "list_date": null,
+   "first_seen": "2026-11-04T19:06:47+00:00",
+   "last_seen": "2026-11-04T19:06:47+00:00",
+   "advt": "02/2026",
+   "link_policy": "deep",
+   "official_home": "https://shs.bihar.gov.in",
+   "slug": "shs-bihar-walk-in-recruitment-for-medical-officer-dental-against-c9d9f1",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "shsbihar-advt-02-2026"
+  },
+  {
+   "id": "01f7ccc97b81",
+   "source": "shsbihar",
+   "org": "State Health Society Bihar",
+   "short": "SHS Bihar",
+   "scope": "bihar",
+   "title": "Walk-in-recruitment ' for Specialist Doctors against Advt. No. - 01/2026",
+   "url": "https://healthhrshs.bihar.gov.in/specialistdoctor/",
+   "is_doc": false,
+   "type": "job",
+   "list_date": null,
+   "first_seen": "2026-11-04T19:06:47+00:00",
+   "last_seen": "2026-11-04T19:06:47+00:00",
+   "advt": "01/2026",
+   "link_policy": "deep",
+   "official_home": "https://shs.bihar.gov.in",
+   "slug": "shs-bihar-walk-in-recruitment-for-specialist-doctors-against-advt-no-01f7cc",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "shsbihar-advt-01-2026"
+  },
+  {
+   "id": "5c058d8c3fc1",
+   "source": "shsbihar",
+   "org": "State Health Society Bihar",
+   "short": "SHS Bihar",
+   "scope": "bihar",
+   "title": "Walk-in-recruitment ' for Specialist Doctors against Advt. No. - 01/2026 - Advt No. 01/2026",
+   "url": "https://shs.bihar.gov.in/shs/advertisement/1768102704.pdf",
+   "is_doc": true,
+   "type": "job",
+   "list_date": "2026-01-11",
+   "first_seen": "2026-11-04T19:06:47+00:00",
+   "last_seen": "2026-11-04T19:06:47+00:00",
+   "advt": "01/2026",
+   "link_policy": "deep",
+   "official_home": "https://shs.bihar.gov.in",
+   "slug": "shs-bihar-walk-in-recruitment-for-specialist-doctors-against-advt-no-5c058d",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "shsbihar-advt-01-2026"
+  },
+  {
+   "id": "576d7af15748",
+   "source": "shsbihar",
+   "org": "State Health Society Bihar",
+   "short": "SHS Bihar",
+   "scope": "bihar",
+   "title": "Online Applications are invited for the post of ANM Adv. No.- 08/2025",
+   "url": "https://cdn3.digialm.com//EForms/configuredHtml/1631/94951//Index.html",
+   "is_doc": false,
+   "type": "job",
+   "list_date": null,
+   "first_seen": "2026-11-04T19:06:47+00:00",
+   "last_seen": "2026-11-04T19:06:47+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://shs.bihar.gov.in",
+   "slug": "shs-bihar-online-applications-are-invited-for-the-post-of-anm-adv-no-576d7a",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "archive": true,
+   "status": "info",
+   "group": "shsbihar-are-anm-adv-2025"
+  },
+  {
+   "id": "92a356e11653",
+   "source": "shsbihar",
+   "org": "State Health Society Bihar",
+   "short": "SHS Bihar",
+   "scope": "bihar",
+   "title": "Online Applications are invited for the post of Ophthalmic Assistant against Adv. No.- 07/2025",
+   "url": "https://cdn3.digialm.com/EForms/configuredHtml/1631/95383/login.html",
+   "is_doc": false,
+   "type": "job",
+   "list_date": null,
+   "first_seen": "2026-11-04T19:06:47+00:00",
+   "last_seen": "2026-11-04T19:06:47+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://shs.bihar.gov.in",
+   "slug": "shs-bihar-online-applications-are-invited-for-the-post-of-ophthalmic-92a356",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "archive": true,
+   "status": "info",
+   "group": "shsbihar-are-ophthalmic-assistant-adv-2025"
+  },
+  {
+   "id": "bc7f503e4388",
+   "source": "shsbihar",
+   "org": "State Health Society Bihar",
+   "short": "SHS Bihar",
+   "scope": "bihar",
+   "title": "'Walk-in-recruitment ' for Medical Officer (Aphc) against Advt. No. - 06/2025",
+   "url": "https://healthhrshs.bihar.gov.in/",
+   "is_doc": false,
+   "type": "job",
+   "list_date": null,
+   "first_seen": "2026-11-04T19:06:47+00:00",
+   "last_seen": "2026-11-04T19:06:47+00:00",
+   "advt": "06/2025",
+   "link_policy": "deep",
+   "official_home": "https://shs.bihar.gov.in",
+   "slug": "shs-bihar-walk-in-recruitment-for-medical-officer-aphc-against-advt-bc7f50",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "archive": true,
+   "status": "info",
+   "group": "shsbihar-advt-06-2025"
+  },
+  {
+   "id": "26e9375f091e",
+   "source": "shsbihar",
+   "org": "State Health Society Bihar",
+   "short": "SHS Bihar",
+   "scope": "bihar",
+   "title": "Detailed Instruction - Medical Officer (APHC) - Advt no. 06/2025",
+   "url": "https://shs.bihar.gov.in/shs/advertisement/1750477792.pdf",
+   "is_doc": true,
+   "type": "job",
+   "list_date": "2025-06-21",
+   "first_seen": "2026-11-04T19:06:47+00:00",
+   "last_seen": "2026-11-04T19:06:47+00:00",
+   "advt": "06/2025",
+   "link_policy": "deep",
+   "official_home": "https://shs.bihar.gov.in",
+   "slug": "shs-bihar-detailed-instruction-medical-officer-aphc-advt-no-06-2025-26e937",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "shsbihar-advt-06-2025"
+  },
+  {
+   "id": "63d872c55c4b",
+   "source": "shsbihar",
+   "org": "State Health Society Bihar",
+   "short": "SHS Bihar",
+   "scope": "bihar",
+   "title": "Applications invited for the post of recruitment of AYUSH MO (Mainstream/RBSK) (on contractual basis) at PHC/CHC/APHC of Bihar under National Health Mission against Advt no. 05/2025",
+   "url": "https://cdn3.digialm.com/EForms/configuredHtml/1631/94372/Registration.html",
+   "is_doc": false,
+   "type": "job",
+   "list_date": null,
+   "first_seen": "2026-11-04T19:06:47+00:00",
+   "last_seen": "2026-11-04T19:06:47+00:00",
+   "advt": "05/2025",
+   "link_policy": "deep",
+   "official_home": "https://shs.bihar.gov.in",
+   "slug": "shs-bihar-applications-invited-for-the-post-of-recruitment-of-ayush-63d872",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "archive": true,
+   "status": "info",
+   "group": "shsbihar-advt-05-2025"
+  },
+  {
+   "id": "0514e11e98b0",
+   "source": "shsbihar",
+   "org": "State Health Society Bihar",
+   "short": "SHS Bihar",
+   "scope": "bihar",
+   "title": "'Walk-in-recruitment ' for Medical Officer against Advt. No. - 04/2025",
+   "url": "https://healthhrshs.bihar.gov.in/0425/",
+   "is_doc": false,
+   "type": "job",
+   "list_date": null,
+   "first_seen": "2026-11-04T19:06:47+00:00",
+   "last_seen": "2026-11-04T19:06:47+00:00",
+   "advt": "04/2025",
+   "link_policy": "deep",
+   "official_home": "https://shs.bihar.gov.in",
+   "slug": "shs-bihar-walk-in-recruitment-for-medical-officer-against-advt-no-04-0514e1",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "archive": true,
+   "status": "info",
+   "group": "shsbihar-advt-04-2025"
+  },
+  {
+   "id": "39fd23d5c93d",
+   "source": "shsbihar",
+   "org": "State Health Society Bihar",
+   "short": "SHS Bihar",
+   "scope": "bihar",
+   "title": "'Walk-in-recruitment ' for Medical Officer against Advt. No. - 04/2025 - Advt No. 04/2025",
+   "url": "https://shs.bihar.gov.in/shs/advertisement/1745640348.pdf",
+   "is_doc": true,
+   "type": "job",
+   "list_date": "2025-04-26",
+   "first_seen": "2026-11-04T19:06:47+00:00",
+   "last_seen": "2026-11-04T19:06:47+00:00",
+   "advt": "04/2025",
+   "link_policy": "deep",
+   "official_home": "https://shs.bihar.gov.in",
+   "slug": "shs-bihar-walk-in-recruitment-for-medical-officer-against-advt-no-04-39fd23",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "shsbihar-advt-04-2025"
+  },
+  {
+   "id": "88b76df62247",
+   "source": "shsbihar",
+   "org": "State Health Society Bihar",
+   "short": "SHS Bihar",
+   "scope": "bihar",
+   "title": "'Walk-in-recruitment ' for Specialist Doctors against Advt. No. - 03/2025 - Advt No. 03/2025",
+   "url": "https://shs.bihar.gov.in/shs/advertisement/1745314083.pdf",
+   "is_doc": true,
+   "type": "job",
+   "list_date": "2025-04-22",
+   "first_seen": "2026-11-04T19:06:47+00:00",
+   "last_seen": "2026-11-04T19:06:47+00:00",
+   "advt": "03/2025",
+   "link_policy": "deep",
+   "official_home": "https://shs.bihar.gov.in",
+   "slug": "shs-bihar-walk-in-recruitment-for-specialist-doctors-against-advt-no-88b76d",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "shsbihar-advt-03-2025"
+  },
+  {
+   "id": "e5eb97c89ce1",
+   "source": "shsbihar",
+   "org": "State Health Society Bihar",
+   "short": "SHS Bihar",
+   "scope": "bihar",
+   "title": "Applications invited for the post of recruitment of Community Health Officer (on contractual basis) at Health & Wellness Centre (Health Sub Centre) under National Health Mission against Advt. No. 02/2025",
+   "url": "https://cdn3.digialm.com:443//EForms/configuredHtml/1631/93898//Index.html",
+   "is_doc": false,
+   "type": "job",
+   "list_date": null,
+   "first_seen": "2026-11-04T19:06:47+00:00",
+   "last_seen": "2026-11-04T19:06:47+00:00",
+   "advt": "02/2025",
+   "link_policy": "deep",
+   "official_home": "https://shs.bihar.gov.in",
+   "slug": "shs-bihar-applications-invited-for-the-post-of-recruitment-of-e5eb97",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "archive": true,
+   "status": "info",
+   "group": "shsbihar-advt-02-2025"
+  },
+  {
+   "id": "8e3e5e447881",
+   "source": "shsbihar",
+   "org": "State Health Society Bihar",
+   "short": "SHS Bihar",
+   "scope": "bihar",
+   "title": "Annexure -1 (Application Form)",
+   "url": "https://shs.bihar.gov.in/shs/advertisement/1743238185.pdf",
+   "is_doc": true,
+   "type": "job",
+   "list_date": "2025-03-29",
+   "first_seen": "2026-11-04T19:06:47+00:00",
+   "last_seen": "2026-11-04T19:06:47+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://shs.bihar.gov.in",
+   "slug": "shs-bihar-annexure-1-application-form-8e3e5e",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info"
   }
  ]
 }

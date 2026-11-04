@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T17:40:11+00:00",
+ "updated": "2026-11-04T19:08:16+00:00",
  "exams": [
   {
    "key": "uppsc-d-e-medical-education-department-u-p-professor-2026",
@@ -527,8 +527,7 @@
    "org": "State Bank of India Careers",
    "scope": "central",
    "items": [
-    "b72c8158e1d8",
-    "55ca6c504aad"
+    "b72c8158e1d8"
    ],
    "year": 2024,
    "name": "SBI ADVERTISEMENT No: CRPD/PO/2024-25/22 - ADVERTISEMENT / English )",
@@ -545,7 +544,6 @@
    "org": "State Bank of India Careers",
    "scope": "central",
    "items": [
-    "651415f8c7a0",
     "79ccf20be93b"
    ],
    "year": 2024,
@@ -5518,7 +5516,8 @@
    "org": "AIIMS Examinations",
    "scope": "central",
    "items": [
-    "40a3aabb9e50"
+    "40a3aabb9e50",
+    "388197207005"
    ],
    "year": 2026,
    "name": "AIIMS Update list of eligible / not eligible for walk-in-interivew/offline counseling 2026",
@@ -5535,7 +5534,8 @@
    "org": "AIIMS Examinations",
    "scope": "central",
    "items": [
-    "72cbc97a6324"
+    "72cbc97a6324",
+    "c0f7a34cd576"
    ],
    "year": 2026,
    "name": "AIIMS Fees and Admit Card for Optometry Phase - III/Bachelor of Medical Radiology and 2026",
@@ -5552,7 +5552,8 @@
    "org": "AIIMS Examinations",
    "scope": "central",
    "items": [
-    "f2e25c52d95e"
+    "f2e25c52d95e",
+    "7ae95a74a9d1"
    ],
    "year": 2026,
    "name": "AIIMS List of eligible / Not eligible candidates for walk-in-interview for the post 2026",
@@ -5569,7 +5570,8 @@
    "org": "AIIMS Examinations",
    "scope": "central",
    "items": [
-    "fb220de4d49c"
+    "fb220de4d49c",
+    "0f993686be98"
    ],
    "year": 2026,
    "name": "AIIMS No. 01 of 2026 :- Regarding the Interview schedule for various faculty posts of",
@@ -6589,6 +6591,88 @@
    "latest": "2026-11-04"
   },
   {
+   "key": "shsbihar-advt-03-2026",
+   "source": "shsbihar",
+   "short": "SHS Bihar",
+   "org": "State Health Society Bihar",
+   "scope": "bihar",
+   "items": [
+    "5fda3ad4cc4e",
+    "a3d0008c3cda",
+    "9837ec80457a",
+    "999971b5e13d",
+    "aad7bb548c6a"
+   ],
+   "year": 2026,
+   "name": "SHS Bihar Walk-in-recruitment ' for Specialist Doctors Against Advt. No. - 03/2026",
+   "slug": "shs-bihar-walk-in-recruitment-for-specialist-doctors-against-advt-no-03-2026-ba4e6",
+   "types": [
+    "job",
+    "notice"
+   ],
+   "latest": "2026-11-04"
+  },
+  {
+   "key": "shsbihar-advt-02-2026",
+   "source": "shsbihar",
+   "short": "SHS Bihar",
+   "org": "State Health Society Bihar",
+   "scope": "bihar",
+   "items": [
+    "c5ba39ce1fd3",
+    "3e5e8fcfd466",
+    "8d3096bfae6d",
+    "b12b84fdc034",
+    "c9d9f14c5825"
+   ],
+   "year": 2026,
+   "name": "SHS Bihar Walk-in Recruitment for Medical Officer - Dental Against Advertisement No. 2026",
+   "slug": "shs-bihar-walk-in-recruitment-for-medical-officer-dental-against-advertisement-b5e30",
+   "types": [
+    "job",
+    "notice"
+   ],
+   "latest": "2026-11-04"
+  },
+  {
+   "key": "shsbihar-advt-01-2026",
+   "source": "shsbihar",
+   "short": "SHS Bihar",
+   "org": "State Health Society Bihar",
+   "scope": "bihar",
+   "items": [
+    "8c3b5d1c4b0c",
+    "926f8f825d01",
+    "01f7ccc97b81",
+    "5c058d8c3fc1"
+   ],
+   "year": 2026,
+   "name": "SHS Bihar Walk-in-recruitment ' for Specialist Doctors Against Advt. No. - 01/2026",
+   "slug": "shs-bihar-walk-in-recruitment-for-specialist-doctors-against-advt-no-01-2026-8d109",
+   "types": [
+    "job"
+   ],
+   "latest": "2026-11-04"
+  },
+  {
+   "key": "shsbihar-are-anm-adv-2025",
+   "source": "shsbihar",
+   "short": "SHS Bihar",
+   "org": "State Health Society Bihar",
+   "scope": "bihar",
+   "items": [
+    "d6c3cb729482",
+    "576d7af15748"
+   ],
+   "year": 2025,
+   "name": "SHS Bihar Online Applications are invited for the post of ANM Adv. No.- 08/2025",
+   "slug": "shs-bihar-online-applications-are-invited-for-the-post-of-anm-adv-no-08-2025-daa7b",
+   "types": [
+    "job"
+   ],
+   "latest": "2026-11-04"
+  },
+  {
    "key": "shsbihar-anm-a-dmit-https-cdn3-digialm-com-eforms-2026",
    "source": "shsbihar",
    "short": "SHS Bihar",
@@ -6606,6 +6690,24 @@
    "latest": "2026-11-04"
   },
   {
+   "key": "shsbihar-are-ophthalmic-assistant-adv-2025",
+   "source": "shsbihar",
+   "short": "SHS Bihar",
+   "org": "State Health Society Bihar",
+   "scope": "bihar",
+   "items": [
+    "2f5ccae53fb4",
+    "92a356e11653"
+   ],
+   "year": 2025,
+   "name": "SHS Bihar Online Applications are invited for the post of Ophthalmic Assistant against 2025",
+   "slug": "shs-bihar-online-applications-are-invited-for-the-post-of-ophthalmic-assistant-60a28",
+   "types": [
+    "job"
+   ],
+   "latest": "2026-11-04"
+  },
+  {
    "key": "shsbihar-ophthalmic-assistant-https-cdn3-digialm-com-2026",
    "source": "shsbihar",
    "short": "SHS Bihar",
@@ -6619,6 +6721,37 @@
    "slug": "shs-bihar-ophthalmic-assistant-admit-card-link-2026-9a586",
    "types": [
     "answer"
+   ],
+   "latest": "2026-11-04"
+  },
+  {
+   "key": "shsbihar-advt-06-2025",
+   "source": "shsbihar",
+   "short": "SHS Bihar",
+   "org": "State Health Society Bihar",
+   "scope": "bihar",
+   "items": [
+    "0948d856eba8",
+    "ef041ce91d0c",
+    "b994967a7919",
+    "c2cbde1d32cb",
+    "62de0b404de5",
+    "bfa53fe0230f",
+    "dae7b85c521f",
+    "0e13c4398c2b",
+    "f4fea41ce3e9",
+    "956ef4341b12",
+    "ba297f524983",
+    "bc7f503e4388",
+    "26e9375f091e"
+   ],
+   "year": 2025,
+   "name": "SHS Bihar 'walk-in-recruitment ' for Medical Officer Against Advt. No. - 06/2025",
+   "slug": "shs-bihar-walk-in-recruitment-for-medical-officer-against-advt-no-06-2025-1d0d6",
+   "types": [
+    "job",
+    "notice",
+    "result"
    ],
    "latest": "2026-11-04"
   },
@@ -6648,11 +6781,78 @@
     "b16bbf2063b1",
     "9fbf44ab706f",
     "c4887795390d",
-    "91ceaffee6b1"
+    "91ceaffee6b1",
+    "63d872c55c4b"
    ],
    "year": 2025,
    "name": "SHS Bihar Applications invited for the post of recruitment of AYUSH Mo at PHC/CHC/APHC of 2025",
    "slug": "shs-bihar-applications-invited-for-the-post-of-recruitment-of-ayush-mo-at-phc-c6b89",
+   "types": [
+    "answer",
+    "job",
+    "notice",
+    "syllabus"
+   ],
+   "latest": "2026-11-04"
+  },
+  {
+   "key": "shsbihar-advt-04-2025",
+   "source": "shsbihar",
+   "short": "SHS Bihar",
+   "org": "State Health Society Bihar",
+   "scope": "bihar",
+   "items": [
+    "a8762151cc03",
+    "1f60d5ea91da",
+    "776bbbdf6e7f",
+    "0c979a3533ef",
+    "98dccf8c26b1",
+    "bd56e1d0fe37",
+    "9cf7b290e0ec",
+    "63e3dc15cbbe",
+    "3518bb96a0c2",
+    "9a72f9a4d4f1",
+    "d579f18865c3",
+    "266e587f393f",
+    "6a287ad15308",
+    "c09371c78dfa",
+    "9f50bdbaef3a",
+    "db2fae960e24",
+    "0514e11e98b0",
+    "39fd23d5c93d"
+   ],
+   "year": 2025,
+   "name": "SHS Bihar 'walk-in-recruitment ' for Medical Officer Against Advt. No. - 04/2025",
+   "slug": "shs-bihar-walk-in-recruitment-for-medical-officer-against-advt-no-04-2025-f0ad1",
+   "types": [
+    "job",
+    "notice"
+   ],
+   "latest": "2026-11-04"
+  },
+  {
+   "key": "shsbihar-advt-02-2025",
+   "source": "shsbihar",
+   "short": "SHS Bihar",
+   "org": "State Health Society Bihar",
+   "scope": "bihar",
+   "items": [
+    "c62dbe8f2331",
+    "e95bd4e024bd",
+    "a9b467666189",
+    "d4517ebc547f",
+    "671c629dff6f",
+    "fc0f806152b2",
+    "3bf7457af067",
+    "318d5ca01f49",
+    "4656ed8c77a4",
+    "8ce640f58d1a",
+    "5f1082693e4f",
+    "e5eb97c89ce1"
+   ],
+   "year": 2025,
+   "name": "SHS Bihar Applications invited for the post of recruitment of Community Health Officer at 2025",
+   "slug": "shs-bihar-applications-invited-for-the-post-of-recruitment-of-community-health-7a687",
    "types": [
     "answer",
     "job",
@@ -6738,21 +6938,13 @@
    "org": "State Health Society Bihar",
    "scope": "bihar",
    "items": [
-    "b48a5fbcaf87",
-    "23e0e575ef6a",
-    "fdf34f130a09",
-    "22fb7224495e",
-    "8067c034c6d2",
-    "9df44e996519",
-    "c12508c0feb8"
+    "b48a5fbcaf87"
    ],
    "year": 2024,
    "name": "SHS Bihar Applications invited for the post of recruitment of Community Health Oflicer at 2024",
    "slug": "shs-bihar-applications-invited-for-the-post-of-recruitment-of-community-health-e2a48",
    "types": [
-    "job",
-    "notice",
-    "syllabus"
+    "job"
    ],
    "latest": "2026-11-04"
   },
@@ -8566,6 +8758,61 @@
    "latest": "2026-11-04"
   },
   {
+   "key": "sbi-hindi-english-2026",
+   "source": "sbi",
+   "short": "SBI",
+   "org": "State Bank of India Careers",
+   "scope": "central",
+   "items": [
+    "0894daade082",
+    "08c06009504e",
+    "edfeed24f6e3"
+   ],
+   "year": 2026,
+   "name": "SBI ADVERTISEMENT Hindi / English 2026",
+   "slug": "sbi-advertisement-hindi-english-2026-ca904",
+   "types": [
+    "notice"
+   ],
+   "latest": "2026-11-04"
+  },
+  {
+   "key": "sbi-registration-till-2026",
+   "source": "sbi",
+   "short": "SBI",
+   "org": "State Bank of India Careers",
+   "scope": "central",
+   "items": [
+    "cb47f1661b3c",
+    "f42d2166aa6d",
+    "1203fc293de7"
+   ],
+   "year": 2026,
+   "name": "SBI (Online Registration Extended till 2026",
+   "slug": "sbi-online-registration-extended-till-2026-875fe",
+   "types": [
+    "notice"
+   ],
+   "latest": "2026-11-04"
+  },
+  {
+   "key": "nta-conduct-niftee-shortlisted-2026",
+   "source": "nta",
+   "short": "NTA",
+   "org": "National Testing Agency",
+   "scope": "central",
+   "items": [
+    "47c682d18589"
+   ],
+   "year": 2026,
+   "name": "NTA Conduct of Stage-2 of NIFTEE-2026 for Shortlisted Candidates",
+   "slug": "nta-conduct-of-stage-2-of-niftee-2026-for-shortlisted-candidates-aab44",
+   "types": [
+    "result"
+   ],
+   "latest": "2026-11-04"
+  },
+  {
    "key": "upprpb-notice-2026",
    "source": "upprpb",
    "short": "UPPRPB",
@@ -8714,6 +8961,23 @@
    "latest": "2026-10-29"
   },
   {
+   "key": "ibps-crp-specialist-officers-ibps-2026",
+   "source": "ibps",
+   "short": "IBPS",
+   "org": "Institute of Banking Personnel Selection",
+   "scope": "central",
+   "items": [
+    "36afd076ffe9"
+   ],
+   "year": 2026,
+   "name": "CRP Specialist Officers - IBPS 2026",
+   "slug": "crp-specialist-officers-ibps-2026-1bed7",
+   "types": [
+    "job"
+   ],
+   "latest": "2026-10-29"
+  },
+  {
    "key": "upprpb-11427-2020",
    "source": "upprpb",
    "short": "UPPRPB",
@@ -8819,36 +9083,6 @@
    "latest": "2026-10-24"
   },
   {
-   "key": "shsbihar-advt-02-2025",
-   "source": "shsbihar",
-   "short": "SHS Bihar",
-   "org": "State Health Society Bihar",
-   "scope": "bihar",
-   "items": [
-    "c62dbe8f2331",
-    "e95bd4e024bd",
-    "a9b467666189",
-    "d4517ebc547f",
-    "671c629dff6f",
-    "fc0f806152b2",
-    "3bf7457af067",
-    "318d5ca01f49",
-    "4656ed8c77a4",
-    "8ce640f58d1a",
-    "5f1082693e4f"
-   ],
-   "year": 2025,
-   "name": "SHS Bihar Applications invited for the post of recruitment of Community Health Officer at 2025",
-   "slug": "shs-bihar-applications-invited-for-the-post-of-recruitment-of-community-health-7a687",
-   "types": [
-    "answer",
-    "job",
-    "notice",
-    "syllabus"
-   ],
-   "latest": "2026-10-23"
-  },
-  {
    "key": "bceceb-fmt-senior-resident-tutor-health-department-2026",
    "source": "bceceb",
    "short": "BCECEB",
@@ -8893,7 +9127,8 @@
    "org": "AIIMS Examinations",
    "scope": "central",
    "items": [
-    "6a649b21b844"
+    "6a649b21b844",
+    "7f61107c00ce"
    ],
    "year": 2026,
    "name": "AIIMS Revised date for Walk-in interview/counseling for the post of Junior Resident 2026",
@@ -9572,26 +9807,6 @@
     "notice"
    ],
    "latest": "2026-09-14"
-  },
-  {
-   "key": "shsbihar-advt-03-2026",
-   "source": "shsbihar",
-   "short": "SHS Bihar",
-   "org": "State Health Society Bihar",
-   "scope": "bihar",
-   "items": [
-    "5fda3ad4cc4e",
-    "a3d0008c3cda",
-    "9837ec80457a"
-   ],
-   "year": 2026,
-   "name": "SHS Bihar Walk-in-recruitment ' for Specialist Doctors Against Advt. No. - 03/2026",
-   "slug": "shs-bihar-walk-in-recruitment-for-specialist-doctors-against-advt-no-03-2026-ba4e6",
-   "types": [
-    "job",
-    "notice"
-   ],
-   "latest": "2026-09-12"
   },
   {
    "key": "bceceb-mop-up-round-bcece-engineering-2026",
@@ -10600,6 +10815,23 @@
    "latest": "2026-07-04"
   },
   {
+   "key": "ibps-common-process-crp-po-mts-xvi-2026",
+   "source": "ibps",
+   "short": "IBPS",
+   "org": "Institute of Banking Personnel Selection",
+   "scope": "central",
+   "items": [
+    "c03eb0a37a9d"
+   ],
+   "year": 2026,
+   "name": "IBPS Common Recruitment Process for CRP- PO/MTs-XVI 2026",
+   "slug": "ibps-common-recruitment-process-for-crp-po-mts-xvi-2026-c7d24",
+   "types": [
+    "job"
+   ],
+   "latest": "2026-07-01"
+  },
+  {
    "key": "bceceb-filling-graduate-engineering-admission-2026",
    "source": "bceceb",
    "short": "BCECEB",
@@ -10862,27 +11094,6 @@
     "notice"
    ],
    "latest": "2026-06-11"
-  },
-  {
-   "key": "shsbihar-advt-02-2026",
-   "source": "shsbihar",
-   "short": "SHS Bihar",
-   "org": "State Health Society Bihar",
-   "scope": "bihar",
-   "items": [
-    "c5ba39ce1fd3",
-    "3e5e8fcfd466",
-    "8d3096bfae6d",
-    "b12b84fdc034"
-   ],
-   "year": 2026,
-   "name": "SHS Bihar Walk-in Recruitment for Medical Officer - Dental Against Advertisement No. 2026",
-   "slug": "shs-bihar-walk-in-recruitment-for-medical-officer-dental-against-advertisement-b5e30",
-   "types": [
-    "job",
-    "notice"
-   ],
-   "latest": "2026-06-08"
   },
   {
    "key": "nta-re-scheduled-cuet-06-07-june-2026",
@@ -11707,68 +11918,6 @@
    "latest": "2026-01-14"
   },
   {
-   "key": "shsbihar-advt-04-2025",
-   "source": "shsbihar",
-   "short": "SHS Bihar",
-   "org": "State Health Society Bihar",
-   "scope": "bihar",
-   "items": [
-    "a8762151cc03",
-    "1f60d5ea91da",
-    "776bbbdf6e7f",
-    "0c979a3533ef",
-    "98dccf8c26b1",
-    "bd56e1d0fe37",
-    "9cf7b290e0ec",
-    "63e3dc15cbbe",
-    "3518bb96a0c2",
-    "9a72f9a4d4f1",
-    "d579f18865c3",
-    "266e587f393f",
-    "6a287ad15308",
-    "c09371c78dfa",
-    "9f50bdbaef3a",
-    "db2fae960e24"
-   ],
-   "year": 2025,
-   "name": "SHS Bihar 'walk-in-recruitment ' for Medical Officer Against Advt. No. - 04/2025",
-   "slug": "shs-bihar-walk-in-recruitment-for-medical-officer-against-advt-no-04-2025-f0ad1",
-   "types": [
-    "job",
-    "notice"
-   ],
-   "latest": "2026-01-13"
-  },
-  {
-   "key": "shsbihar-advt-06-2025",
-   "source": "shsbihar",
-   "short": "SHS Bihar",
-   "org": "State Health Society Bihar",
-   "scope": "bihar",
-   "items": [
-    "0948d856eba8",
-    "ef041ce91d0c",
-    "b994967a7919",
-    "c2cbde1d32cb",
-    "62de0b404de5",
-    "bfa53fe0230f",
-    "dae7b85c521f",
-    "0e13c4398c2b",
-    "f4fea41ce3e9",
-    "956ef4341b12",
-    "ba297f524983"
-   ],
-   "year": 2025,
-   "name": "SHS Bihar 'walk-in-recruitment ' for Medical Officer Against Advt. No. - 06/2025",
-   "slug": "shs-bihar-walk-in-recruitment-for-medical-officer-against-advt-no-06-2025-1d0d6",
-   "types": [
-    "job",
-    "notice",
-    "result"
-   ],
-   "latest": "2026-01-12"
-  },
-  {
    "key": "shsbihar-advt-03-2025",
    "source": "shsbihar",
    "short": "SHS Bihar",
@@ -11797,7 +11946,8 @@
     "1e17452c1730",
     "2cfa83f276ad",
     "b62057e7afd3",
-    "805275b8b4ee"
+    "805275b8b4ee",
+    "88b76df62247"
    ],
    "year": 2025,
    "name": "SHS Bihar 'walk-in-recruitment ' for Specialist Doctors Against Advt. No. - 03/2025",
@@ -11807,24 +11957,6 @@
     "notice"
    ],
    "latest": "2026-01-12"
-  },
-  {
-   "key": "shsbihar-advt-01-2026",
-   "source": "shsbihar",
-   "short": "SHS Bihar",
-   "org": "State Health Society Bihar",
-   "scope": "bihar",
-   "items": [
-    "8c3b5d1c4b0c",
-    "926f8f825d01"
-   ],
-   "year": 2026,
-   "name": "SHS Bihar Walk-in-recruitment ' for Specialist Doctors Against Advt. No. - 01/2026",
-   "slug": "shs-bihar-walk-in-recruitment-for-specialist-doctors-against-advt-no-01-2026-8d109",
-   "types": [
-    "job"
-   ],
-   "latest": "2026-01-11"
   },
   {
    "key": "shsbihar-tor-posts-2026",
@@ -12119,16 +12251,7 @@
     "858386b36214",
     "84ea1fdedb17",
     "1d8ec8150327",
-    "d501a551e300",
-    "0d5346185146",
-    "0e4c0112ab39",
-    "04e1c035d37f",
-    "e668f76b3541",
-    "e64bc1a34df2",
-    "3bbd845e0ae2",
-    "503891e6e24b",
-    "416ba3fdd1d8",
-    "70a3f5470d4a"
+    "d501a551e300"
    ],
    "year": 2024,
    "name": "BPSSC Ref.:Advt. No.-01/2024: to the Marks",
@@ -12296,23 +12419,6 @@
    "latest": "2025-08-12"
   },
   {
-   "key": "shsbihar-are-anm-adv-2025",
-   "source": "shsbihar",
-   "short": "SHS Bihar",
-   "org": "State Health Society Bihar",
-   "scope": "bihar",
-   "items": [
-    "d6c3cb729482"
-   ],
-   "year": 2025,
-   "name": "SHS Bihar Online Applications are invited for the post of ANM Adv. No.- 08/2025",
-   "slug": "shs-bihar-online-applications-are-invited-for-the-post-of-anm-adv-no-08-2025-daa7b",
-   "types": [
-    "job"
-   ],
-   "latest": "2025-08-11"
-  },
-  {
    "key": "cbse-public-cbse-july-2025",
    "source": "cbse",
    "short": "CBSE",
@@ -12364,31 +12470,13 @@
    "latest": "2025-08-06"
   },
   {
-   "key": "shsbihar-are-ophthalmic-assistant-adv-2025",
-   "source": "shsbihar",
-   "short": "SHS Bihar",
-   "org": "State Health Society Bihar",
-   "scope": "bihar",
-   "items": [
-    "2f5ccae53fb4"
-   ],
-   "year": 2025,
-   "name": "SHS Bihar Online Applications are invited for the post of Ophthalmic Assistant against 2025",
-   "slug": "shs-bihar-online-applications-are-invited-for-the-post-of-ophthalmic-assistant-60a28",
-   "types": [
-    "job"
-   ],
-   "latest": "2025-07-30"
-  },
-  {
    "key": "cbse-junior-engineer-junior-translation-officer-2025",
    "source": "cbse",
    "short": "CBSE",
    "org": "Central Board of Secondary Education",
    "scope": "central",
    "items": [
-    "3c71c5d96e96",
-    "1843085648cc"
+    "3c71c5d96e96"
    ],
    "year": 2025,
    "name": "CBSE Result Notice for the post of Junior Engineer & Junior Translation Officer from 2025",
@@ -12912,369 +13000,6 @@
     "admit"
    ],
    "latest": "2025-03-23"
-  },
-  {
-   "key": "nta-who-were-called-interviews-respect-personal-2023",
-   "source": "nta",
-   "short": "NTA",
-   "org": "National Testing Agency",
-   "scope": "central",
-   "items": [
-    "748770fecd7b"
-   ],
-   "year": 2023,
-   "name": "NTA Roll No. wise Result of candidates who were called for Interviews in respect of 2023",
-   "slug": "nta-roll-no-wise-result-of-candidates-who-were-called-for-interviews-in-respect-6f0ed",
-   "types": [
-    "result"
-   ],
-   "latest": "2025-03-04"
-  },
-  {
-   "key": "nta-reschedule-joint-csir-ugc-net-december-assam-2024",
-   "source": "nta",
-   "short": "NTA",
-   "org": "National Testing Agency",
-   "scope": "central",
-   "items": [
-    "5bac6f216cba"
-   ],
-   "year": 2024,
-   "name": "NTA Admit Cards for reschedule of Joint CSIR-UGC NET December 2024 Exam held on",
-   "slug": "nta-admit-cards-for-reschedule-of-joint-csir-ugc-net-december-2024-exam-held-on-34844",
-   "types": [
-    "admit"
-   ],
-   "latest": "2025-02-28"
-  },
-  {
-   "key": "nta-reschedule-28th-february-assam-down-town-2025",
-   "source": "nta",
-   "short": "NTA",
-   "org": "National Testing Agency",
-   "scope": "central",
-   "items": [
-    "c3d003d2a846"
-   ],
-   "year": 2025,
-   "name": "NTA Reschedule of Exam held on 28th February 2025 in Assam Down Town University",
-   "slug": "nta-reschedule-of-exam-held-on-28th-february-2025-in-assam-down-town-university-bdd38",
-   "types": [
-    "notice"
-   ],
-   "latest": "2025-02-28"
-  },
-  {
-   "key": "cbse-question-papers-conducted-posts-2024",
-   "source": "cbse",
-   "short": "CBSE",
-   "org": "Central Board of Secondary Education",
-   "scope": "central",
-   "items": [
-    "bcc281371e9f"
-   ],
-   "year": 2024,
-   "name": "CBSE Question papers for the Tier 1 and Tier 2 examinations conducted in 2024 for",
-   "slug": "cbse-question-papers-for-the-tier-1-and-tier-2-examinations-conducted-in-2024-1754d",
-   "types": [
-    "job"
-   ],
-   "latest": "2025-02-28"
-  },
-  {
-   "key": "cbse-public-superintendent-junior-assistant-2025",
-   "source": "cbse",
-   "short": "CBSE",
-   "org": "Central Board of Secondary Education",
-   "scope": "central",
-   "items": [
-    "3e3276285c6c"
-   ],
-   "year": 2025,
-   "name": "CBSE the recruitment for the Post of Superintendent and Junior Assistant 2025",
-   "slug": "cbse-the-recruitment-for-the-post-of-superintendent-and-junior-assistant-2025-3692d",
-   "types": [
-    "job"
-   ],
-   "latest": "2025-02-25"
-  },
-  {
-   "key": "cbse-junior-accountant-accountant-2025",
-   "source": "cbse",
-   "short": "CBSE",
-   "org": "Central Board of Secondary Education",
-   "scope": "central",
-   "items": [
-    "cd80bd495a2b"
-   ],
-   "year": 2025,
-   "name": "CBSE Result Notice for the post of Junior Accountant and Accountant 2025",
-   "slug": "cbse-result-notice-for-the-post-of-junior-accountant-and-accountant-2025-83ef8",
-   "types": [
-    "result"
-   ],
-   "latest": "2025-02-20"
-  },
-  {
-   "key": "cbse-public-cbse-november-2024",
-   "source": "cbse",
-   "short": "CBSE",
-   "org": "Central Board of Secondary Education",
-   "scope": "central",
-   "items": [
-    "f6e8de154a9d"
-   ],
-   "year": 2024,
-   "name": "CBSE recruitment Examination November, 2024",
-   "slug": "cbse-recruitment-examination-november-2024-b9a9c",
-   "types": [
-    "job"
-   ],
-   "latest": "2025-02-11"
-  },
-  {
-   "key": "nta-jee-session-b-e-b-tech-as-2025",
-   "source": "nta",
-   "short": "NTA",
-   "org": "National Testing Agency",
-   "scope": "central",
-   "items": [
-    "679e1acaf58c"
-   ],
-   "year": 2025,
-   "name": "NTA JEE – 2025 : SESSION – 1 Final Answer Key Of B.E. / B.Tech As On",
-   "slug": "nta-jee-2025-session-1-final-answer-key-of-b-e-b-tech-as-on-123e8",
-   "types": [
-    "answer"
-   ],
-   "latest": "2025-02-09"
-  },
-  {
-   "key": "cbse-public-cbse-superintendent-junior-assistant-2025",
-   "source": "cbse",
-   "short": "CBSE",
-   "org": "Central Board of Secondary Education",
-   "scope": "central",
-   "items": [
-    "6c4feb1640b2"
-   ],
-   "year": 2025,
-   "name": "CBSE recruitment for Superintendent and Junior Assistant 2025",
-   "slug": "cbse-recruitment-for-superintendent-and-junior-assistant-2025-cba38",
-   "types": [
-    "job"
-   ],
-   "latest": "2025-02-06"
-  },
-  {
-   "key": "nta-change-venue-scheduled-appear-institute-2025",
-   "source": "nta",
-   "short": "NTA",
-   "org": "National Testing Agency",
-   "scope": "central",
-   "items": [
-    "11c5d0831656"
-   ],
-   "year": 2025,
-   "name": "NTA Change in venue of examination for candidates scheduled to appear in Institute 2025",
-   "slug": "nta-change-in-venue-of-examination-for-candidates-scheduled-to-appear-in-170c4",
-   "types": [
-    "notice"
-   ],
-   "latest": "2025-01-30"
-  },
-  {
-   "key": "nta-jee-session-l-scheduled-appear-28-29-30-january-2025",
-   "source": "nta",
-   "short": "NTA",
-   "org": "National Testing Agency",
-   "scope": "central",
-   "items": [
-    "5db6b82f7438"
-   ],
-   "year": 2025,
-   "name": "NTA Release of Admit Cards for the Candidates of JEE -2025 Session-l scheduled to",
-   "slug": "nta-release-of-admit-cards-for-the-candidates-of-jee-2025-session-l-scheduled-to-f81f3",
-   "types": [
-    "admit"
-   ],
-   "latest": "2025-01-30"
-  },
-  {
-   "key": "cbse-candidature-cancellation-junior-engineer-junior-2025",
-   "source": "cbse",
-   "short": "CBSE",
-   "org": "Central Board of Secondary Education",
-   "scope": "central",
-   "items": [
-    "5854a449afd2"
-   ],
-   "year": 2025,
-   "name": "CBSE Candidature cancellation notification for the post of Junior Engineer and 2025",
-   "slug": "cbse-candidature-cancellation-notification-for-the-post-of-junior-engineer-and-db960",
-   "types": [
-    "notice"
-   ],
-   "latest": "2025-01-20"
-  },
-  {
-   "key": "cbse-cancellation-process-assistant-secretary-2024",
-   "source": "cbse",
-   "short": "CBSE",
-   "org": "Central Board of Secondary Education",
-   "scope": "central",
-   "items": [
-    "c21964645773",
-    "62689a231193"
-   ],
-   "year": 2024,
-   "name": "CBSE Cancellation of recruitment process for the post of Assistant Secretary on 2024",
-   "slug": "cbse-cancellation-of-recruitment-process-for-the-post-of-assistant-secretary-on-9bdad",
-   "types": [
-    "notice"
-   ],
-   "latest": "2025-01-16"
-  },
-  {
-   "key": "cbse-direct-superintendent-junior-assistant-detailed-2024",
-   "source": "cbse",
-   "short": "CBSE",
-   "org": "Central Board of Secondary Education",
-   "scope": "central",
-   "items": [
-    "735c1de69b0f"
-   ],
-   "year": 2024,
-   "name": "CBSE Online applications for direct recruitment for the post of Superintendent and 2024",
-   "slug": "cbse-online-applications-for-direct-recruitment-for-the-post-of-superintendent-581f6",
-   "types": [
-    "job"
-   ],
-   "latest": "2024-12-31"
-  },
-  {
-   "key": "cbse-junior-translation-officer-junior-engineer-2024",
-   "source": "cbse",
-   "short": "CBSE",
-   "org": "Central Board of Secondary Education",
-   "scope": "central",
-   "items": [
-    "04d3c1a03957"
-   ],
-   "year": 2024,
-   "name": "CBSE for the post of Junior Translation Officer and Junior Engineer 2024",
-   "slug": "cbse-for-the-post-of-junior-translation-officer-and-junior-engineer-2024-6eb6b",
-   "types": [
-    "job"
-   ],
-   "latest": "2024-12-18"
-  },
-  {
-   "key": "bpssc-change-address-bpssc-official-website-2024",
-   "source": "bpssc",
-   "short": "BPSSC",
-   "org": "Bihar Police Subordinate Services Commission",
-   "scope": "bihar",
-   "items": [
-    "206e899f41e2"
-   ],
-   "year": 2024,
-   "name": "Regarding Change of Address of BPSSC Official Website 2024",
-   "slug": "regarding-change-of-address-of-bpssc-official-website-2024-2dbdf",
-   "types": [
-    "notice"
-   ],
-   "latest": "2024-12-13"
-  },
-  {
-   "key": "shsbihar-advt-09-2024",
-   "source": "shsbihar",
-   "short": "SHS Bihar",
-   "org": "State Health Society Bihar",
-   "scope": "bihar",
-   "items": [
-    "a8558b1cde7f",
-    "11cf833d2256"
-   ],
-   "year": 2024,
-   "name": "SHS Bihar Applications invited for the post of recruitment of Ophthalmic Assistant under 2024",
-   "slug": "shs-bihar-applications-invited-for-the-post-of-recruitment-of-ophthalmic-02063",
-   "types": [
-    "job",
-    "notice"
-   ],
-   "latest": "2024-12-10"
-  },
-  {
-   "key": "shsbihar-advt-08-2024",
-   "source": "shsbihar",
-   "short": "SHS Bihar",
-   "org": "State Health Society Bihar",
-   "scope": "bihar",
-   "items": [
-    "a9ee52b96166",
-    "d311bce2b420",
-    "6b9868b341f3"
-   ],
-   "year": 2024,
-   "name": "SHS Bihar Applications invited for the post of recruitment of AYUSH Doctor under National 2024",
-   "slug": "shs-bihar-applications-invited-for-the-post-of-recruitment-of-ayush-doctor-9abaf",
-   "types": [
-    "job",
-    "notice"
-   ],
-   "latest": "2024-12-10"
-  },
-  {
-   "key": "cbse-secretary-deputation-basis-2024",
-   "source": "cbse",
-   "short": "CBSE",
-   "org": "Central Board of Secondary Education",
-   "scope": "central",
-   "items": [
-    "b41e39e5c69a"
-   ],
-   "year": 2024,
-   "name": "CBSE Result notification for the post of Under Secretary on deputation basis 2024",
-   "slug": "cbse-result-notification-for-the-post-of-under-secretary-on-deputation-basis-c3b7c",
-   "types": [
-    "result"
-   ],
-   "latest": "2024-11-08"
-  },
-  {
-   "key": "cbse-cancellation-process-training-cadre-deputation-2024",
-   "source": "cbse",
-   "short": "CBSE",
-   "org": "Central Board of Secondary Education",
-   "scope": "central",
-   "items": [
-    "0a050a5b84bc"
-   ],
-   "year": 2024,
-   "name": "CBSE Cancellation of recruitment process for various post of Training Cadre on 2024",
-   "slug": "cbse-cancellation-of-recruitment-process-for-various-post-of-training-cadre-on-d5615",
-   "types": [
-    "notice"
-   ],
-   "latest": "2024-11-08"
-  },
-  {
-   "key": "cbse-assistant-secretary-deputation-basis-2024",
-   "source": "cbse",
-   "short": "CBSE",
-   "org": "Central Board of Secondary Education",
-   "scope": "central",
-   "items": [
-    "9c766315873f"
-   ],
-   "year": 2024,
-   "name": "CBSE Result notification for the post of Assistant Secretary on deputation basis 2024",
-   "slug": "cbse-result-notification-for-the-post-of-assistant-secretary-on-deputation-8cca1",
-   "types": [
-    "result"
-   ],
-   "latest": "2024-11-04"
   }
  ]
 }

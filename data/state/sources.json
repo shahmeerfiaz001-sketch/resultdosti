@@ -1,338 +1,339 @@
 {
  "upsc": {
-  "last_run": "2026-11-04T17:27:10+00:00",
-  "fails": 1,
+  "last_run": "2026-11-04T18:55:59+00:00",
+  "fails": 2,
   "last_ok": null,
   "last_count": 0,
   "zero_runs": 0,
   "last_error": "ConnectTimeout: HTTPSConnectionPool(host='upsc.gov.in', port=443): Max retries exceeded with url: /whats-new (Caused by ConnectTimeoutError(<HTTPSConnection(host='upsc.gov.in',"
  },
  "ssc": {
-  "last_run": "2026-11-04T17:27:17+00:00",
+  "last_run": "2026-11-04T18:56:09+00:00",
   "fails": 0,
-  "last_ok": "2026-11-04T17:27:17+00:00",
-  "last_count": 0,
-  "zero_runs": 1,
+  "last_ok": "2026-11-04T18:56:09+00:00",
+  "last_count": 1,
+  "zero_runs": 0,
   "last_error": null
  },
  "rrb-chandigarh": {
-  "last_run": "2026-11-04T17:28:23+00:00",
-  "fails": 1,
+  "last_run": "2026-11-04T18:57:15+00:00",
+  "fails": 2,
   "last_ok": null,
   "last_count": 0,
   "zero_runs": 0,
   "last_error": "ConnectTimeout: HTTPSConnectionPool(host='www.rrbcdg.gov.in', port=443): Max retries exceeded with url: /employment-notices.php (Caused by ConnectTimeoutError(<HTTPSConnection("
  },
  "rrb-apply": {
-  "last_run": "2026-11-04T17:28:28+00:00",
-  "fails": 1,
+  "last_run": "2026-11-04T18:57:19+00:00",
+  "fails": 2,
   "last_ok": null,
   "last_count": 0,
   "zero_runs": 0,
   "last_error": "HTTP 404"
  },
  "ibps": {
-  "last_run": "2026-11-04T17:28:34+00:00",
+  "last_run": "2026-11-04T18:57:27+00:00",
   "fails": 0,
-  "last_ok": "2026-11-04T17:28:34+00:00",
+  "last_ok": "2026-11-04T18:57:27+00:00",
   "last_count": 9,
   "zero_runs": 0,
   "last_error": null
  },
  "sbi": {
-  "last_run": "2026-11-04T17:28:46+00:00",
+  "last_run": "2026-11-04T18:57:38+00:00",
   "fails": 0,
-  "last_ok": "2026-11-04T17:28:46+00:00",
-  "last_count": 292,
+  "last_ok": "2026-11-04T18:57:38+00:00",
+  "last_count": 188,
   "zero_runs": 0,
   "last_error": null
  },
  "rbi": {
-  "last_run": "2026-11-04T17:28:49+00:00",
+  "last_run": "2026-11-04T18:57:41+00:00",
   "fails": 0,
-  "last_ok": "2026-11-04T17:28:49+00:00",
+  "last_ok": "2026-11-04T18:57:41+00:00",
   "last_count": 0,
-  "zero_runs": 1,
+  "zero_runs": 2,
   "last_error": null
  },
  "nta": {
-  "last_run": "2026-11-04T17:28:59+00:00",
+  "last_run": "2026-11-04T18:57:53+00:00",
   "fails": 0,
-  "last_ok": "2026-11-04T17:28:59+00:00",
+  "last_ok": "2026-11-04T18:57:53+00:00",
   "last_count": 398,
   "zero_runs": 0,
   "last_error": null
  },
  "cbse": {
-  "last_run": "2026-11-04T17:29:05+00:00",
+  "last_run": "2026-11-04T18:57:59+00:00",
   "fails": 0,
-  "last_ok": "2026-11-04T17:29:05+00:00",
+  "last_ok": "2026-11-04T18:57:59+00:00",
   "last_count": 134,
   "zero_runs": 0,
   "last_error": null
  },
  "indiapost": {
-  "last_run": "2026-11-04T17:29:09+00:00",
+  "last_run": "2026-11-04T18:58:02+00:00",
   "fails": 0,
-  "last_ok": "2026-11-04T17:29:09+00:00",
+  "last_ok": "2026-11-04T18:58:02+00:00",
   "last_count": 1,
   "zero_runs": 0,
   "last_error": null
  },
  "army": {
-  "last_run": "2026-11-04T17:29:46+00:00",
-  "fails": 1,
+  "last_run": "2026-11-04T18:58:39+00:00",
+  "fails": 2,
   "last_ok": null,
   "last_count": 0,
   "zero_runs": 0,
   "last_error": "ConnectTimeout: HTTPSConnectionPool(host='joinindianarmy.nic.in', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='joinindianar"
  },
  "navy": {
-  "last_run": "2026-11-04T17:30:25+00:00",
-  "fails": 1,
+  "last_run": "2026-11-04T18:59:17+00:00",
+  "fails": 2,
   "last_ok": null,
   "last_count": 0,
   "zero_runs": 0,
   "last_error": "ConnectTimeout: HTTPSConnectionPool(host='www.joinindiannavy.gov.in', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.join"
  },
  "airforce": {
-  "last_run": "2026-11-04T17:31:50+00:00",
-  "fails": 1,
+  "last_run": "2026-11-04T19:00:53+00:00",
+  "fails": 2,
   "last_ok": null,
   "last_count": 0,
   "zero_runs": 0,
   "last_error": "ConnectTimeout: HTTPSConnectionPool(host='agnipathvayu.cdac.in', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='agnipathvayu."
  },
  "ssb": {
-  "last_run": "2026-11-04T17:31:56+00:00",
+  "last_run": "2026-11-04T19:00:58+00:00",
   "fails": 0,
-  "last_ok": "2026-11-04T17:31:56+00:00",
+  "last_ok": "2026-11-04T19:00:58+00:00",
   "last_count": 4,
   "zero_runs": 0,
   "last_error": null
  },
  "bsf": {
-  "last_run": "2026-11-04T17:31:59+00:00",
-  "fails": 1,
+  "last_run": "2026-11-04T19:01:01+00:00",
+  "fails": 2,
   "last_ok": null,
   "last_count": 0,
   "zero_runs": 0,
   "last_error": "HTTP 403"
  },
  "itbp": {
-  "last_run": "2026-11-04T17:32:37+00:00",
-  "fails": 1,
+  "last_run": "2026-11-04T19:01:38+00:00",
+  "fails": 2,
   "last_ok": null,
   "last_count": 0,
   "zero_runs": 0,
   "last_error": "ConnectTimeout: HTTPSConnectionPool(host='recruitment.itbpolice.nic.in', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='recru"
  },
  "cisf": {
-  "last_run": "2026-11-04T17:33:15+00:00",
-  "fails": 1,
+  "last_run": "2026-11-04T19:02:17+00:00",
+  "fails": 2,
   "last_ok": null,
   "last_count": 0,
   "zero_runs": 0,
   "last_error": "ConnectTimeout: HTTPSConnectionPool(host='cisfrectt.cisf.gov.in', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='cisfrectt.ci"
  },
  "crpf": {
-  "last_run": "2026-11-04T17:33:54+00:00",
-  "fails": 1,
+  "last_run": "2026-11-04T19:02:54+00:00",
+  "fails": 2,
   "last_ok": null,
   "last_count": 0,
   "zero_runs": 0,
   "last_error": "ConnectTimeout: HTTPSConnectionPool(host='rect.crpf.gov.in', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='rect.crpf.gov.in'"
  },
  "aiims": {
-  "last_run": "2026-11-04T17:34:00+00:00",
+  "last_run": "2026-11-04T19:03:01+00:00",
   "fails": 0,
-  "last_ok": "2026-11-04T17:34:00+00:00",
+  "last_ok": "2026-11-04T19:03:01+00:00",
   "last_count": 5,
   "zero_runs": 0,
   "last_error": null
  },
  "esic": {
-  "last_run": "2026-11-04T17:35:07+00:00",
-  "fails": 1,
+  "last_run": "2026-11-04T19:04:07+00:00",
+  "fails": 2,
   "last_ok": null,
   "last_count": 0,
   "zero_runs": 0,
   "last_error": "ConnectTimeout: HTTPSConnectionPool(host='esic.gov.in', port=443): Max retries exceeded with url: /recruitments (Caused by ConnectTimeoutError(<HTTPSConnection(host='esic.gov.i"
  },
  "lic": {
-  "last_run": "2026-11-04T17:35:08+00:00",
+  "last_run": "2026-11-04T19:04:08+00:00",
   "fails": 0,
-  "last_ok": "2026-11-04T17:35:08+00:00",
+  "last_ok": "2026-11-04T19:04:08+00:00",
   "last_count": 2,
   "zero_runs": 0,
   "last_error": null
  },
  "epfo": {
-  "last_run": "2026-11-04T17:35:12+00:00",
-  "fails": 1,
+  "last_run": "2026-11-04T19:04:12+00:00",
+  "fails": 2,
   "last_ok": null,
   "last_count": 0,
   "zero_runs": 0,
   "last_error": "HTTP 403"
  },
  "fci": {
-  "last_run": "2026-11-04T17:35:16+00:00",
+  "last_run": "2026-11-04T19:04:16+00:00",
   "fails": 0,
-  "last_ok": "2026-11-04T17:35:16+00:00",
+  "last_ok": "2026-11-04T19:04:16+00:00",
   "last_count": 0,
-  "zero_runs": 1,
+  "zero_runs": 2,
   "last_error": null
  },
  "dsssb": {
-  "last_run": "2026-11-04T17:35:19+00:00",
+  "last_run": "2026-11-04T19:04:19+00:00",
   "fails": 0,
-  "last_ok": "2026-11-04T17:35:19+00:00",
+  "last_ok": "2026-11-04T19:04:19+00:00",
   "last_count": 20,
   "zero_runs": 0,
   "last_error": null
  },
  "uppsc": {
-  "last_run": "2026-11-04T17:35:23+00:00",
+  "last_run": "2026-11-04T19:04:24+00:00",
   "fails": 0,
-  "last_ok": "2026-11-04T17:35:23+00:00",
-  "last_count": 39,
+  "last_ok": "2026-11-04T19:04:24+00:00",
+  "last_count": 26,
   "zero_runs": 0,
   "last_error": null
  },
  "upsssc": {
-  "last_run": "2026-11-04T17:36:01+00:00",
-  "fails": 1,
+  "last_run": "2026-11-04T19:05:02+00:00",
+  "fails": 2,
   "last_ok": null,
   "last_count": 0,
   "zero_runs": 0,
   "last_error": "ConnectTimeout: HTTPSConnectionPool(host='upsssc.gov.in', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='upsssc.gov.in', port"
  },
  "upprpb": {
-  "last_run": "2026-11-04T17:36:04+00:00",
+  "last_run": "2026-11-04T19:05:06+00:00",
   "fails": 0,
-  "last_ok": "2026-11-04T17:36:04+00:00",
-  "last_count": 37,
+  "last_ok": "2026-11-04T19:05:06+00:00",
+  "last_count": 36,
   "zero_runs": 0,
   "last_error": null
  },
  "upmsp": {
-  "last_run": "2026-11-04T17:36:08+00:00",
+  "last_run": "2026-11-04T19:05:09+00:00",
   "fails": 0,
-  "last_ok": "2026-11-04T17:36:08+00:00",
+  "last_ok": "2026-11-04T19:05:09+00:00",
   "last_count": 3,
   "zero_runs": 0,
   "last_error": null
  },
  "upresults": {
-  "last_run": "2026-11-04T17:36:46+00:00",
-  "fails": 1,
+  "last_run": "2026-11-04T19:05:47+00:00",
+  "fails": 2,
   "last_ok": null,
   "last_count": 0,
   "zero_runs": 0,
   "last_error": "ConnectTimeout: HTTPSConnectionPool(host='upresults.nic.in', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='upresults.nic.in'"
  },
  "updeled": {
-  "last_run": "2026-11-04T17:36:48+00:00",
+  "last_run": "2026-11-04T19:05:50+00:00",
   "fails": 0,
-  "last_ok": "2026-11-04T17:36:48+00:00",
+  "last_ok": "2026-11-04T19:05:50+00:00",
   "last_count": 3,
   "zero_runs": 0,
   "last_error": null
  },
  "upnhm": {
-  "last_run": "2026-11-04T17:36:52+00:00",
+  "last_run": "2026-11-04T19:05:54+00:00",
   "fails": 0,
-  "last_ok": "2026-11-04T17:36:52+00:00",
+  "last_ok": "2026-11-04T19:05:54+00:00",
   "last_count": 1,
   "zero_runs": 0,
   "last_error": null
  },
  "allahabadhc": {
-  "last_run": "2026-11-04T17:36:55+00:00",
+  "last_run": "2026-11-04T19:05:57+00:00",
   "fails": 0,
-  "last_ok": "2026-11-04T17:36:55+00:00",
+  "last_ok": "2026-11-04T19:05:57+00:00",
   "last_count": 2,
   "zero_runs": 0,
   "last_error": null
  },
  "uppcl": {
-  "last_run": "2026-11-04T17:36:58+00:00",
-  "fails": 1,
+  "last_run": "2026-11-04T19:05:59+00:00",
+  "fails": 2,
   "last_ok": null,
   "last_count": 0,
   "zero_runs": 0,
   "last_error": "HTTP 403"
  },
  "bpsc": {
-  "last_run": "2026-11-04T17:37:02+00:00",
+  "last_run": "2026-11-04T19:06:04+00:00",
   "fails": 0,
-  "last_ok": "2026-11-04T17:37:02+00:00",
+  "last_ok": "2026-11-04T19:06:04+00:00",
   "last_count": 9,
   "zero_runs": 0,
   "last_error": null
  },
  "bssc": {
-  "last_run": "2026-11-04T17:37:06+00:00",
+  "last_run": "2026-11-04T19:06:08+00:00",
   "fails": 0,
-  "last_ok": "2026-11-04T17:37:06+00:00",
+  "last_ok": "2026-11-04T19:06:08+00:00",
   "last_count": 0,
-  "zero_runs": 1,
+  "zero_runs": 2,
   "last_error": null
  },
  "csbc": {
-  "last_run": "2026-11-04T17:37:11+00:00",
+  "last_run": "2026-11-04T19:06:13+00:00",
   "fails": 0,
-  "last_ok": "2026-11-04T17:37:11+00:00",
+  "last_ok": "2026-11-04T19:06:13+00:00",
   "last_count": 18,
   "zero_runs": 0,
   "last_error": null
  },
  "bpssc": {
-  "last_run": "2026-11-04T17:37:14+00:00",
+  "last_run": "2026-11-04T19:06:16+00:00",
   "fails": 0,
-  "last_ok": "2026-11-04T17:37:14+00:00",
+  "last_ok": "2026-11-04T19:06:16+00:00",
   "last_count": 150,
   "zero_runs": 0,
   "last_error": null
  },
  "btsc": {
-  "last_run": "2026-11-04T17:37:17+00:00",
+  "last_run": "2026-11-04T19:06:19+00:00",
   "fails": 0,
-  "last_ok": "2026-11-04T17:37:17+00:00",
+  "last_ok": "2026-11-04T19:06:19+00:00",
   "last_count": 29,
   "zero_runs": 0,
   "last_error": null
  },
  "bseb": {
-  "last_run": "2026-11-04T17:37:56+00:00",
-  "fails": 1,
+  "last_run": "2026-11-04T19:06:42+00:00",
+  "fails": 2,
   "last_ok": null,
   "last_count": 0,
   "zero_runs": 0,
-  "last_error": "ReadTimeout: HTTPSConnectionPool(host='biharboardonline.bihar.gov.in', port=443): Read timed out. (read timeout=10)"
+  "last_error": "ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
  },
  "shsbihar": {
-  "last_run": "2026-11-04T17:38:01+00:00",
+  "last_run": "2026-11-04T19:06:48+00:00",
   "fails": 0,
-  "last_ok": "2026-11-04T17:38:01+00:00",
-  "last_count": 362,
+  "last_ok": "2026-11-04T19:06:48+00:00",
+  "last_count": 368,
   "zero_runs": 0,
   "last_error": null
  },
  "bceceb": {
-  "last_run": "2026-11-04T17:38:05+00:00",
+  "last_run": "2026-11-04T19:06:51+00:00",
   "fails": 0,
-  "last_ok": "2026-11-04T17:38:05+00:00",
+  "last_ok": "2026-11-04T19:06:51+00:00",
   "last_count": 177,
   "zero_runs": 0,
   "last_error": null
  },
  "patnahc": {
-  "last_run": "2026-11-04T17:38:11+00:00",
+  "last_run": "2026-11-04T19:06:58+00:00",
   "fails": 0,
-  "last_ok": "2026-11-04T17:38:11+00:00",
+  "last_ok": "2026-11-04T19:06:58+00:00",
   "last_count": 8,
   "zero_runs": 0,
   "last_error": null
- }
+ },
+ "_fingerprint": "ffe6a380a4df04a413360668701acc05d3c407fc"
 }
