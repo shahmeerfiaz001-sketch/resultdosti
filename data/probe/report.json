@@ -1,0 +1,3080 @@
+{
+ "run": "2026-11-04T16:38:41+00:00",
+ "today": "2026-11-04",
+ "sources": [
+  {
+   "id": "upsc",
+   "name": "Union Public Service Commission",
+   "scope": "central",
+   "lists": [
+    {
+     "url": "https://upsc.gov.in/whats-new",
+     "final_url": "https://upsc.gov.in/whats-new",
+     "ok": false,
+     "status": 0,
+     "error": "ConnectTimeout: HTTPSConnectionPool(host='upsc.gov.in', port=443): Max retries exceeded with url: /whats-new (Caused by ConnectTimeoutError(<HTTPSConnection(host='upsc.gov.in',",
+     "ms": 0,
+     "via": "requests",
+     "tls_insecure": false,
+     "page_title": "",
+     "html_kb": 0.0,
+     "robots_allowed": true,
+     "items": 0,
+     "dated": 0,
+     "types": {},
+     "sample": [],
+     "discovered": []
+    },
+    {
+     "url": "https://upsc.gov.in/recruitment/recruitment-advertisement",
+     "final_url": "https://upsc.gov.in/recruitment/recruitment-advertisement",
+     "ok": false,
+     "status": 0,
+     "error": "ConnectTimeout: HTTPSConnectionPool(host='upsc.gov.in', port=443): Max retries exceeded with url: /recruitment/recruitment-advertisement (Caused by ConnectTimeoutError(<HTTPSCo",
+     "ms": 0,
+     "via": "requests",
+     "tls_insecure": false,
+     "page_title": "",
+     "html_kb": 0.0,
+     "robots_allowed": true,
+     "items": 0,
+     "dated": 0,
+     "types": {},
+     "sample": [],
+     "discovered": []
+    },
+    {
+     "url": "https://upsc.gov.in/recruitment/status-recruitment-cases-advertisementwise/notices",
+     "final_url": "https://upsc.gov.in/recruitment/status-recruitment-cases-advertisementwise/notices",
+     "ok": false,
+     "status": 0,
+     "error": "ConnectTimeout: HTTPSConnectionPool(host='upsc.gov.in', port=443): Max retries exceeded with url: /recruitment/status-recruitment-cases-advertisementwise/notices (Caused by Con",
+     "ms": 0,
+     "via": "requests",
+     "tls_insecure": false,
+     "page_title": "",
+     "html_kb": 0.0,
+     "robots_allowed": true,
+     "items": 0,
+     "dated": 0,
+     "types": {},
+     "sample": [],
+     "discovered": []
+    }
+   ],
+   "robots": {
+    "status": 0,
+    "allowed": true,
+    "snippet": ""
+   },
+   "verdict": "fail"
+  },
+  {
+   "id": "ssc",
+   "name": "Staff Selection Commission",
+   "scope": "central",
+   "lists": [
+    {
+     "url": "https://ssc.gov.in/",
+     "final_url": "https://ssc.gov.in/",
+     "ok": false,
+     "status": 0,
+     "error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+     "ms": 0,
+     "via": "requests",
+     "tls_insecure": false,
+     "page_title": "",
+     "html_kb": 0.0,
+     "robots_allowed": true,
+     "items": 0,
+     "dated": 0,
+     "types": {},
+     "sample": [],
+     "discovered": []
+    }
+   ],
+   "robots": {
+    "status": 0,
+    "allowed": true,
+    "snippet": ""
+   },
+   "verdict": "fail"
+  },
+  {
+   "id": "rrb-chandigarh",
+   "name": "Railway Recruitment Board Chandigarh",
+   "scope": "central",
+   "lists": [
+    {
+     "url": "https://www.rrbcdg.gov.in/employment-notices.php",
+     "final_url": "https://www.rrbcdg.gov.in/employment-notices.php",
+     "ok": false,
+     "status": 0,
+     "error": "ConnectTimeout: HTTPSConnectionPool(host='www.rrbcdg.gov.in', port=443): Max retries exceeded with url: /employment-notices.php (Caused by ConnectTimeoutError(<HTTPSConnection(",
+     "ms": 0,
+     "via": "requests",
+     "tls_insecure": false,
+     "page_title": "",
+     "html_kb": 0.0,
+     "robots_allowed": true,
+     "items": 0,
+     "dated": 0,
+     "types": {},
+     "sample": [],
+     "discovered": []
+    },
+    {
+     "url": "https://www.rrbcdg.gov.in/",
+     "final_url": "https://www.rrbcdg.gov.in/",
+     "ok": false,
+     "status": 0,
+     "error": "ConnectTimeout: HTTPSConnectionPool(host='www.rrbcdg.gov.in', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.rrbcdg.gov.i",
+     "ms": 0,
+     "via": "requests",
+     "tls_insecure": false,
+     "page_title": "",
+     "html_kb": 0.0,
+     "robots_allowed": true,
+     "items": 0,
+     "dated": 0,
+     "types": {},
+     "sample": [],
+     "discovered": []
+    }
+   ],
+   "robots": {
+    "status": 0,
+    "allowed": true,
+    "snippet": ""
+   },
+   "verdict": "fail"
+  },
+  {
+   "id": "rrb-apply",
+   "name": "RRB Online Application Portal",
+   "scope": "central",
+   "lists": [
+    {
+     "url": "https://www.rrbapply.gov.in/",
+     "final_url": "https://www.rrbapply.gov.in/",
+     "ok": false,
+     "status": 404,
+     "error": "HTTP 404",
+     "ms": 231,
+     "via": "requests",
+     "tls_insecure": false,
+     "page_title": "Railway Recruitment Board",
+     "html_kb": 36.8,
+     "robots_allowed": true,
+     "items": 0,
+     "dated": 0,
+     "types": {},
+     "sample": [],
+     "discovered": []
+    }
+   ],
+   "robots": {
+    "status": 404,
+    "allowed": true,
+    "snippet": ""
+   },
+   "verdict": "fail"
+  },
+  {
+   "id": "ibps",
+   "name": "Institute of Banking Personnel Selection",
+   "scope": "central",
+   "lists": [
+    {
+     "url": "https://www.ibps.in/",
+     "final_url": "https://www.ibps.in/",
+     "ok": true,
+     "status": 200,
+     "error": null,
+     "ms": 1179,
+     "via": "requests",
+     "tls_insecure": true,
+     "page_title": "ibps",
+     "html_kb": 213.5,
+     "robots_allowed": true,
+     "items": 10,
+     "dated": 9,
+     "types": {
+      "job": 9,
+      "result": 1
+     },
+     "sample": [
+      {
+       "title": "IBPS Advertisement",
+       "url": "https://www.ibps.in/wp-content/uploads/Advertisement-for-Server-Administrator-Programming-Assistant-and-Assistant-Oct._Nov.-2026.pdf",
+       "is_doc": true,
+       "type": "job",
+       "list_date": "2026-10-29",
+       "context": "IBPS Advertisement Posted on 29 Oct, 2026"
+      },
+      {
+       "title": "Apply Online for Direct Recruitment of Server Administrator, Assistant & Programming Assistant on Regular Basis",
+       "url": "https://ibpsreg.ibps.in/ibpsafeb26/",
+       "is_doc": false,
+       "type": "job",
+       "list_date": "2026-10-29",
+       "context": "IBPS Career Posted on 29 Oct, 2026 Apply Online for Direct Recruitment of Server Administrator, Assistant & Programming Assistant on Regular Basis"
+      },
+      {
+       "title": "Result Status of Online Preliminary Examination for CRP-SPL-XVI",
+       "url": "http://ibpsreg.ibps.in/crpspxvimy26/presta_oct26/login.php?appid=f8a5692529ba20a12e158903a42a917c",
+       "is_doc": false,
+       "type": "result",
+       "list_date": "2026-10-15",
+       "context": "CRP-SPL-XVI Posted on 15 Oct, 2026 Result Status of Online Preliminary Examination for CRP-SPL-XVI"
+      },
+      {
+       "title": "Recruitment of Various Posts in IBPS",
+       "url": "https://www.ibps.in/index.php/careers/",
+       "is_doc": false,
+       "type": "job",
+       "list_date": "2026-09-23",
+       "context": "IBPS Careers Posted on 23 Sep, 2026 Recruitment of Various Posts in IBPS"
+      },
+      {
+       "title": "recruitment",
+       "url": "https://www.ibps.in/index.php/recruitment",
+       "is_doc": false,
+       "type": "job",
+       "list_date": null,
+       "context": "View All"
+      },
+      {
+       "title": "SBI Recruitment of Specialist Cadre Officers (Manager (Security) / Deputy Manager (Security)) Registration From 04-Nov-2026",
+       "url": "https://ibpsreg.ibps.in/sbirscooct26/",
+       "is_doc": false,
+       "type": "job",
+       "list_date": "2026-11-04",
+       "context": "SBI Recruitment of Specialist Cadre Officers (Manager (Security) / Deputy Manager (Security)) Registration From 04-Nov-2026"
+      }
+     ],
+     "discovered": [
+      {
+       "text": "Careers",
+       "url": "https://www.ibps.in/index.php/careers/"
+      },
+      {
+       "text": "RECRUITMENT EXAMS",
+       "url": "https://www.ibps.in/index.php/recruitment/"
+      },
+      {
+       "text": "CAREERS",
+       "url": "https://www.ibps.in/index.php/careers"
+      }
+     ]
+    }
+   ],
+   "robots": {
+    "status": 404,
+    "allowed": true,
+    "snippet": ""
+   },
+   "verdict": "ok"
+  },
+  {
+   "id": "sbi",
+   "name": "State Bank of India Careers",
+   "scope": "central",
+   "lists": [
+    {
+     "url": "https://sbi.bank.in/web/careers/current-openings",
+     "final_url": "https://sbi.bank.in/web/careers/current-openings",
+     "ok": true,
+     "status": 200,
+     "error": null,
+     "ms": 759,
+     "via": "requests",
+     "tls_insecure": false,
+     "page_title": "Current Openings - Careers",
+     "html_kb": 352.7,
+     "robots_allowed": true,
+     "items": 77,
+     "dated": 16,
+     "types": {
+      "job": 48,
+      "notice": 9,
+      "admit": 4,
+      "result": 16
+     },
+     "sample": [
+      {
+       "title": "ADVERTISEMENT( English ) ( )",
+       "url": "https://sbi.bank.in/documents/77530/57941334/04112026_FINAL+DRAFT+ADVERTISEMENT+CRPD-SCO_29_ENGINEER.pdf/4d1be5a0-727d-61b5-1ea4-85570f437345?t=1793788834905",
+       "is_doc": false,
+       "type": "job",
+       "list_date": null,
+       "context": "DOWNLOAD ADVERTISEMENT( English (1 MB) ) (NEW)"
+      },
+      {
+       "title": "APPLY ONLINE (04.11.2026 to",
+       "url": "https://ibpsreg.ibps.in/sbiameoct26/",
+       "is_doc": false,
+       "type": "job",
+       "list_date": "2026-11-04",
+       "context": "APPLY ONLINE (04.11.2026 to 25.11.2026) (NEW)"
+      },
+      {
+       "title": "ADVERTISEMENT English ( )",
+       "url": "https://sbi.bank.in/documents/77530/57941334/FINAL+ADVT+CRPD+_SCO_2026-27_26_GMU.pdf/ade1acc4-609b-5c9a-ed89-670e70d0a82c?t=1793600742622",
+       "is_doc": false,
+       "type": "job",
+       "list_date": null,
+       "context": "DOWNLOAD ADVERTISEMENT English (1 MB) (NEW)"
+      },
+      {
+       "title": "APPLY ONLINE (02.11.2026 TO",
+       "url": "https://recruitment.sbi.bank.in/crpd-sco-2026-27-26/apply",
+       "is_doc": false,
+       "type": "job",
+       "list_date": "2026-11-02",
+       "context": "APPLY ONLINE (02.11.2026 TO 23.11.2026) (NEW)"
+      },
+      {
+       "title": "ADVERTISEMENT Hindi / English ( )",
+       "url": "https://sbi.bank.in/documents/77530/57941334/SBI+-+CRPD-SCO-2026-27_30+-+Hindi.pdf/d8e4a24c-d80a-23dd-8676-d71c267b979f?t=1793615990478",
+       "is_doc": false,
+       "type": "job",
+       "list_date": null,
+       "context": "DOWNLOAD ADVERTISEMENT Hindi / English (796 KB) (NEW)"
+      },
+      {
+       "title": "APPLY ONLINE (Online Registration Extended till 16.11.2026))",
+       "url": "https://recruitment.sbi.bank.in/crpd-sco-2026-27-30/apply",
+       "is_doc": false,
+       "type": "job",
+       "list_date": null,
+       "context": "APPLY ONLINE (Online Registration Extended till 16.11.2026)) (NEW)"
+      }
+     ],
+     "discovered": [
+      {
+       "text": "Recruitment Results",
+       "url": "https://sbi.bank.in/web/careers/recruitment-results"
+      },
+      {
+       "text": "Recruitment Results & Archive",
+       "url": "https://sbi.bank.in/web/careers/recruitment-results-archive"
+      },
+      {
+       "text": "PRELIMINARY EXAM RESULT",
+       "url": "https://sbi.bank.in/web/careers/ja-spldrive-pre-2026"
+      },
+      {
+       "text": "FINAL RESULT",
+       "url": "https://sbi.bank.in/documents/77530/52947104/sco_14_Select_list.pdf/0f312bbc-c1d4-c6c9-eba9-76fc19e63c71?t=1764679780336"
+      },
+      {
+       "text": "PRELIMINARY EXAM RESULT",
+       "url": "https://sbi.bank.in/web/careers/clk-prephase-2025"
+      },
+      {
+       "text": "MAIN EXAM RESULT",
+       "url": "https://sbi.bank.in/documents/77530/52947104/27022026_Junior+Associates-mains-2025-RESULT-15+FORMAT.pdf/e4e8f7b3-d429-a855-3000-142dfdb5295b?t=1772180230964"
+      },
+      {
+       "text": "PRELIMINARY EXAM RESULT",
+       "url": "https://sbi.bank.in/web/careers/po-pre-result-2025"
+      },
+      {
+       "text": "MAIN EXAM RESULT",
+       "url": "https://sbi.bank.in/documents/77530/52947104/SBIPO2025-Main-WTRESULT-15+columns.pdf/40d26751-4e5a-cef0-4dee-6f621893a3c9?t=1762423400237"
+      },
+      {
+       "text": "FINAL RESULT",
+       "url": "https://sbi.bank.in/documents/77530/52947104/19122025-SBIPO-RESULT-2025-25-15-COL-FORMAT+%281%29.pdf/676b6ad1-999c-cc50-00e3-7e83ea16c5d6?t=1766141040106"
+      },
+      {
+       "text": "FINAL RESULT",
+       "url": "https://sbi.bank.in/documents/77530/52947104/CBO_RESULT-2025-26-15-COLUMNS.pdf/2fff40d3-d71b-36ee-c8a1-065348043b7b?t=1763556858512"
+      },
+      {
+       "text": "MAIN EXAM RESULT",
+       "url": "https://sbi.bank.in/documents/77530/52947104/SBIPO2024-Main-WTRESULT-15+columns.pdf/6689270d-d6d3-5d6c-1798-3844e7db6759?t=1747816987666"
+      },
+      {
+       "text": "FINAL RESULT",
+       "url": "https://sbi.bank.in/documents/77530/43947057/SBIPO-RESULT-2024-25-15-COL-FORMAT.pdf/d9e10a8d-278a-901e-fc64-e357f8a43b8d?t=1749791449007"
+      },
+      {
+       "text": "PRELIMINARY EXAM RESULT",
+       "url": "https://sbi.bank.in/web/careers/crpd/2024/clk-pre-phase-1-result"
+      },
+      {
+       "text": "MAIN EXAM RESULT",
+       "url": "https://sbi.bank.in/documents/77530/52947104/Junior+Associates-mains-2024-RESULT-15+FORMAT.pdf/2be30817-a971-8bca-74ff-3f1274a37079?t=1749637240610"
+      },
+      {
+       "text": "PRELIMINARY EXAM RESULT",
+       "url": "https://sbi.bank.in/web/careers/special-drive-ja-pre-marks-2024"
+      },
+      {
+       "text": "MAIN EXAM RESULT",
+       "url": "https://sbi.bank.in/documents/77530/52947104/Junior+Associates-SPLDRIVE-2024-25-RESULT-15+FORMAT.pdf/a11c4ca7-f15c-0941-6a70-26d1acf1d717?t=1748419884479"
+      },
+      {
+       "text": "FINAL RESULT - CENTRAL RESEARCH TEAM (PRODUCT LEAD)",
+       "url": "https://sbi.bank.in/documents/77530/43947057/SCO_20_SELECT_LIST_CRT%28PL%29.pdf/5a33fdf4-0df0-21aa-f3fe-24d8cfa69b87?t=1742209528724"
+      },
+      {
+       "text": "FINAL RESULT - RELATIONSHIP MANAGER TEAM LEAD",
+       "url": "https://sbi.bank.in/documents/77530/43947057/SCO_20_SELECT_LIST_RMTL.pdf/0a36c011-1764-66ec-9a21-3f1fd9b930df?t=1742209554741"
+      },
+      {
+       "text": "FINAL RESULT – REGIONAL HEAD",
+       "url": "https://sbi.bank.in/documents/77530/43947057/SCO_20_SELECT_LIST_RH.pdf/522bcb95-fe26-8490-2cdf-187c552ee4d2?t=1742537629913"
+      },
+      {
+       "text": "FINAL RESULT",
+       "url": "https://sbi.bank.in/documents/77530/43947057/SCO_19_SELECT_LIST.pdf/c9cef38c-97de-f589-d80f-8bf6fa97c1da?t=1739798539906"
+      },
+      {
+       "text": "FINAL RESULT - ASSISTANT MANAGER (ENGINEER – FIRE)",
+       "url": "https://sbi.bank.in/documents/77530/43947057/sco_18_AM%28FIRE%29_SELECT_LIST+%281%29.pdf/e2b229a7-e26c-1d87-9502-2581e0dc5f60?t=1742036294874"
+      },
+      {
+       "text": "FINAL RESULT – ASSISTANT MANAGER (SYSTEM)",
+       "url": "https://sbi.bank.in/documents/77530/43947057/SCO_15_AM_FINAL_RESULT-15+FORMAT.pdf/c07e3d98-a582-e753-8ca3-c71175f321b3?t=1742211884164"
+      },
+      {
+       "text": "FINAL RESULT - DEPUTY MANAGER (SYSTEMS) - IT ARCHITECT",
+       "url": "https://sbi.bank.in/documents/77530/52947104/SCO_15_DM_IT_ARCHITECT_SELECT_LIST.pdf/4abf6691-1074-7e9e-79ac-b9f28183af20?t=1743510335923"
+      },
+      {
+       "text": "FINAL RESULT",
+       "url": "https://sbi.bank.in/documents/77530/0/03122024-sco_16_select_list.pdf/67955dcb-740b-9d88-ac5c-9a035c492221?t=1733218402835"
+      },
+      {
+       "text": "FINAL RESULT",
+       "url": "https://sbi.bank.in/documents/77530/0/06122024-SCO_14_SELECT_LIST.pdf/e0a6003f-8a8b-d725-b44b-66f8fc05a2f4?t=1733488094971"
+      },
+      {
+       "text": "FINAL RESULT",
+       "url": "https://sbi.bank.in/documents/77530/43947057/030924-sco_12_select+list.pdf/9e740768-bfb8-2f4d-0fe8-6caeac56dc22?t=1725345650755"
+      },
+      {
+       "text": "FINAL RESULT",
+       "url": "https://sbi.bank.in/documents/77530/43947057/100924-sco_select_list_13.pdf/94752ca8-1830-ff9e-8df5-19892970191d?t=1725949013631"
+      },
+      {
+       "text": "FINAL RESULT",
+       "url": "https://sbi.bank.in/documents/77530/0/05102024-sco_11_select+list.pdf/55340737-2a57-2879-7445-758ff78461f3?t=1728131975722"
+      },
+      {
+       "text": "FINAL RESULT",
+       "url": "https://sbi.bank.in/documents/77530/43947057/170920241534-sco_10_select+list.pdf/86389ccb-2cd4-275f-ecb0-5d0273af76bd?t=1726567458764"
+      },
+      {
+       "text": "FINAL RESULT",
+       "url": "https://sbi.bank.in/documents/77530/43947057/090824-sco_08_select+list.pdf/71bc12ee-feae-1e00-6687-56c17ded4fe8?t=1723206910456"
+      },
+      {
+       "text": "FINAL RESULT",
+       "url": "https://sbi.bank.in/documents/77530/43947057/290824-SCO_06_FINAL_SELECT_LIST.pdf/b8c23847-21ac-807d-1e73-f33a2051c54e?t=1724909527863"
+      },
+      {
+       "text": "FINAL RESULT",
+       "url": "https://sbi.bank.in/documents/77530/43947057/070824-sco_05_select+list.pdf/76eadb3d-c2ff-b830-501c-d2451246a811?t=1723031359408"
+      },
+      {
+       "text": "FINAL RESULT",
+       "url": "https://sbi.bank.in/documents/77530/43947057/060824-sco_04_select+list.pdf/d2d95be0-ce75-58c2-ab1d-655ac09777e3?t=1722943401557"
+      },
+      {
+       "text": "FINAL RESULT",
+       "url": "https://sbi.bank.in/documents/77530/43947057/090824-sco_03_select+list.pdf/1bd980db-1163-e197-1412-2ccf9494eb28?t=1723207179227"
+      },
+      {
+       "text": "FINAL RESULT",
+       "url": "https://sbi.bank.in/documents/77530/43947057/090824-sco_02_select_list.pdf/b581b483-fa7b-8e0d-ef92-329de30cef4e?t=1723207069065"
+      },
+      {
+       "text": "FINAL RESULT",
+       "url": "https://sbi.bank.in/documents/77530/43947057/200824-sco_01_select+list_DBA.pdf/e34d2134-ab81-7487-7b69-e4f3005dabb7?t=1724154837219"
+      }
+     ]
+    },
+    {
+     "url": "https://sbi.bank.in/web/careers/recruitment-results",
+     "final_url": "https://sbi.bank.in/web/careers/recruitment-results",
+     "ok": true,
+     "status": 200,
+     "error": null,
+     "ms": 500,
+     "via": "requests",
+     "tls_insecure": false,
+     "page_title": "Recruitment Results - Careers",
+     "html_kb": 267.7,
+     "robots_allowed": true,
+     "items": 42,
+     "dated": 6,
+     "types": {
+      "result": 18,
+      "job": 21,
+      "notice": 3
+     },
+     "sample": [
+      {
+       "title": "Recruitment Results Back Candidates can check below for the results and announcements of all closed recruitment.",
+       "url": "https://sbi.bank.in/web/careers/",
+       "is_doc": false,
+       "type": "result",
+       "list_date": null,
+       "context": "Recruitment Results Back Candidates can check below for the results and announcements of all closed recruitment."
+      },
+      {
+       "title": "ADVERTISEMENT ( Hindi / English ) ( )",
+       "url": "https://sbi.bank.in/documents/77530/57941334/23062026_SBI+_+Detailed+Advt.+PO+26-27_09+-+Hindi.pdf/0f0ff4e1-2ef6-1e3f-719f-bb95ec1a2e13?t=1782216346313",
+       "is_doc": false,
+       "type": "job",
+       "list_date": null,
+       "context": "DOWNLOAD ADVERTISEMENT ( Hindi (513 KB) / English (5 MB) ) (NEW)"
+      },
+      {
+       "title": "CORRIGENDUM",
+       "url": "https://sbi.bank.in/documents/77530/57941334/02072026_Corrigendum.pdf/91948119-6985-546d-92d8-b23b0ccf8f8b?t=1782976734314",
+       "is_doc": false,
+       "type": "notice",
+       "list_date": null,
+       "context": "CORRIGENDUM"
+      },
+      {
+       "title": "PRELIMINARY EXAMINATION RESULT",
+       "url": "https://sbi.bank.in/webfiles/uploads/files_2627/08/SBIPO2026-Prelims-WTRESULT-15_columns.pdf",
+       "is_doc": true,
+       "type": "result",
+       "list_date": null,
+       "context": "PRELIMINARY EXAMINATION RESULT (NEW)"
+      },
+      {
+       "title": "INFORMATION HANDOUT (Hindi / English ) ( )",
+       "url": "https://sbi.bank.in/documents/77530/59067274/02092026SBIPOMainsHindi.pdf",
+       "is_doc": true,
+       "type": "result",
+       "list_date": null,
+       "context": "INFORMATION HANDOUT (Hindi (506 KB)/ English (1 MB) ) (NEW)"
+      },
+      {
+       "title": "MAIN EXAMINATION RESULT",
+       "url": "https://sbi.bank.in/webfiles/uploads/files_2627/10/SBIPO2026-Main-WTRESULT-15_columns.pdf",
+       "is_doc": true,
+       "type": "result",
+       "list_date": null,
+       "context": "MAIN EXAMINATION RESULT (NEW )"
+      }
+     ],
+     "discovered": [
+      {
+       "text": "Recruitment Results",
+       "url": "https://sbi.bank.in/web/careers/recruitment-results"
+      },
+      {
+       "text": "Recruitment Results & Archive",
+       "url": "https://sbi.bank.in/web/careers/recruitment-results-archive"
+      },
+      {
+       "text": "PRELIMINARY EXAM RESULT",
+       "url": "https://sbi.bank.in/web/careers/clk-prephase-2025"
+      },
+      {
+       "text": "MAIN EXAM RESULT",
+       "url": "https://sbi.bank.in/documents/77530/52947104/27022026_Junior+Associates-mains-2025-RESULT-15+FORMAT.pdf/e4e8f7b3-d429-a855-3000-142dfdb5295b?t=1772180230964"
+      },
+      {
+       "text": "PRELIMINARY EXAM RESULT",
+       "url": "https://sbi.bank.in/web/careers/crpd/2024/clk-pre-phase-1-result"
+      },
+      {
+       "text": "MAIN EXAM RESULT",
+       "url": "https://sbi.bank.in/documents/77530/52947104/Junior+Associates-mains-2024-RESULT-15+FORMAT.pdf/2be30817-a971-8bca-74ff-3f1274a37079?t=1749637240610"
+      },
+      {
+       "text": "PRELIMINARY EXAM RESULT",
+       "url": "https://sbi.bank.in/web/careers/po-pre-result-2025"
+      },
+      {
+       "text": "MAIN EXAM RESULT",
+       "url": "https://sbi.bank.in/documents/77530/52947104/SBIPO2025-Main-WTRESULT-15+columns.pdf/40d26751-4e5a-cef0-4dee-6f621893a3c9?t=1762423400237"
+      },
+      {
+       "text": "FINAL RESULT",
+       "url": "https://sbi.bank.in/documents/77530/52947104/19122025-SBIPO-RESULT-2025-25-15-COL-FORMAT+%281%29.pdf/676b6ad1-999c-cc50-00e3-7e83ea16c5d6?t=1766141040106"
+      },
+      {
+       "text": "FINAL RESULT",
+       "url": "https://sbi.bank.in/documents/77530/52947104/sco_14_Select_list.pdf/0f312bbc-c1d4-c6c9-eba9-76fc19e63c71?t=1764679780336"
+      },
+      {
+       "text": "FINAL RESULT",
+       "url": "https://sbi.bank.in/documents/77530/52947104/CBO_RESULT-2025-26-15-COLUMNS.pdf/2fff40d3-d71b-36ee-c8a1-065348043b7b?t=1763556858512"
+      },
+      {
+       "text": "PRELIMINARY EXAM RESULT",
+       "url": "https://sbi.bank.in/web/careers/special-drive-ja-pre-marks-2024"
+      },
+      {
+       "text": "MAIN EXAM RESULT",
+       "url": "https://sbi.bank.in/documents/77530/52947104/Junior+Associates-SPLDRIVE-2024-25-RESULT-15+FORMAT.pdf/a11c4ca7-f15c-0941-6a70-26d1acf1d717?t=1748419884479"
+      },
+      {
+       "text": "FINAL RESULT - ASSISTANT MANAGER (ENGINEER – FIRE)",
+       "url": "https://sbi.bank.in/documents/77530/43947057/sco_18_AM%28FIRE%29_SELECT_LIST+%281%29.pdf/e2b229a7-e26c-1d87-9502-2581e0dc5f60?t=1742036294874"
+      },
+      {
+       "text": "MAIN EXAM RESULT",
+       "url": "https://sbi.bank.in/documents/77530/52947104/SBIPO2024-Main-WTRESULT-15+columns.pdf/6689270d-d6d3-5d6c-1798-3844e7db6759?t=1747816987666"
+      },
+      {
+       "text": "FINAL RESULT",
+       "url": "https://sbi.bank.in/documents/77530/43947057/SBIPO-RESULT-2024-25-15-COL-FORMAT.pdf/d9e10a8d-278a-901e-fc64-e357f8a43b8d?t=1749791449007"
+      },
+      {
+       "text": "FINAL RESULT – ASSISTANT MANAGER (SYSTEM)",
+       "url": "https://sbi.bank.in/documents/77530/43947057/SCO_15_AM_FINAL_RESULT-15+FORMAT.pdf/c07e3d98-a582-e753-8ca3-c71175f321b3?t=1742211884164"
+      },
+      {
+       "text": "FINAL RESULT - DEPUTY MANAGER (SYSTEMS) - IT ARCHITECT",
+       "url": "https://sbi.bank.in/documents/77530/52947104/SCO_15_DM_IT_ARCHITECT_SELECT_LIST.pdf/4abf6691-1074-7e9e-79ac-b9f28183af20?t=1743510335923"
+      },
+      {
+       "text": "FINAL RESULT - CENTRAL RESEARCH TEAM (PRODUCT LEAD)",
+       "url": "https://sbi.bank.in/documents/77530/43947057/SCO_20_SELECT_LIST_CRT%28PL%29.pdf/5a33fdf4-0df0-21aa-f3fe-24d8cfa69b87?t=1742209528724"
+      },
+      {
+       "text": "FINAL RESULT - RELATIONSHIP MANAGER TEAM LEAD",
+       "url": "https://sbi.bank.in/documents/77530/43947057/SCO_20_SELECT_LIST_RMTL.pdf/0a36c011-1764-66ec-9a21-3f1fd9b930df?t=1742209554741"
+      },
+      {
+       "text": "FINAL RESULT – REGIONAL HEAD",
+       "url": "https://sbi.bank.in/documents/77530/43947057/SCO_20_SELECT_LIST_RH.pdf/522bcb95-fe26-8490-2cdf-187c552ee4d2?t=1742537629913"
+      },
+      {
+       "text": "FINAL RESULT",
+       "url": "https://sbi.bank.in/documents/77530/0/03122024-sco_16_select_list.pdf/67955dcb-740b-9d88-ac5c-9a035c492221?t=1733218402835"
+      },
+      {
+       "text": "FINAL RESULT",
+       "url": "https://sbi.bank.in/documents/77530/0/06122024-SCO_14_SELECT_LIST.pdf/e0a6003f-8a8b-d725-b44b-66f8fc05a2f4?t=1733488094971"
+      },
+      {
+       "text": "FINAL RESULT",
+       "url": "https://sbi.bank.in/documents/77530/43947057/030924-sco_12_select+list.pdf/9e740768-bfb8-2f4d-0fe8-6caeac56dc22?t=1725345650755"
+      },
+      {
+       "text": "FINAL RESULT",
+       "url": "https://sbi.bank.in/documents/77530/43947057/100924-sco_select_list_13.pdf/94752ca8-1830-ff9e-8df5-19892970191d?t=1725949013631"
+      },
+      {
+       "text": "FINAL RESULT",
+       "url": "https://sbi.bank.in/documents/77530/0/05102024-sco_11_select+list.pdf/55340737-2a57-2879-7445-758ff78461f3?t=1728131975722"
+      },
+      {
+       "text": "FINAL RESULT",
+       "url": "https://sbi.bank.in/documents/77530/43947057/170920241534-sco_10_select+list.pdf/86389ccb-2cd4-275f-ecb0-5d0273af76bd?t=1726567458764"
+      },
+      {
+       "text": "FINAL RESULT",
+       "url": "https://sbi.bank.in/documents/77530/43947057/090824-sco_08_select+list.pdf/71bc12ee-feae-1e00-6687-56c17ded4fe8?t=1723206910456"
+      },
+      {
+       "text": "FINAL RESULT",
+       "url": "https://sbi.bank.in/documents/77530/43947057/290824-SCO_06_FINAL_SELECT_LIST.pdf/b8c23847-21ac-807d-1e73-f33a2051c54e?t=1724909527863"
+      },
+      {
+       "text": "FINAL RESULT",
+       "url": "https://sbi.bank.in/documents/77530/43947057/070824-sco_05_select+list.pdf/76eadb3d-c2ff-b830-501c-d2451246a811?t=1723031359408"
+      },
+      {
+       "text": "FINAL RESULT",
+       "url": "https://sbi.bank.in/documents/77530/43947057/060824-sco_04_select+list.pdf/d2d95be0-ce75-58c2-ab1d-655ac09777e3?t=1722943401557"
+      },
+      {
+       "text": "FINAL RESULT",
+       "url": "https://sbi.bank.in/documents/77530/43947057/090824-sco_03_select+list.pdf/1bd980db-1163-e197-1412-2ccf9494eb28?t=1723207179227"
+      },
+      {
+       "text": "FINAL RESULT",
+       "url": "https://sbi.bank.in/documents/77530/43947057/090824-sco_02_select_list.pdf/b581b483-fa7b-8e0d-ef92-329de30cef4e?t=1723207069065"
+      },
+      {
+       "text": "FINAL RESULT",
+       "url": "https://sbi.bank.in/documents/77530/43947057/200824-sco_01_select+list_DBA.pdf/e34d2134-ab81-7487-7b69-e4f3005dabb7?t=1724154837219"
+      },
+      {
+       "text": "FINAL RESULT",
+       "url": "https://sbi.bank.in/documents/77530/36548767/220224-SCO_29_select_list.pdf/ffba885d-23c1-802a-7b0b-281552e0ff12?t=1708606294152"
+      }
+     ]
+    }
+   ],
+   "robots": {
+    "status": 200,
+    "allowed": true,
+    "snippet": "User-Agent: *\nDisallow:\nSitemap: https://sbi.bank.in/webfiles/uploads/files_2526/sitemap.xml"
+   },
+   "verdict": "ok"
+  },
+  {
+   "id": "rbi",
+   "name": "Reserve Bank of India Opportunities",
+   "scope": "central",
+   "lists": [
+    {
+     "url": "https://opportunities.rbi.org.in/scripts/index.aspx",
+     "final_url": "https://opportunities.rbi.org.in/scripts/index.aspx",
+     "ok": true,
+     "status": 200,
+     "error": null,
+     "ms": 975,
+     "via": "requests",
+     "tls_insecure": false,
+     "page_title": "Build Your Future with the RBI!",
+     "html_kb": 41.2,
+     "robots_allowed": true,
+     "items": 0,
+     "dated": 0,
+     "types": {},
+     "sample": [],
+     "discovered": [
+      {
+       "text": "Current Vacancies",
+       "url": "https://opportunities.rbi.org.in/scripts/index.aspx"
+      },
+      {
+       "text": "Vacancies",
+       "url": "https://opportunities.rbi.org.in/Scripts/Vacancies.aspx"
+      },
+      {
+       "text": "Results",
+       "url": "https://opportunities.rbi.org.in/Scripts/resultsnew.aspx"
+      },
+      {
+       "text": "Recruitment",
+       "url": "https://opportunities.rbi.org.in/Scripts/bs_viewcontent.aspx?Id=2802"
+      },
+      {
+       "text": "What does a career with the RBI mean for you?",
+       "url": "https://opportunities.rbi.org.in/scripts/career.aspx"
+      }
+     ]
+    }
+   ],
+   "robots": {
+    "status": 418,
+    "allowed": true,
+    "snippet": ""
+   },
+   "verdict": "loaded-no-items"
+  },
+  {
+   "id": "nta",
+   "name": "National Testing Agency",
+   "scope": "central",
+   "lists": [
+    {
+     "url": "https://nta.ac.in/",
+     "final_url": "https://nta.ac.in/",
+     "ok": true,
+     "status": 200,
+     "error": null,
+     "ms": 449,
+     "via": "requests",
+     "tls_insecure": false,
+     "page_title": "National Testing Agency",
+     "html_kb": 699.9,
+     "robots_allowed": true,
+     "items": 398,
+     "dated": 44,
+     "types": {
+      "job": 103,
+      "result": 68,
+      "notice": 54,
+      "admission": 27,
+      "answer": 69,
+      "admit": 75,
+      "syllabus": 2
+     },
+     "sample": [
+      {
+       "title": "Inviting Online Application for All India Sainik Schools Entrance Examination(AISSEE)- 2027 reg. Read More",
+       "url": "https://nta.ac.in/Download/Notice/Notice_20261103151121.PDF",
+       "is_doc": true,
+       "type": "job",
+       "list_date": null,
+       "context": "Inviting Online Application for All India Sainik Schools Entrance Examination(AISSEE)- 2027 reg. Read More"
+      },
+      {
+       "title": "Corrigendum to Office Memorandum F.No. NTA/OM/D/88/2026-ED-II dated 17.09.2026 regarding the procedure for issuance of Duplicate Scorecard Read More",
+       "url": "https://nta.ac.in/Download/Notice/Notice_20261103113641.pdf",
+       "is_doc": true,
+       "type": "result",
+       "list_date": "2026-09-17",
+       "context": "Corrigendum to Office Memorandum F.No. NTA/OM/D/88/2026-ED-II dated 17.09.2026 regarding the procedure for issuance of Duplicate Scorecard Read More"
+      },
+      {
+       "title": "Public Notice regarding Correction in particulars of the Online Application Form for UGC-NET December 2026 Read More",
+       "url": "https://nta.ac.in/Download/Notice/Notice_20261102150155.pdf",
+       "is_doc": true,
+       "type": "job",
+       "list_date": null,
+       "context": "Public Notice regarding Correction in particulars of the Online Application Form for UGC-NET December 2026 Read More"
+      },
+      {
+       "title": "Clarification regarding submission of a fresh Online Application Form for JEE (Main) – 2027 (Session 1) Read More",
+       "url": "https://nta.ac.in/Download/Notice/Notice_20261030202143.pdf",
+       "is_doc": true,
+       "type": "job",
+       "list_date": null,
+       "context": "Clarification regarding submission of a fresh Online Application Form for JEE (Main) – 2027 (Session 1) Read More"
+      },
+      {
+       "title": "Extension of Last Date for Submission of Online Application Form for UGC-NET December 2026 Examination – Reg. Read More",
+       "url": "https://nta.ac.in/Download/Notice/Notice_20261027235155.pdf",
+       "is_doc": true,
+       "type": "job",
+       "list_date": null,
+       "context": "Extension of Last Date for Submission of Online Application Form for UGC-NET December 2026 Examination – Reg. Read More"
+      },
+      {
+       "title": "Correction in Particulars of the Online Application Form of Rashtriya Military School Common Entrance Test (RMS CET) 2026 -Reg. Read More",
+       "url": "https://nta.ac.in/Download/Notice/Notice_20261027133408.pdf",
+       "is_doc": true,
+       "type": "job",
+       "list_date": null,
+       "context": "Correction in Particulars of the Online Application Form of Rashtriya Military School Common Entrance Test (RMS CET) 2026 -Reg. Read More"
+      }
+     ],
+     "discovered": []
+    },
+    {
+     "url": "https://exams.nta.ac.in/",
+     "final_url": "https://exams.nta.ac.in/",
+     "ok": true,
+     "status": 200,
+     "error": null,
+     "ms": 4,
+     "via": "requests",
+     "tls_insecure": true,
+     "page_title": "NTA Exam | India",
+     "html_kb": 26.7,
+     "robots_allowed": true,
+     "items": 0,
+     "dated": 0,
+     "types": {},
+     "sample": [],
+     "discovered": []
+    }
+   ],
+   "robots": {
+    "status": 404,
+    "allowed": true,
+    "snippet": ""
+   },
+   "verdict": "ok"
+  },
+  {
+   "id": "cbse",
+   "name": "Central Board of Secondary Education",
+   "scope": "central",
+   "lists": [
+    {
+     "url": "https://cbse.gov.in/cbsenew/recruitment.html",
+     "final_url": "https://www.cbse.gov.in/cbsenew/recruitment.html",
+     "ok": true,
+     "status": 200,
+     "error": null,
+     "ms": 1289,
+     "via": "requests",
+     "tls_insecure": false,
+     "page_title": "Recruitment | Central Board of Secondary Education",
+     "html_kb": 87.3,
+     "robots_allowed": true,
+     "items": 148,
+     "dated": 109,
+     "types": {
+      "result": 35,
+      "admit": 7,
+      "job": 68,
+      "notice": 17,
+      "answer": 20,
+      "syllabus": 1
+     },
+     "sample": [
+      {
+       "title": "Result Notice for the post of Superintendent (Reserve Panel)",
+       "url": "https://www.cbse.gov.in/cbsenew/documents/Result_Notice_Supdt_Reserv_Panel_24092026.pdf",
+       "is_doc": true,
+       "type": "result",
+       "list_date": "2026-09-24",
+       "context": "Result Notice for the post of Superintendent (Reserve Panel) (1.68 MB) 24/09/2026"
+      },
+      {
+       "title": "Result Notice (Junior Translation Officer)",
+       "url": "https://www.cbse.gov.in/cbsenew/documents/Result_Notice_JTO_21092026.pdf",
+       "is_doc": true,
+       "type": "result",
+       "list_date": "2026-09-21",
+       "context": "Direct Recruitment Quota Examination 2026 - Result Notice (Junior Translation Officer) (198 KB) 21/09/2026 | Public Notice : Download of Admit Card for DRQ2026 (Skill Test)-reg. (302 KB) 08/07/2026 | Click here | City Intimation to candidates for DRQ2026 (Skill Test) (314 KB) 30/06/2026 | Click here for City Intimation DRQ2026 (Skill Test) | Result Notice for DRQ2026 (Tier-II) examination (358 KB)"
+      },
+      {
+       "title": "Public Notice : of Admit Card for DRQ2026 (Skill Test)-reg.",
+       "url": "https://www.cbse.gov.in/cbsenew/documents/Public_Notice_Admit_Card_Skill_DRQ2026_08072026.pdf",
+       "is_doc": true,
+       "type": "admit",
+       "list_date": "2026-09-21",
+       "context": "Direct Recruitment Quota Examination 2026 - Result Notice (Junior Translation Officer) (198 KB) 21/09/2026 | Public Notice : Download of Admit Card for DRQ2026 (Skill Test)-reg. (302 KB) 08/07/2026 | Click here | City Intimation to candidates for DRQ2026 (Skill Test) (314 KB) 30/06/2026 | Click here for City Intimation DRQ2026 (Skill Test) | Result Notice for DRQ2026 (Tier-II) examination (358 KB)"
+      },
+      {
+       "title": "LoginDOB.aspx",
+       "url": "https://examinationservices.nic.in/recsys2025/downloadadmitcard/LoginDOB.aspx?enc=Ei4cajBkK1gZSfgr53ImFSuabJtfdyH7GsL2cij2dPKFqA5XsHH8yMmK+6SEPU/E",
+       "is_doc": false,
+       "type": "job",
+       "list_date": "2026-09-21",
+       "context": "Direct Recruitment Quota Examination 2026 - Result Notice (Junior Translation Officer) (198 KB) 21/09/2026 | Public Notice : Download of Admit Card for DRQ2026 (Skill Test)-reg. (302 KB) 08/07/2026 | Click here | City Intimation to candidates for DRQ2026 (Skill Test) (314 KB) 30/06/2026 | Click here for City Intimation DRQ2026 (Skill Test) | Result Notice for DRQ2026 (Tier-II) examination (358 KB)"
+      },
+      {
+       "title": "City Intimation to candidates for DRQ2026 (Skill Test)",
+       "url": "https://www.cbse.gov.in/cbsenew/documents/Public_Notice_City_Information_Skill_DRQ2026_30062026.pdf",
+       "is_doc": true,
+       "type": "admit",
+       "list_date": "2026-09-21",
+       "context": "Direct Recruitment Quota Examination 2026 - Result Notice (Junior Translation Officer) (198 KB) 21/09/2026 | Public Notice : Download of Admit Card for DRQ2026 (Skill Test)-reg. (302 KB) 08/07/2026 | Click here | City Intimation to candidates for DRQ2026 (Skill Test) (314 KB) 30/06/2026 | Click here for City Intimation DRQ2026 (Skill Test) | Result Notice for DRQ2026 (Tier-II) examination (358 KB)"
+      },
+      {
+       "title": "for City Intimation DRQ2026 (Skill Test)",
+       "url": "https://examinationservices.nic.in/recsys2025/downloadadmitcard/frmAuthforCityPhaseIII.aspx?enc=Ei4cajBkK1gZSfgr53ImFSuabJtfdyH7GsL2cij2dPKFqA5XsHH8yMmK+6SEPU/E",
+       "is_doc": false,
+       "type": "admit",
+       "list_date": "2026-09-21",
+       "context": "Direct Recruitment Quota Examination 2026 - Result Notice (Junior Translation Officer) (198 KB) 21/09/2026 | Public Notice : Download of Admit Card for DRQ2026 (Skill Test)-reg. (302 KB) 08/07/2026 | Click here | City Intimation to candidates for DRQ2026 (Skill Test) (314 KB) 30/06/2026 | Click here for City Intimation DRQ2026 (Skill Test) | Result Notice for DRQ2026 (Tier-II) examination (358 KB)"
+      }
+     ],
+     "discovered": []
+    }
+   ],
+   "robots": {
+    "status": 404,
+    "allowed": true,
+    "snippet": ""
+   },
+   "verdict": "ok"
+  },
+  {
+   "id": "indiapost",
+   "name": "India Post GDS Online",
+   "scope": "central",
+   "lists": [
+    {
+     "url": "https://indiapostgdsonline.gov.in/",
+     "final_url": "https://indiapostgdsonline.gov.in/",
+     "ok": true,
+     "status": 200,
+     "error": null,
+     "ms": 774,
+     "via": "requests",
+     "tls_insecure": false,
+     "page_title": "IndiaPost GDS Online",
+     "html_kb": 81.7,
+     "robots_allowed": true,
+     "items": 1,
+     "dated": 0,
+     "types": {
+      "job": 1
+     },
+     "sample": [
+      {
+       "title": "Descriptive Notification",
+       "url": "https://indiapostgdsonline.cept.gov.in",
+       "is_doc": false,
+       "type": "job",
+       "list_date": null,
+       "context": "Notification Descriptive Notification"
+      }
+     ],
+     "discovered": [
+      {
+       "text": "Notification",
+       "url": "https://indiapostgdsonline.gov.in/"
+      }
+     ]
+    }
+   ],
+   "robots": {
+    "status": 200,
+    "allowed": true,
+    "snippet": "User-agent: *\nAllow: /\n"
+   },
+   "verdict": "ok-nodates"
+  },
+  {
+   "id": "army",
+   "name": "Join Indian Army",
+   "scope": "central",
+   "lists": [
+    {
+     "url": "https://joinindianarmy.nic.in/",
+     "final_url": "https://joinindianarmy.nic.in/",
+     "ok": false,
+     "status": 0,
+     "error": "ConnectTimeout: HTTPSConnectionPool(host='joinindianarmy.nic.in', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='joinindianar",
+     "ms": 0,
+     "via": "requests",
+     "tls_insecure": false,
+     "page_title": "",
+     "html_kb": 0.0,
+     "robots_allowed": true,
+     "items": 0,
+     "dated": 0,
+     "types": {},
+     "sample": [],
+     "discovered": []
+    }
+   ],
+   "robots": {
+    "status": 0,
+    "allowed": true,
+    "snippet": ""
+   },
+   "verdict": "fail"
+  },
+  {
+   "id": "navy",
+   "name": "Join Indian Navy",
+   "scope": "central",
+   "lists": [
+    {
+     "url": "https://www.joinindiannavy.gov.in/",
+     "final_url": "https://www.joinindiannavy.gov.in/",
+     "ok": false,
+     "status": 0,
+     "error": "ConnectTimeout: HTTPSConnectionPool(host='www.joinindiannavy.gov.in', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.join",
+     "ms": 0,
+     "via": "requests",
+     "tls_insecure": false,
+     "page_title": "",
+     "html_kb": 0.0,
+     "robots_allowed": true,
+     "items": 0,
+     "dated": 0,
+     "types": {},
+     "sample": [],
+     "discovered": []
+    }
+   ],
+   "robots": {
+    "status": 0,
+    "allowed": true,
+    "snippet": ""
+   },
+   "verdict": "fail"
+  },
+  {
+   "id": "airforce",
+   "name": "Indian Air Force Agniveervayu",
+   "scope": "central",
+   "lists": [
+    {
+     "url": "https://agnipathvayu.cdac.in/",
+     "final_url": "https://agnipathvayu.cdac.in/",
+     "ok": false,
+     "status": 0,
+     "error": "ConnectTimeout: HTTPSConnectionPool(host='agnipathvayu.cdac.in', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='agnipathvayu.",
+     "ms": 0,
+     "via": "requests",
+     "tls_insecure": false,
+     "page_title": "",
+     "html_kb": 0.0,
+     "robots_allowed": true,
+     "items": 0,
+     "dated": 0,
+     "types": {},
+     "sample": [],
+     "discovered": []
+    }
+   ],
+   "robots": {
+    "status": 0,
+    "allowed": true,
+    "snippet": ""
+   },
+   "verdict": "fail"
+  },
+  {
+   "id": "ssb",
+   "name": "Sashastra Seema Bal Recruitment",
+   "scope": "central",
+   "lists": [
+    {
+     "url": "https://www.recruitment.ssb.gov.in/notificationUrl",
+     "final_url": "https://www.recruitment.ssb.gov.in/notificationUrl",
+     "ok": true,
+     "status": 200,
+     "error": null,
+     "ms": 524,
+     "via": "requests",
+     "tls_insecure": true,
+     "page_title": "Recruitment",
+     "html_kb": 93.7,
+     "robots_allowed": true,
+     "items": 9,
+     "dated": 0,
+     "types": {
+      "job": 7,
+      "admit": 1,
+      "result": 1
+     },
+     "sample": [
+      {
+       "title": "NOTIFICATION",
+       "url": "https://www.recruitment.ssb.gov.in/notificationUrl",
+       "is_doc": false,
+       "type": "job",
+       "list_date": null,
+       "context": "NOTIFICATION"
+      },
+      {
+       "title": "ADVERTISEMENTS",
+       "url": "https://www.recruitment.ssb.gov.in/advertisementsUrl",
+       "is_doc": false,
+       "type": "job",
+       "list_date": null,
+       "context": "ADVERTISEMENTS"
+      },
+      {
+       "title": "ADMIT CARDS",
+       "url": "https://www.recruitment.ssb.gov.in/AdmitCardUrl",
+       "is_doc": false,
+       "type": "admit",
+       "list_date": null,
+       "context": "ADMIT CARDS"
+      },
+      {
+       "title": "resultUrl",
+       "url": "https://www.recruitment.ssb.gov.in/resultUrl",
+       "is_doc": false,
+       "type": "result",
+       "list_date": null,
+       "context": "RESULTS"
+      },
+      {
+       "title": "BSF RECRUITMENT CRPF RECRUITMENT CISF RECRUITMENT ITBP RECRUITMENT",
+       "url": "https://www.data.gov.in/",
+       "is_doc": false,
+       "type": "job",
+       "list_date": null,
+       "context": "BSF RECRUITMENT CRPF RECRUITMENT CISF RECRUITMENT ITBP RECRUITMENT"
+      },
+      {
+       "title": "BSF RECRUITMENT",
+       "url": "https://rectt.bsf.gov.in/",
+       "is_doc": false,
+       "type": "job",
+       "list_date": null,
+       "context": "BSF RECRUITMENT"
+      }
+     ],
+     "discovered": [
+      {
+       "text": "ADVERTISEMENTS",
+       "url": "https://www.recruitment.ssb.gov.in/advertisementsUrl"
+      },
+      {
+       "text": "NOTICE & CIRCULARS",
+       "url": "https://www.recruitment.ssb.gov.in/notificationUrl"
+      },
+      {
+       "text": "DOWNLOAD ADMIT CARD",
+       "url": "https://www.recruitment.ssb.gov.in/AdmitCardUrl"
+      },
+      {
+       "text": "RESULT",
+       "url": "https://www.recruitment.ssb.gov.in/resultUrl"
+      }
+     ]
+    }
+   ],
+   "robots": {
+    "status": 200,
+    "allowed": true,
+    "snippet": ""
+   },
+   "verdict": "ok-nodates"
+  },
+  {
+   "id": "bsf",
+   "name": "Border Security Force Recruitment",
+   "scope": "central",
+   "lists": [
+    {
+     "url": "https://rectt.bsf.gov.in/",
+     "final_url": "https://rectt.bsf.gov.in/",
+     "ok": false,
+     "status": 403,
+     "error": "HTTP 403",
+     "ms": 226,
+     "via": "requests",
+     "tls_insecure": false,
+     "page_title": "403 Forbidden",
+     "html_kb": 0.5,
+     "robots_allowed": true,
+     "items": 0,
+     "dated": 0,
+     "types": {},
+     "sample": [],
+     "discovered": []
+    }
+   ],
+   "robots": {
+    "status": 403,
+    "allowed": true,
+    "snippet": ""
+   },
+   "verdict": "fail"
+  },
+  {
+   "id": "itbp",
+   "name": "ITBP Recruitment",
+   "scope": "central",
+   "lists": [
+    {
+     "url": "https://recruitment.itbpolice.nic.in/",
+     "final_url": "https://recruitment.itbpolice.nic.in/",
+     "ok": false,
+     "status": 0,
+     "error": "ConnectTimeout: HTTPSConnectionPool(host='recruitment.itbpolice.nic.in', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='recru",
+     "ms": 0,
+     "via": "requests",
+     "tls_insecure": false,
+     "page_title": "",
+     "html_kb": 0.0,
+     "robots_allowed": true,
+     "items": 0,
+     "dated": 0,
+     "types": {},
+     "sample": [],
+     "discovered": []
+    }
+   ],
+   "robots": {
+    "status": 0,
+    "allowed": true,
+    "snippet": ""
+   },
+   "verdict": "fail"
+  },
+  {
+   "id": "cisf",
+   "name": "CISF Recruitment",
+   "scope": "central",
+   "lists": [
+    {
+     "url": "https://cisfrectt.cisf.gov.in/",
+     "final_url": "https://cisfrectt.cisf.gov.in/",
+     "ok": false,
+     "status": 0,
+     "error": "ConnectTimeout: HTTPSConnectionPool(host='cisfrectt.cisf.gov.in', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='cisfrectt.ci",
+     "ms": 0,
+     "via": "requests",
+     "tls_insecure": false,
+     "page_title": "",
+     "html_kb": 0.0,
+     "robots_allowed": true,
+     "items": 0,
+     "dated": 0,
+     "types": {},
+     "sample": [],
+     "discovered": []
+    }
+   ],
+   "robots": {
+    "status": 0,
+    "allowed": true,
+    "snippet": ""
+   },
+   "verdict": "fail"
+  },
+  {
+   "id": "crpf",
+   "name": "CRPF Recruitment",
+   "scope": "central",
+   "lists": [
+    {
+     "url": "https://rect.crpf.gov.in/",
+     "final_url": "https://rect.crpf.gov.in/",
+     "ok": false,
+     "status": 0,
+     "error": "ConnectTimeout: HTTPSConnectionPool(host='rect.crpf.gov.in', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='rect.crpf.gov.in'",
+     "ms": 0,
+     "via": "requests",
+     "tls_insecure": false,
+     "page_title": "",
+     "html_kb": 0.0,
+     "robots_allowed": true,
+     "items": 0,
+     "dated": 0,
+     "types": {},
+     "sample": [],
+     "discovered": []
+    }
+   ],
+   "robots": {
+    "status": 0,
+    "allowed": true,
+    "snippet": ""
+   },
+   "verdict": "fail"
+  },
+  {
+   "id": "aiims",
+   "name": "AIIMS Examinations",
+   "scope": "central",
+   "lists": [
+    {
+     "url": "https://aiimsexams.ac.in/landingpage/notice",
+     "final_url": "https://aiimsexams.ac.in/landingpage/notice",
+     "ok": true,
+     "status": 200,
+     "error": null,
+     "ms": 214,
+     "via": "requests",
+     "tls_insecure": false,
+     "page_title": "All India Institute of Medical Sciences",
+     "html_kb": 34.5,
+     "robots_allowed": true,
+     "items": 2,
+     "dated": 0,
+     "types": {
+      "job": 2
+     },
+     "sample": [
+      {
+       "title": "Home About Academic Courses Recruitments Key Dates Notices Contact Support",
+       "url": "https://aiimsexams.ac.in/",
+       "is_doc": false,
+       "type": "job",
+       "list_date": null,
+       "context": "Home About Academic Courses Recruitments Key Dates Notices Contact Support"
+      },
+      {
+       "title": "Recruitments",
+       "url": "https://aiimsexams.ac.in/landingpage/courses/undefined",
+       "is_doc": false,
+       "type": "job",
+       "list_date": null,
+       "context": "Home About Academic Courses Recruitments Key Dates Notices Contact Support"
+      }
+     ],
+     "discovered": [
+      {
+       "text": "Recruitments",
+       "url": "https://aiimsexams.ac.in/landingpage/courses/undefined"
+      },
+      {
+       "text": "Notices",
+       "url": "https://aiimsexams.ac.in/landingpage/notice"
+      },
+      {
+       "text": "Miscellaneous Notice",
+       "url": "https://aiimsexams.ac.in/landingpage/miscellaneous-notice"
+      }
+     ]
+    }
+   ],
+   "robots": {
+    "status": 404,
+    "allowed": true,
+    "snippet": ""
+   },
+   "verdict": "ok-nodates"
+  },
+  {
+   "id": "esic",
+   "name": "Employees' State Insurance Corporation",
+   "scope": "central",
+   "lists": [
+    {
+     "url": "https://esic.gov.in/recruitments",
+     "final_url": "https://esic.gov.in/recruitments",
+     "ok": false,
+     "status": 0,
+     "error": "ConnectTimeout: HTTPSConnectionPool(host='esic.gov.in', port=443): Max retries exceeded with url: /recruitments (Caused by ConnectTimeoutError(<HTTPSConnection(host='esic.gov.i",
+     "ms": 0,
+     "via": "requests",
+     "tls_insecure": false,
+     "page_title": "",
+     "html_kb": 0.0,
+     "robots_allowed": true,
+     "items": 0,
+     "dated": 0,
+     "types": {},
+     "sample": [],
+     "discovered": []
+    }
+   ],
+   "robots": {
+    "status": 0,
+    "allowed": true,
+    "snippet": ""
+   },
+   "verdict": "fail"
+  },
+  {
+   "id": "lic",
+   "name": "Life Insurance Corporation of India Careers",
+   "scope": "central",
+   "lists": [
+    {
+     "url": "https://licindia.in/careers",
+     "final_url": "https://licindia.in/careers",
+     "ok": true,
+     "status": 200,
+     "error": null,
+     "ms": 589,
+     "via": "requests",
+     "tls_insecure": false,
+     "page_title": "LIC Careers - Explore Exciting Job Opportunities in Insurance | Official website of Life Insurance Corporation of India.",
+     "html_kb": 218.2,
+     "robots_allowed": true,
+     "items": 3,
+     "dated": 0,
+     "types": {
+      "job": 3
+     },
+     "sample": [
+      {
+       "title": "Recruitment of AAO Generalists Specialists Assistant Engineers 2025",
+       "url": "https://licindia.in/recruitment-of-aao-generalists/-specialists/-assistant-engineers-2025",
+       "is_doc": false,
+       "type": "job",
+       "list_date": null,
+       "context": "ALL ALL Recruitment of AAO Generalists Specialists Assistant Engineers 2025"
+      },
+      {
+       "title": "Engagement of Chief Financial Officer- on contract basis",
+       "url": "https://licindia.in/engagement-of-chief-financial-officer-on-contract-basis",
+       "is_doc": false,
+       "type": "job",
+       "list_date": null,
+       "context": "ALL ALL Engagement of Chief Financial Officer- on contract basis"
+      },
+      {
+       "title": "download forms",
+       "url": "https://licindia.in/web/guest/download-forms",
+       "is_doc": false,
+       "type": "job",
+       "list_date": null,
+       "context": "Download Forms"
+      }
+     ],
+     "discovered": [
+      {
+       "text": "Notices",
+       "url": "https://licindia.in/web/guest/notices"
+      },
+      {
+       "text": "Career",
+       "url": "https://licindia.in/careers"
+      },
+      {
+       "text": "Careers",
+       "url": "https://licindia.in/web/guest/careers"
+      },
+      {
+       "text": "News",
+       "url": "https://licindia.in/web/guest/news"
+      }
+     ]
+    }
+   ],
+   "robots": {
+    "status": 200,
+    "allowed": true,
+    "snippet": "User-Agent: *\nDisallow:"
+   },
+   "verdict": "ok-nodates"
+  },
+  {
+   "id": "epfo",
+   "name": "EPFO Recruitment",
+   "scope": "central",
+   "lists": [
+    {
+     "url": "https://www.epfindia.gov.in/site_en/Recruitments.php",
+     "final_url": "https://www.epfo.gov.in:443/site_en/Recruitments.php",
+     "ok": false,
+     "status": 403,
+     "error": "HTTP 403",
+     "ms": 220,
+     "via": "requests",
+     "tls_insecure": false,
+     "page_title": "ERROR: The request could not be satisfied",
+     "html_kb": 0.9,
+     "robots_allowed": true,
+     "items": 0,
+     "dated": 0,
+     "types": {},
+     "sample": [],
+     "discovered": []
+    }
+   ],
+   "robots": {
+    "status": 403,
+    "allowed": true,
+    "snippet": ""
+   },
+   "verdict": "fail"
+  },
+  {
+   "id": "fci",
+   "name": "Food Corporation of India",
+   "scope": "central",
+   "lists": [
+    {
+     "url": "https://fci.gov.in/recruitments.php",
+     "final_url": "https://fci.gov.in/recruitments.php",
+     "ok": true,
+     "status": 200,
+     "error": null,
+     "ms": 1430,
+     "via": "requests",
+     "tls_insecure": false,
+     "page_title": "Food Corporation of India : Food, Food Storage, Procurement, Grain Sales, Food Grains",
+     "html_kb": 281.0,
+     "robots_allowed": true,
+     "items": 0,
+     "dated": 0,
+     "types": {},
+     "sample": [],
+     "discovered": [
+      {
+       "text": "WhatsNews",
+       "url": "https://fci.gov.in/whatsnewdetails"
+      }
+     ]
+    }
+   ],
+   "robots": {
+    "status": 200,
+    "allowed": true,
+    "snippet": "User-agent: *\r\nUser-agent: Googlebot\r\nUser-agent: googlebot-image\r\nUser-agent: googlebot-mobile\r\n\r\nDisallow: /cgi-bin/\r\n\r\nSitemap: https://fci.gov.in/sitemap.xml"
+   },
+   "verdict": "loaded-no-items"
+  },
+  {
+   "id": "dsssb",
+   "name": "Delhi Subordinate Services Selection Board",
+   "scope": "delhi",
+   "lists": [
+    {
+     "url": "https://dsssb.delhi.gov.in/dsssb-vacancies",
+     "final_url": "https://dsssb.delhi.gov.in/dsssb-vacancies",
+     "ok": true,
+     "status": 200,
+     "error": null,
+     "ms": 869,
+     "via": "requests",
+     "tls_insecure": false,
+     "page_title": "DSSSB Vacancies | Delhi Subordinate Services Selection Board",
+     "html_kb": 68.1,
+     "robots_allowed": true,
+     "items": 21,
+     "dated": 20,
+     "types": {
+      "job": 21
+     },
+     "sample": [
+      {
+       "title": "Home/ Important Information/ Vacancy/ Current Vacancies",
+       "url": "https://dsssb.delhi.gov.in/",
+       "is_doc": false,
+       "type": "job",
+       "list_date": null,
+       "context": "Home/ Important Information/ Vacancy/ Current Vacancies"
+      },
+      {
+       "title": "Corrigendum to the corrigendum regarding Revision of Vacancies for the Post of Junior Laboratory Assistant (Post Code 18/26) under Advertisement No. 02/2026. Date: 15-10-2026 | 215.19 KB",
+       "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/corrigendum_18_26.pdf",
+       "is_doc": true,
+       "type": "job",
+       "list_date": "2026-10-15",
+       "context": "Corrigendum to the corrigendum regarding Revision of Vacancies for the Post of Junior Laboratory Assistant (Post Code 18/26) under Advertisement No. 02/2026. Date: 15-10-2026 | 215.19 KB Download"
+      },
+      {
+       "title": "VACANCY NOTICE ADVERTISEMENT NO. 05/2026 Date: 09-10-2026 | 736.55 KB",
+       "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt_05_2026.pdf",
+       "is_doc": true,
+       "type": "job",
+       "list_date": "2026-10-09",
+       "context": "VACANCY NOTICE ADVERTISEMENT NO. 05/2026 Date: 09-10-2026 | 736.55 KB Download"
+      },
+      {
+       "title": "Corrigendum in partial modification to the advertisement No. 03/2026 dated 29.05.2026 in respect to the post of Electrical Overseer / Sub-Inspector, Post Code - 45/26 in Labour Department. Date: 05-10-2026 | 43.02 KB",
+       "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/corrigendum_pc_45-26.pdf",
+       "is_doc": true,
+       "type": "job",
+       "list_date": "2026-10-05",
+       "context": "Corrigendum in partial modification to the advertisement No. 03/2026 dated 29.05.2026 in respect to the post of Electrical Overseer / Sub-Inspector, Post Code - 45/26 in Labour Department. Date: 05-10-2026 | 43.02 KB Download"
+      },
+      {
+       "title": "VACANCY NOTICE/ADVERTISEMENT NO. 04/2026 COMBINED EXAMINATION, 2026 FOR SENIOR PERSONAL ASSISTANT, PERSONAL ASSISTANT, JUNIOR JUDICIAL ASSISTANT, PROCESS SERVER & PEON/ORDERLY/DAK PEON Date: 30-09-2026 | 811.34 KB",
+       "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_adv.pdf",
+       "is_doc": true,
+       "type": "job",
+       "list_date": "2026-09-30",
+       "context": "VACANCY NOTICE/ADVERTISEMENT NO. 04/2026 COMBINED EXAMINATION, 2026 FOR SENIOR PERSONAL ASSISTANT, PERSONAL ASSISTANT, JUNIOR JUDICIAL ASSISTANT, PROCESS SERVER & PEON/ORDERLY/DAK PEON Date: 30-09-2026 | 811.34 KB Download"
+      },
+      {
+       "title": "Corrigendum In partial modification to the advertisement No. 08/22 in respect of the post of Physical Education Teacher, Post Code- 41/22. Date: 17-09-2026 | 319.16 KB",
+       "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/corrigendum_41-22_1.pdf",
+       "is_doc": true,
+       "type": "job",
+       "list_date": "2026-09-17",
+       "context": "Corrigendum In partial modification to the advertisement No. 08/22 in respect of the post of Physical Education Teacher, Post Code- 41/22. Date: 17-09-2026 | 319.16 KB Download"
+      }
+     ],
+     "discovered": [
+      {
+       "text": "Current Vacancies",
+       "url": "https://dsssb.delhi.gov.in/dsssb-vacancies"
+      },
+      {
+       "text": "Archived Vacancies",
+       "url": "https://dsssb.delhi.gov.in/dsssb/archived-vacancies"
+      },
+      {
+       "text": "Latest Result",
+       "url": "https://dsssb.delhi.gov.in/doit/dsssb/latest-result"
+      },
+      {
+       "text": "Old Results",
+       "url": "https://dsssb.delhi.gov.in/doit/tab-content/old-results"
+      },
+      {
+       "text": "Notice of Exam and Circulars",
+       "url": "https://dsssb.delhi.gov.in/notice-of-exam"
+      },
+      {
+       "text": "Recruitment Rules of Combined Exam",
+       "url": "https://dsssb.delhi.gov.in/dsssb/recruitment-rules-combined-exam"
+      },
+      {
+       "text": "Notice of Interview",
+       "url": "https://dsssb.delhi.gov.in/circulars-orders/361"
+      },
+      {
+       "text": "Old Result",
+       "url": "https://dsssb.delhi.gov.in/doit/tab-content/old-result"
+      },
+      {
+       "text": "What's New",
+       "url": "https://dsssb.delhi.gov.in/what-s-new"
+      },
+      {
+       "text": "Recruitments",
+       "url": "https://dsssb.delhi.gov.in/recruitment"
+      },
+      {
+       "text": "Latest Update",
+       "url": "https://dsssb.delhi.gov.in/"
+      },
+      {
+       "text": "News",
+       "url": "https://dsssb.delhi.gov.in/circulars-orders-notifications/news"
+      }
+     ]
+    }
+   ],
+   "robots": {
+    "status": 403,
+    "allowed": true,
+    "snippet": ""
+   },
+   "verdict": "ok"
+  },
+  {
+   "id": "uppsc",
+   "name": "Uttar Pradesh Public Service Commission",
+   "scope": "up",
+   "lists": [
+    {
+     "url": "https://uppsc.up.nic.in/",
+     "final_url": "https://uppsc.up.nic.in/",
+     "ok": true,
+     "status": 200,
+     "error": null,
+     "ms": 1205,
+     "via": "requests",
+     "tls_insecure": false,
+     "page_title": "Home | UPPSC, Prayagraj",
+     "html_kb": 160.8,
+     "robots_allowed": true,
+     "items": 35,
+     "dated": 6,
+     "types": {
+      "job": 22,
+      "notice": 6,
+      "result": 4,
+      "admit": 2,
+      "answer": 1
+     },
+     "sample": [
+      {
+       "title": "NOTICE REGARDING ADVT. NO. A-1/E-1/2025, COMBINED STATE/UPPER SUBORDINATE SERVIC..",
+       "url": "https://uppsc.up.nic.in/Open_PDF_DB.aspx?I4PnQ0tBagk3H4ltFfLCjsv7tAk2LK46",
+       "is_doc": false,
+       "type": "job",
+       "list_date": null,
+       "context": "1. NOTICE REGARDING ADVT. NO. A-1/E-1/2025, COMBINED STATE/UPPER SUBORDINATE SERVIC.. Visible upto : 10/11/2026"
+      },
+      {
+       "title": "NOTICE REGARDING ADVT. NO. A-10/E-1/2023 U.P. KHADI AND VILLAGE INDUSTRIES BOARD..",
+       "url": "https://uppsc.up.nic.in/Open_PDF_DB.aspx?I4PnQ0tBagk3H4ltFfLCjq0Sebp9/0+P",
+       "is_doc": false,
+       "type": "job",
+       "list_date": null,
+       "context": "2. NOTICE REGARDING ADVT. NO. A-10/E-1/2023 U.P. KHADI AND VILLAGE INDUSTRIES BOARD.. Visible upto : 12/11/2026"
+      },
+      {
+       "title": "NOTICE REAGARDING DOCUMENT VERIFICATION FOR ADVT. NO. A-5/E-1/2025, ASSISTANT TE..",
+       "url": "https://uppsc.up.nic.in/Open_PDF_DB.aspx?I4PnQ0tBagnfpuRH59X6Aa5hvlYnkkej",
+       "is_doc": false,
+       "type": "notice",
+       "list_date": null,
+       "context": "5. NOTICE REAGARDING DOCUMENT VERIFICATION FOR ADVT. NO. A-5/E-1/2025, ASSISTANT TE.. Visible upto : 20/11/2026"
+      },
+      {
+       "title": "NOTICE REAGARDING DOCUMENT VERIFICATION FOR ADVT. NO. A-2/E-1/2020, REGIONAL INS..",
+       "url": "https://uppsc.up.nic.in/Open_PDF_DB.aspx?I4PnQ0tBagnfpuRH59X6AfwR/TDYKT8g",
+       "is_doc": false,
+       "type": "notice",
+       "list_date": "2026-11-04",
+       "context": "6. NOTICE REAGARDING DOCUMENT VERIFICATION FOR ADVT. NO. A-2/E-1/2020, REGIONAL INS.. Visible upto : 04/11/2026"
+      },
+      {
+       "title": "RESULT OF ADVT. NO. 2/2020-2021, U.P. CHIKITSA SHIKSHA (HOMOEOPATHIC) DEPTT., LE..",
+       "url": "https://uppsc.up.nic.in/Open_PDF_DB.aspx?I4PnQ0tBagnfpuRH59X6AdUDjhvz8oXc",
+       "is_doc": false,
+       "type": "result",
+       "list_date": null,
+       "context": "7. RESULT OF ADVT. NO. 2/2020-2021, U.P. CHIKITSA SHIKSHA (HOMOEOPATHIC) DEPTT., LE.. Visible upto : 30/11/2026"
+      },
+      {
+       "title": "LIST OF PROVISIONALLY SELECTED CANDIDATES IN ADVT. NO. A-5/E-1/2025, ASST. TEACH..",
+       "url": "https://uppsc.up.nic.in/Open_PDF_DB.aspx?I4PnQ0tBagnfpuRH59X6AZU6OQK2HlGI",
+       "is_doc": false,
+       "type": "job",
+       "list_date": null,
+       "context": "8. LIST OF PROVISIONALLY SELECTED CANDIDATES IN ADVT. NO. A-5/E-1/2025, ASST. TEACH.. Visible upto : 28/11/2026"
+      }
+     ],
+     "discovered": [
+      {
+       "text": "{{'Recruitment_HM' | translate }}",
+       "url": "https://uppsc.up.nic.in/"
+      },
+      {
+       "text": "{{'OnlineNotifications_HM' | translate }}",
+       "url": "https://uppsc.up.nic.in/CandidatePages/Notifications.aspx"
+      },
+      {
+       "text": "{{'DisplayNoticeE_HM' | translate }}",
+       "url": "https://uppsc.up.nic.in/OuterPages/DisplayOnlineNotice.aspx?ID=1"
+      },
+      {
+       "text": "{{'DisplayNoticeI_HM' | translate }}",
+       "url": "https://uppsc.up.nic.in/OuterPages/DisplayOnlineNotice.aspx?ID=2"
+      },
+      {
+       "text": "{{'WhatsNew_HM' | translate }}",
+       "url": "https://uppsc.up.nic.in/FooterPages/Latest-News"
+      },
+      {
+       "text": "{{'DownloadAdmitCard_HM' | translate }}",
+       "url": "https://uppsc.up.nic.in/CandidatePages/Advertismentwise_DownloadDocument.aspx?inptprmtr=ac"
+      }
+     ]
+    }
+   ],
+   "robots": {
+    "status": 404,
+    "allowed": true,
+    "snippet": ""
+   },
+   "verdict": "ok"
+  },
+  {
+   "id": "upsssc",
+   "name": "UP Subordinate Services Selection Commission",
+   "scope": "up",
+   "lists": [
+    {
+     "url": "https://upsssc.gov.in/",
+     "final_url": "https://upsssc.gov.in/",
+     "ok": false,
+     "status": 0,
+     "error": "ConnectTimeout: HTTPSConnectionPool(host='upsssc.gov.in', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='upsssc.gov.in', port",
+     "ms": 0,
+     "via": "requests",
+     "tls_insecure": false,
+     "page_title": "",
+     "html_kb": 0.0,
+     "robots_allowed": true,
+     "items": 0,
+     "dated": 0,
+     "types": {},
+     "sample": [],
+     "discovered": []
+    }
+   ],
+   "robots": {
+    "status": 0,
+    "allowed": true,
+    "snippet": ""
+   },
+   "verdict": "fail"
+  },
+  {
+   "id": "upprpb",
+   "name": "UP Police Recruitment and Promotion Board",
+   "scope": "up",
+   "lists": [
+    {
+     "url": "https://uppbpb.gov.in/Home/Notice",
+     "final_url": "https://uppbpb.gov.in/Home/Notice",
+     "ok": true,
+     "status": 200,
+     "error": null,
+     "ms": 868,
+     "via": "requests",
+     "tls_insecure": false,
+     "page_title": "Uttar Pradesh Police Recruitment & Promotion Board",
+     "html_kb": 89.7,
+     "robots_allowed": true,
+     "items": 37,
+     "dated": 37,
+     "types": {
+      "admit": 10,
+      "job": 3,
+      "notice": 15,
+      "result": 9
+     },
+     "sample": [
+      {
+       "title": "उपनिरीक्षक सशस्त्र पुलिस / प्लाटून कमाण्डर एवं उपनिरीक्षक घुडसवार पुलिस के पद पर पदोन्नति हेतु शारीरिक दक्षता परीक्षा के प्रवेश पत्र डाउनलोड किये जाने हेतु लिंक । [ Notice Board ]",
+       "url": "https://admitcards.iroams.com/AdmitCards/upprpbpeteventadmitcardsiapsimp/index.php",
+       "is_doc": false,
+       "type": "admit",
+       "list_date": "2026-11-03",
+       "context": "उपनिरीक्षक सशस्त्र पुलिस / प्लाटून कमाण्डर एवं उपनिरीक्षक घुडसवार पुलिस के पद पर पदोन्नति हेतु शारीरिक दक्षता परीक्षा के प्रवेश पत्र डाउनलोड किये जाने हेतु लिंक । [ Notice Board ] Date : 03-11-2026"
+      },
+      {
+       "title": "उप निरीक्षक नागरिक पुलिस, पीएसी प्लाटून कमाण्डर एवं अग्निशमन द्वितीय अधिकारी के पदों पर सीधी भर्ती-2020-21 विशेष अपील संख्याः 651/2026 में मा0 उच्च न्यायालय, इलाहाबाद द्वारा पारित निर्णय / आदेश दिनांकित 01-09-2026 (सम्बन्धित रिट याचिका ए-संख्याः 11427/2022 में",
+       "url": "https://uppbpb.gov.in/FilesUploaded/Notice/Vigyapti SICP_2020_21_DT_27_10_2026ca44a77c-4c05-4483-9ca3-8f42a16394b1.pdf",
+       "is_doc": true,
+       "type": "job",
+       "list_date": "2026-10-27",
+       "context": "उप निरीक्षक नागरिक पुलिस, पीएसी प्लाटून कमाण्डर एवं अग्निशमन द्वितीय अधिकारी के पदों पर सीधी भर्ती-2020-21 विशेष अपील संख्याः 651/2026 में मा0 उच्च न्यायालय, इलाहाबाद द्वारा पारित निर्णय / आदेश दिनांकित 01-09-2026 (सम्बन्धित रिट याचिका ए-संख्याः 11427/2022 में पारित आदेश दिनांकित 29-08-2025) के क्रम में याचीगण / अभ्यर्थियों की अभिलेखों की संवीक्षा / शारीरिक मानक परीक्षण (डीवी/पीएसटी) एवं शारीरिक द"
+      },
+      {
+       "title": "उत्तर प्रदेश होमगार्ड्स के पदों पर एनरोलमेंट -2025 के अन्तर्गत अन्तिम अंकों के प्रकाशन के सम्बन्ध में सूचना | [ Notice Board ]",
+       "url": "https://uppbpb.gov.in/FilesUploaded/Notice/HG2025_Marks_Notice602be8cf-8ca2-47a1-9c85-b03cb41d37e0.pdf",
+       "is_doc": true,
+       "type": "notice",
+       "list_date": "2026-10-24",
+       "context": "उत्तर प्रदेश होमगार्ड्स के पदों पर एनरोलमेंट -2025 के अन्तर्गत अन्तिम अंकों के प्रकाशन के सम्बन्ध में सूचना | [ Notice Board ] Date : 24-10-2026"
+      },
+      {
+       "title": "उत्तर प्रदेश होमगार्ड्स के पदों पर एनरोलमेंट -2025 के अन्तर्गत अन्तिम अंतिम अंक प्राप्त करने हेतु लिंक | [ Notice Board ]",
+       "url": "https://www.hgupexam2025.com/hgrequestmail/loginpage.aspx",
+       "is_doc": false,
+       "type": "notice",
+       "list_date": "2026-10-24",
+       "context": "उत्तर प्रदेश होमगार्ड्स के पदों पर एनरोलमेंट -2025 के अन्तर्गत अन्तिम अंतिम अंक प्राप्त करने हेतु लिंक | [ Notice Board ] Date : 24-10-2026"
+      },
+      {
+       "title": "उत्तर प्रदेश पुलिस में आरक्षी नागरिक पुलिस एवं समकक्ष पदों पर सीधी भर्ती-2025 के अन्तर्गत अन्तिम चयन परिणाम का प्रकाशन । [ Notice Board ]",
+       "url": "https://uppbpb.gov.in/FilesUploaded/Notice/const 14 Oct 2026c0201978-124f-4557-9c66-e162a881cb82.pdf",
+       "is_doc": true,
+       "type": "result",
+       "list_date": "2026-10-14",
+       "context": "उत्तर प्रदेश पुलिस में आरक्षी नागरिक पुलिस एवं समकक्ष पदों पर सीधी भर्ती-2025 के अन्तर्गत अन्तिम चयन परिणाम का प्रकाशन । [ Notice Board ] Date : 14-10-2026"
+      },
+      {
+       "title": "उत्तर प्रदेश पुलिस में आरक्षी नागरिक पुलिस एवं समकक्ष पदों पर सीधी भर्ती-2025 के अन्तर्गत अन्तिम चयन परिणाम देखने हेतु लिंक । [ Notice Board ]",
+       "url": "https://upcons2025.com/finalResultsupConstable/homepage_new.aspx",
+       "is_doc": false,
+       "type": "result",
+       "list_date": "2026-10-14",
+       "context": "उत्तर प्रदेश पुलिस में आरक्षी नागरिक पुलिस एवं समकक्ष पदों पर सीधी भर्ती-2025 के अन्तर्गत अन्तिम चयन परिणाम देखने हेतु लिंक । [ Notice Board ] Date : 14-10-2026"
+      }
+     ],
+     "discovered": [
+      {
+       "text": "Notices",
+       "url": "https://uppbpb.gov.in/Home/Notice"
+      },
+      {
+       "text": "Direct Recruitment",
+       "url": "https://uppbpb.gov.in/Home/DirectRecruitment"
+      },
+      {
+       "text": "Recruitment Rules",
+       "url": "https://uppbpb.gov.in/Home/Manual"
+      },
+      {
+       "text": "General Notices",
+       "url": "https://uppbpb.gov.in/Home/Notice#submenu1sub1"
+      },
+      {
+       "text": "Recruitment Notices",
+       "url": "https://uppbpb.gov.in/Home/Notice#submenu1sub2"
+      },
+      {
+       "text": "Promotion Notices",
+       "url": "https://uppbpb.gov.in/Home/Notice#submenu1sub3"
+      }
+     ]
+    }
+   ],
+   "robots": {
+    "status": 404,
+    "allowed": true,
+    "snippet": ""
+   },
+   "verdict": "ok"
+  },
+  {
+   "id": "upmsp",
+   "name": "UP Madhyamik Shiksha Parishad",
+   "scope": "up",
+   "lists": [
+    {
+     "url": "https://upmsp.edu.in/",
+     "final_url": "https://upmsp.edu.in/",
+     "ok": true,
+     "status": 200,
+     "error": null,
+     "ms": 631,
+     "via": "requests",
+     "tls_insecure": false,
+     "page_title": "उत्तर प्रदेश माध्यमिक शिक्षा परिषद् -(UPMSP)",
+     "html_kb": 128.2,
+     "robots_allowed": true,
+     "items": 4,
+     "dated": 1,
+     "types": {
+      "notice": 1,
+      "syllabus": 2,
+      "result": 1
+     },
+     "sample": [
+      {
+       "title": "विद्यालय में कार्यरत समस्त शिक्षकों एवं कार्मिकों का अद्यतन विवरण दिनाकं 15 नवम्बर 2026 तक अपलोड करने सम्बन्धित विज्ञप्ति ।",
+       "url": "https://upmsp.edu.in/Downloads/Teachers_Profile_vigyapti.pdf",
+       "is_doc": true,
+       "type": "notice",
+       "list_date": null,
+       "context": "विद्यालय में कार्यरत समस्त शिक्षकों एवं कार्मिकों का अद्यतन विवरण दिनाकं 15 नवम्बर 2026 तक अपलोड करने सम्बन्धित विज्ञप्ति ।"
+      },
+      {
+       "title": "पाठ्यक्रम 26-27",
+       "url": "https://upmsp.edu.in/Board_Syllabus.aspx",
+       "is_doc": false,
+       "type": "syllabus",
+       "list_date": null,
+       "context": "पाठ्यक्रम 26-27"
+      },
+      {
+       "title": "मासिक पाठ्यक्रम",
+       "url": "https://upmsp.edu.in/Board_AcademicCalendar.aspx",
+       "is_doc": false,
+       "type": "syllabus",
+       "list_date": null,
+       "context": "मासिक पाठ्यक्रम"
+      },
+      {
+       "title": "हाईस्कूल एवं इंटरमीडिएट परीक्षा वर्ष 2026 से संबंधित क्षेत्रीय कार्यालयवार सन्निरीक्षा का परीक्षा परिणाम । हाईस्कूल क्षेत्रीय कार्यालय : मेरठ | बरेली | प्रयागराज | वाराणसी | गोरखपुर इण्टरमीडिएट क्षेत्रीय कार्यालय : मेरठ | बरेली | प्रयागराज | वाराणसी | गोरखपुर",
+       "url": "https://upmsp.edu.in/Downloads/Meerut_Hs_ScrutinyResult2026.pdf",
+       "is_doc": true,
+       "type": "result",
+       "list_date": "2026-07-06",
+       "context": "हाईस्कूल एवं इंटरमीडिएट परीक्षा वर्ष 2026 से संबंधित क्षेत्रीय कार्यालयवार सन्निरीक्षा का परीक्षा परिणाम । हाईस्कूल क्षेत्रीय कार्यालय : मेरठ | बरेली | प्रयागराज | वाराणसी | गोरखपुर इण्टरमीडिएट क्षेत्रीय कार्यालय : मेरठ | बरेली | प्रयागराज | वाराणसी | गोरखपुर 06-07-2026"
+      }
+     ],
+     "discovered": []
+    }
+   ],
+   "robots": {
+    "status": 200,
+    "allowed": true,
+    "snippet": "# As a condition of accessing this website, you agree to abide by the following\n# content signals:\n\n# (a)  If a Content-Signal = yes, you may collect content for the corresponding\n#      use.\n# (b)  If a Content-Signal = no, you may not collect content for the\n#      corresponding use.\n# (c)  If the website operator does not include a Content-Signal for a\n#      corresponding use, the website oper"
+   },
+   "verdict": "ok"
+  },
+  {
+   "id": "upresults",
+   "name": "UP Results Portal",
+   "scope": "up",
+   "lists": [
+    {
+     "url": "https://upresults.nic.in/",
+     "final_url": "https://upresults.nic.in/",
+     "ok": false,
+     "status": 0,
+     "error": "ConnectTimeout: HTTPSConnectionPool(host='upresults.nic.in', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='upresults.nic.in'",
+     "ms": 0,
+     "via": "requests",
+     "tls_insecure": false,
+     "page_title": "",
+     "html_kb": 0.0,
+     "robots_allowed": true,
+     "items": 0,
+     "dated": 0,
+     "types": {},
+     "sample": [],
+     "discovered": []
+    }
+   ],
+   "robots": {
+    "status": 0,
+    "allowed": true,
+    "snippet": ""
+   },
+   "verdict": "fail"
+  },
+  {
+   "id": "updeled",
+   "name": "UP Exam Regulatory Authority (PNP)",
+   "scope": "up",
+   "lists": [
+    {
+     "url": "https://updeled.gov.in/",
+     "final_url": "https://updeled.gov.in/",
+     "ok": true,
+     "status": 200,
+     "error": null,
+     "ms": 507,
+     "via": "requests",
+     "tls_insecure": false,
+     "page_title": "Online Solution for U.P. PARIKSHA NIYAMAK",
+     "html_kb": 33.7,
+     "robots_allowed": true,
+     "items": 3,
+     "dated": 2,
+     "types": {
+      "notice": 1,
+      "admission": 2
+     },
+     "sample": [
+      {
+       "title": "Minority Direct Allotment Schedule",
+       "url": "https://updeled.gov.in/PDFFile/Minority_Schedule_26.pdf",
+       "is_doc": true,
+       "type": "notice",
+       "list_date": null,
+       "context": "Minority Direct Allotment Schedule"
+      },
+      {
+       "title": "UPDELED 2026 Counselling Process Start After (Vigyapti",
+       "url": "https://updeled.gov.in/PDFFile/Press_Release_07082026.pdf",
+       "is_doc": true,
+       "type": "admission",
+       "list_date": "2026-08-07",
+       "context": "UPDELED 2026 Counselling Process Start After (Vigyapti 07/08/2026)"
+      },
+      {
+       "title": "UPDELED 2026 Counselling Schedule (Vigyapti",
+       "url": "https://updeled.gov.in/PDFFile/Press_Release_01102026.pdf",
+       "is_doc": true,
+       "type": "admission",
+       "list_date": "2026-10-01",
+       "context": "UPDELED 2026 Counselling Schedule (Vigyapti 01/10/2026)"
+      }
+     ],
+     "discovered": [
+      {
+       "text": "No News",
+       "url": "https://updeled.gov.in/"
+      }
+     ]
+    }
+   ],
+   "robots": {
+    "status": 404,
+    "allowed": true,
+    "snippet": ""
+   },
+   "verdict": "ok"
+  },
+  {
+   "id": "upnhm",
+   "name": "National Health Mission Uttar Pradesh",
+   "scope": "up",
+   "lists": [
+    {
+     "url": "https://upnrhm.gov.in/Home/Opportunities",
+     "final_url": "https://nhm.up.gov.in/Home/Opportunities",
+     "ok": true,
+     "status": 200,
+     "error": null,
+     "ms": 439,
+     "via": "requests",
+     "tls_insecure": false,
+     "page_title": "Uttar Pradesh National Health Mission",
+     "html_kb": 23.7,
+     "robots_allowed": true,
+     "items": 1,
+     "dated": 0,
+     "types": {
+      "job": 1
+     },
+     "sample": [
+      {
+       "title": "Recruitment process of M.B.B.S. Doctors",
+       "url": "https://nhm.up.gov.in/NHM-Doc/District Walk in Process (MBBS) Notice.pdf",
+       "is_doc": true,
+       "type": "job",
+       "list_date": null,
+       "context": "Recruitment process of M.B.B.S. Doctors"
+      }
+     ],
+     "discovered": [
+      {
+       "text": "News Letter",
+       "url": "https://nhm.up.gov.in/Home/Opportunities"
+      }
+     ]
+    }
+   ],
+   "robots": {
+    "status": 404,
+    "allowed": true,
+    "snippet": ""
+   },
+   "verdict": "ok-nodates"
+  },
+  {
+   "id": "allahabadhc",
+   "name": "Allahabad High Court",
+   "scope": "up",
+   "lists": [
+    {
+     "url": "https://www.allahabadhighcourt.in/",
+     "final_url": "https://www.allahabadhighcourt.in/",
+     "ok": true,
+     "status": 200,
+     "error": null,
+     "ms": 475,
+     "via": "requests",
+     "tls_insecure": false,
+     "page_title": "Welcome to the Official Website of the High Court of Judicature at Allahabad and its Bench at Lucknow, U.P., India",
+     "html_kb": 25.0,
+     "robots_allowed": true,
+     "items": 7,
+     "dated": 2,
+     "types": {
+      "notice": 3,
+      "job": 4
+     },
+     "sample": [
+      {
+       "title": "NOTICE FOR EXTENSION IN THE TIMELINE FOR SUBMISSION OF CHAMBER PREFERENCES AND PAYMENT OF SECURITY DEPOSIT BY ELIGIBLE ADVOCATES DESIROUS OF ALLOTMENT OF ADVOCATES' CHAMBERS AS CHIEF ALLOTTEE",
+       "url": "https://www.allahabadhighcourt.in/event/event_27472_04-11-2026.pdf",
+       "is_doc": true,
+       "type": "notice",
+       "list_date": "2026-11-04",
+       "context": "NOTICE FOR EXTENSION IN THE TIMELINE FOR SUBMISSION OF CHAMBER PREFERENCES AND PAYMENT OF SECURITY DEPOSIT BY ELIGIBLE ADVOCATES DESIROUS OF ALLOTMENT OF ADVOCATES' CHAMBERS AS CHIEF ALLOTTEE"
+      },
+      {
+       "title": "NOTICE REGARDING 64 NEWLY CONSTRUCTED ADVOCATES' CHAMBERS AT HIGH COURT, ALLAHABAD, KEPT ON HOLD FROM ALLOTMENT",
+       "url": "https://www.allahabadhighcourt.in/event/event_27360_26-10-2026.pdf",
+       "is_doc": true,
+       "type": "notice",
+       "list_date": "2026-10-26",
+       "context": "NOTICE REGARDING 64 NEWLY CONSTRUCTED ADVOCATES' CHAMBERS AT HIGH COURT, ALLAHABAD, KEPT ON HOLD FROM ALLOTMENT"
+      },
+      {
+       "title": "Notice for providing authentic details/informations/photographs related to the enlisted former Hon. Judges",
+       "url": "https://www.allahabadhighcourt.in/event/event_19076_02-07-2024.pdf",
+       "is_doc": true,
+       "type": "notice",
+       "list_date": null,
+       "context": "Notice for providing authentic details/informations/photographs related to the enlisted former Hon. Judges"
+      },
+      {
+       "title": "Recruitment",
+       "url": "https://www.allahabadhighcourt.in/calendar/itemWiseList.jsp?group=7",
+       "is_doc": false,
+       "type": "job",
+       "list_date": null,
+       "context": "Recruitment"
+      },
+      {
+       "title": "Notification/Order",
+       "url": "https://www.allahabadhighcourt.in/calendar/itemWiseList.jsp?group=5",
+       "is_doc": false,
+       "type": "job",
+       "list_date": null,
+       "context": "Notification/Order"
+      },
+      {
+       "title": "Tribunal Vacancy",
+       "url": "https://www.allahabadhighcourt.in/misc/tribunal_vacancy.html",
+       "is_doc": false,
+       "type": "job",
+       "list_date": null,
+       "context": "Tribunal Vacancy"
+      }
+     ],
+     "discovered": [
+      {
+       "text": "Recruitment",
+       "url": "https://www.allahabadhighcourt.in/calendar/itemWiseList.jsp?group=7"
+      },
+      {
+       "text": "Notification/Order",
+       "url": "https://www.allahabadhighcourt.in/calendar/itemWiseList.jsp?group=5"
+      },
+      {
+       "text": "Tribunal Vacancy",
+       "url": "https://www.allahabadhighcourt.in/misc/tribunal_vacancy.html"
+      },
+      {
+       "text": "Vacancy Position",
+       "url": "https://www.allahabadhighcourt.in/misc/vacancy_chart.html"
+      }
+     ]
+    }
+   ],
+   "robots": {
+    "status": 404,
+    "allowed": true,
+    "snippet": ""
+   },
+   "verdict": "ok"
+  },
+  {
+   "id": "uppcl",
+   "name": "Uttar Pradesh Power Corporation",
+   "scope": "up",
+   "lists": [
+    {
+     "url": "https://www.uppcl.org/uppcl/en/article/careers",
+     "final_url": "https://www.uppcl.org/uppcl/en/article/careers",
+     "ok": false,
+     "status": 403,
+     "error": "HTTP 403",
+     "ms": 343,
+     "via": "requests",
+     "tls_insecure": false,
+     "page_title": "403",
+     "html_kb": 0.1,
+     "robots_allowed": true,
+     "items": 0,
+     "dated": 0,
+     "types": {},
+     "sample": [],
+     "discovered": []
+    }
+   ],
+   "robots": {
+    "status": 403,
+    "allowed": true,
+    "snippet": ""
+   },
+   "verdict": "fail"
+  },
+  {
+   "id": "bpsc",
+   "name": "Bihar Public Service Commission",
+   "scope": "bihar",
+   "lists": [
+    {
+     "url": "https://bpsc.bihar.gov.in/",
+     "final_url": "https://bpsc.bihar.gov.in/",
+     "ok": true,
+     "status": 200,
+     "error": null,
+     "ms": 797,
+     "via": "requests",
+     "tls_insecure": true,
+     "page_title": "Home - Bihar Public Service Commission",
+     "html_kb": 289.5,
+     "robots_allowed": true,
+     "items": 12,
+     "dated": 2,
+     "types": {
+      "notice": 5,
+      "job": 7
+     },
+     "sample": [
+      {
+       "title": "Important Notice :- Regarding Postponement of 72nd CCE (Preliminary) Competitive Examination.",
+       "url": "https://bpsc.bihar.gov.in/wp-content/uploads/BPSC_content/Notices/Regarding_postpone_72nd_BPSC_BPSC-20260720-u768lx.pdf",
+       "is_doc": true,
+       "type": "notice",
+       "list_date": null,
+       "context": "Important Notice :- Regarding Postponement of 72nd CCE (Preliminary) Competitive Examination."
+      },
+      {
+       "title": "Important Notices :- Regarding raising dispute for refund/chargeback of unsuccessful/pending/failed transactions .",
+       "url": "https://bpsc.bihar.gov.in/wp-content/uploads/2025/04/NB-2024-04-29-01.pdf",
+       "is_doc": true,
+       "type": "notice",
+       "list_date": null,
+       "context": "Important Notices :- Regarding raising dispute for refund/chargeback of unsuccessful/pending/failed transactions ."
+      },
+      {
+       "title": "Corrigendum: Integrated 72nd Combined (Preliminary) Competitive Examination – Reduction of 2 Vacancies of Deputy Superintendent of Police (BPS).",
+       "url": "https://bpsc.bihar.gov.in/wp-content/uploads/BPSC_content/Notices/Corrigendum-72nd-CCE-Reduction-of-2-posts-of-BPS_BPSC-20260903-23e57k.pdf",
+       "is_doc": true,
+       "type": "job",
+       "list_date": null,
+       "context": "Corrigendum: Integrated 72nd Combined (Preliminary) Competitive Examination – Reduction of 2 Vacancies of Deputy Superintendent of Police (BPS)."
+      },
+      {
+       "title": "Important Notice: Date of Commencement of Examination for the Post of Stenographer in Bihar Public Service Commission, Patna. (Advt. No. 01/2026)",
+       "url": "https://bpsc.bihar.gov.in/wp-content/uploads/BPSC_content/Notices/Important-Notice-Date-of-012026-Stenographer-BPSC-Exam_BPSC-20260420-zj3eyx.pdf",
+       "is_doc": true,
+       "type": "job",
+       "list_date": null,
+       "context": "Important Notice: Date of Commencement of Examination for the Post of Stenographer in Bihar Public Service Commission, Patna. (Advt. No. 01/2026)"
+      },
+      {
+       "title": "Corrigendum: Integrated 72nd Combined (Preliminary) Competitive Examination – Deletion of 44 Vacancies of Sugarcane Officer.",
+       "url": "https://bpsc.bihar.gov.in/wp-content/uploads/BPSC_content/Notices/Corrigendum-Integrated-72nd-CCE-Pre-Advt.-44-vacancies-of-Sugarcane-Officer-deleted_BPSC-20260506-0jupsy.pdf",
+       "is_doc": true,
+       "type": "job",
+       "list_date": null,
+       "context": "Corrigendum: Integrated 72nd Combined (Preliminary) Competitive Examination – Deletion of 44 Vacancies of Sugarcane Officer."
+      },
+      {
+       "title": "Important Notice: Regarding Introduction of 5th Answer Option ‘E’ in MCQ based examinations to be conducted by BPSC.",
+       "url": "https://bpsc.bihar.gov.in/wp-content/uploads/BPSC_content/Notices/Kaagaz_20260502_160639877178_BPSC-20260502-zjmn51.pdf",
+       "is_doc": true,
+       "type": "notice",
+       "list_date": null,
+       "context": "Important Notice: Regarding Introduction of 5th Answer Option ‘E’ in MCQ based examinations to be conducted by BPSC."
+      }
+     ],
+     "discovered": [
+      {
+       "text": "Tender Notices",
+       "url": "https://bpsc.bihar.gov.in/tender-notices/"
+      },
+      {
+       "text": "Advertisements",
+       "url": "https://bpsc.bihar.gov.in/advertisement/"
+      },
+      {
+       "text": "Notices",
+       "url": "https://bpsc.bihar.gov.in/"
+      }
+     ]
+    }
+   ],
+   "robots": {
+    "status": 200,
+    "allowed": true,
+    "snippet": "# START YOAST BLOCK\n# ---------------------------\nUser-agent: *\nDisallow:\n\nSitemap: https://bpsc.bihar.gov.in/sitemap_index.xml\n# ---------------------------\n# END YOAST BLOCK"
+   },
+   "verdict": "ok"
+  },
+  {
+   "id": "bssc",
+   "name": "Bihar Staff Selection Commission",
+   "scope": "bihar",
+   "lists": [
+    {
+     "url": "https://bssc.bihar.gov.in/",
+     "final_url": "https://bssc.bihar.gov.in/",
+     "ok": true,
+     "status": 200,
+     "error": null,
+     "ms": 270,
+     "via": "requests",
+     "tls_insecure": true,
+     "page_title": "Bihar Staff Selection Commission",
+     "html_kb": 10.7,
+     "robots_allowed": true,
+     "items": 2,
+     "dated": 0,
+     "types": {
+      "notice": 2
+     },
+     "sample": [
+      {
+       "title": "सूचना पट्ट",
+       "url": "https://bssc.bihar.gov.in/NoticeBoard.htm",
+       "is_doc": false,
+       "type": "notice",
+       "list_date": null,
+       "context": "सूचना पट्ट"
+      },
+      {
+       "title": "बिहार सूचना आयोग",
+       "url": "https://sic.bih.nic.in/",
+       "is_doc": false,
+       "type": "notice",
+       "list_date": null,
+       "context": "बिहार सूचना आयोग"
+      }
+     ],
+     "discovered": [
+      {
+       "text": "सूचना पट्ट",
+       "url": "https://bssc.bihar.gov.in/NoticeBoard.htm"
+      }
+     ]
+    }
+   ],
+   "robots": {
+    "status": 404,
+    "allowed": true,
+    "snippet": ""
+   },
+   "verdict": "ok-nodates"
+  },
+  {
+   "id": "csbc",
+   "name": "Central Selection Board of Constable Bihar",
+   "scope": "bihar",
+   "lists": [
+    {
+     "url": "https://csbc-bih.bihar.gov.in/notifications?page=1",
+     "final_url": "https://csbc-bih.bihar.gov.in/notifications?page=1",
+     "ok": true,
+     "status": 200,
+     "error": null,
+     "ms": 1301,
+     "via": "requests",
+     "tls_insecure": true,
+     "page_title": "Central Selection Board Of Constable :: CSBC",
+     "html_kb": 50.7,
+     "robots_allowed": true,
+     "items": 19,
+     "dated": 17,
+     "types": {
+      "job": 7,
+      "notice": 5,
+      "result": 5,
+      "syllabus": 1,
+      "admit": 1
+     },
+     "sample": [
+      {
+       "title": "Notifications",
+       "url": "https://csbc-bih.bihar.gov.in/notifications",
+       "is_doc": false,
+       "type": "job",
+       "list_date": null,
+       "context": "About Us History Notifications Department Bihar Police Bihar Fire Service Home (Prison) Dept. Bihar Home Guards Prohibition Dept. Forest Dept. Transport Dept. Advts By Group Reservation Tenders Miscellaneous Org Structure RTI Gallery Photos Videos Journal Article News Events Contact Us"
+      },
+      {
+       "title": "Important Notice: Regarding Submission of Original Documents for Document Verification and Physical Presence for Some Candidates. (Advt. No. 02/2025)",
+       "url": "https://csbc-bih.bihar.gov.in/storage/notification/document/Notice-02-2025-17-10-2026.pdf",
+       "is_doc": true,
+       "type": "notice",
+       "list_date": "2026-10-17",
+       "context": "Important Notice: Regarding Submission of Original Documents for Document Verification and Physical Presence for Some Candidates. (Advt. No. 02/2025)"
+      },
+      {
+       "title": "Results: Final Selection List of Candidates for the Post of Constable (General Duty Close Cadre) in Special Branch of Bihar Police . (Advt. No. 01/2026)",
+       "url": "https://csbc-bih.bihar.gov.in/storage/notification/document/Results-01-2026-Final-09-10-2026.pdf",
+       "is_doc": true,
+       "type": "result",
+       "list_date": "2026-10-09",
+       "context": "Results: Final Selection List of Candidates for the Post of Constable (General Duty Close Cadre) in Special Branch of Bihar Police . (Advt. No. 01/2026)"
+      },
+      {
+       "title": "Important Notice: Regarding Confirmation of Selection of Candidates, who were Provisionally Selected in Final Results Published on 27.05.2026. (Advt. No. 01/2025)",
+       "url": "https://csbc-bih.bihar.gov.in/storage/notification/document/Notice-01-2025-Provisionally Selected-25-09-2026.pdf",
+       "is_doc": true,
+       "type": "result",
+       "list_date": "2026-05-27",
+       "context": "Important Notice: Regarding Confirmation of Selection of Candidates, who were Provisionally Selected in Final Results Published on 27.05.2026. (Advt. No. 01/2025)"
+      },
+      {
+       "title": "Regarding Reservation in Advertised Posts for Appointment to State Services for Kinner / Kothi / Hijra / Transgender (Third Gender) Persons Listed at Serial No. - 47 of the Notified Backward Classes (Schedule-II) of Bihar.",
+       "url": "https://csbc-bih.bihar.gov.in/storage/reservation-order/document/10579-15-06-2026.pdf",
+       "is_doc": true,
+       "type": "notice",
+       "list_date": "2026-06-15",
+       "context": "Regarding Reservation in Advertised Posts for Appointment to State Services for Kinner / Kothi / Hijra / Transgender (Third Gender) Persons Listed at Serial No. - 47 of the Notified Backward Classes (Schedule-II) of Bihar."
+      },
+      {
+       "title": "Syllabus for Prohibition Constable, Jail warder & Mobile Squad Constable.",
+       "url": "https://csbc-bih.bihar.gov.in/storage/syllabus/document/Syllabus - 03-2025.pdf",
+       "is_doc": true,
+       "type": "syllabus",
+       "list_date": null,
+       "context": "Syllabus for Prohibition Constable, Jail warder & Mobile Squad Constable."
+      }
+     ],
+     "discovered": [
+      {
+       "text": "Notifications",
+       "url": "https://csbc-bih.bihar.gov.in/notifications"
+      },
+      {
+       "text": "News",
+       "url": "https://csbc-bih.bihar.gov.in/news"
+      }
+     ]
+    }
+   ],
+   "robots": {
+    "status": 200,
+    "allowed": true,
+    "snippet": "User-agent: *\nDisallow:\n"
+   },
+   "verdict": "ok"
+  },
+  {
+   "id": "bpssc",
+   "name": "Bihar Police Subordinate Services Commission",
+   "scope": "bihar",
+   "lists": [
+    {
+     "url": "https://bpssc.bihar.gov.in/",
+     "final_url": "https://bpssc.bihar.gov.in/",
+     "ok": true,
+     "status": 200,
+     "error": null,
+     "ms": 501,
+     "via": "requests",
+     "tls_insecure": false,
+     "page_title": "Bihar Police Sub-Ordinate Service Commission : BPSSC.",
+     "html_kb": 248.7,
+     "robots_allowed": true,
+     "items": 152,
+     "dated": 61,
+     "types": {
+      "notice": 22,
+      "syllabus": 1,
+      "job": 65,
+      "admit": 21,
+      "result": 43
+     },
+     "sample": [
+      {
+       "title": "Notices.htm",
+       "url": "https://bpssc.bihar.gov.in/Notices.htm",
+       "is_doc": false,
+       "type": "notice",
+       "list_date": "2026-09-23",
+       "context": "Kindly use Hindi Fonts link to install fonts necessary to display PDF files correctly ... Bihar Police Prohibition Dept. Bihar Fire Service Forest Dept. Transport Dept. Home Dept. (Prison) Home Guard Misc. Date Subject 23/09/2026 Important Notice-Ref.:Advt. No.-05/2025: Regarding Cancellation of Mains Written Examination 21/09/2026 Important Notice-Ref.:Advt. No.-05/2025: Regarding Rebuttal of Fak"
+      },
+      {
+       "title": "Syllabus.htm",
+       "url": "https://bpssc.bihar.gov.in/Syllabus.htm",
+       "is_doc": false,
+       "type": "syllabus",
+       "list_date": "2026-09-23",
+       "context": "Kindly use Hindi Fonts link to install fonts necessary to display PDF files correctly ... Bihar Police Prohibition Dept. Bihar Fire Service Forest Dept. Transport Dept. Home Dept. (Prison) Home Guard Misc. Date Subject 23/09/2026 Important Notice-Ref.:Advt. No.-05/2025: Regarding Cancellation of Mains Written Examination 21/09/2026 Important Notice-Ref.:Advt. No.-05/2025: Regarding Rebuttal of Fak"
+      },
+      {
+       "title": "Important Notice-Ref.:Advt. No.-05/2025: Regarding Cancellation of Mains Written Examination",
+       "url": "https://bpssc.bihar.gov.in/Notices/Exam Cancel Pdf.pdf",
+       "is_doc": true,
+       "type": "job",
+       "list_date": "2026-09-23",
+       "context": "23/09/2026 Important Notice-Ref.:Advt. No.-05/2025: Regarding Cancellation of Mains Written Examination"
+      },
+      {
+       "title": "Important Notice-Ref.:Advt. No.-05/2025: Regarding Rebuttal of Fake News Related to Post of Police Sub-Inspector in Home (Police) Dept., Govt. of Bihar",
+       "url": "https://bpssc.bihar.gov.in/Notices/notice 05-2025 pdf.pdf",
+       "is_doc": true,
+       "type": "job",
+       "list_date": "2026-09-21",
+       "context": "21/09/2026 Important Notice-Ref.:Advt. No.-05/2025: Regarding Rebuttal of Fake News Related to Post of Police Sub-Inspector in Home (Police) Dept., Govt. of Bihar"
+      },
+      {
+       "title": "Important Notice-Ref.:Advt. No.-05/2025: Regarding Postponement of PET",
+       "url": "https://bpssc.bihar.gov.in/Notices/Advt no.-05-2025 PET.pdf",
+       "is_doc": true,
+       "type": "notice",
+       "list_date": "2026-08-28",
+       "context": "28/08/2026 Important Notice-Ref.:Advt. No.-05/2025: Regarding Postponement of PET"
+      },
+      {
+       "title": "Important Notice-Ref.:Advt. No.-05/2025: Regarding Physical Efficiency Test, E-Admit Card and Document Verification for the Post of Police Sub-Inspector in Home (Police) Dept., Govt. of Bihar",
+       "url": "https://bpssc.bihar.gov.in/Notices/Important Notice for PET.pdf",
+       "is_doc": true,
+       "type": "admit",
+       "list_date": "2026-08-12",
+       "context": "12/08/2026 Important Notice-Ref.:Advt. No.-05/2025: Regarding Physical Efficiency Test, E-Admit Card and Document Verification for the Post of Police Sub-Inspector in Home (Police) Dept., Govt. of Bihar"
+      }
+     ],
+     "discovered": []
+    }
+   ],
+   "robots": {
+    "status": 200,
+    "allowed": true,
+    "snippet": "User-agent: *\nAllow: /\n"
+   },
+   "verdict": "ok"
+  },
+  {
+   "id": "btsc",
+   "name": "Bihar Technical Service Commission",
+   "scope": "bihar",
+   "lists": [
+    {
+     "url": "https://btsc.bihar.gov.in/important-notices?page=0",
+     "final_url": "https://btsc.bihar.gov.in/important-notices?page=0",
+     "ok": true,
+     "status": 200,
+     "error": null,
+     "ms": 939,
+     "via": "requests",
+     "tls_insecure": false,
+     "page_title": "Important Notices | Bihar Technical Service Commission, Bihar Technical Service Commission",
+     "html_kb": 85.4,
+     "robots_allowed": true,
+     "items": 30,
+     "dated": 29,
+     "types": {
+      "notice": 1,
+      "job": 22,
+      "result": 7
+     },
+     "sample": [
+      {
+       "title": "important notices",
+       "url": "https://btsc.bihar.gov.in/important-notices?page=0",
+       "is_doc": false,
+       "type": "notice",
+       "list_date": null,
+       "context": "English"
+      },
+      {
+       "title": "3200 Important Notice regarding Advt. No-30/2026 SCIENTIFIC ASSISTANT",
+       "url": "https://btsc.bihar.gov.in/sites/default/files/circulars/3200.pdf",
+       "is_doc": true,
+       "type": "job",
+       "list_date": "2026-09-25",
+       "context": "1 3200 Important Notice regarding Advt. No-30/2026 SCIENTIFIC ASSISTANT 25/09/2026 Download"
+      },
+      {
+       "title": "3202 Important Notice regarding Advt. No-29/2026 FOOD SAFETY OFFICER",
+       "url": "https://btsc.bihar.gov.in/sites/default/files/circulars/3202.pdf",
+       "is_doc": true,
+       "type": "job",
+       "list_date": "2026-09-25",
+       "context": "2 3202 Important Notice regarding Advt. No-29/2026 FOOD SAFETY OFFICER 25/09/2026 Download"
+      },
+      {
+       "title": "3137 Important Notice regarding Advt. No-28/2026 FISHERY EXTENSION OFFICER",
+       "url": "https://btsc.bihar.gov.in/sites/default/files/circulars/3137.pdf",
+       "is_doc": true,
+       "type": "job",
+       "list_date": "2026-09-24",
+       "context": "3 3137 Important Notice regarding Advt. No-28/2026 FISHERY EXTENSION OFFICER 24/09/2026 Download"
+      },
+      {
+       "title": "3138 Important Notice regarding Advt. No-27/2026 Touring Veterinary Officer and Equivalent",
+       "url": "https://btsc.bihar.gov.in/sites/default/files/circulars/3138.pdf",
+       "is_doc": true,
+       "type": "job",
+       "list_date": "2026-09-24",
+       "context": "4 3138 Important Notice regarding Advt. No-27/2026 Touring Veterinary Officer and Equivalent 24/09/2026 Download"
+      },
+      {
+       "title": "3020 विज्ञापन सं.– 03/2025 (OT Assistant) के अन्तर्गत नियुक्ति के प्रसंग मे HOLD पर रखे गये अभ्यर्थियों में से अनुशंसित अभ्यर्थियों की सूची (Notice No-3020, Dated: -16.09.2026)",
+       "url": "https://btsc.bihar.gov.in/sites/default/files/circulars/3020.pdf",
+       "is_doc": true,
+       "type": "job",
+       "list_date": "2026-09-17",
+       "context": "5 3020 विज्ञापन सं.– 03/2025 (OT Assistant) के अन्तर्गत नियुक्ति के प्रसंग मे HOLD पर रखे गये अभ्यर्थियों में से अनुशंसित अभ्यर्थियों की सूची (Notice No-3020, Dated: -16.09.2026) 17/09/2026 Download"
+      }
+     ],
+     "discovered": [
+      {
+       "text": "Important Notices",
+       "url": "https://btsc.bihar.gov.in/important-notices"
+      },
+      {
+       "text": "Latest Update",
+       "url": "https://btsc.bihar.gov.in/latest-update"
+      },
+      {
+       "text": "Recruitments",
+       "url": "https://btsc.bihar.gov.in/recruitment"
+      },
+      {
+       "text": "Admit Card/Call Letter",
+       "url": "https://btsc.bihar.gov.in/admit-card"
+      },
+      {
+       "text": "Result",
+       "url": "https://btsc.bihar.gov.in/result"
+      },
+      {
+       "text": "Archive Notices",
+       "url": "https://btsc.bihar.gov.in/important-notices?page=0"
+      }
+     ]
+    }
+   ],
+   "robots": {
+    "status": 403,
+    "allowed": true,
+    "snippet": ""
+   },
+   "verdict": "ok"
+  },
+  {
+   "id": "bseb",
+   "name": "Bihar School Examination Board",
+   "scope": "bihar",
+   "lists": [
+    {
+     "url": "https://biharboardonline.bihar.gov.in/",
+     "final_url": "https://biharboardonline.bihar.gov.in/",
+     "ok": false,
+     "status": 0,
+     "error": "ReadTimeout: HTTPSConnectionPool(host='biharboardonline.bihar.gov.in', port=443): Read timed out. (read timeout=10)",
+     "ms": 0,
+     "via": "requests",
+     "tls_insecure": false,
+     "page_title": "",
+     "html_kb": 0.0,
+     "robots_allowed": true,
+     "items": 0,
+     "dated": 0,
+     "types": {},
+     "sample": [],
+     "discovered": []
+    }
+   ],
+   "robots": {
+    "status": 0,
+    "allowed": true,
+    "snippet": ""
+   },
+   "verdict": "fail"
+  },
+  {
+   "id": "shsbihar",
+   "name": "State Health Society Bihar",
+   "scope": "bihar",
+   "lists": [
+    {
+     "url": "https://shs.bihar.gov.in/Advertisement",
+     "final_url": "https://shs.bihar.gov.in/Advertisement",
+     "ok": true,
+     "status": 200,
+     "error": null,
+     "ms": 1053,
+     "via": "requests",
+     "tls_insecure": true,
+     "page_title": "Advertisement | State Health Society, Bihar",
+     "html_kb": 345.5,
+     "robots_allowed": true,
+     "items": 341,
+     "dated": 33,
+     "types": {
+      "job": 241,
+      "notice": 65,
+      "answer": 9,
+      "result": 8,
+      "syllabus": 11,
+      "admit": 7
+     },
+     "sample": [
+      {
+       "title": "old advertisements",
+       "url": "http://hrshs.bihar.gov.in/advertisement.aspx",
+       "is_doc": false,
+       "type": "job",
+       "list_date": null,
+       "context": "Advertisement View old advertisements"
+      },
+      {
+       "title": "WALK-IN-RECRUITMENT ' FOR SPECIALIST DOCTORS AGAINST ADVT. NO. - 03/2026",
+       "url": "https://shs.bihar.gov.in/shs/advertisement/1785486104.pdf",
+       "is_doc": true,
+       "type": "job",
+       "list_date": null,
+       "context": "WALK-IN-RECRUITMENT ' FOR SPECIALIST DOCTORS AGAINST ADVT. NO. - 03/2026 Apply"
+      },
+      {
+       "title": "WALK-IN-RECRUITMENT ' FOR SPECIALIST DOCTORS AGAINST ADVT. NO. - 03/2026 Apply",
+       "url": "https://healthhrshs.bihar.gov.in/specialistdoctor0326/",
+       "is_doc": false,
+       "type": "job",
+       "list_date": null,
+       "context": "WALK-IN-RECRUITMENT ' FOR SPECIALIST DOCTORS AGAINST ADVT. NO. - 03/2026 Apply"
+      },
+      {
+       "title": "Important Notice - Document Verification Extended Date (Advt -03/2026)",
+       "url": "https://shs.bihar.gov.in/shs/advertisement/1789189177.pdf",
+       "is_doc": true,
+       "type": "notice",
+       "list_date": null,
+       "context": "Important Notice - Document Verification Extended Date (Advt -03/2026)"
+      },
+      {
+       "title": "Annexure-1",
+       "url": "https://shs.bihar.gov.in/shs/advertisement/1786430148.pdf",
+       "is_doc": true,
+       "type": "job",
+       "list_date": null,
+       "context": "Annexure-1"
+      },
+      {
+       "title": "Advt no. 03/2026 - English",
+       "url": "https://shs.bihar.gov.in/shs/advertisement/1785991666.pdf",
+       "is_doc": true,
+       "type": "job",
+       "list_date": null,
+       "context": "Advt no. 03/2026 - English"
+      }
+     ],
+     "discovered": [
+      {
+       "text": "Advertisement विज्ञापन",
+       "url": "https://shs.bihar.gov.in/Advertisement.php"
+      },
+      {
+       "text": "Result परिणाम",
+       "url": "https://shs.bihar.gov.in/result.php"
+      },
+      {
+       "text": "Notice Board सूचना पट्ट",
+       "url": "https://shs.bihar.gov.in/NoticeBoard.php"
+      }
+     ]
+    }
+   ],
+   "robots": {
+    "status": 404,
+    "allowed": true,
+    "snippet": ""
+   },
+   "verdict": "ok"
+  },
+  {
+   "id": "bceceb",
+   "name": "Bihar Combined Entrance Competitive Examination Board",
+   "scope": "bihar",
+   "lists": [
+    {
+     "url": "https://bceceboard.bihar.gov.in/NoticeBoard.php",
+     "final_url": "https://bceceboard.bihar.gov.in/NoticeBoard.php",
+     "ok": true,
+     "status": 200,
+     "error": null,
+     "ms": 860,
+     "via": "requests",
+     "tls_insecure": false,
+     "page_title": "Bihar Combined Entrance Competitive Examination Board (BCECEB).",
+     "html_kb": 66.0,
+     "robots_allowed": true,
+     "items": 180,
+     "dated": 150,
+     "types": {
+      "notice": 36,
+      "admission": 55,
+      "job": 58,
+      "result": 30,
+      "admit": 1
+     },
+     "sample": [
+      {
+       "title": "Notice Board",
+       "url": "https://bceceboard.bihar.gov.in/NoticeBoard.php",
+       "is_doc": false,
+       "type": "notice",
+       "list_date": null,
+       "context": "Notice Board"
+      },
+      {
+       "title": "Notice Board 2025",
+       "url": "https://bceceboard.bihar.gov.in/NoticeBoard_2025.php",
+       "is_doc": false,
+       "type": "notice",
+       "list_date": null,
+       "context": "Notice Board 2025"
+      },
+      {
+       "title": "Notice for Extesion of Date for Registration-cum-Choice Filling for Admission in Round-3 of Post Gradudate Dental Courses (PGDAC)-2026 (Adv. No. BCECEB(PGDAC)-2026/08",
+       "url": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGDAC26_08.pdf",
+       "is_doc": true,
+       "type": "admission",
+       "list_date": "2026-11-01",
+       "context": "Notice for Extesion of Date for Registration-cum-Choice Filling for Admission in Round-3 of Post Gradudate Dental Courses (PGDAC)-2026 (Adv. No. BCECEB(PGDAC)-2026/08 Dated 01.11.2026)"
+      },
+      {
+       "title": "Notice for Extesion of Date for Registration-cum-Choice Filling for Admission in Round-3 of Post Gradudate Dental Courses (PGDAC)-2026 (Adv. No. BCECEB(PGDAC)-2026/07",
+       "url": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGDAC26_07.pdf",
+       "is_doc": true,
+       "type": "admission",
+       "list_date": "2026-10-23",
+       "context": "Notice for Extesion of Date for Registration-cum-Choice Filling for Admission in Round-3 of Post Gradudate Dental Courses (PGDAC)-2026 (Adv. No. BCECEB(PGDAC)-2026/07 Dated 23.10.2026)"
+      },
+      {
+       "title": "Details for Extesion of Date for Registration-cum-Choice Filling for Admission in Round-3 of Post Gradudate Dental Courses (PGDAC)-2026 (Adv. No. BCECEB(PGDAC)-2026/06",
+       "url": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGDAC26_06.pdf",
+       "is_doc": true,
+       "type": "admission",
+       "list_date": "2026-10-23",
+       "context": "Details for Extesion of Date for Registration-cum-Choice Filling for Admission in Round-3 of Post Gradudate Dental Courses (PGDAC)-2026 (Adv. No. BCECEB(PGDAC)-2026/06 Dated 23.10.2026)"
+      },
+      {
+       "title": "Important Notice for of Registration-cum-Choice Filling for Admission in Round-3 of Post Gradudate Dental Courses (PGDAC)-2026 (Adv. No. BCECEB(PGDAC)-2026/05",
+       "url": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGDAC26_05.pdf",
+       "is_doc": true,
+       "type": "admission",
+       "list_date": "2026-10-02",
+       "context": "Important Notice for of Registration-cum-Choice Filling for Admission in Round-3 of Post Gradudate Dental Courses (PGDAC)-2026 (Adv. No. BCECEB(PGDAC)-2026/05 Dated 02.10.2026)"
+      }
+     ],
+     "discovered": [
+      {
+       "text": "Notice Board",
+       "url": "https://bceceboard.bihar.gov.in/NoticeBoard.php"
+      },
+      {
+       "text": "Notice Board 2025",
+       "url": "https://bceceboard.bihar.gov.in/NoticeBoard_2025.php"
+      }
+     ]
+    }
+   ],
+   "robots": {
+    "status": 404,
+    "allowed": true,
+    "snippet": ""
+   },
+   "verdict": "ok"
+  },
+  {
+   "id": "patnahc",
+   "name": "Patna High Court",
+   "scope": "bihar",
+   "lists": [
+    {
+     "url": "https://patnahighcourt.gov.in/",
+     "final_url": "https://patnahighcourt.gov.in/",
+     "ok": true,
+     "status": 200,
+     "error": null,
+     "ms": 2903,
+     "via": "requests",
+     "tls_insecure": true,
+     "page_title": "The High Court of Judicature at Patna",
+     "html_kb": 106.7,
+     "robots_allowed": true,
+     "items": 25,
+     "dated": 1,
+     "types": {
+      "job": 18,
+      "notice": 6,
+      "result": 1
+     },
+     "sample": [
+      {
+       "title": "Recruitments",
+       "url": "https://patnahighcourt.gov.in/notices/recruitments",
+       "is_doc": false,
+       "type": "job",
+       "list_date": null,
+       "context": "Recruitments"
+      },
+      {
+       "title": "Search in Notices and Notifications",
+       "url": "https://patnahighcourt.gov.in/notices/search",
+       "is_doc": false,
+       "type": "job",
+       "list_date": null,
+       "context": "Search in Notices and Notifications"
+      },
+      {
+       "title": "Notice regarding newly inaugurated Judges' Guest House, Gaya Ji, Bihar.",
+       "url": "https://patnahighcourt.gov.in/getfile/MTExOTY=-7q7Zypob92Q=",
+       "is_doc": false,
+       "type": "notice",
+       "list_date": null,
+       "context": "Notice regarding newly inaugurated Judges' Guest House, Gaya Ji, Bihar."
+      },
+      {
+       "title": "Notice regarding designation of Senior Advocates: submission of additional documents.",
+       "url": "https://patnahighcourt.gov.in/getfile/MTExOTQ=-1PfhWMzWnH4=",
+       "is_doc": false,
+       "type": "notice",
+       "list_date": null,
+       "context": "Notice regarding designation of Senior Advocates: submission of additional documents."
+      },
+      {
+       "title": "Notice regarding debarment of CS Datamation Research Services Pvt. Ltd. for a period of three years.",
+       "url": "https://patnahighcourt.gov.in/getfile/MTEwNTA=-BhrgfPWqmeg=",
+       "is_doc": false,
+       "type": "notice",
+       "list_date": null,
+       "context": "Notice regarding debarment of CS Datamation Research Services Pvt. Ltd. for a period of three years."
+      },
+      {
+       "title": "Corrigendum regarding Notice dated 02nd September, 2026.",
+       "url": "https://patnahighcourt.gov.in/getfile/MTEwNDA=-oQsf6FeXFJo=",
+       "is_doc": false,
+       "type": "notice",
+       "list_date": "2026-09-02",
+       "context": "Corrigendum regarding Notice dated 02nd September, 2026."
+      }
+     ],
+     "discovered": [
+      {
+       "text": "Download Latest Mobile APP (Android)",
+       "url": "https://patnahighcourt.gov.in/apk/phc-4.0.apk"
+      },
+      {
+       "text": "Recruitments",
+       "url": "https://patnahighcourt.gov.in/notices/recruitments"
+      },
+      {
+       "text": "Search in Notices and Notifications",
+       "url": "https://patnahighcourt.gov.in/notices/search"
+      },
+      {
+       "text": "Corrigendum regarding Notice dated 02nd September, 2026.",
+       "url": "https://patnahighcourt.gov.in/getfile/MTEwNDA=-oQsf6FeXFJo="
+      },
+      {
+       "text": "Notification regarding Civil Judge (Junior Division).",
+       "url": "https://patnahighcourt.gov.in/getfile/MTExOTU=-LnJPDMcGSXA="
+      },
+      {
+       "text": "Notification regarding Ms. Ranjana Dubey, S.D.J.M., Purnea.",
+       "url": "https://patnahighcourt.gov.in/getfile/MTExODE=-AhcrYhzN2To="
+      },
+      {
+       "text": "Court Notifications",
+       "url": "https://patnahighcourt.gov.in/notices/transfer_and_postings/"
+      },
+      {
+       "text": "Gazette Notification No.30 dated 23/7/2014",
+       "url": "https://patnahighcourt.gov.in/viewpdf/R1ozMC5wZGY=-TUX1ipdfmBY="
+      },
+      {
+       "text": "Gazette Notification No.475 dated 3/6/2014",
+       "url": "https://patnahighcourt.gov.in/viewpdf/R1o0NzUucGRm-wDeRghMJwPE="
+      }
+     ]
+    }
+   ],
+   "robots": {
+    "status": 404,
+    "allowed": true,
+    "snippet": ""
+   },
+   "verdict": "ok"
+  }
+ ]
+}
