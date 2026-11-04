@@ -11,9 +11,10 @@ from .store import ROOT, DATA, save_json, now_iso
 CONFIG = os.path.join(ROOT, "bot", "config", "sources.json")
 
 
-def load_sources():
+def load_sources(include_disabled=False):
     with open(CONFIG, encoding="utf-8") as f:
-        return json.load(f)
+        src = json.load(f)
+    return src if include_disabled else [s for s in src if s.get("enabled", True)]
 
 
 def probe_source(src, use_browser=True):
