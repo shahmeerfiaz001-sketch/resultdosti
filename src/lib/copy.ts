@@ -85,16 +85,9 @@ export function jobTitle(i: Item): string | null {
 const KIND: Record<string, string> = { job: 'Recruitment', admit: 'Admit Card', result: 'Result', answer: 'Answer Key', syllabus: 'Syllabus', admission: 'Admission', notice: 'Notice' };
 
 export function seoTitle(i: Item, examName?: string): string {
-  const year = (i.title.match(/\b(20[2-3]\d)\b/) || [])[1] || (i.list_date || i.first_seen).slice(0, 4);
-  const kind = KIND[i.type];
-  if (examName) {
-    const base = examName.replace(/\b20[2-3]\d\b/g, '').replace(/\s+/g, ' ').trim();
-    const t = `${base} ${kind} ${year}`;
-    if (t.length <= 52) return t;
-  }
   let t = i.title.replace(/\s+/g, ' ').trim();
   for (let k = 0; k < 2; k++) t = t.replace(/^(?:important\s+)?(?:notice|details?|detail|public\s+notice|ref\.?)\s*(?:[:\-–]\s*|regarding\s+|for\s+|of\s+|reg\.?\s+)?/i, '').trim();
-  t = t.replace(/^(?:regarding|for|to)\s+/i, '');
+  t = t.replace(/^(?:regarding|for|to)\s+/i, '').replace(/(?:\bResults?\s*-\s*)?\bRef\.?\s*:\s*/gi, '').trim();
   t = t.charAt(0).toUpperCase() + t.slice(1);
   let d = t.slice(0, 25).toLowerCase().includes(i.short.toLowerCase()) ? t : `${i.short} ${t}`;
   if (d.length > 62) d = compress(d);
