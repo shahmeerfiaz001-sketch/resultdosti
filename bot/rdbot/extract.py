@@ -104,6 +104,7 @@ def _tidy_title(t):
     t = re.sub(r"^\s*\d{1,5}\s+(?=[A-Za-z\u0900-\u097F])", "", clean(t))
     t = re.sub(r"\s+(?:apply|apply\s+here|click|read\s+more|more)\s*$", "", t, flags=re.I)
     t = re.sub(r"\s+(?:posted|published|uploaded)\s+on\s+.*$", "", t, flags=re.I)
+    t = re.sub(r"\s*[|\u0964]?\s*\[\s*[^\]]{1,30}\]\s*$", "", t)
     t = re.sub(r"^\s*(?:jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*\.?\s+20\d{2}\s+", "", t, flags=re.I)
     t = re.sub(r"\s*-\s*(?:hindi|english)(?:\s*/\s*(?:hindi|english))?\s*$", "", t, flags=re.I)
     t = re.sub(r"\(\s*\)", " ", t)
