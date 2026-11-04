@@ -8,7 +8,7 @@ RULES = [
     ("result", [r"\bresult", r"merit\s*list", r"select(ed|ion)\s+list", r"final\s+selection", r"score\s*card", r"marks\s+of", r"cut[\s-]*off", r"qualified\s+candidates", r"परिणाम", r"रिजल्ट", r"मेधा\s*सूची", r"चयन\s*सूची"]),
     ("syllabus", [r"syllabus", r"exam(ination)?\s+pattern", r"scheme\s+of\s+exam", r"पाठ्यक्रम"]),
     ("admission", [r"admission", r"counsell?ing", r"seat\s+allotment", r"प्रवेश\s+हेतु"]),
-    ("notice", [r"physical\s+(efficiency|standard|measurement)", r"\bp\.?e\.?t\b", r"\bp\.?s\.?t\b", r"document\s+verification", r"\bd\.?v\.?\s+(schedule|notice)", r"interview\s+(schedule|programme|program|letter)", r"exam(ination)?\s+(schedule|date|programme)", r"date\s*sheet", r"शारीरिक\s+दक्षता", r"साक्षात्कार"]),
+    ("notice", [r"corrigendum", r"addendum", r"postpone", r"cancell?ation", r"rebuttal", r"important\s+notices?\b", r"extension\s+(of|in)\b", r"extended", r"शुद्धि\s*पत्र", r"स्थगित", r"physical\s+(efficiency|standard|measurement)", r"\bp\.?e\.?t\b", r"\bp\.?s\.?t\b", r"document\s+verification", r"\bd\.?v\.?\s+(schedule|notice)", r"interview\s+(schedule|programme|program|letter)", r"exam(ination)?\s+(schedule|date|programme)", r"date\s*sheet", r"शारीरिक\s+दक्षता", r"साक्षात्कार"]),
     ("job", [r"recruit", r"advertisement", r"\badvt\b", r"vacanc", r"notification", r"apply\s+online", r"online\s+application", r"engagement\s+of", r"walk[\s-]*in", r"\bposts?\s+of\b", r"\bcen\s*\d", r"भर्ती", r"विज्ञापन", r"रिक्ति", r"नियुक्ति", r"आवेदन"]),
     ("notice", [r"notice", r"schedule", r"date\s*sheet", r"exam\s+date", r"interview", r"document\s+verification", r"\bdv\b", r"physical", r"\bpet\b", r"\bpst\b", r"corrigendum", r"addendum", r"सूचना", r"विज्ञप्ति", r"शुद्धि\s*पत्र"]),
 ]
@@ -20,6 +20,8 @@ NOISE = re.compile(
     r"contact\s+us|about\s+us|privacy|terms|disclaimer|copyright|hyperlink|accessibility|feedback|faq|help\s*desk|"
     r"photo\s+gallery|video\s+gallery|press\s+release|newsletter|holiday\s+list|transfer\s+order|promotion\s+order|"
     r"pension|gpf|salary\s+slip|leave\s+rules|seniority|inventory|purchase|website\s+policy|"
+    r"chambers?\b|guest\s*house|advocates?\b|debar|chargeback|refund|enlisted\s+former|cause\s+list|roster|court\s+fee|"
+    r"logindob|screen\s+reader|बिहार\s+सूचना\s+आयोग|सूचना\s+पट्ट|"
     r"निविदा|टेंडर|सूचना\s+का\s+अधिकार",
     re.I,
 )

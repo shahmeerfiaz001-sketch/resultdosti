@@ -1,6 +1,7 @@
 import hashlib
 import json
 import os
+import re
 import sys
 import time
 from datetime import date, datetime, timedelta, timezone
@@ -37,6 +38,9 @@ def fetch_list(src, lst):
             bi = extract(b["text"], b["url"], lst.get("hint", ""))
             if len(bi) >= len(items):
                 res, items = b, bi
+    if src.get("require"):
+        rq = re.compile(src["require"], re.I)
+        items = [i for i in items if rq.search(i["title"])]
     return {"ok": res["ok"], "error": res.get("error"), "items": items, "status": res.get("status")}
 
 
