@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T09:02:12+00:00",
+ "updated": "2026-11-05T11:03:04+00:00",
  "items": [
   {
    "id": "eb5a27ddb770",
@@ -41936,54 +41936,6 @@
    "group": "cisf-notice-2026"
   },
   {
-   "id": "98acc5e52876",
-   "source": "sbi",
-   "org": "State Bank of India Careers",
-   "short": "SBI",
-   "scope": "central",
-   "title": "(Circle Allotment Announced for Successful Candidates) - Advertisement( Hindi )/ English )",
-   "url": "https://sbi.bank.in/documents/77530/43947057/261220241932-1_Detailed_Adv.2024_27.12.2024.pdf/dfe093da-d25c-8cc5-67df-cf29f3f61645?t=1735221832896",
-   "is_doc": false,
-   "type": "job",
-   "list_date": "2024-12-27",
-   "first_seen": "2026-11-05T08:57:19+00:00",
-   "last_seen": "2026-11-05T08:57:19+00:00",
-   "advt": null,
-   "link_policy": "deep",
-   "official_home": "https://sbi.bank.in",
-   "slug": "sbi-circle-allotment-announced-for-successful-candidates-98acc5",
-   "details": {
-    "fields": {},
-    "parsed_at": null
-   },
-   "tier": 1,
-   "status": "info"
-  },
-  {
-   "id": "f1c7ff6cf5da",
-   "source": "sbi",
-   "org": "State Bank of India Careers",
-   "short": "SBI",
-   "scope": "central",
-   "title": "(Candidates Provisionally Selected in Second Wait List Announced) - Advertisement( Hindi / English )",
-   "url": "https://sbi.bank.in/documents/77530/43947057/18122024_SBI+-+CRPD+23+JA+2024+-+Ladakh-Detailed+Ad+-+Hindi_17.12.24.pdf/ef256158-001c-1bbe-ca97-d2b1886ecff3?t=1734520478398",
-   "is_doc": false,
-   "type": "job",
-   "list_date": "2024-12-17",
-   "first_seen": "2026-11-05T08:57:19+00:00",
-   "last_seen": "2026-11-05T08:57:19+00:00",
-   "advt": null,
-   "link_policy": "deep",
-   "official_home": "https://sbi.bank.in",
-   "slug": "sbi-candidates-provisionally-selected-in-second-wait-list-announced-f1c7ff",
-   "details": {
-    "fields": {},
-    "parsed_at": null
-   },
-   "tier": 1,
-   "status": "info"
-  },
-  {
    "id": "aab8debffbf4",
    "source": "bpssc",
    "org": "Bihar Police Subordinate Services Commission",
@@ -42007,6 +41959,31 @@
    "tier": 1,
    "status": "info",
    "group": "bpssc-advt-05-2025"
+  },
+  {
+   "id": "81b2ed68c2e6",
+   "source": "ssc",
+   "org": "Staff Selection Commission",
+   "short": "SSC",
+   "scope": "central",
+   "title": "Combined Hindi Translators Examination, 2025 - Declaration of First Round of Tentative Allocation (FRTA)",
+   "url": "https://ssc.gov.in/home/notice-board?notice=l5cx3fnox6070s52jhzmz",
+   "is_doc": false,
+   "type": "notice",
+   "list_date": "2026-11-05",
+   "first_seen": "2026-11-05T10:59:49+00:00",
+   "last_seen": "2026-11-05T10:59:49+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://ssc.gov.in",
+   "slug": "ssc-combined-hindi-translators-examination-2025-declaration-of-first-81b2ed",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "ssc-combined-hindi-translators-declaration-first-2025"
   }
  ]
 }

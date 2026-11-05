@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T09:02:12+00:00",
+ "updated": "2026-11-05T11:03:04+00:00",
  "exams": [
   {
    "key": "uppsc-d-e-medical-education-department-u-p-professor-2026",
@@ -55,6 +55,23 @@
     "job",
     "notice",
     "result"
+   ],
+   "latest": "2026-11-05"
+  },
+  {
+   "key": "ssc-combined-hindi-translators-declaration-first-2025",
+   "source": "ssc",
+   "short": "SSC",
+   "org": "Staff Selection Commission",
+   "scope": "central",
+   "items": [
+    "81b2ed68c2e6"
+   ],
+   "year": 2025,
+   "name": "SSC Combined Hindi Translators Examination, 2025 - Declaration of First Round of",
+   "slug": "ssc-combined-hindi-translators-examination-2025-declaration-of-first-round-of-b4c7f",
+   "types": [
+    "notice"
    ],
    "latest": "2026-11-05"
   },
