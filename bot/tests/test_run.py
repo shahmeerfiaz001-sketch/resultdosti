@@ -81,3 +81,11 @@ def test_ssc_adapter():
     assert items and all(i["url"].startswith("https://ssc.gov.in/home/notice-board?notice=") for i in items)
     cgl = [i for i in items if "Combined Graduate Level" in i["title"]][0]
     assert cgl["type"] == "answer" and cgl["list_date"] == "2026-11-04"
+
+
+def test_signed_url_stable_id():
+    a = "https://x.ac.in/1.pdf?X-Amz-Date=20261104T1&X-Amz-Signature=aa&X-Amz-Expires=604800&response-content-type=application%2Fpdf"
+    b = "https://x.ac.in/1.pdf?X-Amz-Date=20261105T2&X-Amz-Signature=bb&X-Amz-Expires=604800&response-content-type=application%2Fpdf"
+    assert store.item_id(a) == store.item_id(b)
+    assert store.is_signed(a)
+    assert store.item_id("https://x.in/a.php?id=5") != store.item_id("https://x.in/a.php?id=6")

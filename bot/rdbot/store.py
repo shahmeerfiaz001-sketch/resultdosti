@@ -1,6 +1,8 @@
 import hashlib
 import json
 import os
+import re
+from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
 from datetime import date, datetime, timezone
 
 from .classify import advt_number
@@ -32,9 +34,21 @@ def save_json(path, obj):
     os.replace(tmp, path)
 
 
+VOLATILE = re.compile(r"^(x-amz-[a-z-]+|signature|expires|key-pair-id|policy|token|sig|se|sp|sv|sr|st|response-content-[a-z-]+|_|v|ver|t|ts|timestamp|cache|nocache|sessionid|jsessionid|phpsessid)$", re.I)
+
+
+def canonical_url(url):
+    p = urlsplit(url.strip().split("#")[0])
+    q = [(k, v) for k, v in parse_qsl(p.query, keep_blank_values=True) if not VOLATILE.match(k)]
+    return urlunsplit((p.scheme, p.netloc.lower(), p.path, urlencode(q), ""))
+
+
+def is_signed(url):
+    return bool(re.search(r"[?&](X-Amz-Signature|Signature|Expires|Key-Pair-Id)=", url, re.I))
+
+
 def item_id(url):
-    u = url.strip().split("#")[0]
-    return hashlib.sha1(u.encode("utf-8")).hexdigest()[:12]
+    return hashlib.sha1(canonical_url(url).encode("utf-8")).hexdigest()[:12]
 
 
 SEEN = os.path.join(DATA, "state", "pruned.json")
@@ -101,7 +115,7 @@ def merge(db, source, found, seen_at=None, skip=None):
             "first_seen": seen_at,
             "last_seen": seen_at,
             "advt": advt_number(title + " " + f.get("context", "")),
-            "link_policy": source.get("link_policy", "deep"),
+            "link_policy": "home_only" if is_signed(f["url"]) else source.get("link_policy", "deep"),
             "official_home": source["base"],
             "slug": f"{slugify(title if source['short'].lower() in title.lower() else source['short'] + ' ' + title, 70)}-{iid[:6]}",
             "details": None,

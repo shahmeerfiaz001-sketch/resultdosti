@@ -2,109 +2,13 @@
  "updated": "2026-11-05T07:15:33+00:00",
  "exams": [
   {
-   "key": "aiims-update-eligible-not-eligible-walk-interivew-2026",
-   "source": "aiims",
-   "short": "AIIMS",
-   "org": "AIIMS Examinations",
-   "scope": "central",
-   "items": [
-    "40a3aabb9e50",
-    "388197207005",
-    "1c38eb615c53",
-    "a8ab07f7ad34",
-    "55d355a99c4c",
-    "3952c65a98ea",
-    "cc2270a3f446",
-    "98630f688de2"
-   ],
-   "year": 2026,
-   "name": "AIIMS Update list of eligible / not eligible for walk-in-interivew/offline counseling 2026",
-   "slug": "aiims-update-list-of-eligible-not-eligible-for-walk-in-interivew-offline-df851",
-   "types": [
-    "admission"
-   ],
-   "latest": "2026-11-05"
-  },
-  {
-   "key": "aiims-fees-optometry-bachelor-medical-radiology-2026",
-   "source": "aiims",
-   "short": "AIIMS",
-   "org": "AIIMS Examinations",
-   "scope": "central",
-   "items": [
-    "72cbc97a6324",
-    "c0f7a34cd576",
-    "e77a14bfc0aa",
-    "0e750a686ece",
-    "1172bb4fceb0",
-    "7f0253f9e2df",
-    "793f02a61157",
-    "3a65e261ce91"
-   ],
-   "year": 2026,
-   "name": "AIIMS Fees and Admit Card for Optometry Phase - III/Bachelor of Medical Radiology and 2026",
-   "slug": "aiims-fees-and-admit-card-for-optometry-phase-iii-bachelor-of-medical-radiology-9d4a6",
-   "types": [
-    "admit"
-   ],
-   "latest": "2026-11-05"
-  },
-  {
-   "key": "aiims-eligible-not-eligible-walk-junior-resident-2026",
-   "source": "aiims",
-   "short": "AIIMS",
-   "org": "AIIMS Examinations",
-   "scope": "central",
-   "items": [
-    "f2e25c52d95e",
-    "7ae95a74a9d1",
-    "b9d797deb5bc",
-    "bc259a75cae6",
-    "fc09d92aa0cc",
-    "bc2282195a98",
-    "5c91339f2486",
-    "9c60ceba10db"
-   ],
-   "year": 2026,
-   "name": "AIIMS List of eligible / Not eligible candidates for walk-in-interview for the post 2026",
-   "slug": "aiims-list-of-eligible-not-eligible-candidates-for-walk-in-interview-for-the-42303",
-   "types": [
-    "job"
-   ],
-   "latest": "2026-11-05"
-  },
-  {
-   "key": "aiims-01-faculty-disciplines-at-aiims-awantipora-2026",
-   "source": "aiims",
-   "short": "AIIMS",
-   "org": "AIIMS Examinations",
-   "scope": "central",
-   "items": [
-    "fb220de4d49c",
-    "0f993686be98",
-    "d853a22f182a",
-    "5841af8e0ce5",
-    "c2e68598c458",
-    "54027e404c69",
-    "545b5986528e",
-    "51b3874a2de9"
-   ],
-   "year": 2026,
-   "name": "AIIMS No. 01 of 2026 :- Regarding the Interview schedule for various faculty posts of",
-   "slug": "aiims-no-01-of-2026-regarding-the-interview-schedule-for-various-faculty-posts-be6e6",
-   "types": [
-    "notice"
-   ],
-   "latest": "2026-11-05"
-  },
-  {
    "key": "uppsc-d-e-medical-education-department-u-p-professor-2026",
    "source": "uppsc",
    "short": "UPPSC",
    "org": "Uttar Pradesh Public Service Commission",
    "scope": "up",
    "items": [
-    "153d80255b19"
+    "b4f944a6a189"
    ],
    "year": 2026,
    "name": "UPPSC Result of Advt. No. D-1/E-1/2026, Medical Education Department U.p. /professor",
@@ -155,14 +59,14 @@
    "org": "State Bank of India Careers",
    "scope": "central",
    "items": [
-    "ff01d6289759",
-    "ea30517b358b",
-    "a27d2f92b890",
+    "fe66f1c9a7f2",
+    "7cab24054329",
+    "888d7046372a",
     "0fdf51e68636",
-    "736940bfcae8",
-    "b02964e0088a",
-    "bb4aed1ea106",
-    "ebf26503afa9"
+    "ffc35d407a56",
+    "2b914dcc5470",
+    "caf4a7943e36",
+    "fd019f4dd64d"
    ],
    "year": 2026,
    "name": "SBI ADVERTISEMENT No: CRPD/SCO/2026-27/21",
@@ -180,7 +84,7 @@
    "org": "State Bank of India Careers",
    "scope": "central",
    "items": [
-    "e59d5927abe9"
+    "bf0c02e2724e"
    ],
    "year": 2026,
    "name": "SBI ADVERTISEMENT No: CRPD/SCO/2026-27/15 - ADVERTISEMENT / English )",
@@ -214,7 +118,7 @@
    "org": "State Bank of India Careers",
    "scope": "central",
    "items": [
-    "dbf911331b2b"
+    "a5971447763d"
    ],
    "year": 2026,
    "name": "SBI ADVERTISEMENT No: CRPD/CR/SPLDRIVE/2026-27/16",
@@ -282,7 +186,7 @@
    "org": "State Bank of India Careers",
    "scope": "central",
    "items": [
-    "9b38c8e4455a"
+    "fafc31104906"
    ],
    "year": 2026,
    "name": "SBI Assistant Manager -jmgs-i - Interview Schedule 2026",
@@ -299,7 +203,7 @@
    "org": "State Bank of India Careers",
    "scope": "central",
    "items": [
-    "e7a918ad6e06"
+    "720b500224e1"
    ],
    "year": 2026,
    "name": "SBI Deputy Manager -mmgs-ii - Interview Schedule 2026",
@@ -316,8 +220,8 @@
    "org": "State Bank of India Careers",
    "scope": "central",
    "items": [
-    "37b4d9f13d5c",
-    "d05bb24fd999",
+    "c08a91c92e58",
+    "4985aa94c6b2",
     "534d6004fbf2",
     "504daa731b66"
    ],
@@ -372,8 +276,8 @@
    "org": "State Bank of India Careers",
    "scope": "central",
    "items": [
-    "7df9cb252eb4",
-    "9a6001f2d028"
+    "8760a6a37463",
+    "2e6e47ae15e1"
    ],
    "year": 2026,
    "name": "SBI ADVERTISEMENT No: CRPD/APPR/2026-27/07",
@@ -390,7 +294,7 @@
    "org": "State Bank of India Careers",
    "scope": "central",
    "items": [
-    "3d1754c82c33"
+    "4c616035c059"
    ],
    "year": 2026,
    "name": "SBI ADVERTISEMENT No: CRPD/RS/2026-27/06 - ADVERTISEMENT( Hindi / English",
@@ -407,32 +311,32 @@
    "org": "State Bank of India Careers",
    "scope": "central",
    "items": [
-    "71882f75fee5",
-    "9b45a810e113",
-    "3ec664b78657",
-    "4ea9132db2f6",
-    "6d563c7192ae",
-    "4e0692ed176f",
-    "31d801ea954e",
-    "e9c2cf0c7313",
-    "9fb2540667e3",
-    "20e22e5762eb",
-    "887c5626cc00",
-    "72a314e13cc8",
-    "987ffa8f6b14",
-    "0dec8002b50d",
-    "e2ea360c62c4",
-    "33f58774d112",
-    "96784b6293f9",
-    "2ecd04b66709",
-    "e7facc06dfb3",
-    "e3fe35d4b804",
-    "55994d2fca8e",
-    "04908cf5c2ca",
-    "f60dfec5452e",
-    "8f2a26fa0f14",
-    "882615080a2f",
-    "1595a0c4f906"
+    "43af7da7cf00",
+    "74de613e933d",
+    "214c52aaa0e6",
+    "b47dadc58d41",
+    "c4939221c0f4",
+    "3c0a4287dc0a",
+    "02b29c092458",
+    "029bff724bc4",
+    "dd5fbe97f4e7",
+    "f82a101cd7b9",
+    "9bc627364e62",
+    "82a6ae5b82f7",
+    "a89765674845",
+    "32d5369d6e16",
+    "7ab191d53622",
+    "905fa622d323",
+    "af206a44eeed",
+    "3802a66d0522",
+    "8530809edced",
+    "bdc90ad6e52d",
+    "8110c5e3f54a",
+    "2e01433402d3",
+    "88067aea518a",
+    "e087fab65d52",
+    "2c6042dedfaf",
+    "09b6b8f1b66d"
    ],
    "year": 2025,
    "name": "SBI ADVERTISEMENT No: CRPD/SCO/2025-26/25",
@@ -451,12 +355,12 @@
    "org": "State Bank of India Careers",
    "scope": "central",
    "items": [
-    "fae482840336",
-    "a5b844cb3726",
+    "b608ca588372",
+    "143f67a3d1eb",
     "48cf556e4c88",
-    "a63c496b2f6b",
-    "fa032066e4b1",
-    "faef6a9b458f"
+    "d6e2ee6c14bb",
+    "ccf6763135e7",
+    "ed25c7a0cbe4"
    ],
    "year": 2025,
    "name": "SBI ADVERTISEMENT No: CRPD/CBO/2025-26/18",
@@ -475,7 +379,7 @@
    "org": "State Bank of India Careers",
    "scope": "central",
    "items": [
-    "7a035fc10629"
+    "95e93aaffd28"
    ],
    "year": 2026,
    "name": "SBI List of Candidates Provisionally Selected for the Posts of Centre Head and 2026",
@@ -492,7 +396,7 @@
    "org": "State Bank of India Careers",
    "scope": "central",
    "items": [
-    "6393e448d9f3"
+    "14b85cba1ccf"
    ],
    "year": 2026,
    "name": "SBI List of Candidates Provisionally Selected for the Posts of Dvp-cyber 2026",
@@ -509,7 +413,7 @@
    "org": "State Bank of India Careers",
    "scope": "central",
    "items": [
-    "f3a3799c8ce2"
+    "04b31acf4d2b"
    ],
    "year": 2025,
    "name": "SBI ADVERTISEMENT No: CRPD/SCO/2025-26/05 - Old",
@@ -526,7 +430,7 @@
    "org": "State Bank of India Careers",
    "scope": "central",
    "items": [
-    "a97a8a98f755"
+    "2d29680b19f1"
    ],
    "year": 2026,
    "name": "List of Candidates Provisionally Selected for the Post of External Faculty Sbil 2026",
@@ -543,7 +447,7 @@
    "org": "State Bank of India Careers",
    "scope": "central",
    "items": [
-    "e96138ec2785"
+    "bcab26a3f20f"
    ],
    "year": 2026,
    "name": "List of Candidates Provisionally Selected for the Post of Dean Sbil Kolkata 2026",
@@ -560,51 +464,51 @@
    "org": "State Bank of India Careers",
    "scope": "central",
    "items": [
-    "0d44a495ac19",
-    "0d26a9832d59",
-    "6842e30330f7",
-    "475036989d75",
-    "ee7732373e1f",
-    "f0ed3d0e0418",
-    "3634c0d1d994",
-    "d8b63adab228",
-    "02fc9f24bb68",
-    "a8907e4d0c6b",
-    "c65b69652d91",
-    "d4cec0f1216f",
-    "1671c3b549ea",
-    "b201bab467b7",
-    "8f9b55881783",
-    "d1de1eda75dc",
-    "10332fba4404",
-    "dacd02d42c4a",
-    "c17812f6bf10",
-    "1c95904c9fcd",
-    "f839bd3b8185",
-    "8543ac21ea2c",
-    "a838aad8c26c",
-    "3682500b6785",
-    "a88c5b8e3f93",
-    "636e5e9a527e",
-    "eca14b886eb8",
-    "eb59be8f3abb",
-    "6a0fb24e4672",
-    "42418ad5c4f7",
-    "8d4a4f58c78c",
-    "648777c2843c",
-    "e04b2b95489a",
-    "4d22b916c20c",
-    "0cd7f31d0fed",
-    "5cd4388c57cf",
+    "72417840e6e3",
+    "dbbfe4d8a639",
+    "1a2df3f385ab",
+    "77a4eae23fe1",
+    "eb2b37dd4c7d",
+    "2c4addccc3da",
+    "85f2b0715554",
+    "0df04ae18459",
+    "1df30df5b252",
+    "ff8fa3686bf0",
+    "94a78b8664b7",
+    "e34ceb131210",
+    "82a8431d5ee3",
+    "ed4e6eb54348",
+    "78ededd6f500",
+    "c4d105ae630d",
+    "b46b510cce5c",
+    "f0e28ba6b771",
+    "7c38e20443fd",
+    "6999719d1e2b",
+    "c05e86c53bd5",
+    "453eb252cd20",
+    "4f559b8ad807",
+    "7c298297662f",
+    "d40b9c9121b4",
+    "6f579ac31895",
+    "db787c1c2e6b",
+    "46f85c7cc145",
+    "61b2ff119342",
+    "67fd4295862a",
+    "b0a092428ebf",
+    "696013725655",
+    "fe3e17d0a547",
+    "2797d7ec63bc",
+    "9ead41a146da",
+    "eddc34906530",
     "ed3df2f30dd4",
-    "fc4a7626fab2",
-    "bde0f577c429",
-    "9834008ba923",
-    "28664e151ba4",
-    "389392f6feb5",
-    "9ef408e3bc49",
-    "ddbf7764b5d5",
-    "9bd29b745337"
+    "db6ca6c2ec60",
+    "a4eef2e493f7",
+    "bf0ed0dd308c",
+    "b741a8a17f14",
+    "9546aa1793ba",
+    "1b985d61fa9b",
+    "1d8574a221a3",
+    "8450f68c2de1"
    ],
    "year": 2024,
    "name": "SBI ADVERTISEMENT No: CRPD/SCO/2024-25/35",
@@ -623,7 +527,7 @@
    "org": "State Bank of India Careers",
    "scope": "central",
    "items": [
-    "b72c8158e1d8"
+    "dfc191a9e916"
    ],
    "year": 2024,
    "name": "SBI ADVERTISEMENT No: CRPD/PO/2024-25/22 - ADVERTISEMENT / English )",
@@ -640,7 +544,7 @@
    "org": "State Bank of India Careers",
    "scope": "central",
    "items": [
-    "79ccf20be93b"
+    "d2fdf0e7eed5"
    ],
    "year": 2024,
    "name": "SBI ADVERTISEMENT No: CRPD/CR-SPLDRIVE/2024-25/23",
@@ -657,7 +561,7 @@
    "org": "State Bank of India Careers",
    "scope": "central",
    "items": [
-    "811955c0544d"
+    "4a5512834b43"
    ],
    "year": 2026,
    "name": "SBI Final Result - Central Research Team 2026",
@@ -674,7 +578,7 @@
    "org": "State Bank of India Careers",
    "scope": "central",
    "items": [
-    "ab2298a1769b"
+    "f2e6f14e5f93"
    ],
    "year": 2026,
    "name": "SBI Final Result - Relationship Manager Team Lead 2026",
@@ -691,7 +595,7 @@
    "org": "State Bank of India Careers",
    "scope": "central",
    "items": [
-    "a7178cb7b5e6"
+    "7e3c65d1ef50"
    ],
    "year": 2026,
    "name": "SBI Final Result – Regional Head 2026",
@@ -708,8 +612,8 @@
    "org": "State Bank of India Careers",
    "scope": "central",
    "items": [
-    "73df5bc21bb1",
-    "6e7ce3357ef5"
+    "a3d9ae94202b",
+    "ea3044a1293c"
    ],
    "year": 2026,
    "name": "SBI Final Result - Assistant Manager 2026",
@@ -726,7 +630,7 @@
    "org": "State Bank of India Careers",
    "scope": "central",
    "items": [
-    "8339717c1875"
+    "58f7d6447283"
    ],
    "year": 2026,
    "name": "SBI Final Result - Deputy Manager - Project Management & Delivery 2026",
@@ -743,7 +647,7 @@
    "org": "State Bank of India Careers",
    "scope": "central",
    "items": [
-    "03504c5f6cd2"
+    "84ac9795d276"
    ],
    "year": 2026,
    "name": "SBI Final Result - Deputy Manager - Infra Support & Cloud Operations 2026",
@@ -760,7 +664,7 @@
    "org": "State Bank of India Careers",
    "scope": "central",
    "items": [
-    "054cfd6401ed"
+    "070f31491084"
    ],
    "year": 2026,
    "name": "SBI Final Result - Deputy Manager - Networking Operations 2026",
@@ -777,7 +681,7 @@
    "org": "State Bank of India Careers",
    "scope": "central",
    "items": [
-    "33ac10e14964"
+    "086861674297"
    ],
    "year": 2026,
    "name": "SBI Final Result - Deputy Manager - IT Architect 2026",
@@ -794,7 +698,7 @@
    "org": "State Bank of India Careers",
    "scope": "central",
    "items": [
-    "b2dc710019b7"
+    "54820621585d"
    ],
    "year": 2026,
    "name": "SBI Final Result - Deputy Manager - Information Security 2026",
@@ -811,7 +715,7 @@
    "org": "State Bank of India Careers",
    "scope": "central",
    "items": [
-    "71f3bd2186f4"
+    "ca2c45631b6e"
    ],
    "year": 2024,
    "name": "SBI ADVERTISEMENT No : CRPD/SPORTS 2024-25/07",
@@ -828,8 +732,8 @@
    "org": "State Bank of India Careers",
    "scope": "central",
    "items": [
-    "e91c0099a0d9",
-    "cb20f8db0b78"
+    "19a92d107021",
+    "ae52bb9da349"
    ],
    "year": 2023,
    "name": "SBI ADVERTISEMENT No: CRPD/SCO/2023-24/29",
@@ -5589,6 +5493,74 @@
    "latest": "2026-11-04"
   },
   {
+   "key": "aiims-update-eligible-not-eligible-walk-interivew-2026",
+   "source": "aiims",
+   "short": "AIIMS",
+   "org": "AIIMS Examinations",
+   "scope": "central",
+   "items": [
+    "e6dc58015f6b"
+   ],
+   "year": 2026,
+   "name": "AIIMS Update list of eligible / not eligible for walk-in-interivew/offline counseling 2026",
+   "slug": "aiims-update-list-of-eligible-not-eligible-for-walk-in-interivew-offline-df851",
+   "types": [
+    "admission"
+   ],
+   "latest": "2026-11-04"
+  },
+  {
+   "key": "aiims-fees-optometry-bachelor-medical-radiology-2026",
+   "source": "aiims",
+   "short": "AIIMS",
+   "org": "AIIMS Examinations",
+   "scope": "central",
+   "items": [
+    "8c37795769f2"
+   ],
+   "year": 2026,
+   "name": "AIIMS Fees and Admit Card for Optometry Phase - III/Bachelor of Medical Radiology and 2026",
+   "slug": "aiims-fees-and-admit-card-for-optometry-phase-iii-bachelor-of-medical-radiology-9d4a6",
+   "types": [
+    "admit"
+   ],
+   "latest": "2026-11-04"
+  },
+  {
+   "key": "aiims-eligible-not-eligible-walk-junior-resident-2026",
+   "source": "aiims",
+   "short": "AIIMS",
+   "org": "AIIMS Examinations",
+   "scope": "central",
+   "items": [
+    "9370bde01490"
+   ],
+   "year": 2026,
+   "name": "AIIMS List of eligible / Not eligible candidates for walk-in-interview for the post 2026",
+   "slug": "aiims-list-of-eligible-not-eligible-candidates-for-walk-in-interview-for-the-42303",
+   "types": [
+    "job"
+   ],
+   "latest": "2026-11-04"
+  },
+  {
+   "key": "aiims-01-faculty-disciplines-at-aiims-awantipora-2026",
+   "source": "aiims",
+   "short": "AIIMS",
+   "org": "AIIMS Examinations",
+   "scope": "central",
+   "items": [
+    "a740f545d8a4"
+   ],
+   "year": 2026,
+   "name": "AIIMS No. 01 of 2026 :- Regarding the Interview schedule for various faculty posts of",
+   "slug": "aiims-no-01-of-2026-regarding-the-interview-schedule-for-various-faculty-posts-be6e6",
+   "types": [
+    "notice"
+   ],
+   "latest": "2026-11-04"
+  },
+  {
    "key": "lic-aao-generalists-specialists-assistant-engineers-2025",
    "source": "lic",
    "short": "LIC",
@@ -5629,8 +5601,8 @@
    "org": "Uttar Pradesh Public Service Commission",
    "scope": "up",
    "items": [
-    "5ea11099ee47",
-    "637ded6c259d"
+    "da58c57796f2",
+    "8cf6cb050527"
    ],
    "year": 2025,
    "name": "UPPSC Advt. No. A-1/E-1/2025, Combined State/upper Subordinate Services Exam.-2025",
@@ -5647,12 +5619,12 @@
    "org": "Uttar Pradesh Public Service Commission",
    "scope": "up",
    "items": [
-    "da863d0b6bf3",
-    "82d8021801e1",
-    "912244f41635",
-    "374111f5f886",
-    "85baa6ef62e7",
-    "ae2a16c42da6"
+    "a357b276e822",
+    "51910d1cb165",
+    "14ab72b4e0a4",
+    "0c20f34ccf46",
+    "3df929c1bbfd",
+    "429f5bc01fe1"
    ],
    "year": 2023,
    "name": "UPPSC Advt. No. A-10/E-1/2023 U.p. Khadi and Village Industries Board, Prashikshak",
@@ -5669,7 +5641,7 @@
    "org": "Uttar Pradesh Public Service Commission",
    "scope": "up",
    "items": [
-    "6df143cf8a1e"
+    "dada6859da5c"
    ],
    "year": 2025,
    "name": "UPPSC Reagarding Document Verification for Advt. No. A-5/E-1/2025, Assistant Teacher",
@@ -5686,7 +5658,7 @@
    "org": "Uttar Pradesh Public Service Commission",
    "scope": "up",
    "items": [
-    "60e08a083bae"
+    "c4c27bf12052"
    ],
    "year": 2020,
    "name": "UPPSC Reagarding Document Verification for Advt. No. A-2/E-1/2020, Regional Inspector",
@@ -5703,8 +5675,8 @@
    "org": "Uttar Pradesh Public Service Commission",
    "scope": "up",
    "items": [
-    "f2bf759d1c60",
-    "f59fb130ec3c"
+    "6f3fe7c8099c",
+    "7547e04632e5"
    ],
    "year": 2020,
    "name": "UPPSC Result of Advt. No. 2/2020-2021, U.p. Chikitsa Shiksha Deptt., Lecturer",
@@ -5721,10 +5693,10 @@
    "org": "Uttar Pradesh Public Service Commission",
    "scope": "up",
    "items": [
-    "9b9d2e754f43",
-    "7fb08e0e5b43",
-    "2e6a0de5e7a0",
-    "4e1ae6d1885c"
+    "40bd01b48731",
+    "adfe408ebb41",
+    "292dfea3c765",
+    "54bc77001796"
    ],
    "year": 2025,
    "name": "UPPSC List of Provisionally Selected Candidates in Advt. No. A-5/E-1/2025, Asst.",
@@ -5741,7 +5713,7 @@
    "org": "Uttar Pradesh Public Service Commission",
    "scope": "up",
    "items": [
-    "5d75e2d77543"
+    "aabeabdd22b3"
    ],
    "year": 2023,
    "name": "UPPSC District Information Slip / Admit Card for Advt. No:- D-3/E-1/2023, Lecturer",
@@ -5758,8 +5730,8 @@
    "org": "Uttar Pradesh Public Service Commission",
    "scope": "up",
    "items": [
-    "916f5ed1fcc0",
-    "87be4e954444"
+    "eebfa6ac57bb",
+    "39cbb89c2a56"
    ],
    "year": 2020,
    "name": "UPPSC List of Provisionally Selected Candidates in Advt. No. A-2/E-1/2020, Regional",
@@ -5776,7 +5748,7 @@
    "org": "Uttar Pradesh Public Service Commission",
    "scope": "up",
    "items": [
-    "7cd452f33e98"
+    "27384850562c"
    ],
    "year": 2021,
    "name": "UPPSC Advt. No. A-7/E-1/2021, U.p. Technical Education Service Exam.-2021, Lect.",
@@ -5793,7 +5765,7 @@
    "org": "Uttar Pradesh Public Service Commission",
    "scope": "up",
    "items": [
-    "c366c705fd30"
+    "5e40bb3ef62d"
    ],
    "year": 2025,
    "name": "UPPSC List of Provisionally Selected Candidates in Advt. No. A-5/E-1/2025, Assistant",
@@ -5810,7 +5782,7 @@
    "org": "Uttar Pradesh Public Service Commission",
    "scope": "up",
    "items": [
-    "4dd56bc12649"
+    "ae1ea59bc35a"
    ],
    "year": 2025,
    "name": "UPPSC Result of Advt. No. D-4/E-1/2025, Uttar Pradesh AYUSH Department, Professor",
@@ -5827,8 +5799,8 @@
    "org": "Uttar Pradesh Public Service Commission",
    "scope": "up",
    "items": [
-    "f15fadd5b0d8",
-    "63f084e3e1a4"
+    "2412dc79be06",
+    "538693e9c0bb"
    ],
    "year": 2025,
    "name": "UPPSC Advt. No. D-6/E-1/2025, Medical Health and Family Welfare Department Uttar",
@@ -5845,8 +5817,8 @@
    "org": "Uttar Pradesh Public Service Commission",
    "scope": "up",
    "items": [
-    "c28171a6a179",
-    "f5438884d3f3"
+    "cb1abd4adc10",
+    "da355b4a572c"
    ],
    "year": 2025,
    "name": "UPPSC Advt. No. D-6/E-1/2025, Directorate of Ayurveda Uttar Pradesh, Medical Officer",
@@ -5863,8 +5835,8 @@
    "org": "Uttar Pradesh Public Service Commission",
    "scope": "up",
    "items": [
-    "ec77a4532d2f",
-    "6610194389b4"
+    "6a7c7f4d74ec",
+    "50cae1dc33cc"
    ],
    "year": 2025,
    "name": "UPPSC Advt. No. D-6/E-1/2025, Directorate of Ayurveda Uttar Pradesh, Chikitsa",
@@ -5881,8 +5853,8 @@
    "org": "Uttar Pradesh Public Service Commission",
    "scope": "up",
    "items": [
-    "02c6af4c5cfb",
-    "c3b139c23bec"
+    "04510ac2340d",
+    "bd671da3ba60"
    ],
    "year": 2025,
    "name": "UPPSC Corrigendum Notice Regarding Advt.no.d-6/E-1/2025, Directorate of Unani Uttar",
@@ -5899,7 +5871,7 @@
    "org": "Uttar Pradesh Public Service Commission",
    "scope": "up",
    "items": [
-    "b96292437d09"
+    "613b6485cc3e"
    ],
    "year": 2024,
    "name": "UPPSC Advt. No. D-2/E-1/2024, Assistant Architect, S-06/01 Exam-2024",
@@ -5916,7 +5888,7 @@
    "org": "Uttar Pradesh Public Service Commission",
    "scope": "up",
    "items": [
-    "b3ace7ba1752"
+    "194968252b03"
    ],
    "year": 2025,
    "name": "UPPSC Advt. No. D-6/E-1/2025, Food Safety and Drug Administration Uttar Pradesh /",
@@ -6018,7 +5990,7 @@
    "org": "Uttar Pradesh Public Service Commission",
    "scope": "up",
    "items": [
-    "e584d61bf32b"
+    "c896d0fb47cd"
    ],
    "year": 2022,
    "name": "UPPSC to List of Candidates who are not selected in P.C.S. Examination-2022, but",
@@ -6686,7 +6658,7 @@
    "org": "State Health Society Bihar",
    "scope": "bihar",
    "items": [
-    "c048cc4b1022"
+    "ca83c5f47ea3"
    ],
    "year": 2026,
    "name": "SHS Bihar ANM: A dmit Card Link 2026",
@@ -8771,9 +8743,9 @@
    "org": "State Bank of India Careers",
    "scope": "central",
    "items": [
-    "0894daade082",
-    "08c06009504e",
-    "edfeed24f6e3"
+    "8dc365da69d9",
+    "69dc9e7a8538",
+    "b0e873c2a7d6"
    ],
    "year": 2026,
    "name": "SBI ADVERTISEMENT Hindi / English 2026",
@@ -9637,14 +9609,7 @@
    "org": "AIIMS Examinations",
    "scope": "central",
    "items": [
-    "6a649b21b844",
-    "7f61107c00ce",
-    "848f9f1546f1",
-    "10b7987b9ba6",
-    "69b6dad5acdd",
-    "853b9735804c",
-    "a62401fe99a2",
-    "8006d44dc8ca"
+    "df8f5e002f08"
    ],
    "year": 2026,
    "name": "AIIMS Revised date for Walk-in interview/counseling for the post of Junior Resident 2026",
@@ -10465,7 +10430,7 @@
    "org": "Central Board of Secondary Education",
    "scope": "central",
    "items": [
-    "9b3d1fcbc822",
+    "cfb0b8d6e59a",
     "dc4558aea89f"
    ],
    "year": 2025,
