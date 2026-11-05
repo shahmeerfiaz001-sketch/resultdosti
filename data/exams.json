@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T13:07:14+00:00",
+ "updated": "2026-11-05T14:59:38+00:00",
  "exams": [
   {
    "key": "uppsc-d-e-medical-education-department-u-p-professor-2026",
@@ -8,7 +8,10 @@
    "org": "Uttar Pradesh Public Service Commission",
    "scope": "up",
    "items": [
-    "b4f944a6a189"
+    "b4f944a6a189",
+    "7e00cef99008",
+    "ff0b8d11cfce",
+    "bc07c667f32f"
    ],
    "year": 2026,
    "name": "UPPSC Result of Advt. No. D-1/E-1/2026, Medical Education Department U.p. /professor",
@@ -55,6 +58,28 @@
     "job",
     "notice",
     "result"
+   ],
+   "latest": "2026-11-05"
+  },
+  {
+   "key": "bceceb-registration-cum-choice-filling-post-graduate-2026",
+   "source": "bceceb",
+   "short": "BCECEB",
+   "org": "Bihar Combined Entrance Competitive Examination Board",
+   "scope": "bihar",
+   "items": [
+    "fc22cf82d454",
+    "448b701c3454",
+    "1e066d627d74",
+    "624d5e48706d",
+    "24fa899f1ac3"
+   ],
+   "year": 2026,
+   "name": "BCECEB Registration-Cum-Choice filling for Post Graduate Medical Admission Counselling 2026",
+   "slug": "bceceb-registration-cum-choice-filling-for-post-graduate-medical-admission-25981",
+   "types": [
+    "admission",
+    "notice"
    ],
    "latest": "2026-11-05"
   },
@@ -9726,24 +9751,6 @@
     "admission"
    ],
    "latest": "2026-10-19"
-  },
-  {
-   "key": "bceceb-registration-cum-choice-filling-post-graduate-2026",
-   "source": "bceceb",
-   "short": "BCECEB",
-   "org": "Bihar Combined Entrance Competitive Examination Board",
-   "scope": "bihar",
-   "items": [
-    "fc22cf82d454",
-    "448b701c3454"
-   ],
-   "year": 2026,
-   "name": "BCECEB Registration-Cum-Choice filling for Post Graduate Medical Admission Counselling 2026",
-   "slug": "bceceb-registration-cum-choice-filling-for-post-graduate-medical-admission-25981",
-   "types": [
-    "admission"
-   ],
-   "latest": "2026-10-18"
   },
   {
    "key": "ibps-cwc-posts-registration-17-oct-2026",

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T13:07:14+00:00",
+ "updated": "2026-11-05T14:59:38+00:00",
  "items": [
   {
    "id": "eb5a27ddb770",
@@ -42059,6 +42059,156 @@
    "tier": 1,
    "status": "info",
    "group": "cbse-superintendent-junior-accountant-junior-2026"
+  },
+  {
+   "id": "7e00cef99008",
+   "source": "uppsc",
+   "org": "Uttar Pradesh Public Service Commission",
+   "short": "UPPSC",
+   "scope": "up",
+   "title": "Result of Advt. No. D-1/E-1/2026, Medical Education Department U.p. (ALLOPATHY)/PROFESSOR Oto-rhino-laryngology(ent), S-08/06",
+   "url": "https://uppsc.up.nic.in/Open_PDF_DB.aspx?I4PnQ0tBagk3H4ltFfLCjpK9HT4ZBX4T",
+   "is_doc": false,
+   "type": "result",
+   "list_date": null,
+   "first_seen": "2026-11-05T14:57:42+00:00",
+   "last_seen": "2026-11-05T14:57:42+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://uppsc.up.nic.in",
+   "slug": "uppsc-result-of-advt-no-d-1-e-1-2026-medical-education-department-u-p-7e00ce",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "uppsc-d-e-medical-education-department-u-p-professor-2026"
+  },
+  {
+   "id": "ff0b8d11cfce",
+   "source": "uppsc",
+   "org": "Uttar Pradesh Public Service Commission",
+   "short": "UPPSC",
+   "scope": "up",
+   "title": "Result of Advt. No. D-1/E-1/2026, Medical Education Department U.p. (ALLOPATHY)/PROFESSOR Cardiology, S-08/09",
+   "url": "https://uppsc.up.nic.in/Open_PDF_DB.aspx?I4PnQ0tBagk3H4ltFfLCjiNtMjnSs/ca",
+   "is_doc": false,
+   "type": "result",
+   "list_date": null,
+   "first_seen": "2026-11-05T14:57:42+00:00",
+   "last_seen": "2026-11-05T14:57:42+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://uppsc.up.nic.in",
+   "slug": "uppsc-result-of-advt-no-d-1-e-1-2026-medical-education-department-u-p-ff0b8d",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "uppsc-d-e-medical-education-department-u-p-professor-2026"
+  },
+  {
+   "id": "bc07c667f32f",
+   "source": "uppsc",
+   "org": "Uttar Pradesh Public Service Commission",
+   "short": "UPPSC",
+   "scope": "up",
+   "title": "Result of Advt. No. D-1/E-1/2026, Medical Education Department U.p. (ALLOPATHY)/PROFESSOR Anatomy, S-08/04",
+   "url": "https://uppsc.up.nic.in/Open_PDF_DB.aspx?I4PnQ0tBagk3H4ltFfLCjpt+NPYatWx2",
+   "is_doc": false,
+   "type": "result",
+   "list_date": null,
+   "first_seen": "2026-11-05T14:57:42+00:00",
+   "last_seen": "2026-11-05T14:57:42+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://uppsc.up.nic.in",
+   "slug": "uppsc-result-of-advt-no-d-1-e-1-2026-medical-education-department-u-p-bc07c6",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "uppsc-d-e-medical-education-department-u-p-professor-2026"
+  },
+  {
+   "id": "1e066d627d74",
+   "source": "bceceb",
+   "org": "Bihar Combined Entrance Competitive Examination Board",
+   "short": "BCECEB",
+   "scope": "bihar",
+   "title": "Important Notice for Registration-cum-Choice Filling for Post Graduate Degree [PGMAC (Ayush)]-2026 for MD (Unani) on the basis of AIAPGET[AYUSH]-2026 (Adv. No. BCECEB(PGMAC[AYUSH])-2026/06",
+   "url": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGAAC26_06.pdf",
+   "is_doc": true,
+   "type": "notice",
+   "list_date": "2026-11-05",
+   "first_seen": "2026-11-05T14:59:29+00:00",
+   "last_seen": "2026-11-05T14:59:29+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://bceceboard.bihar.gov.in",
+   "slug": "important-notice-for-registration-cum-choice-filling-for-post-1e066d",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "bceceb-registration-cum-choice-filling-post-graduate-2026"
+  },
+  {
+   "id": "624d5e48706d",
+   "source": "bceceb",
+   "org": "Bihar Combined Entrance Competitive Examination Board",
+   "short": "BCECEB",
+   "scope": "bihar",
+   "title": "Important Notice for Registration-cum-Choice Filling for Post Graduate Degree [PGMAC (Ayush)]-2026 for MD (Ayurveda) on the basis of AIAPGET[AYUSH]-2026 (Adv. No. BCECEB(PGMAC[AYUSH])-2026/04",
+   "url": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGAAC25_04.pdf",
+   "is_doc": true,
+   "type": "notice",
+   "list_date": "2026-11-05",
+   "first_seen": "2026-11-05T14:59:29+00:00",
+   "last_seen": "2026-11-05T14:59:29+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://bceceboard.bihar.gov.in",
+   "slug": "important-notice-for-registration-cum-choice-filling-for-post-624d5e",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "bceceb-registration-cum-choice-filling-post-graduate-2026"
+  },
+  {
+   "id": "24fa899f1ac3",
+   "source": "bceceb",
+   "org": "Bihar Combined Entrance Competitive Examination Board",
+   "short": "BCECEB",
+   "scope": "bihar",
+   "title": "Important Notice for Registration-cum-Choice Filling for Post Graduate Degree [PGMAC (Ayush)]-2026 for MD (Homeo) on the basis of AIAPGET[AYUSH]-2026 (Adv. No. BCECEB(PGMAC[AYUSH])-2026/02",
+   "url": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGAAC26_02.pdf",
+   "is_doc": true,
+   "type": "notice",
+   "list_date": "2026-11-05",
+   "first_seen": "2026-11-05T14:59:29+00:00",
+   "last_seen": "2026-11-05T14:59:29+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://bceceboard.bihar.gov.in",
+   "slug": "important-notice-for-registration-cum-choice-filling-for-post-24fa89",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "bceceb-registration-cum-choice-filling-post-graduate-2026"
   }
  ]
 }

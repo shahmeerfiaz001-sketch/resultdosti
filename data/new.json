@@ -1,31 +1,58 @@
 {
- "run": "2026-11-05T13:07:14+00:00",
+ "run": "2026-11-05T14:59:38+00:00",
  "first_run": false,
  "new": [
   {
-   "id": "74f1107439ff",
+   "id": "7e00cef99008",
    "type": "result",
-   "title": "Recruitment for the Post of Office Attendant in Reserve Bank of India - Panel Year 2025 - Display of Roll Numbers of Finally Selected Candidates for Appointment in the Bank’s Mumbai Office",
-   "short": "RBI",
-   "url": "https://resultdosti.in/result/rbi-recruitment-for-the-post-of-office-attendant-in-reserve-bank-of-74f110/",
+   "title": "Result of Advt. No. D-1/E-1/2026, Medical Education Department U.p. (ALLOPATHY)/PROFESSOR Oto-rhino-laryngology(ent), S-08/06",
+   "short": "UPPSC",
+   "url": "https://resultdosti.in/result/uppsc-result-of-advt-no-d-1-e-1-2026-medical-education-department-u-p-7e00ce/",
    "last_date": null,
    "jobposting": false
   },
   {
-   "id": "4621daf07177",
+   "id": "ff0b8d11cfce",
+   "type": "result",
+   "title": "Result of Advt. No. D-1/E-1/2026, Medical Education Department U.p. (ALLOPATHY)/PROFESSOR Cardiology, S-08/09",
+   "short": "UPPSC",
+   "url": "https://resultdosti.in/result/uppsc-result-of-advt-no-d-1-e-1-2026-medical-education-department-u-p-ff0b8d/",
+   "last_date": null,
+   "jobposting": false
+  },
+  {
+   "id": "bc07c667f32f",
+   "type": "result",
+   "title": "Result of Advt. No. D-1/E-1/2026, Medical Education Department U.p. (ALLOPATHY)/PROFESSOR Anatomy, S-08/04",
+   "short": "UPPSC",
+   "url": "https://resultdosti.in/result/uppsc-result-of-advt-no-d-1-e-1-2026-medical-education-department-u-p-bc07c6/",
+   "last_date": null,
+   "jobposting": false
+  },
+  {
+   "id": "1e066d627d74",
    "type": "notice",
-   "title": "Public Notice for Extension of Last Date for Submission of Online Application Form for Joint CSIR-UGC NET December 2026",
-   "short": "NTA",
-   "url": "https://resultdosti.in/notice/nta-public-notice-for-extension-of-last-date-for-submission-of-online-4621da/",
+   "title": "Important Notice for Registration-cum-Choice Filling for Post Graduate Degree [PGMAC (Ayush)]-2026 for MD (Unani) on the basis of AIAPGET[AYUSH]-2026 (Adv. No. BCECEB(PGMAC[AYUSH])-2026/06",
+   "short": "BCECEB",
+   "url": "https://resultdosti.in/notice/important-notice-for-registration-cum-choice-filling-for-post-1e066d/",
    "last_date": null,
    "jobposting": false
   },
   {
-   "id": "d195561e00a2",
-   "type": "result",
-   "title": "Result Notice for the Post of Superintendent, Junior Accountant and Junior Assistant",
-   "short": "CBSE",
-   "url": "https://resultdosti.in/result/cbse-result-notice-for-the-post-of-superintendent-junior-accountant-d19556/",
+   "id": "624d5e48706d",
+   "type": "notice",
+   "title": "Important Notice for Registration-cum-Choice Filling for Post Graduate Degree [PGMAC (Ayush)]-2026 for MD (Ayurveda) on the basis of AIAPGET[AYUSH]-2026 (Adv. No. BCECEB(PGMAC[AYUSH])-2026/04",
+   "short": "BCECEB",
+   "url": "https://resultdosti.in/notice/important-notice-for-registration-cum-choice-filling-for-post-624d5e/",
+   "last_date": null,
+   "jobposting": false
+  },
+  {
+   "id": "24fa899f1ac3",
+   "type": "notice",
+   "title": "Important Notice for Registration-cum-Choice Filling for Post Graduate Degree [PGMAC (Ayush)]-2026 for MD (Homeo) on the basis of AIAPGET[AYUSH]-2026 (Adv. No. BCECEB(PGMAC[AYUSH])-2026/02",
+   "short": "BCECEB",
+   "url": "https://resultdosti.in/notice/important-notice-for-registration-cum-choice-filling-for-post-24fa89/",
    "last_date": null,
    "jobposting": false
   }
