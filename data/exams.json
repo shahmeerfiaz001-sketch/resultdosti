@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T14:59:38+00:00",
+ "updated": "2026-11-05T18:55:29+00:00",
  "exams": [
   {
    "key": "uppsc-d-e-medical-education-department-u-p-professor-2026",
@@ -11711,6 +11711,40 @@
     "job"
    ],
    "latest": "2026-07-01"
+  },
+  {
+   "key": "ibps-common-process-crp-spl-xvi-2026",
+   "source": "ibps",
+   "short": "IBPS",
+   "org": "Institute of Banking Personnel Selection",
+   "scope": "central",
+   "items": [
+    "a94d0d0edd5c"
+   ],
+   "year": 2026,
+   "name": "IBPS Common Recruitment Process for CRP- SPL-XVI 2026",
+   "slug": "ibps-common-recruitment-process-for-crp-spl-xvi-2026-46668",
+   "types": [
+    "job"
+   ],
+   "latest": "2026-07-01"
+  },
+  {
+   "key": "ibps-window-crp-po-mts-xvi-spl-xvi-2026",
+   "source": "ibps",
+   "short": "IBPS",
+   "org": "Institute of Banking Personnel Selection",
+   "scope": "central",
+   "items": [
+    "0e7a285d9d16"
+   ],
+   "year": 2026,
+   "name": "IBPS Window Notification for CRP-PO/MTs -XVI and SPL-XVI 2026",
+   "slug": "ibps-window-notification-for-crp-po-mts-xvi-and-spl-xvi-2026-d5ca4",
+   "types": [
+    "job"
+   ],
+   "latest": "2026-06-30"
   },
   {
    "key": "bceceb-filling-graduate-engineering-admission-2026",

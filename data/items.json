@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T14:59:38+00:00",
+ "updated": "2026-11-05T18:55:29+00:00",
  "items": [
   {
    "id": "eb5a27ddb770",
@@ -42209,6 +42209,56 @@
    "tier": 1,
    "status": "info",
    "group": "bceceb-registration-cum-choice-filling-post-graduate-2026"
+  },
+  {
+   "id": "a94d0d0edd5c",
+   "source": "ibps",
+   "org": "Institute of Banking Personnel Selection",
+   "short": "IBPS",
+   "scope": "central",
+   "title": "Notification for Common Recruitment Process for CRP- SPL-XVI",
+   "url": "https://www.ibps.in/wp-content/uploads/Detailed-Notification-CRP-SPL-XVI_Final_V1_30.06.2026.pdf",
+   "is_doc": true,
+   "type": "job",
+   "list_date": "2026-07-01",
+   "first_seen": "2026-11-05T18:52:23+00:00",
+   "last_seen": "2026-11-05T18:52:23+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://www.ibps.in",
+   "slug": "ibps-notification-for-common-recruitment-process-for-crp-spl-xvi-a94d0d",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "ibps-common-process-crp-spl-xvi-2026"
+  },
+  {
+   "id": "0e7a285d9d16",
+   "source": "ibps",
+   "org": "Institute of Banking Personnel Selection",
+   "short": "IBPS",
+   "scope": "central",
+   "title": "Window Notification for CRP-PO/MTs -XVI and SPL-XVI",
+   "url": "https://www.ibps.in/wp-content/uploads/PO_SPL_Combined_Window_CRP-XVI.pdf",
+   "is_doc": true,
+   "type": "job",
+   "list_date": "2026-06-30",
+   "first_seen": "2026-11-05T18:52:23+00:00",
+   "last_seen": "2026-11-05T18:52:23+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://www.ibps.in",
+   "slug": "ibps-window-notification-for-crp-po-mts-xvi-and-spl-xvi-0e7a28",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "ibps-window-crp-po-mts-xvi-spl-xvi-2026"
   }
  ]
 }
