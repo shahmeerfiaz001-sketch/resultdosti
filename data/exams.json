@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T07:15:33+00:00",
+ "updated": "2026-11-05T09:02:12+00:00",
  "exams": [
   {
    "key": "uppsc-d-e-medical-education-department-u-p-professor-2026",
@@ -14,6 +14,46 @@
    "name": "UPPSC Result of Advt. No. D-1/E-1/2026, Medical Education Department U.p. /professor",
    "slug": "uppsc-result-of-advt-no-d-1-e-1-2026-medical-education-department-u-p-professor-c7b96",
    "types": [
+    "result"
+   ],
+   "latest": "2026-11-05"
+  },
+  {
+   "key": "bpssc-advt-05-2025",
+   "source": "bpssc",
+   "short": "BPSSC",
+   "org": "Bihar Police Subordinate Services Commission",
+   "scope": "bihar",
+   "items": [
+    "88b5e5c5a8de",
+    "63db1a3750bb",
+    "ff6a449064df",
+    "c3f539758a41",
+    "029f93945429",
+    "f011ff66bb75",
+    "6144de6ca0a1",
+    "8eda54b72f56",
+    "652e7a6b81f5",
+    "1b31283faafa",
+    "8d87a495bbb1",
+    "c79899967eb3",
+    "d3fbe6c5ba84",
+    "3238981ceb4c",
+    "9fb0465813af",
+    "db1fd7d5a42d",
+    "9de4298b2e49",
+    "4f6ce3d0b240",
+    "f5089cafdeff",
+    "19fbf3b57034",
+    "aab8debffbf4"
+   ],
+   "year": 2025,
+   "name": "BPSSC Ref.:Advt. No.-05/2025: to re-upload your photo/signature",
+   "slug": "bpssc-ref-advt-no-05-2025-to-re-upload-your-photo-signature-11023",
+   "types": [
+    "admit",
+    "job",
+    "notice",
     "result"
    ],
    "latest": "2026-11-05"
@@ -10228,45 +10268,6 @@
     "job"
    ],
    "latest": "2026-09-24"
-  },
-  {
-   "key": "bpssc-advt-05-2025",
-   "source": "bpssc",
-   "short": "BPSSC",
-   "org": "Bihar Police Subordinate Services Commission",
-   "scope": "bihar",
-   "items": [
-    "88b5e5c5a8de",
-    "63db1a3750bb",
-    "ff6a449064df",
-    "c3f539758a41",
-    "029f93945429",
-    "f011ff66bb75",
-    "6144de6ca0a1",
-    "8eda54b72f56",
-    "652e7a6b81f5",
-    "1b31283faafa",
-    "8d87a495bbb1",
-    "c79899967eb3",
-    "d3fbe6c5ba84",
-    "3238981ceb4c",
-    "9fb0465813af",
-    "db1fd7d5a42d",
-    "9de4298b2e49",
-    "4f6ce3d0b240",
-    "f5089cafdeff",
-    "19fbf3b57034"
-   ],
-   "year": 2025,
-   "name": "BPSSC Ref.:Advt. No.-05/2025: to re-upload your photo/signature",
-   "slug": "bpssc-ref-advt-no-05-2025-to-re-upload-your-photo-signature-11023",
-   "types": [
-    "admit",
-    "job",
-    "notice",
-    "result"
-   ],
-   "latest": "2026-09-23"
   },
   {
    "key": "bceceb-second-round-counselling-ugeac-architecture-2026",

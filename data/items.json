@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T07:15:33+00:00",
+ "updated": "2026-11-05T09:02:12+00:00",
  "items": [
   {
    "id": "eb5a27ddb770",
@@ -17407,7 +17407,7 @@
    "type": "admission",
    "list_date": null,
    "first_seen": "2026-11-04T17:33:59+00:00",
-   "last_seen": "2026-11-04T17:33:59+00:00",
+   "last_seen": "2026-11-05T08:58:11+00:00",
    "advt": null,
    "link_policy": "home_only",
    "official_home": "https://aiimsexams.ac.in/landingpage/notice",
@@ -17433,7 +17433,7 @@
    "type": "admit",
    "list_date": null,
    "first_seen": "2026-11-04T17:33:59+00:00",
-   "last_seen": "2026-11-04T17:33:59+00:00",
+   "last_seen": "2026-11-05T08:58:11+00:00",
    "advt": null,
    "link_policy": "home_only",
    "official_home": "https://aiimsexams.ac.in/landingpage/notice",
@@ -17459,7 +17459,7 @@
    "type": "job",
    "list_date": null,
    "first_seen": "2026-11-04T17:33:59+00:00",
-   "last_seen": "2026-11-04T17:33:59+00:00",
+   "last_seen": "2026-11-05T08:58:11+00:00",
    "advt": null,
    "link_policy": "home_only",
    "official_home": "https://aiimsexams.ac.in/landingpage/notice",
@@ -17485,7 +17485,7 @@
    "type": "admission",
    "list_date": "2026-10-19",
    "first_seen": "2026-11-04T17:33:59+00:00",
-   "last_seen": "2026-11-04T17:33:59+00:00",
+   "last_seen": "2026-11-05T08:58:11+00:00",
    "advt": null,
    "link_policy": "home_only",
    "official_home": "https://aiimsexams.ac.in/landingpage/notice",
@@ -17510,7 +17510,7 @@
    "type": "notice",
    "list_date": null,
    "first_seen": "2026-11-04T17:33:59+00:00",
-   "last_seen": "2026-11-04T17:33:59+00:00",
+   "last_seen": "2026-11-05T08:58:11+00:00",
    "advt": null,
    "link_policy": "home_only",
    "official_home": "https://aiimsexams.ac.in/landingpage/notice",
@@ -24706,11 +24706,12 @@
      "latin": 0.0,
      "devanagari": 0.0,
      "legacy_suspect": false,
-     "scanned_suspect": true
+     "scanned_suspect": true,
+     "ocr": true
     },
-    "parsed_at": "2026-11-04T19:08:00+00:00",
+    "parsed_at": "2026-11-05T09:01:24+00:00",
     "pdf_error": null,
-    "attempts": 1
+    "attempts": 2
    },
    "tier": 1,
    "status": "info",
@@ -24740,11 +24741,12 @@
      "latin": 0.0,
      "devanagari": 0.0,
      "legacy_suspect": false,
-     "scanned_suspect": true
+     "scanned_suspect": true,
+     "ocr": true
     },
-    "parsed_at": "2026-11-04T19:08:00+00:00",
+    "parsed_at": "2026-11-05T09:01:31+00:00",
     "pdf_error": null,
-    "attempts": 1
+    "attempts": 2
    },
    "tier": 1,
    "status": "info",
@@ -24999,11 +25001,12 @@
      "latin": 0.0,
      "devanagari": 0.0,
      "legacy_suspect": false,
-     "scanned_suspect": true
+     "scanned_suspect": true,
+     "ocr": true
     },
-    "parsed_at": "2026-11-04T20:54:44+00:00",
+    "parsed_at": "2026-11-05T09:02:12+00:00",
     "pdf_error": null,
-    "attempts": 1
+    "attempts": 2
    },
    "tier": 1,
    "status": "info",
@@ -25378,21 +25381,28 @@
    "official_home": "https://shs.bihar.gov.in",
    "slug": "shs-bihar-walk-in-recruitment-for-specialist-doctors-against-advt-no-5fda3a",
    "details": {
-    "fields": {},
+    "fields": {
+     "last_date": {
+      "value": "2026-08-21",
+      "confidence": "valid"
+     }
+    },
     "pdf_quality": {
      "chars": 0,
      "latin": 0.0,
      "devanagari": 0.0,
      "legacy_suspect": false,
-     "scanned_suspect": true
+     "scanned_suspect": true,
+     "ocr": true
     },
-    "parsed_at": "2026-11-04T17:38:16+00:00",
+    "parsed_at": "2026-11-05T09:01:59+00:00",
     "pdf_error": null,
-    "attempts": 1
+    "attempts": 2
    },
    "tier": 1,
-   "status": "info",
-   "group": "shsbihar-advt-03-2026"
+   "status": "closed",
+   "group": "shsbihar-advt-03-2026",
+   "last_date": "2026-08-21"
   },
   {
    "id": "a3d0008c3cda",
@@ -41804,11 +41814,12 @@
      "latin": 0.0,
      "devanagari": 0.0,
      "legacy_suspect": false,
-     "scanned_suspect": true
+     "scanned_suspect": true,
+     "ocr": true
     },
-    "parsed_at": "2026-11-04T22:49:22+00:00",
+    "parsed_at": "2026-11-05T09:01:16+00:00",
     "pdf_error": null,
-    "attempts": 1
+    "attempts": 2
    },
    "tier": 1,
    "status": "info",
@@ -41838,11 +41849,12 @@
      "latin": 0.0,
      "devanagari": 0.0,
      "legacy_suspect": false,
-     "scanned_suspect": true
+     "scanned_suspect": true,
+     "ocr": true
     },
-    "parsed_at": "2026-11-04T22:49:23+00:00",
+    "parsed_at": "2026-11-05T09:01:42+00:00",
     "pdf_error": null,
-    "attempts": 1
+    "attempts": 2
    },
    "tier": 1,
    "status": "info",
@@ -41922,6 +41934,79 @@
    "tier": 1,
    "status": "info",
    "group": "cisf-notice-2026"
+  },
+  {
+   "id": "98acc5e52876",
+   "source": "sbi",
+   "org": "State Bank of India Careers",
+   "short": "SBI",
+   "scope": "central",
+   "title": "(Circle Allotment Announced for Successful Candidates) - Advertisement( Hindi )/ English )",
+   "url": "https://sbi.bank.in/documents/77530/43947057/261220241932-1_Detailed_Adv.2024_27.12.2024.pdf/dfe093da-d25c-8cc5-67df-cf29f3f61645?t=1735221832896",
+   "is_doc": false,
+   "type": "job",
+   "list_date": "2024-12-27",
+   "first_seen": "2026-11-05T08:57:19+00:00",
+   "last_seen": "2026-11-05T08:57:19+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://sbi.bank.in",
+   "slug": "sbi-circle-allotment-announced-for-successful-candidates-98acc5",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info"
+  },
+  {
+   "id": "f1c7ff6cf5da",
+   "source": "sbi",
+   "org": "State Bank of India Careers",
+   "short": "SBI",
+   "scope": "central",
+   "title": "(Candidates Provisionally Selected in Second Wait List Announced) - Advertisement( Hindi / English )",
+   "url": "https://sbi.bank.in/documents/77530/43947057/18122024_SBI+-+CRPD+23+JA+2024+-+Ladakh-Detailed+Ad+-+Hindi_17.12.24.pdf/ef256158-001c-1bbe-ca97-d2b1886ecff3?t=1734520478398",
+   "is_doc": false,
+   "type": "job",
+   "list_date": "2024-12-17",
+   "first_seen": "2026-11-05T08:57:19+00:00",
+   "last_seen": "2026-11-05T08:57:19+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://sbi.bank.in",
+   "slug": "sbi-candidates-provisionally-selected-in-second-wait-list-announced-f1c7ff",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info"
+  },
+  {
+   "id": "aab8debffbf4",
+   "source": "bpssc",
+   "org": "Bihar Police Subordinate Services Commission",
+   "short": "BPSSC",
+   "scope": "bihar",
+   "title": "Ref.:Advt. No.-05/2025: Important Notice Regarding Advt. No.-05/2025",
+   "url": "https://bpssc.bihar.gov.in/Notices/Notice for cancel of candidates.pdf",
+   "is_doc": true,
+   "type": "notice",
+   "list_date": "2026-11-05",
+   "first_seen": "2026-11-05T09:00:24+00:00",
+   "last_seen": "2026-11-05T09:00:24+00:00",
+   "advt": "05/2025",
+   "link_policy": "deep",
+   "official_home": "https://bpssc.bihar.gov.in",
+   "slug": "bpssc-ref-advt-no-05-2025-important-notice-regarding-advt-no-05-2025-aab8de",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "bpssc-advt-05-2025"
   }
  ]
 }
