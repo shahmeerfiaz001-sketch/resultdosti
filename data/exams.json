@@ -1,6 +1,90 @@
 {
- "updated": "2026-11-04T22:49:25+00:00",
+ "updated": "2026-11-05T01:01:25+00:00",
  "exams": [
+  {
+   "key": "aiims-update-eligible-not-eligible-walk-interivew-2026",
+   "source": "aiims",
+   "short": "AIIMS",
+   "org": "AIIMS Examinations",
+   "scope": "central",
+   "items": [
+    "40a3aabb9e50",
+    "388197207005",
+    "1c38eb615c53",
+    "a8ab07f7ad34",
+    "55d355a99c4c"
+   ],
+   "year": 2026,
+   "name": "AIIMS Update list of eligible / not eligible for walk-in-interivew/offline counseling 2026",
+   "slug": "aiims-update-list-of-eligible-not-eligible-for-walk-in-interivew-offline-df851",
+   "types": [
+    "admission"
+   ],
+   "latest": "2026-11-05"
+  },
+  {
+   "key": "aiims-fees-optometry-bachelor-medical-radiology-2026",
+   "source": "aiims",
+   "short": "AIIMS",
+   "org": "AIIMS Examinations",
+   "scope": "central",
+   "items": [
+    "72cbc97a6324",
+    "c0f7a34cd576",
+    "e77a14bfc0aa",
+    "0e750a686ece",
+    "1172bb4fceb0"
+   ],
+   "year": 2026,
+   "name": "AIIMS Fees and Admit Card for Optometry Phase - III/Bachelor of Medical Radiology and 2026",
+   "slug": "aiims-fees-and-admit-card-for-optometry-phase-iii-bachelor-of-medical-radiology-9d4a6",
+   "types": [
+    "admit"
+   ],
+   "latest": "2026-11-05"
+  },
+  {
+   "key": "aiims-eligible-not-eligible-walk-junior-resident-2026",
+   "source": "aiims",
+   "short": "AIIMS",
+   "org": "AIIMS Examinations",
+   "scope": "central",
+   "items": [
+    "f2e25c52d95e",
+    "7ae95a74a9d1",
+    "b9d797deb5bc",
+    "bc259a75cae6",
+    "fc09d92aa0cc"
+   ],
+   "year": 2026,
+   "name": "AIIMS List of eligible / Not eligible candidates for walk-in-interview for the post 2026",
+   "slug": "aiims-list-of-eligible-not-eligible-candidates-for-walk-in-interview-for-the-42303",
+   "types": [
+    "job"
+   ],
+   "latest": "2026-11-05"
+  },
+  {
+   "key": "aiims-01-faculty-disciplines-at-aiims-awantipora-2026",
+   "source": "aiims",
+   "short": "AIIMS",
+   "org": "AIIMS Examinations",
+   "scope": "central",
+   "items": [
+    "fb220de4d49c",
+    "0f993686be98",
+    "d853a22f182a",
+    "5841af8e0ce5",
+    "c2e68598c458"
+   ],
+   "year": 2026,
+   "name": "AIIMS No. 01 of 2026 :- Regarding the Interview schedule for various faculty posts of",
+   "slug": "aiims-no-01-of-2026-regarding-the-interview-schedule-for-various-faculty-posts-be6e6",
+   "types": [
+    "notice"
+   ],
+   "latest": "2026-11-05"
+  },
   {
    "key": "uppsc-d-e-medical-education-department-u-p-professor-2026",
    "source": "uppsc",
@@ -5493,86 +5577,6 @@
    "latest": "2026-11-04"
   },
   {
-   "key": "aiims-update-eligible-not-eligible-walk-interivew-2026",
-   "source": "aiims",
-   "short": "AIIMS",
-   "org": "AIIMS Examinations",
-   "scope": "central",
-   "items": [
-    "40a3aabb9e50",
-    "388197207005",
-    "1c38eb615c53",
-    "a8ab07f7ad34"
-   ],
-   "year": 2026,
-   "name": "AIIMS Update list of eligible / not eligible for walk-in-interivew/offline counseling 2026",
-   "slug": "aiims-update-list-of-eligible-not-eligible-for-walk-in-interivew-offline-df851",
-   "types": [
-    "admission"
-   ],
-   "latest": "2026-11-04"
-  },
-  {
-   "key": "aiims-fees-optometry-bachelor-medical-radiology-2026",
-   "source": "aiims",
-   "short": "AIIMS",
-   "org": "AIIMS Examinations",
-   "scope": "central",
-   "items": [
-    "72cbc97a6324",
-    "c0f7a34cd576",
-    "e77a14bfc0aa",
-    "0e750a686ece"
-   ],
-   "year": 2026,
-   "name": "AIIMS Fees and Admit Card for Optometry Phase - III/Bachelor of Medical Radiology and 2026",
-   "slug": "aiims-fees-and-admit-card-for-optometry-phase-iii-bachelor-of-medical-radiology-9d4a6",
-   "types": [
-    "admit"
-   ],
-   "latest": "2026-11-04"
-  },
-  {
-   "key": "aiims-eligible-not-eligible-walk-junior-resident-2026",
-   "source": "aiims",
-   "short": "AIIMS",
-   "org": "AIIMS Examinations",
-   "scope": "central",
-   "items": [
-    "f2e25c52d95e",
-    "7ae95a74a9d1",
-    "b9d797deb5bc",
-    "bc259a75cae6"
-   ],
-   "year": 2026,
-   "name": "AIIMS List of eligible / Not eligible candidates for walk-in-interview for the post 2026",
-   "slug": "aiims-list-of-eligible-not-eligible-candidates-for-walk-in-interview-for-the-42303",
-   "types": [
-    "job"
-   ],
-   "latest": "2026-11-04"
-  },
-  {
-   "key": "aiims-01-faculty-disciplines-at-aiims-awantipora-2026",
-   "source": "aiims",
-   "short": "AIIMS",
-   "org": "AIIMS Examinations",
-   "scope": "central",
-   "items": [
-    "fb220de4d49c",
-    "0f993686be98",
-    "d853a22f182a",
-    "5841af8e0ce5"
-   ],
-   "year": 2026,
-   "name": "AIIMS No. 01 of 2026 :- Regarding the Interview schedule for various faculty posts of",
-   "slug": "aiims-no-01-of-2026-regarding-the-interview-schedule-for-various-faculty-posts-be6e6",
-   "types": [
-    "notice"
-   ],
-   "latest": "2026-11-04"
-  },
-  {
    "key": "lic-aao-generalists-specialists-assistant-engineers-2025",
    "source": "lic",
    "short": "LIC",
@@ -9603,7 +9607,8 @@
     "6a649b21b844",
     "7f61107c00ce",
     "848f9f1546f1",
-    "10b7987b9ba6"
+    "10b7987b9ba6",
+    "69b6dad5acdd"
    ],
    "year": 2026,
    "name": "AIIMS Revised date for Walk-in interview/counseling for the post of Junior Resident 2026",
