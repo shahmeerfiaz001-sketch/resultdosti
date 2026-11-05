@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T11:03:04+00:00",
+ "updated": "2026-11-05T13:07:14+00:00",
  "exams": [
   {
    "key": "uppsc-d-e-medical-education-department-u-p-professor-2026",
@@ -72,6 +72,57 @@
    "slug": "ssc-combined-hindi-translators-examination-2025-declaration-of-first-round-of-b4c7f",
    "types": [
     "notice"
+   ],
+   "latest": "2026-11-05"
+  },
+  {
+   "key": "rbi-attendant-reserve-bank-india-panel-year-display-2025",
+   "source": "rbi",
+   "short": "RBI",
+   "org": "Reserve Bank of India Opportunities",
+   "scope": "central",
+   "items": [
+    "74f1107439ff"
+   ],
+   "year": 2025,
+   "name": "RBI Recruitment for the Post of Office Attendant in Reserve Bank of India - Panel 2025",
+   "slug": "rbi-recruitment-for-the-post-of-office-attendant-in-reserve-bank-of-india-panel-ca5da",
+   "types": [
+    "result"
+   ],
+   "latest": "2026-11-05"
+  },
+  {
+   "key": "nta-public-joint-csir-ugc-net-december-2026",
+   "source": "nta",
+   "short": "NTA",
+   "org": "National Testing Agency",
+   "scope": "central",
+   "items": [
+    "4621daf07177"
+   ],
+   "year": 2026,
+   "name": "NTA Extension of Last Date for Submission of Online Application Form for Joint 2026",
+   "slug": "nta-extension-of-last-date-for-submission-of-online-application-form-for-joint-c5b6e",
+   "types": [
+    "notice"
+   ],
+   "latest": "2026-11-05"
+  },
+  {
+   "key": "cbse-superintendent-junior-accountant-junior-2026",
+   "source": "cbse",
+   "short": "CBSE",
+   "org": "Central Board of Secondary Education",
+   "scope": "central",
+   "items": [
+    "d195561e00a2"
+   ],
+   "year": 2026,
+   "name": "CBSE Result Notice for the Post of Superintendent, Junior Accountant and Junior 2026",
+   "slug": "cbse-result-notice-for-the-post-of-superintendent-junior-accountant-and-junior-300b7",
+   "types": [
+    "result"
    ],
    "latest": "2026-11-05"
   },

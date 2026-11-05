@@ -1,13 +1,31 @@
 {
- "run": "2026-11-05T11:03:04+00:00",
+ "run": "2026-11-05T13:07:14+00:00",
  "first_run": false,
  "new": [
   {
-   "id": "81b2ed68c2e6",
+   "id": "74f1107439ff",
+   "type": "result",
+   "title": "Recruitment for the Post of Office Attendant in Reserve Bank of India - Panel Year 2025 - Display of Roll Numbers of Finally Selected Candidates for Appointment in the Bank’s Mumbai Office",
+   "short": "RBI",
+   "url": "https://resultdosti.in/result/rbi-recruitment-for-the-post-of-office-attendant-in-reserve-bank-of-74f110/",
+   "last_date": null,
+   "jobposting": false
+  },
+  {
+   "id": "4621daf07177",
    "type": "notice",
-   "title": "Combined Hindi Translators Examination, 2025 - Declaration of First Round of Tentative Allocation (FRTA)",
-   "short": "SSC",
-   "url": "https://resultdosti.in/notice/ssc-combined-hindi-translators-examination-2025-declaration-of-first-81b2ed/",
+   "title": "Public Notice for Extension of Last Date for Submission of Online Application Form for Joint CSIR-UGC NET December 2026",
+   "short": "NTA",
+   "url": "https://resultdosti.in/notice/nta-public-notice-for-extension-of-last-date-for-submission-of-online-4621da/",
+   "last_date": null,
+   "jobposting": false
+  },
+  {
+   "id": "d195561e00a2",
+   "type": "result",
+   "title": "Result Notice for the Post of Superintendent, Junior Accountant and Junior Assistant",
+   "short": "CBSE",
+   "url": "https://resultdosti.in/result/cbse-result-notice-for-the-post-of-superintendent-junior-accountant-d19556/",
    "last_date": null,
    "jobposting": false
   }

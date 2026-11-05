@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T11:03:04+00:00",
+ "updated": "2026-11-05T13:07:14+00:00",
  "items": [
   {
    "id": "eb5a27ddb770",
@@ -41984,6 +41984,81 @@
    "tier": 1,
    "status": "info",
    "group": "ssc-combined-hindi-translators-declaration-first-2025"
+  },
+  {
+   "id": "74f1107439ff",
+   "source": "rbi",
+   "org": "Reserve Bank of India Opportunities",
+   "short": "RBI",
+   "scope": "central",
+   "title": "Recruitment for the Post of Office Attendant in Reserve Bank of India - Panel Year 2025 - Display of Roll Numbers of Finally Selected Candidates for Appointment in the Bank’s Mumbai Office",
+   "url": "https://opportunities.rbi.org.in/Scripts/bs_viewcontent.aspx?Id=5209",
+   "is_doc": false,
+   "type": "result",
+   "list_date": null,
+   "first_seen": "2026-11-05T13:03:22+00:00",
+   "last_seen": "2026-11-05T13:03:22+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://opportunities.rbi.org.in",
+   "slug": "rbi-recruitment-for-the-post-of-office-attendant-in-reserve-bank-of-74f110",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "rbi-attendant-reserve-bank-india-panel-year-display-2025"
+  },
+  {
+   "id": "4621daf07177",
+   "source": "nta",
+   "org": "National Testing Agency",
+   "short": "NTA",
+   "scope": "central",
+   "title": "Public Notice for Extension of Last Date for Submission of Online Application Form for Joint CSIR-UGC NET December 2026",
+   "url": "https://nta.ac.in/Download/Notice/Notice_20261105175642.pdf",
+   "is_doc": true,
+   "type": "notice",
+   "list_date": null,
+   "first_seen": "2026-11-05T13:03:25+00:00",
+   "last_seen": "2026-11-05T13:03:25+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://nta.ac.in",
+   "slug": "nta-public-notice-for-extension-of-last-date-for-submission-of-online-4621da",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "nta-public-joint-csir-ugc-net-december-2026"
+  },
+  {
+   "id": "d195561e00a2",
+   "source": "cbse",
+   "org": "Central Board of Secondary Education",
+   "short": "CBSE",
+   "scope": "central",
+   "title": "Result Notice for the Post of Superintendent, Junior Accountant and Junior Assistant",
+   "url": "https://www.cbse.gov.in/cbsenew/documents/Result_SUPT_JR_ACCT_JR_ASST_05112026.pdf",
+   "is_doc": true,
+   "type": "result",
+   "list_date": "2026-11-05",
+   "first_seen": "2026-11-05T13:03:46+00:00",
+   "last_seen": "2026-11-05T13:03:46+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://cbse.gov.in",
+   "slug": "cbse-result-notice-for-the-post-of-superintendent-junior-accountant-d19556",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "cbse-superintendent-junior-accountant-junior-2026"
   }
  ]
 }
