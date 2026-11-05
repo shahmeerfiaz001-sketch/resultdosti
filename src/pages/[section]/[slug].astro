@@ -5,7 +5,7 @@ import ItemRow from '../../components/ItemRow.astro';
 import Crumbs from '../../components/Crumbs.astro';
 import Side from '../../components/Side.astro';
 import site from '../../../site.config.json';
-import { live, TYPES, fmt, daysLeft, officialLink, displayTitle, examOf, itemPath, examPath, scopeName, fieldsOf, dateKey, isIndexable, type Item } from '../../lib/data';
+import { live, TYPES, fmt, daysLeft, officialLink, displayTitle, examOf, itemPath, examPath, scopeName, fieldsOf, dateKey, isIndexable, orgAbout, type Item } from '../../lib/data';
 import { lead, steps, feeText, ageText, metaDesc, jobTitle, uniqueTitle, isTitleDuplicate, cutTitle } from '../../lib/copy';
 
 export function getStaticPaths() {
@@ -41,6 +41,16 @@ if (f.fee) rows.push(['Application fee', feeText(f.fee)]);
 if (f.age) rows.push(['Age limit', ageText(f.age)]);
 rows.push(['Region', scopeName(item.scope).name]);
 rows.push(['Official website', host]);
+const about = orgAbout(item.source);
+const qa: [string, string][] = [];
+qa.push([`What is the official website for this ${T.short.toLowerCase()}?`, `The official website is ${host}${link.deep ? ', and the button on this page opens the notice there directly.' : '. Open its home page and look in the latest notices section.'}`]);
+if (item.list_date) qa.push(['When was this notice published?', `The official website shows it dated ${fmt(item.list_date)}. ResultDosti found it on ${fmt(item.first_seen)}.`]);
+if (item.type === 'job') qa.push(['What is the last date to apply?', f.last_date ? `The last date read from the official notification is ${fmt(String(f.last_date.value))}. Confirm it in the notification before applying.` : 'The last date is given in the official notification. Open it with the button on this page.']);
+if (item.type === 'job' && f.fee) qa.push(['What is the application fee?', `${feeText(f.fee)}, as read from the official notification. Fee concessions for reserved categories are given in the notification.`]);
+if (item.type === 'admit') qa.push(['What do I need to download the admit card?', 'Usually your registration or application number and your date of birth or password, as set during registration. Carry a printout and a valid photo ID to the exam centre.']);
+if (item.type === 'result') qa.push(['How do I check my name in the result?', 'Open the result PDF or page and search for your roll number using Ctrl+F on a computer or the find option in your phone browser.']);
+if (item.type === 'answer') qa.push(['Can I challenge the answer key?', 'If the commission allows objections, the notice gives the window and fee. Objections are accepted only on the official portal.']);
+qa.push(['Is ResultDosti an official website?', `No. ResultDosti is an independent information website. This page is based on the notice published by ${item.org} at ${host}.`]);
 const extracted = ['start_date', 'last_date', 'exam_date', 'posts', 'fee', 'age'].some((k) => f[k]);
 
 const crumbs = [{ name: 'Home', url: '/' }, { name: T.list, url: `/${T.path}/` }, ...(exam ? [{ name: cutTitle(exam.name, 48), url: examPath(exam) }] : []), { name: cutTitle(title, 60) }];
@@ -131,6 +141,19 @@ if (jobOn) {
             </ol>
           </section>
         )}
+
+        {about && (
+          <section class="card" aria-labelledby="ab">
+            <h2 id="ab">About {item.org}</h2>
+            <p>{about}</p>
+            <p class="fine"><a href={`/org/${item.source}/`}>All {item.short} updates on ResultDosti</a> · Official website: {new URL(item.official_home).hostname.replace(/^www\./, '')}</p>
+          </section>
+        )}
+
+        <section class="card faq" aria-labelledby="fq">
+          <h2 id="fq">Questions</h2>
+          {qa.map(([q, a]) => <details><summary>{q}</summary><div class="a">{a}</div></details>)}
+        </section>
 
         <div class="note">
           <strong>Note:</strong> ResultDosti is not a government website. This page is based on the notice published at {host}. Never pay anyone for a job or result. Apply and pay fees only on the official website.

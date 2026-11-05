@@ -11,7 +11,7 @@ export function getStaticPaths() {
   const has = new Set(live().map((i) => i.source));
   return list.filter((s) => has.has(s.id)).map((s) => ({ params: { source: s.id }, props: { s, dup: list.filter((x) => x.short === s.short).length > 1 } }));
 }
-const { s, dup } = Astro.props as { s: { id: string; name: string; short: string; scope: string; base: string }; dup: boolean };
+const { s, dup } = Astro.props as { s: { id: string; name: string; short: string; scope: string; base: string; about?: string }; dup: boolean };
 const label = dup ? s.name : s.short;
 const items = live().filter((i) => i.source === s.id).slice(0, 250);
 const exams = liveExams().filter((e) => e.source === s.id).slice(0, 30);
@@ -24,6 +24,7 @@ const c = [{ name: 'Home', url: '/' }, { name: scopeName(s.scope).name, url: `/s
     <Crumbs items={c} />
     <div class="list-head">
       <h1>{label} Recruitment {year}: Latest Updates</h1>
+      {s.about && <p>{s.about}</p>}
       <p>All updates published by {s.name} on its official website <a href={s.base} target="_blank" rel="noopener nofollow">{host}</a>, collected in one list.</p>
     </div>
     {exams.length > 0 && (

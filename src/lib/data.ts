@@ -1,6 +1,7 @@
 import { readFileSync, existsSync } from 'node:fs';
 import { resolve } from 'node:path';
 import site from '../../site.config.json';
+import sourcesJson from '../../bot/config/sources.json';
 import { indexable, hubCounts } from './indexable.mjs';
 
 export type Field = { value?: string | number; values?: number[]; min?: number | null; max?: number | null; confidence?: string };
@@ -158,4 +159,9 @@ let hubCache: Map<string, number> | null = null;
 export function isIndexable(i: Item): boolean {
   if (!hubCache) hubCache = hubCounts(load().exams, new Set(live().map((x) => x.id)));
   return indexable(i, istToday(), hubCache);
+}
+
+const ABOUT = new Map<string, string>(((sourcesJson as any[]) || []).map((x) => [x.id, x.about || '']));
+export function orgAbout(source: string): string {
+  return ABOUT.get(source) || '';
 }
