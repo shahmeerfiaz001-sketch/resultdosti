@@ -89,3 +89,32 @@ def test_signed_url_stable_id():
     assert store.item_id(a) == store.item_id(b)
     assert store.is_signed(a)
     assert store.item_id("https://x.in/a.php?id=5") != store.item_id("https://x.in/a.php?id=6")
+
+
+def test_ocr_scanned_pdf():
+    import io as _io
+    import shutil as _sh
+    import subprocess as _sp
+    import tempfile as _tf
+    if not _sh.which("tesseract") or not _sh.which("pdftoppm"):
+        pytest.skip("ocr tools missing")
+    pytest.importorskip("reportlab")
+    from reportlab.lib.pagesizes import A4
+    from reportlab.pdfgen import canvas
+    from PIL import Image
+    from rdbot import pdfparse
+    buf = _io.BytesIO()
+    c = canvas.Canvas(buf, pagesize=A4)
+    c.setFont("Helvetica", 14)
+    for n, line in enumerate(["Last date for online application: 30-11-2026", "Application Fee: Rs. 500/-", "Total Posts: 1250"]):
+        c.drawString(60, 780 - n * 28, line)
+    c.save()
+    d = _tf.mkdtemp()
+    open(d + "/t.pdf", "wb").write(buf.getvalue())
+    _sp.run(["pdftoppm", "-r", "150", "-png", "-f", "1", "-l", "1", d + "/t.pdf", d + "/i"], check=True)
+    png = [f for f in os.listdir(d) if f.endswith(".png")][0]
+    Image.open(os.path.join(d, png)).convert("RGB").save(d + "/s.pdf")
+    content = open(d + "/s.pdf", "rb").read()
+    pdfparse.OCR_BUDGET["left"] = 2
+    f = pdfparse.parse_fields(pdfparse.ocr_text(content))
+    assert f["last_date"]["values"] == ["2026-11-30"] and f["posts"]["value"] == 1250

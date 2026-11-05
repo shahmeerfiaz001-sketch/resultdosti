@@ -132,7 +132,8 @@ def pdf_pending(it, today):
     if age_days(it, today) > 120:
         return False
     d = it.get("details") or {}
-    if d.get("parsed_at") and not d.get("pdf_error"):
+    q = d.get("pdf_quality") or {}
+    if d.get("parsed_at") and not d.get("pdf_error") and not (q.get("scanned_suspect") and not q.get("ocr") and not d.get("fields")):
         return False
     return d.get("attempts", 0) < 3
 

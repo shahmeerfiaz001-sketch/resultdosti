@@ -1,3 +1,7 @@
+import tempfile
+import subprocess
+import shutil
+import os
 import io
 import re
 
@@ -45,6 +49,46 @@ def pdf_text(content, max_pages=8):
             except Exception:
                 out.append("")
     return clean("\n".join(out)) if out else ""
+
+
+OCR_BUDGET = {"left": int(os.environ.get("RD_OCR_MAX", "12"))}
+
+
+def ocr_text(content, pages=3):
+    if OCR_BUDGET["left"] <= 0 or not shutil.which("tesseract") or not shutil.which("pdftoppm"):
+        return ""
+    OCR_BUDGET["left"] -= 1
+    langs = "eng+hin" if "hin" in _langs() else "eng"
+    with tempfile.TemporaryDirectory() as d:
+        src = os.path.join(d, "a.pdf")
+        with open(src, "wb") as f:
+            f.write(content)
+        try:
+            subprocess.run(["pdftoppm", "-r", "200", "-gray", "-f", "1", "-l", str(pages), "-png", src, os.path.join(d, "p")], check=True, timeout=90, capture_output=True)
+        except Exception:
+            return ""
+        out = []
+        for name in sorted(n for n in os.listdir(d) if n.endswith(".png")):
+            try:
+                r = subprocess.run(["tesseract", os.path.join(d, name), "-", "-l", langs, "--psm", "6"], capture_output=True, text=True, timeout=120)
+                out.append(r.stdout)
+            except Exception:
+                continue
+    return clean("\n".join(out))
+
+
+_LANGS = None
+
+
+def _langs():
+    global _LANGS
+    if _LANGS is None:
+        try:
+            r = subprocess.run(["tesseract", "--list-langs"], capture_output=True, text=True, timeout=20)
+            _LANGS = set(r.stdout.split())
+        except Exception:
+            _LANGS = set()
+    return _LANGS
 
 
 def _date_after(label_re, text, window=140):
@@ -117,4 +161,9 @@ def parse_pdf_url(url):
     usable = text
     if q["legacy_suspect"]:
         usable = " ".join(w for w in text.split(" ") if not LEGACY_HINT.search(w))
+    if q["scanned_suspect"] or q["legacy_suspect"] or len(usable) < 300:
+        o = ocr_text(res["content"])
+        if len(o) > len(usable):
+            usable = o
+            q = dict(q, ocr=True)
     return {"ok": True, "quality": q, "fields": parse_fields(usable), "excerpt": usable[:1200]}
