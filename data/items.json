@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T01:01:25+00:00",
+ "updated": "2026-11-05T02:58:09+00:00",
  "items": [
   {
    "id": "eb5a27ddb770",
@@ -42396,6 +42396,140 @@
    "link_policy": "deep",
    "official_home": "https://aiimsexams.ac.in",
    "slug": "notice-no-01-of-2026-regarding-the-interview-schedule-for-various-c2e685",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "aiims-01-faculty-disciplines-at-aiims-awantipora-2026"
+  },
+  {
+   "id": "3952c65a98ea",
+   "source": "aiims",
+   "org": "AIIMS Examinations",
+   "short": "AIIMS",
+   "scope": "central",
+   "title": "Update list of eligible / not eligible for walk-in-interivew/offline counseling for JR July 2026 session",
+   "url": "https://rrpdocuments.aiimsexams.ac.in/1793793407393-287725237.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVRUVRLXWMSLVSAP7%2F20261105%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261105T025114Z&X-Amz-Expires=604800&X-Amz-Signature=f54e3f89370d6c0fcc9f2b48ce8547ae1c86c010251d1887a36818a66d8911be&X-Amz-SignedHeaders=host&response-content-type=application%2Fpdf",
+   "is_doc": true,
+   "type": "admission",
+   "list_date": null,
+   "first_seen": "2026-11-05T02:55:03+00:00",
+   "last_seen": "2026-11-05T02:55:03+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://aiimsexams.ac.in",
+   "slug": "aiims-update-list-of-eligible-not-eligible-for-walk-in-interivew-3952c6",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "aiims-update-eligible-not-eligible-walk-interivew-2026"
+  },
+  {
+   "id": "7f0253f9e2df",
+   "source": "aiims",
+   "org": "AIIMS Examinations",
+   "short": "AIIMS",
+   "scope": "central",
+   "title": "Notice: Fees and Admit Card for Optometry Phase - III/Bachelor of Medical Radiology and Imaging Technology Phase - I, II & III/B.Sc. in Operation Theatre Technology Phase - I, II & III Professional Examinations to be held in November 2026",
+   "url": "https://rrpdocuments.aiimsexams.ac.in/1793790866170-767391222.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVRUVRLXWMSLVSAP7%2F20261105%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261105T025114Z&X-Amz-Expires=604800&X-Amz-Signature=dee5f910a545d8607eb7f46f980f074c218d1ce9c0fd6e89de84ba5a08bedd55&X-Amz-SignedHeaders=host&response-content-type=application%2Fpdf",
+   "is_doc": true,
+   "type": "admit",
+   "list_date": null,
+   "first_seen": "2026-11-05T02:55:03+00:00",
+   "last_seen": "2026-11-05T02:55:03+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://aiimsexams.ac.in",
+   "slug": "aiims-notice-fees-and-admit-card-for-optometry-phase-iii-bachelor-of-7f0253",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "aiims-fees-optometry-bachelor-medical-radiology-2026"
+  },
+  {
+   "id": "bc2282195a98",
+   "source": "aiims",
+   "org": "AIIMS Examinations",
+   "short": "AIIMS",
+   "scope": "central",
+   "title": "List of eligible / Not eligible candidates for walk-in-interview for the post of Junior Resident",
+   "url": "https://rrpdocuments.aiimsexams.ac.in/1793704949904-948663010.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVRUVRLXWMSLVSAP7%2F20261105%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261105T025114Z&X-Amz-Expires=604800&X-Amz-Signature=a843c9d0432c9a034e8fa68e1133dd24b6bdf77eb2ebeca331a20c9c97729a83&X-Amz-SignedHeaders=host&response-content-type=application%2Fpdf",
+   "is_doc": true,
+   "type": "job",
+   "list_date": null,
+   "first_seen": "2026-11-05T02:55:03+00:00",
+   "last_seen": "2026-11-05T02:55:03+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://aiimsexams.ac.in",
+   "slug": "aiims-list-of-eligible-not-eligible-candidates-for-walk-in-interview-bc2282",
+   "details": {
+    "fields": {},
+    "pdf_quality": {
+     "chars": 13594,
+     "latin": 0.367,
+     "devanagari": 0.002,
+     "legacy_suspect": false,
+     "scanned_suspect": false
+    },
+    "parsed_at": "2026-11-05T02:58:09+00:00",
+    "pdf_error": null,
+    "attempts": 1
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "aiims-eligible-not-eligible-walk-junior-resident-2026"
+  },
+  {
+   "id": "853b9735804c",
+   "source": "aiims",
+   "org": "AIIMS Examinations",
+   "short": "AIIMS",
+   "scope": "central",
+   "title": "Revised date for Walk-in interview/counseling for the post of Junior Resident - Advertisement No. AS/JR.07/2026/Special Recruitment drive",
+   "url": "https://rrpdocuments.aiimsexams.ac.in/1793685604040-925543909.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVRUVRLXWMSLVSAP7%2F20261105%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261105T025114Z&X-Amz-Expires=604800&X-Amz-Signature=8bd68d173c4d087c3d979c7aada0068cc3763a7ee9a4d9c364dab8da32dd2f22&X-Amz-SignedHeaders=host&response-content-type=application%2Fpdf",
+   "is_doc": true,
+   "type": "admission",
+   "list_date": "2026-10-19",
+   "first_seen": "2026-11-05T02:55:03+00:00",
+   "last_seen": "2026-11-05T02:55:03+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://aiimsexams.ac.in",
+   "slug": "aiims-revised-date-for-walk-in-interview-counseling-for-the-post-of-853b97",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "aiims-walk-counseling-junior-resident-as-jr-special-2026"
+  },
+  {
+   "id": "54027e404c69",
+   "source": "aiims",
+   "org": "AIIMS Examinations",
+   "short": "AIIMS",
+   "scope": "central",
+   "title": "Notice No. 01 of 2026 :- Regarding the Interview schedule for various faculty posts of various disciplines at AIIMS-Awantipora.",
+   "url": "https://rrpdocuments.aiimsexams.ac.in/1793621714134-402137555.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVRUVRLXWMSLVSAP7%2F20261105%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261105T025114Z&X-Amz-Expires=604800&X-Amz-Signature=73ec5d193eafad09c466f2a6b1b31af3bc258f8011fcfbe29ab0aebc3622d184&X-Amz-SignedHeaders=host&response-content-type=application%2Fpdf",
+   "is_doc": true,
+   "type": "notice",
+   "list_date": null,
+   "first_seen": "2026-11-05T02:55:03+00:00",
+   "last_seen": "2026-11-05T02:55:03+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://aiimsexams.ac.in",
+   "slug": "notice-no-01-of-2026-regarding-the-interview-schedule-for-various-54027e",
    "details": {
     "fields": {},
     "parsed_at": null
