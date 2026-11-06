@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T07:23:23+00:00",
+ "updated": "2026-11-06T11:01:56+00:00",
  "exams": [
   {
    "key": "nta-study-webs-active-learning-young-aspiring-minds-2026",
@@ -50,6 +50,23 @@
    "year": 2026,
    "name": "Patna HC Application for the Post of Research Assistant on Contract Basis for High Court 2026",
    "slug": "patna-hc-application-for-the-post-of-research-assistant-on-contract-basis-for-feca1",
+   "types": [
+    "job"
+   ],
+   "latest": "2026-11-06"
+  },
+  {
+   "key": "dsssb-advt-06-2026",
+   "source": "dsssb",
+   "short": "DSSSB",
+   "org": "Delhi Subordinate Services Selection Board",
+   "scope": "delhi",
+   "items": [
+    "92fe0008988e"
+   ],
+   "year": 2026,
+   "name": "DSSSB Vacancy NOTICE/ Advertisement No. 06/2026 :- Combined Examinations, 2026 for",
+   "slug": "dsssb-vacancy-notice-advertisement-no-06-2026-combined-examinations-2026-for-efacf",
    "types": [
     "job"
    ],

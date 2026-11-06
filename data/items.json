@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T07:23:23+00:00",
+ "updated": "2026-11-06T11:01:56+00:00",
  "items": [
   {
    "id": "eb5a27ddb770",
@@ -42370,6 +42370,50 @@
    "tier": 1,
    "status": "info",
    "group": "patnahc-research-assistant-contract-basis-high-court-2026"
+  },
+  {
+   "id": "92fe0008988e",
+   "source": "dsssb",
+   "org": "Delhi Subordinate Services Selection Board",
+   "short": "DSSSB",
+   "scope": "delhi",
+   "title": "Vacancy NOTICE/ Advertisement No. 06/2026 :- Combined Examinations, 2026 for the Post of Junior Engineer (Electric) / Junior Engineer (Electrical), Multi-tasking Staff / Multi-tasking Staff - Aaya (Female) / Multi-tasking Staff (General Duty)",
+   "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt_06_2026_j_e_electrical_mts_1.pdf",
+   "is_doc": true,
+   "type": "job",
+   "list_date": "2026-11-06",
+   "first_seen": "2026-11-06T10:59:53+00:00",
+   "last_seen": "2026-11-06T10:59:53+00:00",
+   "advt": "06/2026",
+   "link_policy": "deep",
+   "official_home": "https://dsssb.delhi.gov.in",
+   "slug": "dsssb-vacancy-notice-advertisement-no-06-2026-combined-examinations-92fe00",
+   "details": {
+    "fields": {
+     "start_date": {
+      "value": "2026-11-12",
+      "confidence": "valid"
+     },
+     "age": {
+      "min": 18,
+      "max": 32,
+      "confidence": "valid"
+     }
+    },
+    "pdf_quality": {
+     "chars": 15289,
+     "latin": 0.7,
+     "devanagari": 0.0,
+     "legacy_suspect": false,
+     "scanned_suspect": false
+    },
+    "parsed_at": "2026-11-06T11:01:56+00:00",
+    "pdf_error": null,
+    "attempts": 1
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "dsssb-advt-06-2026"
   }
  ]
 }
