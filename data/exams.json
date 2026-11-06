@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T13:02:06+00:00",
+ "updated": "2026-11-06T16:53:57+00:00",
  "exams": [
   {
    "key": "nta-study-webs-active-learning-young-aspiring-minds-2026",
@@ -177,6 +177,23 @@
    "slug": "aiims-dates-for-the-stage-ii-for-the-ini-ss-january-2027-session-2de72",
    "types": [
     "notice"
+   ],
+   "latest": "2026-11-06"
+  },
+  {
+   "key": "nta-registration-common-entrance-army-cadet-college-2027",
+   "source": "nta",
+   "short": "NTA",
+   "org": "National Testing Agency",
+   "scope": "central",
+   "items": [
+    "1f24ae023359"
+   ],
+   "year": 2027,
+   "name": "NTA Opening of the online registration portal for submission of Online Application 2027",
+   "slug": "nta-opening-of-the-online-registration-portal-for-submission-of-online-36314",
+   "types": [
+    "job"
    ],
    "latest": "2026-11-06"
   },

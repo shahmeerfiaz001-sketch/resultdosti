@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T13:02:06+00:00",
+ "updated": "2026-11-06T16:53:57+00:00",
  "items": [
   {
    "id": "eb5a27ddb770",
@@ -42614,6 +42614,55 @@
    "tier": 1,
    "status": "info",
    "group": "uppsc-d-e-medical-education-department-u-p-professor-2026"
+  },
+  {
+   "id": "1f24ae023359",
+   "source": "nta",
+   "org": "National Testing Agency",
+   "short": "NTA",
+   "scope": "central",
+   "title": "Opening of the online registration portal for submission of Online Application Form for Common Entrance Examination for Army Cadet College-January 2027",
+   "url": "https://nta.ac.in/Download/Notice/Notice_20261106205348.pdf",
+   "is_doc": true,
+   "type": "job",
+   "list_date": null,
+   "first_seen": "2026-11-06T16:50:42+00:00",
+   "last_seen": "2026-11-06T16:50:42+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://nta.ac.in",
+   "slug": "nta-opening-of-the-online-registration-portal-for-submission-of-1f24ae",
+   "details": {
+    "fields": {
+     "exam_date": {
+      "value": "2027-01-04",
+      "confidence": "valid"
+     },
+     "fee": {
+      "values": [
+       500,
+       950
+      ],
+      "max": 950,
+      "min": 500,
+      "confidence": "valid"
+     }
+    },
+    "pdf_quality": {
+     "chars": 0,
+     "latin": 0.0,
+     "devanagari": 0.0,
+     "legacy_suspect": false,
+     "scanned_suspect": true,
+     "ocr": true
+    },
+    "parsed_at": "2026-11-06T16:53:57+00:00",
+    "pdf_error": null,
+    "attempts": 1
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "nta-registration-common-entrance-army-cadet-college-2027"
   }
  ]
 }
