@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T11:01:56+00:00",
+ "updated": "2026-11-06T13:02:06+00:00",
  "exams": [
   {
    "key": "nta-study-webs-active-learning-young-aspiring-minds-2026",
@@ -18,6 +18,46 @@
    "slug": "nta-inviting-online-application-form-for-study-webs-of-active-learning-for-90cc0",
    "types": [
     "job"
+   ],
+   "latest": "2026-11-06"
+  },
+  {
+   "key": "uppsc-d-e-medical-education-department-u-p-professor-2026",
+   "source": "uppsc",
+   "short": "UPPSC",
+   "org": "Uttar Pradesh Public Service Commission",
+   "scope": "up",
+   "items": [
+    "b4f944a6a189",
+    "7e00cef99008",
+    "ff0b8d11cfce",
+    "bc07c667f32f",
+    "25bcb7190a00",
+    "74283e66a0e1"
+   ],
+   "year": 2026,
+   "name": "UPPSC Result of Advt. No. D-1/E-1/2026, Medical Education Department U.p. /professor",
+   "slug": "uppsc-result-of-advt-no-d-1-e-1-2026-medical-education-department-u-p-professor-c7b96",
+   "types": [
+    "result"
+   ],
+   "latest": "2026-11-06"
+  },
+  {
+   "key": "rbi-attendant-reserve-bank-india-panel-year-display-2025",
+   "source": "rbi",
+   "short": "RBI",
+   "org": "Reserve Bank of India Opportunities",
+   "scope": "central",
+   "items": [
+    "74f1107439ff",
+    "50121d919e67"
+   ],
+   "year": 2025,
+   "name": "RBI Recruitment for the Post of Office Attendant in Reserve Bank of India - Panel 2025",
+   "slug": "rbi-recruitment-for-the-post-of-office-attendant-in-reserve-bank-of-india-panel-ca5da",
+   "types": [
+    "result"
    ],
    "latest": "2026-11-06"
   },
@@ -73,24 +113,72 @@
    "latest": "2026-11-06"
   },
   {
-   "key": "uppsc-d-e-medical-education-department-u-p-professor-2026",
-   "source": "uppsc",
-   "short": "UPPSC",
-   "org": "Uttar Pradesh Public Service Commission",
-   "scope": "up",
+   "key": "ssc-information-cgept-batches-2026",
+   "source": "ssc",
+   "short": "SSC",
+   "org": "Staff Selection Commission",
+   "scope": "central",
    "items": [
-    "b4f944a6a189",
-    "7e00cef99008",
-    "ff0b8d11cfce",
-    "bc07c667f32f"
+    "018be6aa1700"
    ],
    "year": 2026,
-   "name": "UPPSC Result of Advt. No. D-1/E-1/2026, Medical Education Department U.p. /professor",
-   "slug": "uppsc-result-of-advt-no-d-1-e-1-2026-medical-education-department-u-p-professor-c7b96",
+   "name": "SSC Information regarding city of examination and Admit Card for the candidates of 2026",
+   "slug": "ssc-information-regarding-city-of-examination-and-admit-card-for-the-candidates-e670c",
    "types": [
-    "result"
+    "admit"
    ],
-   "latest": "2026-11-05"
+   "latest": "2026-11-06"
+  },
+  {
+   "key": "sbi-zonal-head-2026",
+   "source": "sbi",
+   "short": "SBI",
+   "org": "State Bank of India Careers",
+   "scope": "central",
+   "items": [
+    "705ad63ddbd1"
+   ],
+   "year": 2026,
+   "name": "SBI Zonal Head – Interview Schedule 2026",
+   "slug": "sbi-zonal-head-interview-schedule-2026-20e08",
+   "types": [
+    "notice"
+   ],
+   "latest": "2026-11-06"
+  },
+  {
+   "key": "aiims-advt-172-2026",
+   "source": "aiims",
+   "short": "AIIMS",
+   "org": "AIIMS Examinations",
+   "scope": "central",
+   "items": [
+    "4b938d0d8a6a"
+   ],
+   "year": 2026,
+   "name": "AIIMS No. 172/2026: Schedule of Skill Test for Group Code 2, 19 & 20 of CRE-5",
+   "slug": "aiims-no-172-2026-schedule-of-skill-test-for-group-code-2-19-and-20-of-cre-5-ca649",
+   "types": [
+    "notice"
+   ],
+   "latest": "2026-11-06"
+  },
+  {
+   "key": "aiims-ini-ss-january-session-2027",
+   "source": "aiims",
+   "short": "AIIMS",
+   "org": "AIIMS Examinations",
+   "scope": "central",
+   "items": [
+    "127f9aec2e43"
+   ],
+   "year": 2027,
+   "name": "AIIMS Dates for the Stage-II for the INI-SS January 2027 Session",
+   "slug": "aiims-dates-for-the-stage-ii-for-the-ini-ss-january-2027-session-2de72",
+   "types": [
+    "notice"
+   ],
+   "latest": "2026-11-06"
   },
   {
    "key": "bpssc-advt-05-2025",
@@ -169,23 +257,6 @@
    "slug": "ssc-combined-hindi-translators-examination-2025-declaration-of-first-round-of-b4c7f",
    "types": [
     "notice"
-   ],
-   "latest": "2026-11-05"
-  },
-  {
-   "key": "rbi-attendant-reserve-bank-india-panel-year-display-2025",
-   "source": "rbi",
-   "short": "RBI",
-   "org": "Reserve Bank of India Opportunities",
-   "scope": "central",
-   "items": [
-    "74f1107439ff"
-   ],
-   "year": 2025,
-   "name": "RBI Recruitment for the Post of Office Attendant in Reserve Bank of India - Panel 2025",
-   "slug": "rbi-recruitment-for-the-post-of-office-attendant-in-reserve-bank-of-india-panel-ca5da",
-   "types": [
-    "result"
    ],
    "latest": "2026-11-05"
   },
@@ -8931,7 +9002,8 @@
    "items": [
     "8dc365da69d9",
     "69dc9e7a8538",
-    "b0e873c2a7d6"
+    "b0e873c2a7d6",
+    "c447ae3d8478"
    ],
    "year": 2026,
    "name": "SBI ADVERTISEMENT Hindi / English 2026",

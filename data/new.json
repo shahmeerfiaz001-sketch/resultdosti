@@ -1,13 +1,67 @@
 {
- "run": "2026-11-06T11:01:56+00:00",
+ "run": "2026-11-06T13:02:06+00:00",
  "first_run": false,
  "new": [
   {
-   "id": "92fe0008988e",
-   "type": "job",
-   "title": "Vacancy NOTICE/ Advertisement No. 06/2026 :- Combined Examinations, 2026 for the Post of Junior Engineer (Electric) / Junior Engineer (Electrical), Multi-tasking Staff / Multi-tasking Staff - Aaya (Female) / Multi-tasking Staff (General Duty)",
-   "short": "DSSSB",
-   "url": "https://resultdosti.in/job/dsssb-vacancy-notice-advertisement-no-06-2026-combined-examinations-92fe00/",
+   "id": "018be6aa1700",
+   "type": "admit",
+   "title": "Information regarding city of examination and Admit Card for the candidates of CGEPT-01/27 and 02/27 batches",
+   "short": "SSC",
+   "url": "https://resultdosti.in/admit-card/ssc-information-regarding-city-of-examination-and-admit-card-for-the-018be6/",
+   "last_date": null,
+   "jobposting": false
+  },
+  {
+   "id": "705ad63ddbd1",
+   "type": "notice",
+   "title": "Zonal Head (Retail) – Interview Schedule",
+   "short": "SBI",
+   "url": "https://resultdosti.in/notice/sbi-zonal-head-retail-interview-schedule-705ad6/",
+   "last_date": null,
+   "jobposting": false
+  },
+  {
+   "id": "50121d919e67",
+   "type": "result",
+   "title": "Recruitment for the Post of Office Attendant in Reserve Bank of India - Panel Year 2025 - Display of Roll Numbers of Finally Selected Candidates for Appointment in the Bank’s Chandigarh Office",
+   "short": "RBI",
+   "url": "https://resultdosti.in/result/rbi-recruitment-for-the-post-of-office-attendant-in-reserve-bank-of-50121d/",
+   "last_date": null,
+   "jobposting": false
+  },
+  {
+   "id": "4b938d0d8a6a",
+   "type": "notice",
+   "title": "Notice No. 172/2026: Schedule of Skill Test for Group Code 2, 19 & 20 of CRE-5",
+   "short": "AIIMS",
+   "url": "https://resultdosti.in/notice/aiims-notice-no-172-2026-schedule-of-skill-test-for-group-code-2-19-4b938d/",
+   "last_date": null,
+   "jobposting": false
+  },
+  {
+   "id": "127f9aec2e43",
+   "type": "notice",
+   "title": "Notice: Dates for the Stage-II(Departmental Assessment in online mode) for the INI-SS January 2027 Session",
+   "short": "AIIMS",
+   "url": "https://resultdosti.in/notice/aiims-notice-dates-for-the-stage-ii-departmental-assessment-in-online-127f9a/",
+   "last_date": null,
+   "jobposting": false
+  },
+  {
+   "id": "25bcb7190a00",
+   "type": "result",
+   "title": "Result of Advt. No. D-1/E-1/2026, Medical Education Department U.p. (ALLOPATHY)/PROFESSOR Microbiology, S-08/22",
+   "short": "UPPSC",
+   "url": "https://resultdosti.in/result/uppsc-result-of-advt-no-d-1-e-1-2026-medical-education-department-u-p-25bcb7/",
+   "last_date": null,
+   "jobposting": false
+  },
+  {
+   "id": "74283e66a0e1",
+   "type": "result",
+   "title": "Result of Advt. No. D-1/E-1/2026, Medical Education Department U.p. (ALLOPATHY)/PROFESSOR Emergency Medicine, S-08/03",
+   "short": "UPPSC",
+   "url": "https://resultdosti.in/result/uppsc-result-of-advt-no-d-1-e-1-2026-medical-education-department-u-p-74283e/",
    "last_date": null,
    "jobposting": false
   }
