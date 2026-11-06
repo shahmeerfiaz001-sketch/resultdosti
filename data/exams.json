@@ -1,6 +1,60 @@
 {
- "updated": "2026-11-05T18:55:29+00:00",
+ "updated": "2026-11-06T07:23:23+00:00",
  "exams": [
+  {
+   "key": "nta-study-webs-active-learning-young-aspiring-minds-2026",
+   "source": "nta",
+   "short": "NTA",
+   "org": "National Testing Agency",
+   "scope": "central",
+   "items": [
+    "32e482aa17ae",
+    "cbe3b088b8fe",
+    "ddb54b494614",
+    "f7ea81aa06c4"
+   ],
+   "year": 2026,
+   "name": "NTA Inviting Online Application Form for Study Webs of Active Learning for Young 2026",
+   "slug": "nta-inviting-online-application-form-for-study-webs-of-active-learning-for-90cc0",
+   "types": [
+    "job"
+   ],
+   "latest": "2026-11-06"
+  },
+  {
+   "key": "uppsc-a-e-assistant-teacher-trained-graduate-2025",
+   "source": "uppsc",
+   "short": "UPPSC",
+   "org": "Uttar Pradesh Public Service Commission",
+   "scope": "up",
+   "items": [
+    "6d948ac3bc81"
+   ],
+   "year": 2025,
+   "name": "UPPSC For Advt. No. A-5/E-1/2025, Assistant Teacher Trained Graduate Exam 2025, .",
+   "slug": "uppsc-for-advt-no-a-5-e-1-2025-assistant-teacher-trained-graduate-exam-2025-6afcd",
+   "types": [
+    "notice"
+   ],
+   "latest": "2026-11-06"
+  },
+  {
+   "key": "patnahc-research-assistant-contract-basis-high-court-2026",
+   "source": "patnahc",
+   "short": "Patna HC",
+   "org": "Patna High Court",
+   "scope": "bihar",
+   "items": [
+    "0e79fd68a305"
+   ],
+   "year": 2026,
+   "name": "Patna HC Application for the Post of Research Assistant on Contract Basis for High Court 2026",
+   "slug": "patna-hc-application-for-the-post-of-research-assistant-on-contract-basis-for-feca1",
+   "types": [
+    "job"
+   ],
+   "latest": "2026-11-06"
+  },
   {
    "key": "uppsc-d-e-medical-education-department-u-p-professor-2026",
    "source": "uppsc",
@@ -72,7 +126,8 @@
     "448b701c3454",
     "1e066d627d74",
     "624d5e48706d",
-    "24fa899f1ac3"
+    "24fa899f1ac3",
+    "dcdc4ca553e8"
    ],
    "year": 2026,
    "name": "BCECEB Registration-Cum-Choice filling for Post Graduate Medical Admission Counselling 2026",
@@ -1029,25 +1084,6 @@
    "slug": "nta-inviting-online-applications-for-the-national-institute-of-fashion-63b6f",
    "types": [
     "admission"
-   ],
-   "latest": "2026-11-04"
-  },
-  {
-   "key": "nta-study-webs-active-learning-young-aspiring-minds-2026",
-   "source": "nta",
-   "short": "NTA",
-   "org": "National Testing Agency",
-   "scope": "central",
-   "items": [
-    "32e482aa17ae",
-    "cbe3b088b8fe",
-    "ddb54b494614"
-   ],
-   "year": 2026,
-   "name": "NTA Inviting Online Application Form for Study Webs of Active Learning for Young 2026",
-   "slug": "nta-inviting-online-application-form-for-study-webs-of-active-learning-for-90cc0",
-   "types": [
-    "job"
    ],
    "latest": "2026-11-04"
   },

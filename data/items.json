@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T18:55:29+00:00",
+ "updated": "2026-11-06T07:23:23+00:00",
  "items": [
   {
    "id": "eb5a27ddb770",
@@ -42259,6 +42259,117 @@
    "tier": 1,
    "status": "info",
    "group": "ibps-window-crp-po-mts-xvi-spl-xvi-2026"
+  },
+  {
+   "id": "f7ea81aa06c4",
+   "source": "nta",
+   "org": "National Testing Agency",
+   "short": "NTA",
+   "scope": "central",
+   "title": "Correction in the particulars of the Online Application Form of Study Webs of Active Learning for Young Aspiring Minds (SWAYAM) July 2026 Semester Exam",
+   "url": "https://nta.ac.in/Download/Notice/Notice_20261106103320.pdf",
+   "is_doc": true,
+   "type": "job",
+   "list_date": null,
+   "first_seen": "2026-11-06T07:20:14+00:00",
+   "last_seen": "2026-11-06T07:20:14+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://nta.ac.in",
+   "slug": "nta-correction-in-the-particulars-of-the-online-application-form-of-f7ea81",
+   "details": {
+    "fields": {},
+    "pdf_quality": {
+     "chars": 0,
+     "latin": 0.0,
+     "devanagari": 0.0,
+     "legacy_suspect": false,
+     "scanned_suspect": true,
+     "ocr": true
+    },
+    "parsed_at": "2026-11-06T07:23:23+00:00",
+    "pdf_error": null,
+    "attempts": 1
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "nta-study-webs-active-learning-young-aspiring-minds-2026"
+  },
+  {
+   "id": "6d948ac3bc81",
+   "source": "uppsc",
+   "org": "Uttar Pradesh Public Service Commission",
+   "short": "UPPSC",
+   "scope": "up",
+   "title": "For Advt. No. A-5/E-1/2025, Assistant Teacher Trained Graduate (M./F.) Exam 2025, (Maths) (Document Verification).",
+   "url": "https://uppsc.up.nic.in/CandidatePages/OTRAppForm/Applicant_OtrAuthentication.aspx?WEqGEem9m0+8Y4tNQqJiNYurmbKsjJR/fgSlThSTh6o=",
+   "is_doc": false,
+   "type": "notice",
+   "list_date": null,
+   "first_seen": "2026-11-06T07:21:05+00:00",
+   "last_seen": "2026-11-06T07:21:05+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://uppsc.up.nic.in",
+   "slug": "uppsc-for-advt-no-a-5-e-1-2025-assistant-teacher-trained-graduate-m-f-6d948a",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "archive": true,
+   "status": "info",
+   "group": "uppsc-a-e-assistant-teacher-trained-graduate-2025"
+  },
+  {
+   "id": "dcdc4ca553e8",
+   "source": "bceceb",
+   "org": "Bihar Combined Entrance Competitive Examination Board",
+   "short": "BCECEB",
+   "scope": "bihar",
+   "title": "Important Notice for Registration-cum-Choice Filling for Post Graduate Degree [PGMAC (Ayush)]-2026 for MD (Ayurveda) on the basis of AIAPGET[AYUSH]-2026 (Adv. No. BCECEB(PGMAC[AYUSH])-2026/04",
+   "url": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGAAC26_04.pdf",
+   "is_doc": true,
+   "type": "notice",
+   "list_date": "2026-11-05",
+   "first_seen": "2026-11-06T07:23:08+00:00",
+   "last_seen": "2026-11-06T07:23:08+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://bceceboard.bihar.gov.in",
+   "slug": "important-notice-for-registration-cum-choice-filling-for-post-dcdc4c",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "bceceb-registration-cum-choice-filling-post-graduate-2026"
+  },
+  {
+   "id": "0e79fd68a305",
+   "source": "patnahc",
+   "org": "Patna High Court",
+   "short": "Patna HC",
+   "scope": "bihar",
+   "title": "Notification Regarding Application for the Post of Research Assistant (Law) on Contract Basis for High Court for the State of Telangana and to Work in the Telangana State Judicial Academy, Secunderabad.",
+   "url": "https://patnahighcourt.gov.in/getfile/MTEyNDA=-Op2zlb3pCGI=",
+   "is_doc": false,
+   "type": "job",
+   "list_date": null,
+   "first_seen": "2026-11-06T07:23:14+00:00",
+   "last_seen": "2026-11-06T07:23:14+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://patnahighcourt.gov.in",
+   "slug": "patna-hc-notification-regarding-application-for-the-post-of-research-0e79fd",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "patnahc-research-assistant-contract-basis-high-court-2026"
   }
  ]
 }

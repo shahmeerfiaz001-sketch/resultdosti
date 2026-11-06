@@ -1,6 +1,43 @@
 {
- "run": "2026-11-05T18:55:29+00:00",
+ "run": "2026-11-06T07:23:23+00:00",
  "first_run": false,
- "new": [],
+ "new": [
+  {
+   "id": "f7ea81aa06c4",
+   "type": "job",
+   "title": "Correction in the particulars of the Online Application Form of Study Webs of Active Learning for Young Aspiring Minds (SWAYAM) July 2026 Semester Exam",
+   "short": "NTA",
+   "url": "https://resultdosti.in/job/nta-correction-in-the-particulars-of-the-online-application-form-of-f7ea81/",
+   "last_date": null,
+   "jobposting": false
+  },
+  {
+   "id": "6d948ac3bc81",
+   "type": "notice",
+   "title": "For Advt. No. A-5/E-1/2025, Assistant Teacher Trained Graduate (M./F.) Exam 2025, (Maths) (Document Verification).",
+   "short": "UPPSC",
+   "url": "https://resultdosti.in/notice/uppsc-for-advt-no-a-5-e-1-2025-assistant-teacher-trained-graduate-m-f-6d948a/",
+   "last_date": null,
+   "jobposting": false
+  },
+  {
+   "id": "dcdc4ca553e8",
+   "type": "notice",
+   "title": "Important Notice for Registration-cum-Choice Filling for Post Graduate Degree [PGMAC (Ayush)]-2026 for MD (Ayurveda) on the basis of AIAPGET[AYUSH]-2026 (Adv. No. BCECEB(PGMAC[AYUSH])-2026/04",
+   "short": "BCECEB",
+   "url": "https://resultdosti.in/notice/important-notice-for-registration-cum-choice-filling-for-post-dcdc4c/",
+   "last_date": null,
+   "jobposting": false
+  },
+  {
+   "id": "0e79fd68a305",
+   "type": "job",
+   "title": "Notification Regarding Application for the Post of Research Assistant (Law) on Contract Basis for High Court for the State of Telangana and to Work in the Telangana State Judicial Academy, Secunderabad.",
+   "short": "Patna HC",
+   "url": "https://resultdosti.in/job/patna-hc-notification-regarding-application-for-the-post-of-research-0e79fd/",
+   "last_date": null,
+   "jobposting": false
+  }
+ ],
  "closed": []
 }
