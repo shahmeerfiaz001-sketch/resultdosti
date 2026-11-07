@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T12:49:17+00:00",
+ "updated": "2026-11-07T14:43:24+00:00",
  "items": [
   {
    "id": "eb5a27ddb770",
@@ -42818,6 +42818,86 @@
    "last_date": "2026-12-06",
    "status": "open",
    "group": "nta-empanelment-observers-conduct-nta-computer-2026"
+  },
+  {
+   "id": "9dd2269cd26d",
+   "source": "nta",
+   "org": "National Testing Agency",
+   "short": "NTA",
+   "scope": "central",
+   "title": "Inviting Online Application for Empanelment of Observers for Conduct of NTA Examinations in Computer-Based Test (CBT) Mode and Pen and Paper Test (PPT) mode-reg",
+   "url": "https://nta.ac.in/Download/Notice/Notice_20261107190901.pdf",
+   "is_doc": true,
+   "type": "job",
+   "list_date": null,
+   "first_seen": "2026-11-07T14:40:06+00:00",
+   "last_seen": "2026-11-07T14:40:06+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://nta.ac.in",
+   "slug": "inviting-online-application-for-empanelment-of-observers-for-conduct-9dd226",
+   "details": {
+    "fields": {
+     "last_date": {
+      "value": "2026-12-06",
+      "confidence": "valid"
+     }
+    },
+    "pdf_quality": {
+     "chars": 19242,
+     "latin": 0.809,
+     "devanagari": 0.0,
+     "legacy_suspect": false,
+     "scanned_suspect": false
+    },
+    "parsed_at": "2026-11-07T14:43:23+00:00",
+    "pdf_error": null,
+    "attempts": 1
+   },
+   "tier": 1,
+   "last_date": "2026-12-06",
+   "status": "open",
+   "group": "nta-empanelment-observers-conduct-nta-computer-2026"
+  },
+  {
+   "id": "45334c6c0bed",
+   "source": "nta",
+   "org": "National Testing Agency",
+   "short": "NTA",
+   "scope": "central",
+   "title": "Inviting Online Application for Empanelment of Examination Centres for Conduct of NTA Examinations in Computer-Based Test (CBT) Mode and Pen and Paper Test (PPT) mode-reg",
+   "url": "https://nta.ac.in/Download/Notice/Notice_20261107190824.pdf",
+   "is_doc": true,
+   "type": "job",
+   "list_date": null,
+   "first_seen": "2026-11-07T14:40:06+00:00",
+   "last_seen": "2026-11-07T14:40:06+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://nta.ac.in",
+   "slug": "inviting-online-application-for-empanelment-of-examination-centres-45334c",
+   "details": {
+    "fields": {
+     "last_date": {
+      "value": "2026-12-06",
+      "confidence": "valid"
+     }
+    },
+    "pdf_quality": {
+     "chars": 12317,
+     "latin": 0.816,
+     "devanagari": 0.0,
+     "legacy_suspect": false,
+     "scanned_suspect": false
+    },
+    "parsed_at": "2026-11-07T14:43:24+00:00",
+    "pdf_error": null,
+    "attempts": 1
+   },
+   "tier": 1,
+   "last_date": "2026-12-06",
+   "status": "open",
+   "group": "nta-empanelment-centres-conduct-nta-computer-based-2026"
   }
  ]
 }

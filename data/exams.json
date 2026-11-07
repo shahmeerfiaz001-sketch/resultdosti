@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T12:49:17+00:00",
+ "updated": "2026-11-07T14:43:24+00:00",
  "exams": [
   {
    "key": "rbi-attendant-panel-year-display-finally-bank-s-2025",
@@ -59,7 +59,8 @@
    "org": "National Testing Agency",
    "scope": "central",
    "items": [
-    "ed641db663dd"
+    "ed641db663dd",
+    "45334c6c0bed"
    ],
    "year": 2026,
    "name": "NTA Inviting Online Application for Empanelment of Examination Centres for Conduct 2026",
@@ -76,7 +77,8 @@
    "org": "National Testing Agency",
    "scope": "central",
    "items": [
-    "90aba4495725"
+    "90aba4495725",
+    "9dd2269cd26d"
    ],
    "year": 2026,
    "name": "Inviting Online Application for Empanelment of Observers for Conduct of NTA 2026",
