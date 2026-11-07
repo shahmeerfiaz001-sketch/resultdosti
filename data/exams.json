@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T08:51:51+00:00",
+ "updated": "2026-11-07T12:49:17+00:00",
  "exams": [
   {
    "key": "rbi-attendant-panel-year-display-finally-bank-s-2025",
@@ -49,6 +49,40 @@
    "slug": "uppsc-result-of-advt-no-d-1-e-1-2026-medical-education-department-u-p-assistant-9eb6b",
    "types": [
     "result"
+   ],
+   "latest": "2026-11-07"
+  },
+  {
+   "key": "nta-empanelment-centres-conduct-nta-computer-based-2026",
+   "source": "nta",
+   "short": "NTA",
+   "org": "National Testing Agency",
+   "scope": "central",
+   "items": [
+    "ed641db663dd"
+   ],
+   "year": 2026,
+   "name": "NTA Inviting Online Application for Empanelment of Examination Centres for Conduct 2026",
+   "slug": "nta-inviting-online-application-for-empanelment-of-examination-centres-for-7152a",
+   "types": [
+    "job"
+   ],
+   "latest": "2026-11-07"
+  },
+  {
+   "key": "nta-empanelment-observers-conduct-nta-computer-2026",
+   "source": "nta",
+   "short": "NTA",
+   "org": "National Testing Agency",
+   "scope": "central",
+   "items": [
+    "90aba4495725"
+   ],
+   "year": 2026,
+   "name": "Inviting Online Application for Empanelment of Observers for Conduct of NTA 2026",
+   "slug": "inviting-online-application-for-empanelment-of-observers-for-conduct-of-nta-2026-83c4c",
+   "types": [
+    "job"
    ],
    "latest": "2026-11-07"
   },
