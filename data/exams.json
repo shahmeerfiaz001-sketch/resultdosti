@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T14:43:24+00:00",
+ "updated": "2026-11-07T16:40:51+00:00",
  "exams": [
   {
    "key": "rbi-attendant-panel-year-display-finally-bank-s-2025",
@@ -85,6 +85,23 @@
    "slug": "inviting-online-application-for-empanelment-of-observers-for-conduct-of-nta-2026-83c4c",
    "types": [
     "job"
+   ],
+   "latest": "2026-11-07"
+  },
+  {
+   "key": "ssc-identity-verification-shortlisted-frta-combined-2025",
+   "source": "ssc",
+   "short": "SSC",
+   "org": "Staff Selection Commission",
+   "scope": "central",
+   "items": [
+    "e2f531673969"
+   ],
+   "year": 2025,
+   "name": "SSC Identity Verification for the candidates shortlisted in FRTA of Combined Hindi 2025",
+   "slug": "ssc-identity-verification-for-the-candidates-shortlisted-in-frta-of-combined-28888",
+   "types": [
+    "notice"
    ],
    "latest": "2026-11-07"
   },

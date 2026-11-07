@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T14:43:24+00:00",
+ "updated": "2026-11-07T16:40:51+00:00",
  "items": [
   {
    "id": "eb5a27ddb770",
@@ -42898,6 +42898,31 @@
    "last_date": "2026-12-06",
    "status": "open",
    "group": "nta-empanelment-centres-conduct-nta-computer-based-2026"
+  },
+  {
+   "id": "e2f531673969",
+   "source": "ssc",
+   "org": "Staff Selection Commission",
+   "short": "SSC",
+   "scope": "central",
+   "title": "Identity Verification (IV) for the candidates shortlisted in FRTA of Combined Hindi Translators Examination, 2025 - reg.",
+   "url": "https://ssc.gov.in/home/notice-board?notice=1997jbnok58mxwixyntdm",
+   "is_doc": false,
+   "type": "notice",
+   "list_date": "2026-11-07",
+   "first_seen": "2026-11-07T16:37:40+00:00",
+   "last_seen": "2026-11-07T16:37:40+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://ssc.gov.in",
+   "slug": "ssc-identity-verification-iv-for-the-candidates-shortlisted-in-frta-e2f531",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "ssc-identity-verification-shortlisted-frta-combined-2025"
   }
  ]
 }
