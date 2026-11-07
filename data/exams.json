@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T06:56:18+00:00",
+ "updated": "2026-11-07T08:51:51+00:00",
  "exams": [
   {
    "key": "rbi-attendant-panel-year-display-finally-bank-s-2025",
@@ -32,6 +32,23 @@
    "slug": "nta-corrigendum-regarding-revision-change-in-the-syllabus-of-social-science-for-b5443",
    "types": [
     "syllabus"
+   ],
+   "latest": "2026-11-07"
+  },
+  {
+   "key": "uppsc-d-e-medical-education-department-u-p-assistant-2026",
+   "source": "uppsc",
+   "short": "UPPSC",
+   "org": "Uttar Pradesh Public Service Commission",
+   "scope": "up",
+   "items": [
+    "bc761dde702f"
+   ],
+   "year": 2026,
+   "name": "UPPSC Result of Advt. No. D-1/E-1/2026, Medical Education Department U.p. , Assistant",
+   "slug": "uppsc-result-of-advt-no-d-1-e-1-2026-medical-education-department-u-p-assistant-9eb6b",
+   "types": [
+    "result"
    ],
    "latest": "2026-11-07"
   },
