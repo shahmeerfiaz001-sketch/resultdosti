@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T16:53:57+00:00",
+ "updated": "2026-11-07T04:53:14+00:00",
  "items": [
   {
    "id": "eb5a27ddb770",
@@ -42663,6 +42663,31 @@
    "tier": 1,
    "status": "info",
    "group": "nta-registration-common-entrance-army-cadet-college-2027"
+  },
+  {
+   "id": "c2325c5fab3c",
+   "source": "rbi",
+   "org": "Reserve Bank of India Opportunities",
+   "short": "RBI",
+   "scope": "central",
+   "title": "Recruitment for the post of Office Attendant – Panel Year 2025: Display of Roll Numbers of Finally Selected Candidates in the Bank’s Bhopal & Raipur Office",
+   "url": "https://opportunities.rbi.org.in/Scripts/bs_viewcontent.aspx?Id=5211",
+   "is_doc": false,
+   "type": "result",
+   "list_date": null,
+   "first_seen": "2026-11-07T04:50:03+00:00",
+   "last_seen": "2026-11-07T04:50:03+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://opportunities.rbi.org.in",
+   "slug": "rbi-recruitment-for-the-post-of-office-attendant-panel-year-2025-c2325c",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "rbi-attendant-panel-year-display-finally-bank-s-2025"
   }
  ]
 }

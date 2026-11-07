@@ -1,6 +1,23 @@
 {
- "updated": "2026-11-06T16:53:57+00:00",
+ "updated": "2026-11-07T04:53:14+00:00",
  "exams": [
+  {
+   "key": "rbi-attendant-panel-year-display-finally-bank-s-2025",
+   "source": "rbi",
+   "short": "RBI",
+   "org": "Reserve Bank of India Opportunities",
+   "scope": "central",
+   "items": [
+    "c2325c5fab3c"
+   ],
+   "year": 2025,
+   "name": "RBI Recruitment for the post of Office Attendant – Panel Year 2025: Display of Roll",
+   "slug": "rbi-recruitment-for-the-post-of-office-attendant-panel-year-2025-display-of-roll-ea5da",
+   "types": [
+    "result"
+   ],
+   "latest": "2026-11-07"
+  },
   {
    "key": "nta-study-webs-active-learning-young-aspiring-minds-2026",
    "source": "nta",
