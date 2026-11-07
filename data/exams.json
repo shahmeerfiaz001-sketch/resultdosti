@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T04:53:14+00:00",
+ "updated": "2026-11-07T06:56:18+00:00",
  "exams": [
   {
    "key": "rbi-attendant-panel-year-display-finally-bank-s-2025",
@@ -15,6 +15,23 @@
    "slug": "rbi-recruitment-for-the-post-of-office-attendant-panel-year-2025-display-of-roll-ea5da",
    "types": [
     "result"
+   ],
+   "latest": "2026-11-07"
+  },
+  {
+   "key": "nta-revision-change-syllabus-social-science-class-2026",
+   "source": "nta",
+   "short": "NTA",
+   "org": "National Testing Agency",
+   "scope": "central",
+   "items": [
+    "268b8102a350"
+   ],
+   "year": 2026,
+   "name": "NTA Corrigendum regarding revision/change in the syllabus of Social Science for 2026",
+   "slug": "nta-corrigendum-regarding-revision-change-in-the-syllabus-of-social-science-for-b5443",
+   "types": [
+    "syllabus"
    ],
    "latest": "2026-11-07"
   },

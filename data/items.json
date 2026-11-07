@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T04:53:14+00:00",
+ "updated": "2026-11-07T06:56:18+00:00",
  "items": [
   {
    "id": "eb5a27ddb770",
@@ -42688,6 +42688,31 @@
    "tier": 1,
    "status": "info",
    "group": "rbi-attendant-panel-year-display-finally-bank-s-2025"
+  },
+  {
+   "id": "268b8102a350",
+   "source": "nta",
+   "org": "National Testing Agency",
+   "short": "NTA",
+   "scope": "central",
+   "title": "Corrigendum regarding revision/change in the syllabus of Social Science for Class IX of the Rashtriya Military Schools (RMS) Examination - reg.",
+   "url": "https://nta.ac.in/Download/Notice/Notice_20261107122142.pdf",
+   "is_doc": true,
+   "type": "syllabus",
+   "list_date": null,
+   "first_seen": "2026-11-07T06:53:14+00:00",
+   "last_seen": "2026-11-07T06:53:14+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://nta.ac.in",
+   "slug": "nta-corrigendum-regarding-revision-change-in-the-syllabus-of-social-268b81",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "nta-revision-change-syllabus-social-science-class-2026"
   }
  ]
 }
