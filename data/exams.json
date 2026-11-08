@@ -1,6 +1,142 @@
 {
- "updated": "2026-11-07T16:40:51+00:00",
+ "updated": "2026-11-08T10:43:47+00:00",
  "exams": [
+  {
+   "key": "bseb-register-system-2026",
+   "source": "bseb",
+   "short": "Bihar Board",
+   "org": "Bihar School Examination Board",
+   "scope": "bihar",
+   "items": [
+    "7f1e582f327a"
+   ],
+   "year": 2026,
+   "name": "Bihar Board to register for Document Verification System 2026",
+   "slug": "bihar-board-to-register-for-document-verification-system-2026-e5c45",
+   "types": [
+    "notice"
+   ],
+   "latest": "2026-11-08"
+  },
+  {
+   "key": "bseb-register-system-home-2026",
+   "source": "bseb",
+   "short": "Bihar Board",
+   "org": "Bihar School Examination Board",
+   "scope": "bihar",
+   "items": [
+    "274376a03042"
+   ],
+   "year": 2026,
+   "name": "Bihar Board to register for Document Verification System - Home 2026",
+   "slug": "bihar-board-to-register-for-document-verification-system-home-2026-14ee8",
+   "types": [
+    "notice"
+   ],
+   "latest": "2026-11-08"
+  },
+  {
+   "key": "bseb-bseb-rules-regulation-notifications-related-2026",
+   "source": "bseb",
+   "short": "Bihar Board",
+   "org": "Bihar School Examination Board",
+   "scope": "bihar",
+   "items": [
+    "56bbd1d40978"
+   ],
+   "year": 2026,
+   "name": "Bihar Board BSEB - Rules/ Regulation / Notifications - Related to College Est./School Est./ 2026",
+   "slug": "bihar-board-bseb-rules-regulation-notifications-related-to-college-est-school-936b0",
+   "types": [
+    "job"
+   ],
+   "latest": "2026-11-08"
+  },
+  {
+   "key": "bseb-class-10-syllabus-2023",
+   "source": "bseb",
+   "short": "Bihar Board",
+   "org": "Bihar School Examination Board",
+   "scope": "bihar",
+   "items": [
+    "27f7e8ffecfa"
+   ],
+   "year": 2023,
+   "name": "Bihar Board Class 10 Syllabus 2023-24 and 2024-25",
+   "slug": "bihar-board-class-10-syllabus-2023-24-and-2024-25-aadbf",
+   "types": [
+    "syllabus"
+   ],
+   "latest": "2026-11-08"
+  },
+  {
+   "key": "bseb-class-syllabus-2023",
+   "source": "bseb",
+   "short": "Bihar Board",
+   "org": "Bihar School Examination Board",
+   "scope": "bihar",
+   "items": [
+    "b37336dfb0d5"
+   ],
+   "year": 2023,
+   "name": "Bihar Board Class 9 Syllabus 2023-24 and 2024-25",
+   "slug": "bihar-board-class-9-syllabus-2023-24-and-2024-25-85e39",
+   "types": [
+    "syllabus"
+   ],
+   "latest": "2026-11-08"
+  },
+  {
+   "key": "bseb-class-xi-xii-syllabus-2023",
+   "source": "bseb",
+   "short": "Bihar Board",
+   "org": "Bihar School Examination Board",
+   "scope": "bihar",
+   "items": [
+    "8c0b64889f49"
+   ],
+   "year": 2023,
+   "name": "Bihar Board Class XI -XII Syllabus 2023-24 and 2024-25",
+   "slug": "bihar-board-class-xi-xii-syllabus-2023-24-and-2024-25-34a2a",
+   "types": [
+    "syllabus"
+   ],
+   "latest": "2026-11-08"
+  },
+  {
+   "key": "bseb-information-about-walk-appointment-retired-2026",
+   "source": "bseb",
+   "short": "Bihar Board",
+   "org": "Bihar School Examination Board",
+   "scope": "bihar",
+   "items": [
+    "fabd443673e7"
+   ],
+   "year": 2026,
+   "name": "Bihar Board Information about walk-in-interview for the appointment of retired 2026",
+   "slug": "bihar-board-information-about-walk-in-interview-for-the-appointment-of-retired-2482d",
+   "types": [
+    "job"
+   ],
+   "latest": "2026-11-08"
+  },
+  {
+   "key": "bseb-instructions-matric-verification-2024",
+   "source": "bseb",
+   "short": "Bihar Board",
+   "org": "Bihar School Examination Board",
+   "scope": "bihar",
+   "items": [
+    "94eb05a8cd8b"
+   ],
+   "year": 2024,
+   "name": "Bihar Board Important Instructions for Matric 2024 result and verification",
+   "slug": "bihar-board-important-instructions-for-matric-2024-result-and-verification-bf00b",
+   "types": [
+    "result"
+   ],
+   "latest": "2026-11-08"
+  },
   {
    "key": "rbi-attendant-panel-year-display-finally-bank-s-2025",
    "source": "rbi",
@@ -13254,6 +13390,23 @@
    "latest": "2026-01-02"
   },
   {
+   "key": "bseb-it-computer-engineers-professionals-working-2025",
+   "source": "bseb",
+   "short": "Bihar Board",
+   "org": "Bihar School Examination Board",
+   "scope": "bihar",
+   "items": [
+    "23c2b5a2ae3f"
+   ],
+   "year": 2025,
+   "name": "Bihar Board समिति के विभिन्न पदों हेतु सेवानिवृत्त पदाधिकारी/कर्मचारी एवं गैर सरकारी/निजी 2025",
+   "slug": "bihar-board-2025-df5f8",
+   "types": [
+    "notice"
+   ],
+   "latest": "2025-11-29"
+  },
+  {
    "key": "bpssc-advt-04-2025",
    "source": "bpssc",
    "short": "BPSSC",
@@ -13422,6 +13575,25 @@
     "result"
    ],
    "latest": "2025-09-26"
+  },
+  {
+   "key": "bseb-notice-2025",
+   "source": "bseb",
+   "short": "Bihar Board",
+   "org": "Bihar School Examination Board",
+   "scope": "bihar",
+   "items": [
+    "1a0b8514a42d",
+    "4b301d6e9ba5"
+   ],
+   "year": 2025,
+   "name": "Bihar Board माध्यमिक शिक्षक पात्रता परीक्षा ,2025 का ऑनलाइन परीक्षा आवेदन पत्र भरने के",
+   "slug": "bihar-board-2025-88423",
+   "types": [
+    "job",
+    "notice"
+   ],
+   "latest": "2025-09-19"
   },
   {
    "key": "cbse-public-skill-superintendent-2025",
@@ -14142,6 +14314,74 @@
     "admit"
    ],
    "latest": "2025-03-23"
+  },
+  {
+   "key": "bseb-dummy-2025",
+   "source": "bseb",
+   "short": "Bihar Board",
+   "org": "Bihar School Examination Board",
+   "scope": "bihar",
+   "items": [
+    "625cd00885c9"
+   ],
+   "year": 2025,
+   "name": "Bihar Board इन्टरमीडिएट वार्षिक परीक्षा, 2025 में सम्मिलित होने वाले विद्यार्थियों का Dummy",
+   "slug": "bihar-board-2025-dummy-1d592",
+   "types": [
+    "admit"
+   ],
+   "latest": "2024-12-05"
+  },
+  {
+   "key": "bseb-dummy-annual-secondary-2025",
+   "source": "bseb",
+   "short": "Bihar Board",
+   "org": "Bihar School Examination Board",
+   "scope": "bihar",
+   "items": [
+    "07bb2b4846a4"
+   ],
+   "year": 2025,
+   "name": "Bihar Board Advertisement Regarding Dummy Admit Card and Correction of Annual Secondary 2025",
+   "slug": "bihar-board-advertisement-regarding-dummy-admit-card-and-correction-of-annual-25d49",
+   "types": [
+    "admit"
+   ],
+   "latest": "2024-11-29"
+  },
+  {
+   "key": "bseb-procurement-specialist-walk-2024",
+   "source": "bseb",
+   "short": "Bihar Board",
+   "org": "Bihar School Examination Board",
+   "scope": "bihar",
+   "items": [
+    "3b5262fbab74"
+   ],
+   "year": 2024,
+   "name": "Bihar Board Procurement Specialist के पद हेतु Walk-in-interview की सूचना 2024",
+   "slug": "bihar-board-procurement-specialist-walk-in-interview-2024-7f434",
+   "types": [
+    "job"
+   ],
+   "latest": "2024-11-14"
+  },
+  {
+   "key": "bseb-notice-2024",
+   "source": "bseb",
+   "short": "Bihar Board",
+   "org": "Bihar School Examination Board",
+   "scope": "bihar",
+   "items": [
+    "98aa5b835b4c"
+   ],
+   "year": 2024,
+   "name": "Bihar Board समिति के विभिन्न पदों हेतु सेवानिवृत्त पदाधिकारी/कर्मचारी एवं गैर सरकारी / निजी 2024",
+   "slug": "bihar-board-2024-e9028",
+   "types": [
+    "job"
+   ],
+   "latest": "2024-11-14"
   }
  ]
 }
