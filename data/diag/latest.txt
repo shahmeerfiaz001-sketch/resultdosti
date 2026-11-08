@@ -1,28 +1,28 @@
 ================================================================================
 https://ssc.gov.in/
-curl chrome h1.1 : 200 80649 1.413109 1.1
-curl chrome h2   : 200 80649 1.346704 1.1
-curl plain       : 200 80649 1.362025 1.1
-curl insecure tls: 200 80649 1.429084 1.1
+curl chrome h1.1 : 200 80649 1.542543 1.1
+curl chrome h2   : 200 80649 1.544408 1.1
+curl plain       : 200 80649 1.535042 1.1
+curl insecure tls: 200 80649 1.520960 1.1
 browser          : {
  "xhr": [
   "200 document https://ssc.gov.in/",
-  "204 fetch https://www.google-analytics.com/g/collect?v=2&tid=G-MCN7V1QY1T&gtm=45je6b30h1v9177392750za208zd9177392750xf1&_p=1793821096261&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=",
-  "204 fetch https://www.google-analytics.com/g/collect?v=2&tid=G-PGXLWF9037&gtm=45je6b30h1v9177392750za208zd9177392750xf1&_p=1793821096261&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=",
+  "204 fetch https://www.google-analytics.com/g/collect?v=2&tid=G-MCN7V1QY1T&gtm=45je6b41v9177392750za208zd9177392750xf1&_p=1794129766695&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=EA",
+  "204 fetch https://www.google-analytics.com/g/collect?v=2&tid=G-PGXLWF9037&gtm=45je6b41v9177392750za208zd9177392750xf1&_p=1794129766695&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=EA",
   "200 xhr https://ssc.gov.in/api/admin/5.1/allExams",
   "200 xhr https://ssc.gov.in/api/general-website/statistics/visitor-count",
   "200 xhr https://ssc.gov.in/api/general-website/portal//lastUpdates",
-  "200 xhr https://ssc.gov.in/api/general-website/statistics/visitor-count",
   "200 xhr https://ssc.gov.in/api/general-website/portal/records?page=1&limit=10&contentType=browse-exam&key=createdAt&order=DESC&isPaginationRequired=false&isAttachment=t",
   "200 xhr https://ssc.gov.in/api/general-website/portal/notice-boards?page=1&limit=10&contentType=notice-boards&key=createdAt&order=DESC&isAttachment=true&language=englis",
   "200 xhr https://ssc.gov.in/api/general-website/portal/records?page=1&limit=10&contentType=ribbons&key=createdAt&order=DESC&isAttachment=false&language=english&attribute",
-  "200 xhr https://ssc.gov.in/api/general-website/portal/records?page=1&limit=10&contentType=browse-exam&key=createdAt&isPaginationRequired=false&order=DESC&isAttachment=t",
+  "200 xhr https://ssc.gov.in/api/general-website/statistics/visitor-count",
   "200 xhr https://ssc.gov.in/api/general-website/portal/ssc-calendar?page=1&limit=10&contentType=ssc-calendar&key=startDate&order=ASC&isAttachment=true&isPaginationRequir",
+  "200 xhr https://ssc.gov.in/api/general-website/portal/records?page=1&limit=10&contentType=browse-exam&key=createdAt&isPaginationRequired=false&order=DESC&isAttachment=t",
   "200 xhr https://ssc.gov.in/api/general-website/faq/records?page=1&limit=10&order=DESC&language=english&showInHome=true&attributes=id,question,answer,startDate,endDate,l",
-  "204 fetch https://www.google-analytics.com/g/collect?v=2&tid=G-MCN7V1QY1T&gtm=45je6b30h1v9177392750za200zd9177392750xf1&_p=1793821096261&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu="
+  "204 fetch https://www.google-analytics.com/g/collect?v=2&tid=G-MCN7V1QY1T&gtm=45je6b41v9177392750za200zd9177392750xf1&_p=1794129766695&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=EE"
  ],
  "status": 200,
  "title": "Home | Staff Selection Commission | GoI",
  "links": 66,
- "text": "Feedback\nSSC Old Website\nSkip to Main Content\nEnglish \n+A\nA\n-A\n\nGovernment of India\n\nStaff Selection Commission\n\nLogin or Register\nHome\n Chairman’s Message\nFor Candidates \n Tender\nRTI \nAbout Us \n\nFollow the Staff Selection Commission on X (formerly Twitter): @SSC_GoI\n\nOne Time Registration(OTR) for Scribe is live. Please click here to register.\n\nJOIN INDIAN COAST GUARD\nNotice Board\nView All\nNew\nNo"
+ "text": "Feedback\nSSC Old Website\nSkip to Main Content\nEnglish \n+A\nA\n-A\n\nGovernment of India\n\nStaff Selection Commission\n\nLogin or Register\nHome\n Chairman’s Message\nFor Candidates \n Tender\nRTI \nAbout Us \n\nFor inquiries or support, candidates can email: helpdesk-ssc@ssc.nic.in\n\nToll Free Candidate Helpline No.: 1800-309-3063 - Languages Supported : English and Hindi\n\nFollow the Staff Selection Commission on"
 }
