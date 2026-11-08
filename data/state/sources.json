@@ -8,9 +8,9 @@
   "last_error": "ConnectTimeout: HTTPSConnectionPool(host='upsc.gov.in', port=443): Max retries exceeded with url: /whats-new (Caused by ConnectTimeoutError(<HTTPSConnection(host='upsc.gov.in',"
  },
  "ssc": {
-  "last_run": "2026-11-08T12:45:27+00:00",
+  "last_run": "2026-11-08T14:38:39+00:00",
   "fails": 0,
-  "last_ok": "2026-11-08T12:45:27+00:00",
+  "last_ok": "2026-11-08T14:38:39+00:00",
   "last_count": 10,
   "zero_runs": 0,
   "last_error": null
@@ -32,49 +32,49 @@
   "last_error": "HTTP 404"
  },
  "ibps": {
-  "last_run": "2026-11-08T12:45:33+00:00",
+  "last_run": "2026-11-08T14:38:46+00:00",
   "fails": 0,
-  "last_ok": "2026-11-08T12:45:33+00:00",
+  "last_ok": "2026-11-08T14:38:46+00:00",
   "last_count": 9,
   "zero_runs": 0,
   "last_error": null
  },
  "sbi": {
-  "last_run": "2026-11-08T12:45:44+00:00",
+  "last_run": "2026-11-08T14:38:54+00:00",
   "fails": 0,
-  "last_ok": "2026-11-08T12:45:44+00:00",
+  "last_ok": "2026-11-08T14:38:54+00:00",
   "last_count": 189,
   "zero_runs": 0,
   "last_error": null
  },
  "rbi": {
-  "last_run": "2026-11-08T12:45:49+00:00",
+  "last_run": "2026-11-08T14:39:00+00:00",
   "fails": 0,
-  "last_ok": "2026-11-08T12:45:49+00:00",
+  "last_ok": "2026-11-08T14:39:00+00:00",
   "last_count": 35,
   "zero_runs": 0,
   "last_error": null
  },
  "nta": {
-  "last_run": "2026-11-08T12:46:02+00:00",
+  "last_run": "2026-11-08T14:39:08+00:00",
   "fails": 0,
-  "last_ok": "2026-11-08T12:46:02+00:00",
+  "last_ok": "2026-11-08T14:39:08+00:00",
   "last_count": 398,
   "zero_runs": 0,
   "last_error": null
  },
  "cbse": {
-  "last_run": "2026-11-08T12:46:07+00:00",
+  "last_run": "2026-11-08T14:39:13+00:00",
   "fails": 0,
-  "last_ok": "2026-11-08T12:46:07+00:00",
+  "last_ok": "2026-11-08T14:39:13+00:00",
   "last_count": 134,
   "zero_runs": 0,
   "last_error": null
  },
  "indiapost": {
-  "last_run": "2026-11-08T12:46:11+00:00",
+  "last_run": "2026-11-08T14:39:19+00:00",
   "fails": 0,
-  "last_ok": "2026-11-08T12:46:11+00:00",
+  "last_ok": "2026-11-08T14:39:19+00:00",
   "last_count": 1,
   "zero_runs": 0,
   "last_error": null
@@ -104,9 +104,9 @@
   "last_error": "ConnectTimeout: HTTPSConnectionPool(host='agnipathvayu.cdac.in', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='agnipathvayu."
  },
  "ssb": {
-  "last_run": "2026-11-08T12:46:17+00:00",
+  "last_run": "2026-11-08T14:39:25+00:00",
   "fails": 0,
-  "last_ok": "2026-11-08T12:46:17+00:00",
+  "last_ok": "2026-11-08T14:39:25+00:00",
   "last_count": 4,
   "zero_runs": 0,
   "last_error": null
@@ -128,25 +128,25 @@
   "last_error": "ConnectTimeout: HTTPSConnectionPool(host='recruitment.itbpolice.nic.in', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='recru"
  },
  "cisf": {
-  "last_run": "2026-11-08T12:46:24+00:00",
+  "last_run": "2026-11-08T14:39:33+00:00",
   "fails": 0,
-  "last_ok": "2026-11-08T12:46:24+00:00",
+  "last_ok": "2026-11-08T14:39:33+00:00",
   "last_count": 5,
   "zero_runs": 0,
   "last_error": null
  },
  "crpf": {
-  "last_run": "2026-11-08T12:46:29+00:00",
+  "last_run": "2026-11-08T14:39:38+00:00",
   "fails": 0,
-  "last_ok": "2026-11-08T12:46:29+00:00",
+  "last_ok": "2026-11-08T14:39:38+00:00",
   "last_count": 1,
   "zero_runs": 0,
   "last_error": null
  },
  "aiims": {
-  "last_run": "2026-11-08T12:46:36+00:00",
+  "last_run": "2026-11-08T14:39:45+00:00",
   "fails": 0,
-  "last_ok": "2026-11-08T12:46:36+00:00",
+  "last_ok": "2026-11-08T14:39:45+00:00",
   "last_count": 5,
   "zero_runs": 0,
   "last_error": null
@@ -160,9 +160,9 @@
   "last_error": "ConnectTimeout: HTTPSConnectionPool(host='esic.gov.in', port=443): Max retries exceeded with url: /recruitments (Caused by ConnectTimeoutError(<HTTPSConnection(host='esic.gov.i"
  },
  "lic": {
-  "last_run": "2026-11-08T12:46:37+00:00",
+  "last_run": "2026-11-08T14:39:46+00:00",
   "fails": 0,
-  "last_ok": "2026-11-08T12:46:37+00:00",
+  "last_ok": "2026-11-08T14:39:46+00:00",
   "last_count": 2,
   "zero_runs": 0,
   "last_error": null
@@ -176,25 +176,25 @@
   "last_error": "HTTP 403"
  },
  "fci": {
-  "last_run": "2026-11-08T12:46:41+00:00",
+  "last_run": "2026-11-08T14:39:50+00:00",
   "fails": 0,
-  "last_ok": "2026-11-08T12:46:41+00:00",
+  "last_ok": "2026-11-08T14:39:50+00:00",
   "last_count": 0,
-  "zero_runs": 47,
+  "zero_runs": 48,
   "last_error": null
  },
  "dsssb": {
-  "last_run": "2026-11-08T12:46:44+00:00",
+  "last_run": "2026-11-08T14:39:53+00:00",
   "fails": 0,
-  "last_ok": "2026-11-08T12:46:44+00:00",
+  "last_ok": "2026-11-08T14:39:53+00:00",
   "last_count": 19,
   "zero_runs": 0,
   "last_error": null
  },
  "uppsc": {
-  "last_run": "2026-11-08T12:46:47+00:00",
+  "last_run": "2026-11-08T14:39:57+00:00",
   "fails": 0,
-  "last_ok": "2026-11-08T12:46:47+00:00",
+  "last_ok": "2026-11-08T14:39:57+00:00",
   "last_count": 28,
   "zero_runs": 0,
   "last_error": null
@@ -208,17 +208,17 @@
   "last_error": "ConnectTimeout: HTTPSConnectionPool(host='upsssc.gov.in', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='upsssc.gov.in', port"
  },
  "upprpb": {
-  "last_run": "2026-11-08T12:46:51+00:00",
+  "last_run": "2026-11-08T14:40:01+00:00",
   "fails": 0,
-  "last_ok": "2026-11-08T12:46:51+00:00",
+  "last_ok": "2026-11-08T14:40:01+00:00",
   "last_count": 34,
   "zero_runs": 0,
   "last_error": null
  },
  "upmsp": {
-  "last_run": "2026-11-08T12:46:55+00:00",
+  "last_run": "2026-11-08T14:40:05+00:00",
   "fails": 0,
-  "last_ok": "2026-11-08T12:46:55+00:00",
+  "last_ok": "2026-11-08T14:40:05+00:00",
   "last_count": 3,
   "zero_runs": 0,
   "last_error": null
@@ -232,25 +232,25 @@
   "last_error": "ConnectTimeout: HTTPSConnectionPool(host='upresults.nic.in', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='upresults.nic.in'"
  },
  "updeled": {
-  "last_run": "2026-11-08T12:46:58+00:00",
+  "last_run": "2026-11-08T14:40:08+00:00",
   "fails": 0,
-  "last_ok": "2026-11-08T12:46:58+00:00",
+  "last_ok": "2026-11-08T14:40:08+00:00",
   "last_count": 3,
   "zero_runs": 0,
   "last_error": null
  },
  "upnhm": {
-  "last_run": "2026-11-08T12:47:01+00:00",
+  "last_run": "2026-11-08T14:40:12+00:00",
   "fails": 0,
-  "last_ok": "2026-11-08T12:47:01+00:00",
+  "last_ok": "2026-11-08T14:40:12+00:00",
   "last_count": 1,
   "zero_runs": 0,
   "last_error": null
  },
  "allahabadhc": {
-  "last_run": "2026-11-08T12:47:04+00:00",
+  "last_run": "2026-11-08T14:40:15+00:00",
   "fails": 0,
-  "last_ok": "2026-11-08T12:47:04+00:00",
+  "last_ok": "2026-11-08T14:40:15+00:00",
   "last_count": 2,
   "zero_runs": 0,
   "last_error": null
@@ -264,73 +264,73 @@
   "last_error": "HTTP 403"
  },
  "bpsc": {
-  "last_run": "2026-11-08T12:47:09+00:00",
+  "last_run": "2026-11-08T14:40:20+00:00",
   "fails": 0,
-  "last_ok": "2026-11-08T12:47:09+00:00",
+  "last_ok": "2026-11-08T14:40:20+00:00",
   "last_count": 9,
   "zero_runs": 0,
   "last_error": null
  },
  "bssc": {
-  "last_run": "2026-11-08T12:47:14+00:00",
+  "last_run": "2026-11-08T14:40:24+00:00",
   "fails": 0,
-  "last_ok": "2026-11-08T12:47:14+00:00",
+  "last_ok": "2026-11-08T14:40:24+00:00",
   "last_count": 0,
-  "zero_runs": 46,
+  "zero_runs": 47,
   "last_error": null
  },
  "csbc": {
-  "last_run": "2026-11-08T12:47:19+00:00",
+  "last_run": "2026-11-08T14:40:29+00:00",
   "fails": 0,
-  "last_ok": "2026-11-08T12:47:19+00:00",
+  "last_ok": "2026-11-08T14:40:29+00:00",
   "last_count": 18,
   "zero_runs": 0,
   "last_error": null
  },
  "bpssc": {
-  "last_run": "2026-11-08T12:47:22+00:00",
+  "last_run": "2026-11-08T14:40:32+00:00",
   "fails": 0,
-  "last_ok": "2026-11-08T12:47:22+00:00",
+  "last_ok": "2026-11-08T14:40:32+00:00",
   "last_count": 151,
   "zero_runs": 0,
   "last_error": null
  },
  "btsc": {
-  "last_run": "2026-11-08T12:47:25+00:00",
+  "last_run": "2026-11-08T14:40:35+00:00",
   "fails": 0,
-  "last_ok": "2026-11-08T12:47:25+00:00",
+  "last_ok": "2026-11-08T14:40:35+00:00",
   "last_count": 29,
   "zero_runs": 0,
   "last_error": null
  },
  "bseb": {
-  "last_run": "2026-11-08T12:47:28+00:00",
+  "last_run": "2026-11-08T14:40:39+00:00",
   "fails": 0,
-  "last_ok": "2026-11-08T12:47:28+00:00",
+  "last_ok": "2026-11-08T14:40:39+00:00",
   "last_count": 16,
   "zero_runs": 0,
   "last_error": null
  },
  "shsbihar": {
-  "last_run": "2026-11-08T12:47:34+00:00",
+  "last_run": "2026-11-08T14:40:44+00:00",
   "fails": 0,
-  "last_ok": "2026-11-08T12:47:34+00:00",
+  "last_ok": "2026-11-08T14:40:44+00:00",
   "last_count": 368,
   "zero_runs": 0,
   "last_error": null
  },
  "bceceb": {
-  "last_run": "2026-11-08T12:47:37+00:00",
+  "last_run": "2026-11-08T14:40:48+00:00",
   "fails": 0,
-  "last_ok": "2026-11-08T12:47:37+00:00",
+  "last_ok": "2026-11-08T14:40:48+00:00",
   "last_count": 180,
   "zero_runs": 0,
   "last_error": null
  },
  "patnahc": {
-  "last_run": "2026-11-08T12:47:44+00:00",
+  "last_run": "2026-11-08T14:40:55+00:00",
   "fails": 0,
-  "last_ok": "2026-11-08T12:47:44+00:00",
+  "last_ok": "2026-11-08T14:40:55+00:00",
   "last_count": 6,
   "zero_runs": 0,
   "last_error": null
