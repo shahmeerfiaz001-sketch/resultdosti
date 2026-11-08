@@ -28,7 +28,7 @@ jobs:
       - name: Diagnose
         env:
           URLS: ${{ github.event.inputs.urls }}
-        run: python bot/tools/diag.py $(printf '%s' "$URLS" | tr -cd 'A-Za-z0-9:/._?=&%-  ') | tee diag.txt
+        run: python bot/tools/diag.py $(printf '%s' "$URLS" | tr -cd 'A-Za-z0-9:/._?=&% -') | tee diag.txt
       - name: Peek
         working-directory: bot
         run: python tools/peek.py | tee ../peek.txt
