@@ -21,6 +21,7 @@ NOISE = re.compile(
     r"photo\s+gallery|video\s+gallery|press\s+release|newsletter|holiday\s+list|transfer\s+order|promotion\s+order|"
     r"pension|gpf|salary\s+slip|leave\s+rules|seniority|inventory|purchase|website\s+policy|"
     r"chambers?\b|guest\s*house|advocates?\b|debar|chargeback|refund|enlisted\s+former|cause\s+list|roster|court\s+fee|"
+    r"empanel?ment|observers?\s+for|examination\s+centres?\s+for|exam\s+centres?\s+for|vendors?\b|service\s+providers?|expression\s+of\s+interest|\beoi\b|"
     r"logindob|screen\s+reader|information\s+kit|पुरालेख|\barchives?\b|view\s+archive|बिहार\s+सूचना\s+आयोग|सूचना\s+पट्ट|"
     r"निविदा|टेंडर|सूचना\s+का\s+अधिकार",
     re.I,
