@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T10:43:47+00:00",
+ "updated": "2026-11-08T12:47:44+00:00",
  "exams": [
   {
    "key": "bseb-register-system-2026",
@@ -13583,15 +13583,13 @@
    "org": "Bihar School Examination Board",
    "scope": "bihar",
    "items": [
-    "1a0b8514a42d",
-    "4b301d6e9ba5"
+    "1a0b8514a42d"
    ],
    "year": 2025,
    "name": "Bihar Board माध्यमिक शिक्षक पात्रता परीक्षा ,2025 का ऑनलाइन परीक्षा आवेदन पत्र भरने के",
    "slug": "bihar-board-2025-88423",
    "types": [
-    "job",
-    "notice"
+    "job"
    ],
    "latest": "2025-09-19"
   },
@@ -14314,74 +14312,6 @@
     "admit"
    ],
    "latest": "2025-03-23"
-  },
-  {
-   "key": "bseb-dummy-2025",
-   "source": "bseb",
-   "short": "Bihar Board",
-   "org": "Bihar School Examination Board",
-   "scope": "bihar",
-   "items": [
-    "625cd00885c9"
-   ],
-   "year": 2025,
-   "name": "Bihar Board इन्टरमीडिएट वार्षिक परीक्षा, 2025 में सम्मिलित होने वाले विद्यार्थियों का Dummy",
-   "slug": "bihar-board-2025-dummy-1d592",
-   "types": [
-    "admit"
-   ],
-   "latest": "2024-12-05"
-  },
-  {
-   "key": "bseb-dummy-annual-secondary-2025",
-   "source": "bseb",
-   "short": "Bihar Board",
-   "org": "Bihar School Examination Board",
-   "scope": "bihar",
-   "items": [
-    "07bb2b4846a4"
-   ],
-   "year": 2025,
-   "name": "Bihar Board Advertisement Regarding Dummy Admit Card and Correction of Annual Secondary 2025",
-   "slug": "bihar-board-advertisement-regarding-dummy-admit-card-and-correction-of-annual-25d49",
-   "types": [
-    "admit"
-   ],
-   "latest": "2024-11-29"
-  },
-  {
-   "key": "bseb-procurement-specialist-walk-2024",
-   "source": "bseb",
-   "short": "Bihar Board",
-   "org": "Bihar School Examination Board",
-   "scope": "bihar",
-   "items": [
-    "3b5262fbab74"
-   ],
-   "year": 2024,
-   "name": "Bihar Board Procurement Specialist के पद हेतु Walk-in-interview की सूचना 2024",
-   "slug": "bihar-board-procurement-specialist-walk-in-interview-2024-7f434",
-   "types": [
-    "job"
-   ],
-   "latest": "2024-11-14"
-  },
-  {
-   "key": "bseb-notice-2024",
-   "source": "bseb",
-   "short": "Bihar Board",
-   "org": "Bihar School Examination Board",
-   "scope": "bihar",
-   "items": [
-    "98aa5b835b4c"
-   ],
-   "year": 2024,
-   "name": "Bihar Board समिति के विभिन्न पदों हेतु सेवानिवृत्त पदाधिकारी/कर्मचारी एवं गैर सरकारी / निजी 2024",
-   "slug": "bihar-board-2024-e9028",
-   "types": [
-    "job"
-   ],
-   "latest": "2024-11-14"
   }
  ]
 }
