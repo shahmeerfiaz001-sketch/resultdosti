@@ -12,7 +12,7 @@ Checked from GitHub Actions (US) and check-host.net nodes on 4-5 Nov 2026.
 - epfindia.gov.in and rectt.bsf.gov.in (403 to data-centre IPs)
 
 ## Down from every region at test time
-- upsssc.gov.in (legacy TLS, timeouts), biharboardonline.bihar.gov.in (connection reset), upresults.nic.in, joinindiannavy.gov.in
+- upsssc.gov.in (timeouts everywhere, disabled), biharboardonline.bihar.gov.in (connection reset; use biharboardonline.com instead), upresults.nic.in, joinindiannavy.gov.in
 
 ## Reachable worldwide
 - ssc.gov.in: public JSON API
