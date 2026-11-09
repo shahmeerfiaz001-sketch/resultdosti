@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T10:57:25+00:00",
+ "updated": "2026-11-09T13:08:55+00:00",
  "items": [
   {
    "id": "eb5a27ddb770",
@@ -43046,6 +43046,31 @@
    "tier": 1,
    "status": "info",
    "group": "ibps-crp-rrbs-xv-officer-scale-2026"
+  },
+  {
+   "id": "8898e51de67a",
+   "source": "upmsp",
+   "org": "UP Madhyamik Shiksha Parishad",
+   "short": "UP Board",
+   "scope": "up",
+   "title": "उत्तर प्रदेश में जनगणना 2027 के द्वितीय एवं अंतिम चरण के कार्यक्रम से सम्बन्धित सूचना ।",
+   "url": "https://upmsp.edu.in/Downloads/Census_2017_up.pdf",
+   "is_doc": true,
+   "type": "notice",
+   "list_date": null,
+   "first_seen": "2026-11-09T13:07:58+00:00",
+   "last_seen": "2026-11-09T13:07:58+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://upmsp.edu.in",
+   "slug": "up-board-2027-8898e5",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "upmsp-notice-2027"
   }
  ]
 }

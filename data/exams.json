@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T10:57:25+00:00",
+ "updated": "2026-11-09T13:08:55+00:00",
  "exams": [
   {
    "key": "uppsc-a-e-combined-state-upper-subordinate-services-2025",
@@ -33,6 +33,23 @@
    "slug": "ibps-online-preliminary-exam-call-letter-for-crp-rrbs-xv-officer-scale-i-2026-9d9ac",
    "types": [
     "admit"
+   ],
+   "latest": "2026-11-09"
+  },
+  {
+   "key": "upmsp-notice-2027",
+   "source": "upmsp",
+   "short": "UP Board",
+   "org": "UP Madhyamik Shiksha Parishad",
+   "scope": "up",
+   "items": [
+    "8898e51de67a"
+   ],
+   "year": 2027,
+   "name": "UP Board उत्तर प्रदेश में जनगणना 2027 के द्वितीय एवं अंतिम चरण के कार्यक्रम से सम्बन्धित",
+   "slug": "up-board-2027-d7264",
+   "types": [
+    "notice"
    ],
    "latest": "2026-11-09"
   },
