@@ -1,6 +1,24 @@
 {
- "updated": "2026-11-08T12:47:44+00:00",
+ "updated": "2026-11-09T01:02:06+00:00",
  "exams": [
+  {
+   "key": "uppsc-a-e-combined-state-upper-subordinate-services-2025",
+   "source": "uppsc",
+   "short": "UPPSC",
+   "org": "Uttar Pradesh Public Service Commission",
+   "scope": "up",
+   "items": [
+    "da58c57796f2",
+    "8cf6cb050527"
+   ],
+   "year": 2025,
+   "name": "UPPSC Advt. No. A-1/E-1/2025, Combined State/upper Subordinate Services Exam.-2025",
+   "slug": "uppsc-advt-no-a-1-e-1-2025-combined-state-upper-subordinate-services-exam-2025-4ecbd",
+   "types": [
+    "job"
+   ],
+   "latest": "2026-11-10"
+  },
   {
    "key": "bseb-register-system-2026",
    "source": "bseb",
@@ -6067,24 +6085,6 @@
    "year": 2026,
    "name": "LIC Engagement of Chief Financial Officer- on contract basis 2026",
    "slug": "lic-engagement-of-chief-financial-officer-on-contract-basis-2026-be99a",
-   "types": [
-    "job"
-   ],
-   "latest": "2026-11-04"
-  },
-  {
-   "key": "uppsc-a-e-combined-state-upper-subordinate-services-2025",
-   "source": "uppsc",
-   "short": "UPPSC",
-   "org": "Uttar Pradesh Public Service Commission",
-   "scope": "up",
-   "items": [
-    "da58c57796f2",
-    "8cf6cb050527"
-   ],
-   "year": 2025,
-   "name": "UPPSC Advt. No. A-1/E-1/2025, Combined State/upper Subordinate Services Exam.-2025",
-   "slug": "uppsc-advt-no-a-1-e-1-2025-combined-state-upper-subordinate-services-exam-2025-4ecbd",
    "types": [
     "job"
    ],
