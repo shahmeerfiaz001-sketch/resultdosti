@@ -1,6 +1,16 @@
 {
- "run": "2026-11-09T01:02:06+00:00",
+ "run": "2026-11-09T10:57:25+00:00",
  "first_run": false,
- "new": [],
+ "new": [
+  {
+   "id": "27b317f18815",
+   "type": "admit",
+   "title": "Online Preliminary Exam Call Letter for CRP-RRBs-XV- Officer Scale I",
+   "short": "IBPS",
+   "url": "https://resultdosti.in/admit-card/ibps-online-preliminary-exam-call-letter-for-crp-rrbs-xv-officer-27b317/",
+   "last_date": null,
+   "jobposting": false
+  }
+ ],
  "closed": []
 }

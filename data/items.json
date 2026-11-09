@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T01:02:06+00:00",
+ "updated": "2026-11-09T10:57:25+00:00",
  "items": [
   {
    "id": "eb5a27ddb770",
@@ -43021,6 +43021,31 @@
    "archive": true,
    "status": "info",
    "group": "bseb-instructions-matric-verification-2024"
+  },
+  {
+   "id": "27b317f18815",
+   "source": "ibps",
+   "org": "Institute of Banking Personnel Selection",
+   "short": "IBPS",
+   "scope": "central",
+   "title": "Online Preliminary Exam Call Letter for CRP-RRBs-XV- Officer Scale I",
+   "url": "https://www.ibps.in/index.php/rural-bank-xv/",
+   "is_doc": false,
+   "type": "admit",
+   "list_date": "2026-11-09",
+   "first_seen": "2026-11-09T10:55:18+00:00",
+   "last_seen": "2026-11-09T10:55:18+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://www.ibps.in",
+   "slug": "ibps-online-preliminary-exam-call-letter-for-crp-rrbs-xv-officer-27b317",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "ibps-crp-rrbs-xv-officer-scale-2026"
   }
  ]
 }

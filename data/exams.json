@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T01:02:06+00:00",
+ "updated": "2026-11-09T10:57:25+00:00",
  "exams": [
   {
    "key": "uppsc-a-e-combined-state-upper-subordinate-services-2025",
@@ -18,6 +18,23 @@
     "job"
    ],
    "latest": "2026-11-10"
+  },
+  {
+   "key": "ibps-crp-rrbs-xv-officer-scale-2026",
+   "source": "ibps",
+   "short": "IBPS",
+   "org": "Institute of Banking Personnel Selection",
+   "scope": "central",
+   "items": [
+    "27b317f18815"
+   ],
+   "year": 2026,
+   "name": "IBPS Online Preliminary Exam Call Letter for CRP-RRBs-XV- Officer Scale I 2026",
+   "slug": "ibps-online-preliminary-exam-call-letter-for-crp-rrbs-xv-officer-scale-i-2026-9d9ac",
+   "types": [
+    "admit"
+   ],
+   "latest": "2026-11-09"
   },
   {
    "key": "bseb-register-system-2026",
