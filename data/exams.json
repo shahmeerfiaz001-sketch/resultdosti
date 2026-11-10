@@ -1,6 +1,24 @@
 {
- "updated": "2026-11-09T13:08:55+00:00",
+ "updated": "2026-11-10T07:05:11+00:00",
  "exams": [
+  {
+   "key": "nta-joint-csir-ugc-net-december-2026",
+   "source": "nta",
+   "short": "NTA",
+   "org": "National Testing Agency",
+   "scope": "central",
+   "items": [
+    "5011d05f7b32",
+    "18f1454bdeb9"
+   ],
+   "year": 2026,
+   "name": "NTA Inviting Online Application for Joint CSIR UGC-NET December 2026",
+   "slug": "nta-inviting-online-application-for-joint-csir-ugc-net-december-2026-dca06",
+   "types": [
+    "job"
+   ],
+   "latest": "2026-11-10"
+  },
   {
    "key": "uppsc-a-e-combined-state-upper-subordinate-services-2025",
    "source": "uppsc",
@@ -1460,23 +1478,6 @@
    "year": 2026,
    "name": "NTA Opening of the online registration portal for submission of Online Application 2026",
    "slug": "nta-opening-of-the-online-registration-portal-for-submission-of-online-030f7",
-   "types": [
-    "job"
-   ],
-   "latest": "2026-11-04"
-  },
-  {
-   "key": "nta-joint-csir-ugc-net-december-2026",
-   "source": "nta",
-   "short": "NTA",
-   "org": "National Testing Agency",
-   "scope": "central",
-   "items": [
-    "5011d05f7b32"
-   ],
-   "year": 2026,
-   "name": "NTA Inviting Online Application for Joint CSIR UGC-NET December 2026",
-   "slug": "nta-inviting-online-application-for-joint-csir-ugc-net-december-2026-dca06",
    "types": [
     "job"
    ],
@@ -9805,6 +9806,40 @@
    "types": [
     "job",
     "syllabus"
+   ],
+   "latest": "2026-11-01"
+  },
+  {
+   "key": "cisf-03-2026",
+   "source": "cisf",
+   "short": "CISF",
+   "org": "CISF Recruitment",
+   "scope": "central",
+   "items": [
+    "8c33f548ae5b"
+   ],
+   "year": 2026,
+   "name": "CISF केऔसुब में प्रतिनियुक्ति के आधार पर निजी सचिव के 03 रिक्त पद 2026",
+   "slug": "cisf-03-2026-7168f",
+   "types": [
+    "job"
+   ],
+   "latest": "2026-11-01"
+  },
+  {
+   "key": "cisf-02-2026",
+   "source": "cisf",
+   "short": "CISF",
+   "org": "CISF Recruitment",
+   "scope": "central",
+   "items": [
+    "7b7c10549d2e"
+   ],
+   "year": 2026,
+   "name": "CISF केऔसुब में प्रतिनियुक्ति के आधार पर लेखाकर के 02 रिक्त पद 2026",
+   "slug": "cisf-02-2026-84602",
+   "types": [
+    "job"
    ],
    "latest": "2026-11-01"
   },

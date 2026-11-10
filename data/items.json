@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T13:08:55+00:00",
+ "updated": "2026-11-10T07:05:11+00:00",
  "items": [
   {
    "id": "eb5a27ddb770",
@@ -43071,6 +43071,111 @@
    "tier": 1,
    "status": "info",
    "group": "upmsp-notice-2027"
+  },
+  {
+   "id": "18f1454bdeb9",
+   "source": "nta",
+   "org": "National Testing Agency",
+   "short": "NTA",
+   "scope": "central",
+   "title": "Correction in the particulars of the online Application Form of Joint CSIR-UGC NET December 2026",
+   "url": "https://nta.ac.in/Download/Notice/Notice_20261110115638.pdf",
+   "is_doc": true,
+   "type": "job",
+   "list_date": null,
+   "first_seen": "2026-11-10T07:02:46+00:00",
+   "last_seen": "2026-11-10T07:02:46+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://nta.ac.in",
+   "slug": "nta-correction-in-the-particulars-of-the-online-application-form-of-18f145",
+   "details": {
+    "fields": {},
+    "pdf_quality": {
+     "chars": 0,
+     "latin": 0.0,
+     "devanagari": 0.0,
+     "legacy_suspect": false,
+     "scanned_suspect": true,
+     "ocr": true
+    },
+    "parsed_at": "2026-11-10T07:05:10+00:00",
+    "pdf_error": null,
+    "attempts": 1
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "nta-joint-csir-ugc-net-december-2026"
+  },
+  {
+   "id": "8c33f548ae5b",
+   "source": "cisf",
+   "org": "CISF Recruitment",
+   "short": "CISF",
+   "scope": "central",
+   "title": "केऔसुब में प्रतिनियुक्ति के आधार पर निजी सचिव के 03 रिक्त पद",
+   "url": "https://cisf.mha.gov.in/cisf_dbim_hindi/assets/pdfs/2026/11/hindi_pvt_ sec_final.pdf",
+   "is_doc": true,
+   "type": "job",
+   "list_date": "2026-11-01",
+   "first_seen": "2026-11-10T07:03:11+00:00",
+   "last_seen": "2026-11-10T07:03:11+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://cisf.mha.gov.in",
+   "slug": "cisf-03-8c33f5",
+   "details": {
+    "fields": {},
+    "pdf_quality": {
+     "chars": 0,
+     "latin": 0.0,
+     "devanagari": 0.0,
+     "legacy_suspect": false,
+     "scanned_suspect": true,
+     "ocr": true
+    },
+    "parsed_at": "2026-11-10T07:04:51+00:00",
+    "pdf_error": null,
+    "attempts": 1
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "cisf-03-2026"
+  },
+  {
+   "id": "7b7c10549d2e",
+   "source": "cisf",
+   "org": "CISF Recruitment",
+   "short": "CISF",
+   "scope": "central",
+   "title": "केऔसुब में प्रतिनियुक्ति के आधार पर लेखाकर के 02 रिक्त पद",
+   "url": "https://cisf.mha.gov.in/cisf_dbim_hindi/assets/pdfs/2026/11/acct_hindi_final.pdf",
+   "is_doc": true,
+   "type": "job",
+   "list_date": "2026-11-01",
+   "first_seen": "2026-11-10T07:03:11+00:00",
+   "last_seen": "2026-11-10T07:03:11+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://cisf.mha.gov.in",
+   "slug": "cisf-02-7b7c10",
+   "details": {
+    "fields": {},
+    "pdf_quality": {
+     "chars": 0,
+     "latin": 0.0,
+     "devanagari": 0.0,
+     "legacy_suspect": false,
+     "scanned_suspect": true,
+     "ocr": true
+    },
+    "parsed_at": "2026-11-10T07:05:01+00:00",
+    "pdf_error": null,
+    "attempts": 1
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "cisf-02-2026"
   }
  ]
 }
