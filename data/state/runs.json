@@ -1,195 +1,5 @@
 [
  {
-  "run": "2026-11-05T11:03:04+00:00",
-  "today": "2026-11-05",
-  "new": 1,
-  "announce": 1,
-  "changed": true,
-  "seconds": 196,
-  "sources": [
-   {
-    "source": "ssc",
-    "ok": true,
-    "items": 10,
-    "error": null
-   },
-   {
-    "source": "ibps",
-    "ok": true,
-    "items": 9,
-    "error": null
-   },
-   {
-    "source": "sbi",
-    "ok": true,
-    "items": 188,
-    "error": null
-   },
-   {
-    "source": "rbi",
-    "ok": true,
-    "items": 35,
-    "error": null
-   },
-   {
-    "source": "nta",
-    "ok": true,
-    "items": 398,
-    "error": null
-   },
-   {
-    "source": "cbse",
-    "ok": true,
-    "items": 134,
-    "error": null
-   },
-   {
-    "source": "indiapost",
-    "ok": true,
-    "items": 1,
-    "error": null
-   },
-   {
-    "source": "ssb",
-    "ok": true,
-    "items": 4,
-    "error": null
-   },
-   {
-    "source": "cisf",
-    "ok": true,
-    "items": 5,
-    "error": null
-   },
-   {
-    "source": "crpf",
-    "ok": true,
-    "items": 1,
-    "error": null
-   },
-   {
-    "source": "aiims",
-    "ok": true,
-    "items": 5,
-    "error": null
-   },
-   {
-    "source": "lic",
-    "ok": true,
-    "items": 2,
-    "error": null
-   },
-   {
-    "source": "fci",
-    "ok": true,
-    "items": 0,
-    "error": null
-   },
-   {
-    "source": "dsssb",
-    "ok": true,
-    "items": 19,
-    "error": null
-   },
-   {
-    "source": "uppsc",
-    "ok": true,
-    "items": 26,
-    "error": null
-   },
-   {
-    "source": "upsssc",
-    "ok": false,
-    "items": 0,
-    "error": "ConnectTimeout: HTTPSConnectionPool(host='upsssc.gov.in', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='upsssc.gov.in', port"
-   },
-   {
-    "source": "upprpb",
-    "ok": true,
-    "items": 36,
-    "error": null
-   },
-   {
-    "source": "upmsp",
-    "ok": true,
-    "items": 3,
-    "error": null
-   },
-   {
-    "source": "updeled",
-    "ok": true,
-    "items": 3,
-    "error": null
-   },
-   {
-    "source": "upnhm",
-    "ok": true,
-    "items": 1,
-    "error": null
-   },
-   {
-    "source": "allahabadhc",
-    "ok": true,
-    "items": 2,
-    "error": null
-   },
-   {
-    "source": "bpsc",
-    "ok": true,
-    "items": 9,
-    "error": null
-   },
-   {
-    "source": "bssc",
-    "ok": true,
-    "items": 0,
-    "error": null
-   },
-   {
-    "source": "csbc",
-    "ok": true,
-    "items": 18,
-    "error": null
-   },
-   {
-    "source": "bpssc",
-    "ok": true,
-    "items": 151,
-    "error": null
-   },
-   {
-    "source": "btsc",
-    "ok": true,
-    "items": 29,
-    "error": null
-   },
-   {
-    "source": "bseb",
-    "ok": false,
-    "items": 0,
-    "error": "ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
-   },
-   {
-    "source": "shsbihar",
-    "ok": true,
-    "items": 368,
-    "error": null
-   },
-   {
-    "source": "bceceb",
-    "ok": true,
-    "items": 177,
-    "error": null
-   },
-   {
-    "source": "patnahc",
-    "ok": true,
-    "items": 8,
-    "error": null
-   }
-  ]
- },
- {
   "run": "2026-11-05T13:07:14+00:00",
   "today": "2026-11-05",
   "new": 3,
@@ -11078,6 +10888,190 @@
   "announce": 0,
   "changed": false,
   "seconds": 134,
+  "sources": [
+   {
+    "source": "ssc",
+    "ok": true,
+    "items": 10,
+    "error": null
+   },
+   {
+    "source": "ibps",
+    "ok": true,
+    "items": 9,
+    "error": null
+   },
+   {
+    "source": "sbi",
+    "ok": true,
+    "items": 189,
+    "error": null
+   },
+   {
+    "source": "rbi",
+    "ok": true,
+    "items": 35,
+    "error": null
+   },
+   {
+    "source": "nta",
+    "ok": true,
+    "items": 398,
+    "error": null
+   },
+   {
+    "source": "cbse",
+    "ok": true,
+    "items": 134,
+    "error": null
+   },
+   {
+    "source": "indiapost",
+    "ok": true,
+    "items": 1,
+    "error": null
+   },
+   {
+    "source": "ssb",
+    "ok": true,
+    "items": 4,
+    "error": null
+   },
+   {
+    "source": "cisf",
+    "ok": true,
+    "items": 7,
+    "error": null
+   },
+   {
+    "source": "crpf",
+    "ok": true,
+    "items": 1,
+    "error": null
+   },
+   {
+    "source": "aiims",
+    "ok": true,
+    "items": 5,
+    "error": null
+   },
+   {
+    "source": "lic",
+    "ok": true,
+    "items": 2,
+    "error": null
+   },
+   {
+    "source": "fci",
+    "ok": true,
+    "items": 0,
+    "error": null
+   },
+   {
+    "source": "dsssb",
+    "ok": true,
+    "items": 19,
+    "error": null
+   },
+   {
+    "source": "uppsc",
+    "ok": true,
+    "items": 28,
+    "error": null
+   },
+   {
+    "source": "upprpb",
+    "ok": true,
+    "items": 34,
+    "error": null
+   },
+   {
+    "source": "upmsp",
+    "ok": true,
+    "items": 4,
+    "error": null
+   },
+   {
+    "source": "updeled",
+    "ok": true,
+    "items": 3,
+    "error": null
+   },
+   {
+    "source": "upnhm",
+    "ok": true,
+    "items": 1,
+    "error": null
+   },
+   {
+    "source": "allahabadhc",
+    "ok": true,
+    "items": 2,
+    "error": null
+   },
+   {
+    "source": "bpsc",
+    "ok": true,
+    "items": 9,
+    "error": null
+   },
+   {
+    "source": "bssc",
+    "ok": true,
+    "items": 0,
+    "error": null
+   },
+   {
+    "source": "csbc",
+    "ok": true,
+    "items": 18,
+    "error": null
+   },
+   {
+    "source": "bpssc",
+    "ok": true,
+    "items": 151,
+    "error": null
+   },
+   {
+    "source": "btsc",
+    "ok": true,
+    "items": 29,
+    "error": null
+   },
+   {
+    "source": "bseb",
+    "ok": true,
+    "items": 6,
+    "error": null
+   },
+   {
+    "source": "shsbihar",
+    "ok": true,
+    "items": 368,
+    "error": null
+   },
+   {
+    "source": "bceceb",
+    "ok": true,
+    "items": 180,
+    "error": null
+   },
+   {
+    "source": "patnahc",
+    "ok": true,
+    "items": 6,
+    "error": null
+   }
+  ]
+ },
+ {
+  "run": "2026-11-10T10:54:51+00:00",
+  "today": "2026-11-10",
+  "new": 0,
+  "announce": 0,
+  "changed": false,
+  "seconds": 136,
   "sources": [
    {
     "source": "ssc",
