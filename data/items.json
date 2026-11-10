@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T07:05:11+00:00",
+ "updated": "2026-11-10T18:49:34+00:00",
  "items": [
   {
    "id": "eb5a27ddb770",
@@ -12721,31 +12721,6 @@
    "group": "nta-jee-session-2025"
   },
   {
-   "id": "f27513759676",
-   "source": "nta",
-   "org": "National Testing Agency",
-   "short": "NTA",
-   "scope": "central",
-   "title": "Release of Admit Card for Common University Entrance Test [CUET (PG) – 2025] (scheduled from 13 to 20 March 2025)",
-   "url": "https://nta.ac.in/Download/Notice/Notice_20250309164727.pdf",
-   "is_doc": true,
-   "type": "admit",
-   "list_date": "2025-03-20",
-   "first_seen": "2026-11-04T17:28:52+00:00",
-   "last_seen": "2026-11-10T00:57:34+00:00",
-   "advt": null,
-   "link_policy": "deep",
-   "official_home": "https://nta.ac.in",
-   "slug": "nta-release-of-admit-card-for-common-university-entrance-test-cuet-pg-f27513",
-   "details": {
-    "fields": {},
-    "parsed_at": null
-   },
-   "tier": 1,
-   "status": "info",
-   "group": "nta-common-university-entrance-cuet-2025"
-  },
-  {
    "id": "275a512783d2",
    "source": "nta",
    "org": "National Testing Agency",
@@ -22160,31 +22135,6 @@
    "link_policy": "deep",
    "official_home": "https://bpssc.bihar.gov.in",
    "slug": "bpssc-important-notice-admit-card-of-eligibility-test-for-the-post-of-1d8ec8",
-   "details": {
-    "fields": {},
-    "parsed_at": null
-   },
-   "tier": 1,
-   "status": "info",
-   "group": "bpssc-advt-01-2024"
-  },
-  {
-   "id": "d501a551e300",
-   "source": "bpssc",
-   "org": "Bihar Police Subordinate Services Commission",
-   "short": "BPSSC",
-   "scope": "bihar",
-   "title": "Important Notice: Important Instructions regarding Eligibility Test, E-Admit Card & Document Verification of Advt. No. - 01/2024",
-   "url": "https://bpssc.bihar.gov.in/Notices/Notice of ASI Steno Main E-Admit card on website.pdf",
-   "is_doc": true,
-   "type": "admit",
-   "list_date": "2025-03-20",
-   "first_seen": "2026-11-04T17:37:13+00:00",
-   "last_seen": "2026-11-10T00:59:08+00:00",
-   "advt": "01/2024",
-   "link_policy": "deep",
-   "official_home": "https://bpssc.bihar.gov.in",
-   "slug": "bpssc-important-notice-important-instructions-regarding-eligibility-d501a5",
    "details": {
     "fields": {},
     "parsed_at": null
