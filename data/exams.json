@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T00:59:58+00:00",
+ "updated": "2026-11-11T07:09:15+00:00",
  "exams": [
   {
    "key": "uppsc-a-10-e-u-p-khadi-village-industries-board-2023",
@@ -90,6 +90,23 @@
    "slug": "up-board-2027-d7264",
    "types": [
     "notice"
+   ],
+   "latest": "2026-11-09"
+  },
+  {
+   "key": "ibps-bpcl-special-drive-persons-benchmark-2026",
+   "source": "ibps",
+   "short": "IBPS",
+   "org": "Institute of Banking Personnel Selection",
+   "scope": "central",
+   "items": [
+    "90a7c5ee1474"
+   ],
+   "year": 2026,
+   "name": "IBPS BPCL Special Recruitment Drive for Persons with Benchmark Disabilities / 2026",
+   "slug": "ibps-bpcl-special-recruitment-drive-for-persons-with-benchmark-disabilities-2026-4f4a8",
+   "types": [
+    "job"
    ],
    "latest": "2026-11-09"
   },
@@ -294,6 +311,23 @@
    "slug": "ssc-identity-verification-for-the-candidates-shortlisted-in-frta-of-combined-28888",
    "types": [
     "notice"
+   ],
+   "latest": "2026-11-07"
+  },
+  {
+   "key": "ibps-jkb-posts-registration-07-nov-2026",
+   "source": "ibps",
+   "short": "IBPS",
+   "org": "Institute of Banking Personnel Selection",
+   "scope": "central",
+   "items": [
+    "a2371173a695"
+   ],
+   "year": 2026,
+   "name": "IBPS JKB Recruitment of Various Posts Registration From 07-Nov-2026",
+   "slug": "ibps-jkb-recruitment-of-various-posts-registration-from-07-nov-2026-b7bb2",
+   "types": [
+    "job"
    ],
    "latest": "2026-11-07"
   },

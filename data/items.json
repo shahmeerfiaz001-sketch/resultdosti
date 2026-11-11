@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T00:59:58+00:00",
+ "updated": "2026-11-11T07:09:15+00:00",
  "items": [
   {
    "id": "eb5a27ddb770",
@@ -43126,6 +43126,56 @@
    "tier": 1,
    "status": "info",
    "group": "cisf-02-2026"
+  },
+  {
+   "id": "90a7c5ee1474",
+   "source": "ibps",
+   "org": "Institute of Banking Personnel Selection",
+   "short": "IBPS",
+   "scope": "central",
+   "title": "BPCL Special Recruitment Drive for Persons with Benchmark Disabilities (PwBDs)/ Divyangjans Registration From 09-Nov-2026",
+   "url": "https://ibpsreg.ibps.in/bpcljul26/",
+   "is_doc": false,
+   "type": "job",
+   "list_date": "2026-11-09",
+   "first_seen": "2026-11-11T07:07:12+00:00",
+   "last_seen": "2026-11-11T07:07:12+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://www.ibps.in",
+   "slug": "ibps-bpcl-special-recruitment-drive-for-persons-with-benchmark-90a7c5",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "ibps-bpcl-special-drive-persons-benchmark-2026"
+  },
+  {
+   "id": "a2371173a695",
+   "source": "ibps",
+   "org": "Institute of Banking Personnel Selection",
+   "short": "IBPS",
+   "scope": "central",
+   "title": "JKB Recruitment of Various Posts Registration From 07-Nov-2026",
+   "url": "https://ibpsreg.ibps.in/jkbvpocto26/",
+   "is_doc": false,
+   "type": "job",
+   "list_date": "2026-11-07",
+   "first_seen": "2026-11-11T07:07:12+00:00",
+   "last_seen": "2026-11-11T07:07:12+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://www.ibps.in",
+   "slug": "ibps-jkb-recruitment-of-various-posts-registration-from-07-nov-2026-a23711",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "ibps-jkb-posts-registration-07-nov-2026"
   }
  ]
 }
