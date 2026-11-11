@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-10T18:49:34+00:00",
+ "updated": "2026-11-11T00:59:58+00:00",
  "exams": [
+  {
+   "key": "uppsc-a-10-e-u-p-khadi-village-industries-board-2023",
+   "source": "uppsc",
+   "short": "UPPSC",
+   "org": "Uttar Pradesh Public Service Commission",
+   "scope": "up",
+   "items": [
+    "a357b276e822",
+    "51910d1cb165",
+    "14ab72b4e0a4",
+    "0c20f34ccf46",
+    "3df929c1bbfd",
+    "429f5bc01fe1"
+   ],
+   "year": 2023,
+   "name": "UPPSC Advt. No. A-10/E-1/2023 U.p. Khadi and Village Industries Board, Prashikshak",
+   "slug": "uppsc-advt-no-a-10-e-1-2023-u-p-khadi-and-village-industries-board-prashikshak-92675",
+   "types": [
+    "job"
+   ],
+   "latest": "2026-11-12"
+  },
   {
    "key": "nta-joint-csir-ugc-net-december-2026",
    "source": "nta",
@@ -6119,28 +6141,6 @@
    "year": 2026,
    "name": "LIC Engagement of Chief Financial Officer- on contract basis 2026",
    "slug": "lic-engagement-of-chief-financial-officer-on-contract-basis-2026-be99a",
-   "types": [
-    "job"
-   ],
-   "latest": "2026-11-04"
-  },
-  {
-   "key": "uppsc-a-10-e-u-p-khadi-village-industries-board-2023",
-   "source": "uppsc",
-   "short": "UPPSC",
-   "org": "Uttar Pradesh Public Service Commission",
-   "scope": "up",
-   "items": [
-    "a357b276e822",
-    "51910d1cb165",
-    "14ab72b4e0a4",
-    "0c20f34ccf46",
-    "3df929c1bbfd",
-    "429f5bc01fe1"
-   ],
-   "year": 2023,
-   "name": "UPPSC Advt. No. A-10/E-1/2023 U.p. Khadi and Village Industries Board, Prashikshak",
-   "slug": "uppsc-advt-no-a-10-e-1-2023-u-p-khadi-and-village-industries-board-prashikshak-92675",
    "types": [
     "job"
    ],
