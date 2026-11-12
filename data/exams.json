@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T13:06:53+00:00",
+ "updated": "2026-11-12T17:01:50+00:00",
  "exams": [
   {
    "key": "uppsc-a-10-e-u-p-khadi-village-industries-board-2023",
@@ -20,6 +20,25 @@
    "slug": "uppsc-advt-no-a-10-e-1-2023-u-p-khadi-and-village-industries-board-prashikshak-92675",
    "types": [
     "job"
+   ],
+   "latest": "2026-11-12"
+  },
+  {
+   "key": "uppsc-d-e-medical-education-department-u-p-assistant-2026",
+   "source": "uppsc",
+   "short": "UPPSC",
+   "org": "Uttar Pradesh Public Service Commission",
+   "scope": "up",
+   "items": [
+    "bc761dde702f",
+    "e624da6b4e79",
+    "a2a9b3e5ee89"
+   ],
+   "year": 2026,
+   "name": "UPPSC Result of Advt. No. D-1/E-1/2026, Medical Education Department U.p. , Assistant",
+   "slug": "uppsc-result-of-advt-no-d-1-e-1-2026-medical-education-department-u-p-assistant-9eb6b",
+   "types": [
+    "result"
    ],
    "latest": "2026-11-12"
   },
@@ -330,23 +349,6 @@
    "slug": "nta-corrigendum-regarding-revision-change-in-the-syllabus-of-social-science-for-b5443",
    "types": [
     "syllabus"
-   ],
-   "latest": "2026-11-07"
-  },
-  {
-   "key": "uppsc-d-e-medical-education-department-u-p-assistant-2026",
-   "source": "uppsc",
-   "short": "UPPSC",
-   "org": "Uttar Pradesh Public Service Commission",
-   "scope": "up",
-   "items": [
-    "bc761dde702f"
-   ],
-   "year": 2026,
-   "name": "UPPSC Result of Advt. No. D-1/E-1/2026, Medical Education Department U.p. , Assistant",
-   "slug": "uppsc-result-of-advt-no-d-1-e-1-2026-medical-education-department-u-p-assistant-9eb6b",
-   "types": [
-    "result"
    ],
    "latest": "2026-11-07"
   },

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T13:06:53+00:00",
+ "updated": "2026-11-12T17:01:50+00:00",
  "items": [
   {
    "id": "eb5a27ddb770",
@@ -43295,6 +43295,56 @@
    "tier": 1,
    "status": "info",
    "group": "bceceb-choice-filling-ugmac-ayush-stray-round-2026"
+  },
+  {
+   "id": "e624da6b4e79",
+   "source": "uppsc",
+   "org": "Uttar Pradesh Public Service Commission",
+   "short": "UPPSC",
+   "scope": "up",
+   "title": "Result of Advt. No. D-1/E-1/2026, Medical Education Department U.p. (Allopathy) /ASSISTANT Professor Transfusion Medicine, S-08/58...",
+   "url": "https://uppsc.up.nic.in/Open_PDF_DB.aspx?I4PnQ0tBagn3Lnqaz4gdq9A2tZjX6yGV",
+   "is_doc": false,
+   "type": "result",
+   "list_date": null,
+   "first_seen": "2026-11-12T17:00:51+00:00",
+   "last_seen": "2026-11-12T17:00:51+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://uppsc.up.nic.in",
+   "slug": "uppsc-result-of-advt-no-d-1-e-1-2026-medical-education-department-u-p-e624da",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "uppsc-d-e-medical-education-department-u-p-assistant-2026"
+  },
+  {
+   "id": "a2a9b3e5ee89",
+   "source": "uppsc",
+   "org": "Uttar Pradesh Public Service Commission",
+   "short": "UPPSC",
+   "scope": "up",
+   "title": "Result of Advt. No. D-1/E-1/2026, Medical Education Department U.p. (Allopathy) /ASSISTANT Professor Anatomy, S-08/44...",
+   "url": "https://uppsc.up.nic.in/Open_PDF_DB.aspx?I4PnQ0tBagn3Lnqaz4gdq5xEsDbcEUKd",
+   "is_doc": false,
+   "type": "result",
+   "list_date": null,
+   "first_seen": "2026-11-12T17:00:51+00:00",
+   "last_seen": "2026-11-12T17:00:51+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://uppsc.up.nic.in",
+   "slug": "uppsc-result-of-advt-no-d-1-e-1-2026-medical-education-department-u-p-a2a9b3",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "uppsc-d-e-medical-education-department-u-p-assistant-2026"
   }
  ]
 }

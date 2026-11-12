@@ -1,31 +1,22 @@
 {
- "run": "2026-11-12T13:06:53+00:00",
+ "run": "2026-11-12T17:01:50+00:00",
  "first_run": false,
  "new": [
   {
-   "id": "4a653b5412e2",
-   "type": "job",
-   "title": "Publication of Vacancy Notification for Various Posts in the NTA",
-   "short": "NTA",
-   "url": "https://resultdosti.in/job/publication-of-vacancy-notification-for-various-posts-in-the-nta-4a653b/",
+   "id": "e624da6b4e79",
+   "type": "result",
+   "title": "Result of Advt. No. D-1/E-1/2026, Medical Education Department U.p. (Allopathy) /ASSISTANT Professor Transfusion Medicine, S-08/58...",
+   "short": "UPPSC",
+   "url": "https://resultdosti.in/result/uppsc-result-of-advt-no-d-1-e-1-2026-medical-education-department-u-p-e624da/",
    "last_date": null,
    "jobposting": false
   },
   {
-   "id": "1d70065e92fe",
-   "type": "notice",
-   "title": "Important Notice for Online Application and Choice Filling for UGMAC[AYUSH]-2026 Stray Vacancy Round-1(Adv. No. BCECEB[UGMAC(Ayush)]-2026/10",
-   "short": "BCECEB",
-   "url": "https://resultdosti.in/notice/important-notice-for-online-application-and-choice-filling-for-ugmac-1d7006/",
-   "last_date": null,
-   "jobposting": false
-  },
-  {
-   "id": "bedb420d3648",
-   "type": "job",
-   "title": "Details for Online Application and Choice Filling for UGMAC[AYUSH]-2026 Stray Vacancy Round-1(Adv. No. BCECEB[UGMAC(Ayush)]-2026/09",
-   "short": "BCECEB",
-   "url": "https://resultdosti.in/job/details-for-online-application-and-choice-filling-for-ugmac-ayush-bedb42/",
+   "id": "a2a9b3e5ee89",
+   "type": "result",
+   "title": "Result of Advt. No. D-1/E-1/2026, Medical Education Department U.p. (Allopathy) /ASSISTANT Professor Anatomy, S-08/44...",
+   "short": "UPPSC",
+   "url": "https://resultdosti.in/result/uppsc-result-of-advt-no-d-1-e-1-2026-medical-education-department-u-p-a2a9b3/",
    "last_date": null,
    "jobposting": false
   }
