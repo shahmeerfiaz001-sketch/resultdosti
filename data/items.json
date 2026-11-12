@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T07:14:20+00:00",
+ "updated": "2026-11-12T13:06:53+00:00",
  "items": [
   {
    "id": "eb5a27ddb770",
@@ -43201,6 +43201,100 @@
    "tier": 1,
    "status": "info",
    "group": "aiims-addition-open-seats-fellowship-programme-2027"
+  },
+  {
+   "id": "4a653b5412e2",
+   "source": "nta",
+   "org": "National Testing Agency",
+   "short": "NTA",
+   "scope": "central",
+   "title": "Publication of Vacancy Notification for Various Posts in the NTA",
+   "url": "https://nta.ac.in/Download/Notice/Notice_20261112175300.pdf",
+   "is_doc": true,
+   "type": "job",
+   "list_date": null,
+   "first_seen": "2026-11-12T13:04:50+00:00",
+   "last_seen": "2026-11-12T13:04:50+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://nta.ac.in",
+   "slug": "publication-of-vacancy-notification-for-various-posts-in-the-nta-4a653b",
+   "details": {
+    "fields": {},
+    "pdf_quality": {
+     "chars": 0,
+     "latin": 0.0,
+     "devanagari": 0.0,
+     "legacy_suspect": false,
+     "scanned_suspect": true,
+     "ocr": true
+    },
+    "parsed_at": "2026-11-12T13:06:53+00:00",
+    "pdf_error": null,
+    "attempts": 1
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "nta-publication-posts-nta-2026"
+  },
+  {
+   "id": "1d70065e92fe",
+   "source": "bceceb",
+   "org": "Bihar Combined Entrance Competitive Examination Board",
+   "short": "BCECEB",
+   "scope": "bihar",
+   "title": "Important Notice for Online Application and Choice Filling for UGMAC[AYUSH]-2026 Stray Vacancy Round-1(Adv. No. BCECEB[UGMAC(Ayush)]-2026/10",
+   "url": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGAAC26_10.pdf",
+   "is_doc": true,
+   "type": "notice",
+   "list_date": "2026-11-12",
+   "first_seen": "2026-11-12T13:06:28+00:00",
+   "last_seen": "2026-11-12T13:06:28+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://bceceboard.bihar.gov.in",
+   "slug": "important-notice-for-online-application-and-choice-filling-for-ugmac-1d7006",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "bceceb-choice-filling-ugmac-ayush-stray-round-2026"
+  },
+  {
+   "id": "bedb420d3648",
+   "source": "bceceb",
+   "org": "Bihar Combined Entrance Competitive Examination Board",
+   "short": "BCECEB",
+   "scope": "bihar",
+   "title": "Details for Online Application and Choice Filling for UGMAC[AYUSH]-2026 Stray Vacancy Round-1(Adv. No. BCECEB[UGMAC(Ayush)]-2026/09",
+   "url": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGAAC26_09.pdf",
+   "is_doc": true,
+   "type": "job",
+   "list_date": "2026-11-12",
+   "first_seen": "2026-11-12T13:06:28+00:00",
+   "last_seen": "2026-11-12T13:06:28+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://bceceboard.bihar.gov.in",
+   "slug": "details-for-online-application-and-choice-filling-for-ugmac-ayush-bedb42",
+   "details": {
+    "fields": {},
+    "pdf_quality": {
+     "chars": 32435,
+     "latin": 0.765,
+     "devanagari": 0.0,
+     "legacy_suspect": false,
+     "scanned_suspect": false
+    },
+    "parsed_at": "2026-11-12T13:06:39+00:00",
+    "pdf_error": null,
+    "attempts": 1
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "bceceb-choice-filling-ugmac-ayush-stray-round-2026"
   }
  ]
 }

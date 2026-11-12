@@ -1,13 +1,31 @@
 {
- "run": "2026-11-12T07:14:20+00:00",
+ "run": "2026-11-12T13:06:53+00:00",
  "first_run": false,
  "new": [
   {
-   "id": "3f5c735c70cc",
+   "id": "4a653b5412e2",
+   "type": "job",
+   "title": "Publication of Vacancy Notification for Various Posts in the NTA",
+   "short": "NTA",
+   "url": "https://resultdosti.in/job/publication-of-vacancy-notification-for-various-posts-in-the-nta-4a653b/",
+   "last_date": null,
+   "jobposting": false
+  },
+  {
+   "id": "1d70065e92fe",
    "type": "notice",
-   "title": "Addition of Open Seats for Fellowship Programme in Advanced Gastrointestinal Endoscopy in the Department of Gastroenterology & Human Nutrition Unit for the January 2027 Session & last date extended for filling of online application upto",
-   "short": "AIIMS",
-   "url": "https://resultdosti.in/notice/aiims-addition-of-open-seats-for-fellowship-programme-in-advanced-3f5c73/",
+   "title": "Important Notice for Online Application and Choice Filling for UGMAC[AYUSH]-2026 Stray Vacancy Round-1(Adv. No. BCECEB[UGMAC(Ayush)]-2026/10",
+   "short": "BCECEB",
+   "url": "https://resultdosti.in/notice/important-notice-for-online-application-and-choice-filling-for-ugmac-1d7006/",
+   "last_date": null,
+   "jobposting": false
+  },
+  {
+   "id": "bedb420d3648",
+   "type": "job",
+   "title": "Details for Online Application and Choice Filling for UGMAC[AYUSH]-2026 Stray Vacancy Round-1(Adv. No. BCECEB[UGMAC(Ayush)]-2026/09",
+   "short": "BCECEB",
+   "url": "https://resultdosti.in/job/details-for-online-application-and-choice-filling-for-ugmac-ayush-bedb42/",
    "last_date": null,
    "jobposting": false
   }

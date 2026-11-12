@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T07:14:20+00:00",
+ "updated": "2026-11-12T13:06:53+00:00",
  "exams": [
   {
    "key": "uppsc-a-10-e-u-p-khadi-village-industries-board-2023",
@@ -36,6 +36,42 @@
    "name": "AIIMS Addition of Open Seats for Fellowship Programme in Advanced Gastrointestinal 2027",
    "slug": "aiims-addition-of-open-seats-for-fellowship-programme-in-advanced-25c7b",
    "types": [
+    "notice"
+   ],
+   "latest": "2026-11-12"
+  },
+  {
+   "key": "nta-publication-posts-nta-2026",
+   "source": "nta",
+   "short": "NTA",
+   "org": "National Testing Agency",
+   "scope": "central",
+   "items": [
+    "4a653b5412e2"
+   ],
+   "year": 2026,
+   "name": "Publication of Vacancy Notification for Various Posts in the NTA 2026",
+   "slug": "publication-of-vacancy-notification-for-various-posts-in-the-nta-2026-96b9c",
+   "types": [
+    "job"
+   ],
+   "latest": "2026-11-12"
+  },
+  {
+   "key": "bceceb-choice-filling-ugmac-ayush-stray-round-2026",
+   "source": "bceceb",
+   "short": "BCECEB",
+   "org": "Bihar Combined Entrance Competitive Examination Board",
+   "scope": "bihar",
+   "items": [
+    "1d70065e92fe",
+    "bedb420d3648"
+   ],
+   "year": 2026,
+   "name": "BCECEB Online Application and Choice Filling for UGMAC[AYUSH]-2026 Stray Vacancy",
+   "slug": "bceceb-online-application-and-choice-filling-for-ugmac-ayush-2026-stray-vacancy-99d4d",
+   "types": [
+    "job",
     "notice"
    ],
    "latest": "2026-11-12"
