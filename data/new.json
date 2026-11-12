@@ -1,25 +1,8 @@
 {
- "run": "2026-11-12T17:01:50+00:00",
+ "run": "2026-11-12T18:55:16+00:00",
  "first_run": false,
- "new": [
-  {
-   "id": "e624da6b4e79",
-   "type": "result",
-   "title": "Result of Advt. No. D-1/E-1/2026, Medical Education Department U.p. (Allopathy) /ASSISTANT Professor Transfusion Medicine, S-08/58...",
-   "short": "UPPSC",
-   "url": "https://resultdosti.in/result/uppsc-result-of-advt-no-d-1-e-1-2026-medical-education-department-u-p-e624da/",
-   "last_date": null,
-   "jobposting": false
-  },
-  {
-   "id": "a2a9b3e5ee89",
-   "type": "result",
-   "title": "Result of Advt. No. D-1/E-1/2026, Medical Education Department U.p. (Allopathy) /ASSISTANT Professor Anatomy, S-08/44...",
-   "short": "UPPSC",
-   "url": "https://resultdosti.in/result/uppsc-result-of-advt-no-d-1-e-1-2026-medical-education-department-u-p-a2a9b3/",
-   "last_date": null,
-   "jobposting": false
-  }
- ],
- "closed": []
+ "new": [],
+ "closed": [
+  "https://resultdosti.in/job/crp-specialist-officers-ibps-advertisement-36afd0/"
+ ]
 }
