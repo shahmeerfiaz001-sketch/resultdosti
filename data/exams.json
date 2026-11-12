@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T07:09:15+00:00",
+ "updated": "2026-11-12T07:14:20+00:00",
  "exams": [
   {
    "key": "uppsc-a-10-e-u-p-khadi-village-industries-board-2023",
@@ -20,6 +20,23 @@
    "slug": "uppsc-advt-no-a-10-e-1-2023-u-p-khadi-and-village-industries-board-prashikshak-92675",
    "types": [
     "job"
+   ],
+   "latest": "2026-11-12"
+  },
+  {
+   "key": "aiims-addition-open-seats-fellowship-programme-2027",
+   "source": "aiims",
+   "short": "AIIMS",
+   "org": "AIIMS Examinations",
+   "scope": "central",
+   "items": [
+    "3f5c735c70cc"
+   ],
+   "year": 2027,
+   "name": "AIIMS Addition of Open Seats for Fellowship Programme in Advanced Gastrointestinal 2027",
+   "slug": "aiims-addition-of-open-seats-for-fellowship-programme-in-advanced-25c7b",
+   "types": [
+    "notice"
    ],
    "latest": "2026-11-12"
   },

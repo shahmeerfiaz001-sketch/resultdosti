@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T07:09:15+00:00",
+ "updated": "2026-11-12T07:14:20+00:00",
  "items": [
   {
    "id": "eb5a27ddb770",
@@ -43176,6 +43176,31 @@
    "tier": 1,
    "status": "info",
    "group": "ibps-jkb-posts-registration-07-nov-2026"
+  },
+  {
+   "id": "3f5c735c70cc",
+   "source": "aiims",
+   "org": "AIIMS Examinations",
+   "short": "AIIMS",
+   "scope": "central",
+   "title": "Addition of Open Seats for Fellowship Programme in Advanced Gastrointestinal Endoscopy in the Department of Gastroenterology & Human Nutrition Unit for the January 2027 Session & last date extended for filling of online application upto",
+   "url": "https://rrpdocuments.aiimsexams.ac.in/1794394424342-521815617.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVRUVRLXWMSLVSAP7%2F20261112%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261112T071109Z&X-Amz-Expires=604800&X-Amz-Signature=fe7084be73675fdabd0e7b69f69d3bab1f3ea881999391f991bb0cf9d540340b&X-Amz-SignedHeaders=host&response-content-type=application%2Fpdf",
+   "is_doc": true,
+   "type": "notice",
+   "list_date": null,
+   "first_seen": "2026-11-12T07:12:21+00:00",
+   "last_seen": "2026-11-12T07:12:21+00:00",
+   "advt": null,
+   "link_policy": "home_only",
+   "official_home": "https://aiimsexams.ac.in/landingpage/notice",
+   "slug": "aiims-addition-of-open-seats-for-fellowship-programme-in-advanced-3f5c73",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "aiims-addition-open-seats-fellowship-programme-2027"
   }
  ]
 }
