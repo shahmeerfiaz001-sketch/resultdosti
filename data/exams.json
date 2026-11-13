@@ -1,6 +1,23 @@
 {
- "updated": "2026-11-12T18:55:16+00:00",
+ "updated": "2026-11-13T01:04:34+00:00",
  "exams": [
+  {
+   "key": "aiims-addition-open-seats-fellowship-programme-2027",
+   "source": "aiims",
+   "short": "AIIMS",
+   "org": "AIIMS Examinations",
+   "scope": "central",
+   "items": [
+    "3f5c735c70cc"
+   ],
+   "year": 2027,
+   "name": "AIIMS Addition of Open Seats for Fellowship Programme in Advanced Gastrointestinal 2027",
+   "slug": "aiims-addition-of-open-seats-for-fellowship-programme-in-advanced-25c7b",
+   "types": [
+    "notice"
+   ],
+   "latest": "2026-11-14"
+  },
   {
    "key": "uppsc-a-10-e-u-p-khadi-village-industries-board-2023",
    "source": "uppsc",
@@ -39,23 +56,6 @@
    "slug": "uppsc-result-of-advt-no-d-1-e-1-2026-medical-education-department-u-p-assistant-9eb6b",
    "types": [
     "result"
-   ],
-   "latest": "2026-11-12"
-  },
-  {
-   "key": "aiims-addition-open-seats-fellowship-programme-2027",
-   "source": "aiims",
-   "short": "AIIMS",
-   "org": "AIIMS Examinations",
-   "scope": "central",
-   "items": [
-    "3f5c735c70cc"
-   ],
-   "year": 2027,
-   "name": "AIIMS Addition of Open Seats for Fellowship Programme in Advanced Gastrointestinal 2027",
-   "slug": "aiims-addition-of-open-seats-for-fellowship-programme-in-advanced-25c7b",
-   "types": [
-    "notice"
    ],
    "latest": "2026-11-12"
   },
