@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T13:04:53+00:00",
+ "updated": "2026-11-13T14:55:39+00:00",
  "exams": [
   {
    "key": "aiims-addition-open-seats-fellowship-programme-2027",
@@ -17,6 +17,28 @@
     "notice"
    ],
    "latest": "2026-11-14"
+  },
+  {
+   "key": "uppsc-d-e-medical-education-department-u-p-assistant-2026",
+   "source": "uppsc",
+   "short": "UPPSC",
+   "org": "Uttar Pradesh Public Service Commission",
+   "scope": "up",
+   "items": [
+    "bc761dde702f",
+    "e624da6b4e79",
+    "a2a9b3e5ee89",
+    "06e02c5b8f3f",
+    "7c28caa8daf3",
+    "4def4d5e25af"
+   ],
+   "year": 2026,
+   "name": "UPPSC Result of Advt. No. D-1/E-1/2026, Medical Education Department U.p. , Assistant",
+   "slug": "uppsc-result-of-advt-no-d-1-e-1-2026-medical-education-department-u-p-assistant-9eb6b",
+   "types": [
+    "result"
+   ],
+   "latest": "2026-11-13"
   },
   {
    "key": "ibps-manit-group-b-c-non-teaching-positions-2026",
@@ -53,6 +75,23 @@
    "latest": "2026-11-13"
   },
   {
+   "key": "ssc-information-admission-certificate-sub-inspector-2026",
+   "source": "ssc",
+   "short": "SSC",
+   "org": "Staff Selection Commission",
+   "scope": "central",
+   "items": [
+    "b41d4deb40a6"
+   ],
+   "year": 2026,
+   "name": "SSC Information regarding the city of examination and admission certificate for the 2026",
+   "slug": "ssc-information-regarding-the-city-of-examination-and-admission-certificate-for-02e87",
+   "types": [
+    "admit"
+   ],
+   "latest": "2026-11-13"
+  },
+  {
    "key": "uppsc-a-10-e-u-p-khadi-village-industries-board-2023",
    "source": "uppsc",
    "short": "UPPSC",
@@ -71,25 +110,6 @@
    "slug": "uppsc-advt-no-a-10-e-1-2023-u-p-khadi-and-village-industries-board-prashikshak-92675",
    "types": [
     "job"
-   ],
-   "latest": "2026-11-12"
-  },
-  {
-   "key": "uppsc-d-e-medical-education-department-u-p-assistant-2026",
-   "source": "uppsc",
-   "short": "UPPSC",
-   "org": "Uttar Pradesh Public Service Commission",
-   "scope": "up",
-   "items": [
-    "bc761dde702f",
-    "e624da6b4e79",
-    "a2a9b3e5ee89"
-   ],
-   "year": 2026,
-   "name": "UPPSC Result of Advt. No. D-1/E-1/2026, Medical Education Department U.p. , Assistant",
-   "slug": "uppsc-result-of-advt-no-d-1-e-1-2026-medical-education-department-u-p-assistant-9eb6b",
-   "types": [
-    "result"
    ],
    "latest": "2026-11-12"
   },

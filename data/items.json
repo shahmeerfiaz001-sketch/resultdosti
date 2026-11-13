@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T13:04:53+00:00",
+ "updated": "2026-11-13T14:55:39+00:00",
  "items": [
   {
    "id": "eb5a27ddb770",
@@ -43395,6 +43395,106 @@
    "tier": 1,
    "status": "info",
    "group": "aiims-advt-175-2026"
+  },
+  {
+   "id": "b41d4deb40a6",
+   "source": "ssc",
+   "org": "Staff Selection Commission",
+   "short": "SSC",
+   "scope": "central",
+   "title": "Information regarding the city of examination and admission certificate for the candidates of Sub-Inspector in Delhi Police and Central Armed Police Forces Examination, 2026 (Paper-I).",
+   "url": "https://ssc.gov.in/home/notice-board?notice=1e2qp6zc587qlac0nezbe",
+   "is_doc": false,
+   "type": "admit",
+   "list_date": "2026-11-13",
+   "first_seen": "2026-11-13T14:52:28+00:00",
+   "last_seen": "2026-11-13T14:52:28+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://ssc.gov.in",
+   "slug": "ssc-information-regarding-the-city-of-examination-and-admission-b41d4d",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "ssc-information-admission-certificate-sub-inspector-2026"
+  },
+  {
+   "id": "06e02c5b8f3f",
+   "source": "uppsc",
+   "org": "Uttar Pradesh Public Service Commission",
+   "short": "UPPSC",
+   "scope": "up",
+   "title": "Result of Advt. No. D-1/E-1/2026,MEDICAL Education Department U.p. (ALLOPATHY)/ASSISTANT Professor Transfusion Medicine, S-08/118",
+   "url": "https://uppsc.up.nic.in/Open_PDF_DB.aspx?I4PnQ0tBagn3Lnqaz4gdq6pNygydf5ja",
+   "is_doc": false,
+   "type": "result",
+   "list_date": null,
+   "first_seen": "2026-11-13T14:53:44+00:00",
+   "last_seen": "2026-11-13T14:53:44+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://uppsc.up.nic.in",
+   "slug": "uppsc-result-of-advt-no-d-1-e-1-2026-medical-education-department-u-p-06e02c",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "uppsc-d-e-medical-education-department-u-p-assistant-2026"
+  },
+  {
+   "id": "7c28caa8daf3",
+   "source": "uppsc",
+   "org": "Uttar Pradesh Public Service Commission",
+   "short": "UPPSC",
+   "scope": "up",
+   "title": "Result of Advt. No. D-1/E-1/2026,MEDICAL Education Department U.p. (ALLOPATHY)/ASSISTANT Professor Cardiology, S-08/54",
+   "url": "https://uppsc.up.nic.in/Open_PDF_DB.aspx?I4PnQ0tBagn3Lnqaz4gdqx0OkEkFHHmZ",
+   "is_doc": false,
+   "type": "result",
+   "list_date": null,
+   "first_seen": "2026-11-13T14:53:44+00:00",
+   "last_seen": "2026-11-13T14:53:44+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://uppsc.up.nic.in",
+   "slug": "uppsc-result-of-advt-no-d-1-e-1-2026-medical-education-department-u-p-7c28ca",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "uppsc-d-e-medical-education-department-u-p-assistant-2026"
+  },
+  {
+   "id": "4def4d5e25af",
+   "source": "uppsc",
+   "org": "Uttar Pradesh Public Service Commission",
+   "short": "UPPSC",
+   "scope": "up",
+   "title": "Result of Advt. No. D-1/E-1/2026,MEDICAL Education Department U.p. (ALLOPATHY)/ASSISTANT Professor Emergency Medicine, S-08/43",
+   "url": "https://uppsc.up.nic.in/Open_PDF_DB.aspx?I4PnQ0tBagn3Lnqaz4gdq47NrLLiwkPi",
+   "is_doc": false,
+   "type": "result",
+   "list_date": null,
+   "first_seen": "2026-11-13T14:53:44+00:00",
+   "last_seen": "2026-11-13T14:53:44+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://uppsc.up.nic.in",
+   "slug": "uppsc-result-of-advt-no-d-1-e-1-2026-medical-education-department-u-p-4def4d",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "uppsc-d-e-medical-education-department-u-p-assistant-2026"
   }
  ]
 }
