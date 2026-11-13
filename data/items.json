@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T14:55:39+00:00",
+ "updated": "2026-11-13T18:52:38+00:00",
  "items": [
   {
    "id": "eb5a27ddb770",
@@ -12539,31 +12539,6 @@
    "status": "info",
    "archive": true,
    "group": "nta-joint-integrated-programme-management-admission-2025"
-  },
-  {
-   "id": "d1626f725bd9",
-   "source": "nta",
-   "org": "National Testing Agency",
-   "short": "NTA",
-   "scope": "central",
-   "title": "Release of Admit Card of the Stage-II i.e. Computer Aided Test / Stenography / Skill Test for various posts in the High Court of Gujarat, District Court, Industrial Courts and Labour Courts under Recruitment Drive-2024 scheduled to be held on 22nd & 23rd March",
-   "url": "https://nta.ac.in/Download/Notice/Notice_20250317181903.pdf",
-   "is_doc": true,
-   "type": "admit",
-   "list_date": "2025-03-23",
-   "first_seen": "2026-11-04T17:28:52+00:00",
-   "last_seen": "2026-11-13T01:02:32+00:00",
-   "advt": null,
-   "link_policy": "deep",
-   "official_home": "https://nta.ac.in",
-   "slug": "nta-release-of-admit-card-of-the-stage-ii-i-e-computer-aided-test-d1626f",
-   "details": {
-    "fields": {},
-    "parsed_at": null
-   },
-   "tier": 1,
-   "status": "info",
-   "group": "nta-e-computer-aided-stenography-skill-posts-high-2024"
   },
   {
    "id": "0a4c49909528",

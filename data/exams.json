@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T14:55:39+00:00",
+ "updated": "2026-11-13T18:52:38+00:00",
  "exams": [
   {
    "key": "aiims-addition-open-seats-fellowship-programme-2027",
@@ -14505,23 +14505,6 @@
     "notice"
    ],
    "latest": "2025-03-28"
-  },
-  {
-   "key": "nta-e-computer-aided-stenography-skill-posts-high-2024",
-   "source": "nta",
-   "short": "NTA",
-   "org": "National Testing Agency",
-   "scope": "central",
-   "items": [
-    "d1626f725bd9"
-   ],
-   "year": 2024,
-   "name": "NTA Release of Admit Card of the Stage-II i.e. Computer Aided Test / Stenography / 2024",
-   "slug": "nta-release-of-admit-card-of-the-stage-ii-i-e-computer-aided-test-stenography-65800",
-   "types": [
-    "admit"
-   ],
-   "latest": "2025-03-23"
   }
  ]
 }
