@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T01:04:34+00:00",
+ "updated": "2026-11-13T08:57:30+00:00",
  "items": [
   {
    "id": "eb5a27ddb770",
@@ -43345,6 +43345,31 @@
    "tier": 1,
    "status": "info",
    "group": "uppsc-d-e-medical-education-department-u-p-assistant-2026"
+  },
+  {
+   "id": "95393196d2b3",
+   "source": "ibps",
+   "org": "Institute of Banking Personnel Selection",
+   "short": "IBPS",
+   "scope": "central",
+   "title": "MANIT Recruitment of various Group ‘B’ & ‘C’ Non-Teaching Positions Registration From 13-Nov-2026",
+   "url": "https://ibpsreg.ibps.in/manitboct26/",
+   "is_doc": false,
+   "type": "job",
+   "list_date": "2026-11-13",
+   "first_seen": "2026-11-13T08:55:21+00:00",
+   "last_seen": "2026-11-13T08:55:21+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://www.ibps.in",
+   "slug": "ibps-manit-recruitment-of-various-group-b-and-c-non-teaching-953931",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "ibps-manit-group-b-c-non-teaching-positions-2026"
   }
  ]
 }

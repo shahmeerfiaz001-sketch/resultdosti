@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T01:04:34+00:00",
+ "updated": "2026-11-13T08:57:30+00:00",
  "exams": [
   {
    "key": "aiims-addition-open-seats-fellowship-programme-2027",
@@ -17,6 +17,23 @@
     "notice"
    ],
    "latest": "2026-11-14"
+  },
+  {
+   "key": "ibps-manit-group-b-c-non-teaching-positions-2026",
+   "source": "ibps",
+   "short": "IBPS",
+   "org": "Institute of Banking Personnel Selection",
+   "scope": "central",
+   "items": [
+    "95393196d2b3"
+   ],
+   "year": 2026,
+   "name": "IBPS MANIT Recruitment of various Group ‘B’ & ‘C’ Non-Teaching Positions 2026",
+   "slug": "ibps-manit-recruitment-of-various-group-b-and-c-non-teaching-positions-2026-a486c",
+   "types": [
+    "job"
+   ],
+   "latest": "2026-11-13"
   },
   {
    "key": "uppsc-a-10-e-u-p-khadi-village-industries-board-2023",

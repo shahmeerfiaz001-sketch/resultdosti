@@ -1,6 +1,16 @@
 {
- "run": "2026-11-13T01:04:34+00:00",
+ "run": "2026-11-13T08:57:30+00:00",
  "first_run": false,
- "new": [],
+ "new": [
+  {
+   "id": "95393196d2b3",
+   "type": "job",
+   "title": "MANIT Recruitment of various Group ‘B’ & ‘C’ Non-Teaching Positions Registration From 13-Nov-2026",
+   "short": "IBPS",
+   "url": "https://resultdosti.in/job/ibps-manit-recruitment-of-various-group-b-and-c-non-teaching-953931/",
+   "last_date": null,
+   "jobposting": false
+  }
+ ],
  "closed": []
 }
