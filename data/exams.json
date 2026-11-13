@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T08:57:30+00:00",
+ "updated": "2026-11-13T13:04:53+00:00",
  "exams": [
   {
    "key": "aiims-addition-open-seats-fellowship-programme-2027",
@@ -32,6 +32,23 @@
    "slug": "ibps-manit-recruitment-of-various-group-b-and-c-non-teaching-positions-2026-a486c",
    "types": [
     "job"
+   ],
+   "latest": "2026-11-13"
+  },
+  {
+   "key": "aiims-advt-175-2026",
+   "source": "aiims",
+   "short": "AIIMS",
+   "org": "AIIMS Examinations",
+   "scope": "central",
+   "items": [
+    "e1fa63994b9e"
+   ],
+   "year": 2026,
+   "name": "AIIMS No-175/2026: Conduct of Online CBT Entrance Examination for Ph.D. Programme",
+   "slug": "aiims-no-175-2026-conduct-of-online-cbt-entrance-examination-for-ph-d-programme-ed26f",
+   "types": [
+    "notice"
    ],
    "latest": "2026-11-13"
   },

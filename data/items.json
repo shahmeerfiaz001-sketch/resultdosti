@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T08:57:30+00:00",
+ "updated": "2026-11-13T13:04:53+00:00",
  "items": [
   {
    "id": "eb5a27ddb770",
@@ -43370,6 +43370,31 @@
    "tier": 1,
    "status": "info",
    "group": "ibps-manit-group-b-c-non-teaching-positions-2026"
+  },
+  {
+   "id": "e1fa63994b9e",
+   "source": "aiims",
+   "org": "AIIMS Examinations",
+   "short": "AIIMS",
+   "scope": "central",
+   "title": "Notice No-175/2026: Conduct of Online CBT Entrance Examination for Ph.D. Programme January 2027 Session at AIIMS, Delhi, in Delhi/NCR only",
+   "url": "https://rrpdocuments.aiimsexams.ac.in/1794570205073-757074023.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVRUVRLXWMSLVSAP7%2F20261113%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261113T130041Z&X-Amz-Expires=604800&X-Amz-Signature=43a75ff426d796f4728952ccac1f97b2d5f55ad605a238de6a7bfad797f4a670&X-Amz-SignedHeaders=host&response-content-type=application%2Fpdf",
+   "is_doc": true,
+   "type": "notice",
+   "list_date": null,
+   "first_seen": "2026-11-13T13:02:26+00:00",
+   "last_seen": "2026-11-13T13:02:26+00:00",
+   "advt": "175/2026",
+   "link_policy": "home_only",
+   "official_home": "https://aiimsexams.ac.in/landingpage/notice",
+   "slug": "notice-no-175-2026-conduct-of-online-cbt-entrance-examination-for-ph-e1fa63",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "aiims-advt-175-2026"
   }
  ]
 }
