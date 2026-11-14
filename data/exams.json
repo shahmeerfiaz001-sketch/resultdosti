@@ -1,6 +1,23 @@
 {
- "updated": "2026-11-13T18:52:38+00:00",
+ "updated": "2026-11-14T00:58:18+00:00",
  "exams": [
+  {
+   "key": "upmsp-15-2026",
+   "source": "upmsp",
+   "short": "UP Board",
+   "org": "UP Madhyamik Shiksha Parishad",
+   "scope": "up",
+   "items": [
+    "b2642449cbf3"
+   ],
+   "year": 2026,
+   "name": "UP Board विद्यालय में कार्यरत समस्त शिक्षकों एवं कार्मिकों का अद्यतन विवरण दिनाकं 15 2026",
+   "slug": "up-board-15-2026-3d89e",
+   "types": [
+    "notice"
+   ],
+   "latest": "2026-11-15"
+  },
   {
    "key": "aiims-addition-open-seats-fellowship-programme-2027",
    "source": "aiims",
@@ -6650,23 +6667,6 @@
    "year": 2022,
    "name": "UPPSC to List of Candidates who are not selected in P.C.S. Examination-2022, but",
    "slug": "uppsc-to-list-of-candidates-who-are-not-selected-in-p-c-s-examination-2022-but-ea170",
-   "types": [
-    "notice"
-   ],
-   "latest": "2026-11-04"
-  },
-  {
-   "key": "upmsp-15-2026",
-   "source": "upmsp",
-   "short": "UP Board",
-   "org": "UP Madhyamik Shiksha Parishad",
-   "scope": "up",
-   "items": [
-    "b2642449cbf3"
-   ],
-   "year": 2026,
-   "name": "UP Board विद्यालय में कार्यरत समस्त शिक्षकों एवं कार्मिकों का अद्यतन विवरण दिनाकं 15 2026",
-   "slug": "up-board-15-2026-3d89e",
    "types": [
     "notice"
    ],
