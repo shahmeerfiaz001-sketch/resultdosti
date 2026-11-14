@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T10:43:37+00:00",
+ "updated": "2026-11-14T12:48:24+00:00",
  "exams": [
   {
    "key": "upmsp-15-2026",
@@ -48,6 +48,23 @@
    "year": 2027,
    "name": "AIIMS Addition of Open Seats for Fellowship Programme in Advanced Gastrointestinal 2027",
    "slug": "aiims-addition-of-open-seats-for-fellowship-programme-in-advanced-25c7b",
+   "types": [
+    "notice"
+   ],
+   "latest": "2026-11-14"
+  },
+  {
+   "key": "nta-registration-national-institute-fashion-2027",
+   "source": "nta",
+   "short": "NTA",
+   "org": "National Testing Agency",
+   "scope": "central",
+   "items": [
+    "da24e990cd7a"
+   ],
+   "year": 2027,
+   "name": "NTA Extension of Registration Dates for the National Institute of Fashion 2027",
+   "slug": "nta-extension-of-registration-dates-for-the-national-institute-of-fashion-2027-7829f",
    "types": [
     "notice"
    ],

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T10:43:37+00:00",
+ "updated": "2026-11-14T12:48:24+00:00",
  "items": [
   {
    "id": "eb5a27ddb770",
@@ -43504,6 +43504,31 @@
    "tier": 1,
    "status": "info",
    "group": "upprpb-11427-2020"
+  },
+  {
+   "id": "da24e990cd7a",
+   "source": "nta",
+   "org": "National Testing Agency",
+   "short": "NTA",
+   "scope": "central",
+   "title": "Extension of Registration Dates for the National Institute of Fashion Technology Entrance Examination (NIFTEE)–2027",
+   "url": "https://nta.ac.in/Download/Notice/Notice_20261114165715.pdf",
+   "is_doc": true,
+   "type": "notice",
+   "list_date": null,
+   "first_seen": "2026-11-14T12:45:38+00:00",
+   "last_seen": "2026-11-14T12:45:38+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://nta.ac.in",
+   "slug": "nta-extension-of-registration-dates-for-the-national-institute-of-da24e9",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "nta-registration-national-institute-fashion-2027"
   }
  ]
 }
