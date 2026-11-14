@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T00:58:18+00:00",
+ "updated": "2026-11-14T10:43:37+00:00",
  "exams": [
   {
    "key": "upmsp-15-2026",
@@ -17,6 +17,24 @@
     "notice"
    ],
    "latest": "2026-11-15"
+  },
+  {
+   "key": "upprpb-11427-2020",
+   "source": "upprpb",
+   "short": "UPPRPB",
+   "org": "UP Police Recruitment and Promotion Board",
+   "scope": "up",
+   "items": [
+    "06ecedce57e9",
+    "5c178be7b2c5"
+   ],
+   "year": 2020,
+   "name": "UPPRPB उप निरीक्षक नागरिक पुलिस, पीएसी प्लाटून कमाण्डर एवं अग्निशमन द्वितीय अधिकारी के 2020",
+   "slug": "upprpb-2020-15b27",
+   "types": [
+    "job"
+   ],
+   "latest": "2026-11-14"
   },
   {
    "key": "aiims-addition-open-seats-fellowship-programme-2027",
@@ -10093,23 +10111,6 @@
     "result"
    ],
    "latest": "2026-10-29"
-  },
-  {
-   "key": "upprpb-11427-2020",
-   "source": "upprpb",
-   "short": "UPPRPB",
-   "org": "UP Police Recruitment and Promotion Board",
-   "scope": "up",
-   "items": [
-    "06ecedce57e9"
-   ],
-   "year": 2020,
-   "name": "UPPRPB उप निरीक्षक नागरिक पुलिस, पीएसी प्लाटून कमाण्डर एवं अग्निशमन द्वितीय अधिकारी के 2020",
-   "slug": "upprpb-2020-15b27",
-   "types": [
-    "job"
-   ],
-   "latest": "2026-10-27"
   },
   {
    "key": "ssc-junior-engineer-sub-inspector-delhi-police-2026",

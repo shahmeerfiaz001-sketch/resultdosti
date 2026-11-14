@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T00:58:18+00:00",
+ "updated": "2026-11-14T10:43:37+00:00",
  "items": [
   {
    "id": "eb5a27ddb770",
@@ -43470,6 +43470,40 @@
    "tier": 1,
    "status": "info",
    "group": "uppsc-d-e-medical-education-department-u-p-assistant-2026"
+  },
+  {
+   "id": "5c178be7b2c5",
+   "source": "upprpb",
+   "org": "UP Police Recruitment and Promotion Board",
+   "short": "UPPRPB",
+   "scope": "up",
+   "title": "उप निरीक्षक नागरिक पुलिस, पीएसी प्लाटून कमाण्डर एवं अग्निशमन द्वितीय अधिकारी के पदों पर सीधी भर्ती-2020-21 विशेष अपील संख्या: 651/2026 में मा0 उच्च न्यायालय, इलाहाबाद द्वारा पारित निर्णय /आदेश दिनांकित 01-09-2026 (सम्बन्धित रिट याचिका ए- संख्या: 11427/2022 में",
+   "url": "https://uppbpb.gov.in/FilesUploaded/Notice/Final_with_Notice_List_1_2_SI_2020_213d48b1b7-79ed-4c56-ac69-f1072e647331.pdf",
+   "is_doc": true,
+   "type": "job",
+   "list_date": "2026-11-14",
+   "first_seen": "2026-11-14T10:41:43+00:00",
+   "last_seen": "2026-11-14T10:41:43+00:00",
+   "advt": null,
+   "link_policy": "home_only",
+   "official_home": "https://uppbpb.gov.in",
+   "slug": "upprpb-2020-21-651-2026-0-01-09-2026-11427-2022-5c178b",
+   "details": {
+    "fields": {},
+    "pdf_quality": {
+     "chars": 12480,
+     "latin": 0.36,
+     "devanagari": 0.097,
+     "legacy_suspect": false,
+     "scanned_suspect": false
+    },
+    "parsed_at": "2026-11-14T10:43:37+00:00",
+    "pdf_error": null,
+    "attempts": 1
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "upprpb-11427-2020"
   }
  ]
 }
