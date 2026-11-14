@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T12:48:24+00:00",
+ "updated": "2026-11-14T14:44:31+00:00",
  "items": [
   {
    "id": "eb5a27ddb770",
@@ -43529,6 +43529,40 @@
    "tier": 1,
    "status": "info",
    "group": "nta-registration-national-institute-fashion-2027"
+  },
+  {
+   "id": "069a7309f4d1",
+   "source": "nta",
+   "org": "National Testing Agency",
+   "short": "NTA",
+   "scope": "central",
+   "title": "Inviting Online Applications for SHRESHTA (NETS) – 2027",
+   "url": "https://nta.ac.in/Download/Notice/Notice_20261114192445.pdf",
+   "is_doc": true,
+   "type": "job",
+   "list_date": null,
+   "first_seen": "2026-11-14T14:41:26+00:00",
+   "last_seen": "2026-11-14T14:41:26+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://nta.ac.in",
+   "slug": "nta-inviting-online-applications-for-shreshta-nets-2027-069a73",
+   "details": {
+    "fields": {},
+    "pdf_quality": {
+     "chars": 0,
+     "latin": 0.0,
+     "devanagari": 0.0,
+     "legacy_suspect": false,
+     "scanned_suspect": true,
+     "ocr": true
+    },
+    "parsed_at": "2026-11-14T14:44:31+00:00",
+    "pdf_error": null,
+    "attempts": 1
+   },
+   "tier": 1,
+   "status": "info"
   }
  ]
 }
