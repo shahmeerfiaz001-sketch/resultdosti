@@ -1,6 +1,80 @@
 {
- "updated": "2026-11-14T14:44:31+00:00",
+ "updated": "2026-11-15T01:01:14+00:00",
  "exams": [
+  {
+   "key": "uppsc-provisionally-a-e-regional-inspector-2020",
+   "source": "uppsc",
+   "short": "UPPSC",
+   "org": "Uttar Pradesh Public Service Commission",
+   "scope": "up",
+   "items": [
+    "eebfa6ac57bb",
+    "39cbb89c2a56"
+   ],
+   "year": 2020,
+   "name": "UPPSC List of Provisionally Selected Candidates in Advt. No. A-2/E-1/2020, Regional",
+   "slug": "uppsc-list-of-provisionally-selected-candidates-in-advt-no-a-2-e-1-2020-regional-ad084",
+   "types": [
+    "result"
+   ],
+   "latest": "2026-11-16"
+  },
+  {
+   "key": "uppsc-a-e-u-p-technical-education-service-lect-2021",
+   "source": "uppsc",
+   "short": "UPPSC",
+   "org": "Uttar Pradesh Public Service Commission",
+   "scope": "up",
+   "items": [
+    "27384850562c"
+   ],
+   "year": 2021,
+   "name": "UPPSC Advt. No. A-7/E-1/2021, U.p. Technical Education Service Exam.-2021, Lect.",
+   "slug": "uppsc-advt-no-a-7-e-1-2021-u-p-technical-education-service-exam-2021-lect-a9279",
+   "types": [
+    "job"
+   ],
+   "latest": "2026-11-16"
+  },
+  {
+   "key": "sbi-hindi-english-2026",
+   "source": "sbi",
+   "short": "SBI",
+   "org": "State Bank of India Careers",
+   "scope": "central",
+   "items": [
+    "8dc365da69d9",
+    "69dc9e7a8538",
+    "b0e873c2a7d6",
+    "c447ae3d8478"
+   ],
+   "year": 2026,
+   "name": "SBI ADVERTISEMENT Hindi / English 2026",
+   "slug": "sbi-advertisement-hindi-english-2026-ca904",
+   "types": [
+    "notice"
+   ],
+   "latest": "2026-11-16"
+  },
+  {
+   "key": "sbi-registration-till-2026",
+   "source": "sbi",
+   "short": "SBI",
+   "org": "State Bank of India Careers",
+   "scope": "central",
+   "items": [
+    "cb47f1661b3c",
+    "f42d2166aa6d",
+    "1203fc293de7"
+   ],
+   "year": 2026,
+   "name": "SBI (Online Registration Extended till 2026",
+   "slug": "sbi-online-registration-extended-till-2026-875fe",
+   "types": [
+    "notice"
+   ],
+   "latest": "2026-11-16"
+  },
   {
    "key": "upmsp-15-2026",
    "source": "upmsp",
@@ -6431,41 +6505,6 @@
    "latest": "2026-11-04"
   },
   {
-   "key": "uppsc-provisionally-a-e-regional-inspector-2020",
-   "source": "uppsc",
-   "short": "UPPSC",
-   "org": "Uttar Pradesh Public Service Commission",
-   "scope": "up",
-   "items": [
-    "eebfa6ac57bb",
-    "39cbb89c2a56"
-   ],
-   "year": 2020,
-   "name": "UPPSC List of Provisionally Selected Candidates in Advt. No. A-2/E-1/2020, Regional",
-   "slug": "uppsc-list-of-provisionally-selected-candidates-in-advt-no-a-2-e-1-2020-regional-ad084",
-   "types": [
-    "result"
-   ],
-   "latest": "2026-11-04"
-  },
-  {
-   "key": "uppsc-a-e-u-p-technical-education-service-lect-2021",
-   "source": "uppsc",
-   "short": "UPPSC",
-   "org": "Uttar Pradesh Public Service Commission",
-   "scope": "up",
-   "items": [
-    "27384850562c"
-   ],
-   "year": 2021,
-   "name": "UPPSC Advt. No. A-7/E-1/2021, U.p. Technical Education Service Exam.-2021, Lect.",
-   "slug": "uppsc-advt-no-a-7-e-1-2021-u-p-technical-education-service-exam-2021-lect-a9279",
-   "types": [
-    "job"
-   ],
-   "latest": "2026-11-04"
-  },
-  {
    "key": "uppsc-provisionally-a-e-assistant-teacher-trained-2025",
    "source": "uppsc",
    "short": "UPPSC",
@@ -9421,45 +9460,6 @@
    "year": 2026,
    "name": "Patna HC appointment of Ms. Saleha Sabiha, Judicial Magistrate-I-cum-Additional Civil 2026",
    "slug": "patna-hc-appointment-of-ms-saleha-sabiha-judicial-magistrate-i-cum-additional-89349",
-   "types": [
-    "notice"
-   ],
-   "latest": "2026-11-04"
-  },
-  {
-   "key": "sbi-hindi-english-2026",
-   "source": "sbi",
-   "short": "SBI",
-   "org": "State Bank of India Careers",
-   "scope": "central",
-   "items": [
-    "8dc365da69d9",
-    "69dc9e7a8538",
-    "b0e873c2a7d6",
-    "c447ae3d8478"
-   ],
-   "year": 2026,
-   "name": "SBI ADVERTISEMENT Hindi / English 2026",
-   "slug": "sbi-advertisement-hindi-english-2026-ca904",
-   "types": [
-    "notice"
-   ],
-   "latest": "2026-11-04"
-  },
-  {
-   "key": "sbi-registration-till-2026",
-   "source": "sbi",
-   "short": "SBI",
-   "org": "State Bank of India Careers",
-   "scope": "central",
-   "items": [
-    "cb47f1661b3c",
-    "f42d2166aa6d",
-    "1203fc293de7"
-   ],
-   "year": 2026,
-   "name": "SBI (Online Registration Extended till 2026",
-   "slug": "sbi-online-registration-extended-till-2026-875fe",
    "types": [
     "notice"
    ],
