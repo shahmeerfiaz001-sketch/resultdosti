@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T01:20:01+00:00",
+ "updated": "2026-11-16T08:42:48+00:00",
  "exams": [
   {
    "key": "uppsc-provisionally-a-e-asst-teacher-trained-graduate-2025",
@@ -92,6 +92,23 @@
    "slug": "sbi-online-registration-extended-till-2026-875fe",
    "types": [
     "notice"
+   ],
+   "latest": "2026-11-16"
+  },
+  {
+   "key": "aiims-fees-second-mbbs-mbbs-md-ms-mds-dm-mch-2026",
+   "source": "aiims",
+   "short": "AIIMS",
+   "org": "AIIMS Examinations",
+   "scope": "central",
+   "items": [
+    "7152fd53f751"
+   ],
+   "year": 2026,
+   "name": "AIIMS Fees and Admit Card for Second MBBS / Final MBBS / MD / MS / MDS / DM / MCh / 2026",
+   "slug": "aiims-fees-and-admit-card-for-second-mbbs-final-mbbs-md-ms-mds-dm-mch-2026-8e494",
+   "types": [
+    "admit"
    ],
    "latest": "2026-11-16"
   },

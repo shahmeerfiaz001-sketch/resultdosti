@@ -1,6 +1,16 @@
 {
- "run": "2026-11-16T01:20:01+00:00",
+ "run": "2026-11-16T08:42:48+00:00",
  "first_run": false,
- "new": [],
+ "new": [
+  {
+   "id": "7152fd53f751",
+   "type": "admit",
+   "title": "Notice: Fees and Admit Card for Second MBBS / Final MBBS / MD / MS / MDS / DM / MCh / Fellowship Programme Professional Examinations to be held in December 2026",
+   "short": "AIIMS",
+   "url": "https://resultdosti.in/admit-card/aiims-notice-fees-and-admit-card-for-second-mbbs-final-mbbs-md-ms-mds-7152fd/",
+   "last_date": null,
+   "jobposting": false
+  }
+ ],
  "closed": []
 }
