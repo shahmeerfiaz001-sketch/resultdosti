@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T11:24:45+00:00",
+ "updated": "2026-11-16T15:02:51+00:00",
  "items": [
   {
    "id": "eb5a27ddb770",
@@ -43613,6 +43613,66 @@
    "tier": 1,
    "status": "info",
    "group": "ssc-sub-inspector-delhi-police-capfs-2025"
+  },
+  {
+   "id": "a99d41b1ef3b",
+   "source": "upprpb",
+   "org": "UP Police Recruitment and Promotion Board",
+   "short": "UPPRPB",
+   "scope": "up",
+   "title": "उत्तर प्रदेश पुलिस में आरक्षी नागरिक पुलिस एवं समकक्ष पदों पर सीधी भर्ती-2025 के अन्तर्गत प्रसामान्यीकृत अंकों के प्रकाशन के सम्बन्ध में सूचना",
+   "url": "https://uppbpb.gov.in/FilesUploaded/Notice/CONST 25 VIGGYAPTI 16-11-2026e9f869c6-bb93-4210-acb5-e17dabd0d0c4.pdf",
+   "is_doc": true,
+   "type": "job",
+   "list_date": "2026-11-16",
+   "first_seen": "2026-11-16T15:01:51+00:00",
+   "last_seen": "2026-11-16T15:01:51+00:00",
+   "advt": null,
+   "link_policy": "home_only",
+   "official_home": "https://uppbpb.gov.in",
+   "slug": "upprpb-2025-a99d41",
+   "details": {
+    "fields": {},
+    "pdf_quality": {
+     "chars": 0,
+     "latin": 0.0,
+     "devanagari": 0.0,
+     "legacy_suspect": false,
+     "scanned_suspect": true,
+     "ocr": true
+    },
+    "parsed_at": "2026-11-16T15:02:51+00:00",
+    "pdf_error": null,
+    "attempts": 1
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "upprpb-notice-2025"
+  },
+  {
+   "id": "fa6c7de5064c",
+   "source": "upprpb",
+   "org": "UP Police Recruitment and Promotion Board",
+   "short": "UPPRPB",
+   "scope": "up",
+   "title": "उत्तर प्रदेश पुलिस में आरक्षी नागरिक पुलिस एवं समकक्ष पदों पर सीधी भर्ती-2025 के अन्तर्गत प्रसामान्यीकृत अंक हेतु लिंक",
+   "url": "https://upcons2025.com/conmailrequest/loginpage.aspx",
+   "is_doc": false,
+   "type": "job",
+   "list_date": "2026-11-16",
+   "first_seen": "2026-11-16T15:01:51+00:00",
+   "last_seen": "2026-11-16T15:01:51+00:00",
+   "advt": null,
+   "link_policy": "home_only",
+   "official_home": "https://uppbpb.gov.in",
+   "slug": "upprpb-2025-fa6c7d",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "upprpb-notice-2025"
   }
  ]
 }

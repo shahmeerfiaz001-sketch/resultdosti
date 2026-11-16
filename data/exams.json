@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T11:24:45+00:00",
+ "updated": "2026-11-16T15:02:51+00:00",
  "exams": [
   {
    "key": "uppsc-provisionally-a-e-asst-teacher-trained-graduate-2025",
@@ -53,6 +53,55 @@
    "slug": "uppsc-advt-no-a-7-e-1-2021-u-p-technical-education-service-exam-2021-lect-a9279",
    "types": [
     "job"
+   ],
+   "latest": "2026-11-16"
+  },
+  {
+   "key": "upprpb-notice-2025",
+   "source": "upprpb",
+   "short": "UPPRPB",
+   "org": "UP Police Recruitment and Promotion Board",
+   "scope": "up",
+   "items": [
+    "66325a834ad5",
+    "0c1549e1117f",
+    "4ecd87487d08",
+    "1416062b1832",
+    "af39fce2d4a9",
+    "194958409419",
+    "3fb38ad49921",
+    "01b743207e1a",
+    "499c409f5e81",
+    "b54ab651b6f9",
+    "7a114a8ed37c",
+    "9cb07d5377d1",
+    "00b39f1ce841",
+    "02f3c0fd6189",
+    "5245675b80da",
+    "6910ed1341e0",
+    "571eb13c58eb",
+    "ed4a5955059b",
+    "afc875f3ba39",
+    "d45a736ddda2",
+    "9332ce3ed939",
+    "03a2370b2dd9",
+    "9befc926900c",
+    "f34111fb4c1a",
+    "1f30cd66bd09",
+    "d85060e0791d",
+    "a4c1a9526b4f",
+    "4258d6925dfd",
+    "a99d41b1ef3b",
+    "fa6c7de5064c"
+   ],
+   "year": 2025,
+   "name": "UPPRPB उत्तर प्रदेश पुलिस में आरक्षी नागरिक पुलिस एवं समकक्ष पदों पर सीधी भर्ती-2025",
+   "slug": "upprpb-2025-0f533",
+   "types": [
+    "admit",
+    "job",
+    "notice",
+    "result"
    ],
    "latest": "2026-11-16"
   },
@@ -10179,52 +10228,6 @@
     "notice"
    ],
    "latest": "2026-10-26"
-  },
-  {
-   "key": "upprpb-notice-2025",
-   "source": "upprpb",
-   "short": "UPPRPB",
-   "org": "UP Police Recruitment and Promotion Board",
-   "scope": "up",
-   "items": [
-    "66325a834ad5",
-    "0c1549e1117f",
-    "4ecd87487d08",
-    "1416062b1832",
-    "af39fce2d4a9",
-    "194958409419",
-    "3fb38ad49921",
-    "01b743207e1a",
-    "499c409f5e81",
-    "b54ab651b6f9",
-    "7a114a8ed37c",
-    "9cb07d5377d1",
-    "00b39f1ce841",
-    "02f3c0fd6189",
-    "5245675b80da",
-    "6910ed1341e0",
-    "571eb13c58eb",
-    "ed4a5955059b",
-    "afc875f3ba39",
-    "d45a736ddda2",
-    "9332ce3ed939",
-    "03a2370b2dd9",
-    "9befc926900c",
-    "f34111fb4c1a",
-    "1f30cd66bd09",
-    "d85060e0791d",
-    "a4c1a9526b4f",
-    "4258d6925dfd"
-   ],
-   "year": 2025,
-   "name": "UPPRPB उत्तर प्रदेश होमगार्ड्स के पदों पर एनरोलमेंट -2025 के अन्तर्गत अन्तिम अंकों के",
-   "slug": "upprpb-2025-0f533",
-   "types": [
-    "admit",
-    "notice",
-    "result"
-   ],
-   "latest": "2026-10-24"
   },
   {
    "key": "shsbihar-advt-09-2025",
