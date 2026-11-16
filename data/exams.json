@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T15:02:51+00:00",
+ "updated": "2026-11-16T17:12:55+00:00",
  "exams": [
   {
    "key": "uppsc-provisionally-a-e-asst-teacher-trained-graduate-2025",
@@ -145,6 +145,29 @@
    "latest": "2026-11-16"
   },
   {
+   "key": "uppsc-d-e-medical-education-department-u-p-assistant-2026",
+   "source": "uppsc",
+   "short": "UPPSC",
+   "org": "Uttar Pradesh Public Service Commission",
+   "scope": "up",
+   "items": [
+    "bc761dde702f",
+    "e624da6b4e79",
+    "a2a9b3e5ee89",
+    "06e02c5b8f3f",
+    "7c28caa8daf3",
+    "4def4d5e25af",
+    "4ab55bf9394b"
+   ],
+   "year": 2026,
+   "name": "UPPSC Result of Advt. No. D-1/E-1/2026, Medical Education Department U.p. , Assistant",
+   "slug": "uppsc-result-of-advt-no-d-1-e-1-2026-medical-education-department-u-p-assistant-9eb6b",
+   "types": [
+    "result"
+   ],
+   "latest": "2026-11-16"
+  },
+  {
    "key": "aiims-fees-second-mbbs-mbbs-md-ms-mds-dm-mch-2026",
    "source": "aiims",
    "short": "AIIMS",
@@ -246,28 +269,6 @@
     "notice"
    ],
    "latest": "2026-11-14"
-  },
-  {
-   "key": "uppsc-d-e-medical-education-department-u-p-assistant-2026",
-   "source": "uppsc",
-   "short": "UPPSC",
-   "org": "Uttar Pradesh Public Service Commission",
-   "scope": "up",
-   "items": [
-    "bc761dde702f",
-    "e624da6b4e79",
-    "a2a9b3e5ee89",
-    "06e02c5b8f3f",
-    "7c28caa8daf3",
-    "4def4d5e25af"
-   ],
-   "year": 2026,
-   "name": "UPPSC Result of Advt. No. D-1/E-1/2026, Medical Education Department U.p. , Assistant",
-   "slug": "uppsc-result-of-advt-no-d-1-e-1-2026-medical-education-department-u-p-assistant-9eb6b",
-   "types": [
-    "result"
-   ],
-   "latest": "2026-11-13"
   },
   {
    "key": "ibps-manit-group-b-c-non-teaching-positions-2026",

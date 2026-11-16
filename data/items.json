@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T15:02:51+00:00",
+ "updated": "2026-11-16T17:12:55+00:00",
  "items": [
   {
    "id": "eb5a27ddb770",
@@ -43673,6 +43673,31 @@
    "tier": 1,
    "status": "info",
    "group": "upprpb-notice-2025"
+  },
+  {
+   "id": "4ab55bf9394b",
+   "source": "uppsc",
+   "org": "Uttar Pradesh Public Service Commission",
+   "short": "UPPSC",
+   "scope": "up",
+   "title": "Result of Advt. No. D-1/E-1/2026, Medical Education Department U.p. (Allopathy) /ASSISTANT Professor Microbiology, S-08/128...",
+   "url": "https://uppsc.up.nic.in/Open_PDF_DB.aspx?I4PnQ0tBagn3Lnqaz4gdq+2I4ea+ym87",
+   "is_doc": false,
+   "type": "result",
+   "list_date": null,
+   "first_seen": "2026-11-16T17:11:57+00:00",
+   "last_seen": "2026-11-16T17:11:57+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://uppsc.up.nic.in",
+   "slug": "uppsc-result-of-advt-no-d-1-e-1-2026-medical-education-department-u-p-4ab55b",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "uppsc-d-e-medical-education-department-u-p-assistant-2026"
   }
  ]
 }
