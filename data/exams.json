@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T08:42:48+00:00",
+ "updated": "2026-11-16T11:24:45+00:00",
  "exams": [
   {
    "key": "uppsc-provisionally-a-e-asst-teacher-trained-graduate-2025",
@@ -109,6 +109,23 @@
    "slug": "aiims-fees-and-admit-card-for-second-mbbs-final-mbbs-md-ms-mds-dm-mch-2026-8e494",
    "types": [
     "admit"
+   ],
+   "latest": "2026-11-16"
+  },
+  {
+   "key": "ssc-sub-inspector-delhi-police-capfs-2025",
+   "source": "ssc",
+   "short": "SSC",
+   "org": "Staff Selection Commission",
+   "scope": "central",
+   "items": [
+    "ad8d8ae6f2ee"
+   ],
+   "year": 2025,
+   "name": "SSC Sub-Inspector in Delhi Police and CAPFs Examination, 2025: Corrigendum to",
+   "slug": "ssc-sub-inspector-in-delhi-police-and-capfs-examination-2025-corrigendum-to-6fe5e",
+   "types": [
+    "result"
    ],
    "latest": "2026-11-16"
   },

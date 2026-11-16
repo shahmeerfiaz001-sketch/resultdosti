@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T08:42:48+00:00",
+ "updated": "2026-11-16T11:24:45+00:00",
  "items": [
   {
    "id": "eb5a27ddb770",
@@ -43588,6 +43588,31 @@
    "tier": 1,
    "status": "info",
    "group": "aiims-fees-second-mbbs-mbbs-md-ms-mds-dm-mch-2026"
+  },
+  {
+   "id": "ad8d8ae6f2ee",
+   "source": "ssc",
+   "org": "Staff Selection Commission",
+   "short": "SSC",
+   "scope": "central",
+   "title": "Sub-Inspector in Delhi Police and CAPFs Examination, 2025: Corrigendum to PET/PST Result published on 29.10.2026",
+   "url": "https://ssc.gov.in/home/notice-board?notice=6v986pkyn88b6tz1cjjyn",
+   "is_doc": false,
+   "type": "result",
+   "list_date": "2026-11-16",
+   "first_seen": "2026-11-16T11:22:26+00:00",
+   "last_seen": "2026-11-16T11:22:26+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://ssc.gov.in",
+   "slug": "ssc-sub-inspector-in-delhi-police-and-capfs-examination-2025-ad8d8a",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "ssc-sub-inspector-delhi-police-capfs-2025"
   }
  ]
 }
