@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T17:12:55+00:00",
+ "updated": "2026-11-17T07:15:42+00:00",
  "items": [
   {
    "id": "eb5a27ddb770",
@@ -43698,6 +43698,31 @@
    "tier": 1,
    "status": "info",
    "group": "uppsc-d-e-medical-education-department-u-p-assistant-2026"
+  },
+  {
+   "id": "af4a59d74ba3",
+   "source": "aiims",
+   "org": "AIIMS Examinations",
+   "short": "AIIMS",
+   "scope": "central",
+   "title": "Notice: Fees and Admit Card for Second MBBS / Final MBBS / MD / MS / MDS / DM / MCh / Fellowship Programme Professional Examinations to be held in December 2026",
+   "url": "https://rrpdocuments.aiimsexams.ac.in/1794897484799-283696166.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVRUVRLXWMSLVSAP7%2F20261117%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261117T071052Z&X-Amz-Expires=604800&X-Amz-Signature=065cf6cc2baf2cb3e041d44b842e455947b82e16916e43dd290f70ea85546e3b&X-Amz-SignedHeaders=host&response-content-type=application%2Fpdf",
+   "is_doc": true,
+   "type": "admit",
+   "list_date": null,
+   "first_seen": "2026-11-17T07:14:27+00:00",
+   "last_seen": "2026-11-17T07:14:27+00:00",
+   "advt": null,
+   "link_policy": "home_only",
+   "official_home": "https://aiimsexams.ac.in/landingpage/notice",
+   "slug": "aiims-notice-fees-and-admit-card-for-second-mbbs-final-mbbs-md-ms-mds-af4a59",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "aiims-fees-second-mbbs-mbbs-md-ms-mds-dm-mch-2026"
   }
  ]
 }

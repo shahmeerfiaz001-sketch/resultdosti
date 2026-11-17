@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T17:12:55+00:00",
+ "updated": "2026-11-17T07:15:42+00:00",
  "exams": [
   {
    "key": "uppsc-provisionally-a-e-asst-teacher-trained-graduate-2025",
@@ -18,6 +18,24 @@
    "slug": "uppsc-list-of-provisionally-selected-candidates-in-advt-no-a-5-e-1-2025-asst-8ce10",
    "types": [
     "result"
+   ],
+   "latest": "2026-11-17"
+  },
+  {
+   "key": "aiims-fees-second-mbbs-mbbs-md-ms-mds-dm-mch-2026",
+   "source": "aiims",
+   "short": "AIIMS",
+   "org": "AIIMS Examinations",
+   "scope": "central",
+   "items": [
+    "7152fd53f751",
+    "af4a59d74ba3"
+   ],
+   "year": 2026,
+   "name": "AIIMS Fees and Admit Card for Second MBBS / Final MBBS / MD / MS / MDS / DM / MCh / 2026",
+   "slug": "aiims-fees-and-admit-card-for-second-mbbs-final-mbbs-md-ms-mds-dm-mch-2026-8e494",
+   "types": [
+    "admit"
    ],
    "latest": "2026-11-17"
   },
@@ -164,23 +182,6 @@
    "slug": "uppsc-result-of-advt-no-d-1-e-1-2026-medical-education-department-u-p-assistant-9eb6b",
    "types": [
     "result"
-   ],
-   "latest": "2026-11-16"
-  },
-  {
-   "key": "aiims-fees-second-mbbs-mbbs-md-ms-mds-dm-mch-2026",
-   "source": "aiims",
-   "short": "AIIMS",
-   "org": "AIIMS Examinations",
-   "scope": "central",
-   "items": [
-    "7152fd53f751"
-   ],
-   "year": 2026,
-   "name": "AIIMS Fees and Admit Card for Second MBBS / Final MBBS / MD / MS / MDS / DM / MCh / 2026",
-   "slug": "aiims-fees-and-admit-card-for-second-mbbs-final-mbbs-md-ms-mds-dm-mch-2026-8e494",
-   "types": [
-    "admit"
    ],
    "latest": "2026-11-16"
   },
