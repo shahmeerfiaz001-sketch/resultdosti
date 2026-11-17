@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T07:15:42+00:00",
+ "updated": "2026-11-17T13:03:31+00:00",
  "exams": [
   {
    "key": "uppsc-provisionally-a-e-asst-teacher-trained-graduate-2025",
@@ -36,6 +36,59 @@
    "slug": "aiims-fees-and-admit-card-for-second-mbbs-final-mbbs-md-ms-mds-dm-mch-2026-8e494",
    "types": [
     "admit"
+   ],
+   "latest": "2026-11-17"
+  },
+  {
+   "key": "ssc-advisory-aadhaar-data-updates-biometric-2026",
+   "source": "ssc",
+   "short": "SSC",
+   "org": "Staff Selection Commission",
+   "scope": "central",
+   "items": [
+    "f70aeb513d7c"
+   ],
+   "year": 2026,
+   "name": "SSC Advisory for Candidates regarding Aadhaar Data Updates and Biometric 2026",
+   "slug": "ssc-advisory-for-candidates-regarding-aadhaar-data-updates-and-biometric-2026-3f414",
+   "types": [
+    "notice"
+   ],
+   "latest": "2026-11-17"
+  },
+  {
+   "key": "ssc-grade-c-stenographers-limited-departmental-2026",
+   "source": "ssc",
+   "short": "SSC",
+   "org": "Staff Selection Commission",
+   "scope": "central",
+   "items": [
+    "720baeef62d6"
+   ],
+   "year": 2026,
+   "name": "SSC Grade 'C' Stenographers Limited Departmental Competitive Examination, 2026",
+   "slug": "ssc-grade-c-stenographers-limited-departmental-competitive-examination-2026-ff5ca",
+   "types": [
+    "notice"
+   ],
+   "latest": "2026-11-17"
+  },
+  {
+   "key": "bceceb-registration-cum-choice-filling-stray-round-2026",
+   "source": "bceceb",
+   "short": "BCECEB",
+   "org": "Bihar Combined Entrance Competitive Examination Board",
+   "scope": "bihar",
+   "items": [
+    "956aa3103d04",
+    "b0560496047c"
+   ],
+   "year": 2026,
+   "name": "BCECEB Registration-cum-Choice Filling for Stray Vacancy Round of Post Graduate Dental 2026",
+   "slug": "bceceb-registration-cum-choice-filling-for-stray-vacancy-round-of-post-graduate-4b1e0",
+   "types": [
+    "job",
+    "notice"
    ],
    "latest": "2026-11-17"
   },

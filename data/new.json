@@ -1,13 +1,40 @@
 {
- "run": "2026-11-17T07:15:42+00:00",
+ "run": "2026-11-17T13:03:31+00:00",
  "first_run": false,
  "new": [
   {
-   "id": "af4a59d74ba3",
-   "type": "admit",
-   "title": "Notice: Fees and Admit Card for Second MBBS / Final MBBS / MD / MS / MDS / DM / MCh / Fellowship Programme Professional Examinations to be held in December 2026",
-   "short": "AIIMS",
-   "url": "https://resultdosti.in/admit-card/aiims-notice-fees-and-admit-card-for-second-mbbs-final-mbbs-md-ms-mds-af4a59/",
+   "id": "f70aeb513d7c",
+   "type": "notice",
+   "title": "Advisory for Candidates regarding Aadhaar Data Updates and Biometric Authentication.",
+   "short": "SSC",
+   "url": "https://resultdosti.in/notice/ssc-advisory-for-candidates-regarding-aadhaar-data-updates-and-f70aeb/",
+   "last_date": null,
+   "jobposting": false
+  },
+  {
+   "id": "720baeef62d6",
+   "type": "notice",
+   "title": "Notice of Grade 'C' Stenographers Limited Departmental Competitive Examination, 2026",
+   "short": "SSC",
+   "url": "https://resultdosti.in/notice/ssc-notice-of-grade-c-stenographers-limited-departmental-competitive-720bae/",
+   "last_date": null,
+   "jobposting": false
+  },
+  {
+   "id": "956aa3103d04",
+   "type": "notice",
+   "title": "Important Notice for of Registration-cum-Choice Filling for Stray Vacancy Round of Post Gradudate Dental Courses (PGDAC)-2026 (Adv. No. BCECEB(PGDAC)-2026/10",
+   "short": "BCECEB",
+   "url": "https://resultdosti.in/notice/important-notice-for-of-registration-cum-choice-filling-for-stray-956aa3/",
+   "last_date": null,
+   "jobposting": false
+  },
+  {
+   "id": "b0560496047c",
+   "type": "job",
+   "title": "Details of Registration-cum-Choice Filling for Stray Vacancy Round of Post Graduate Dental Courses (PGDAC)-2026 (Adv. No. BCECEB(PGDAC)-2026/09",
+   "short": "BCECEB",
+   "url": "https://resultdosti.in/job/details-of-registration-cum-choice-filling-for-stray-vacancy-round-of-b05604/",
    "last_date": null,
    "jobposting": false
   }

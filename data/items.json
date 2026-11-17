@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T07:15:42+00:00",
+ "updated": "2026-11-17T13:03:31+00:00",
  "items": [
   {
    "id": "eb5a27ddb770",
@@ -43723,6 +43723,115 @@
    "tier": 1,
    "status": "info",
    "group": "aiims-fees-second-mbbs-mbbs-md-ms-mds-dm-mch-2026"
+  },
+  {
+   "id": "f70aeb513d7c",
+   "source": "ssc",
+   "org": "Staff Selection Commission",
+   "short": "SSC",
+   "scope": "central",
+   "title": "Advisory for Candidates regarding Aadhaar Data Updates and Biometric Authentication.",
+   "url": "https://ssc.gov.in/home/notice-board?notice=wen5ivv4mlzz9eqwmzo0h",
+   "is_doc": false,
+   "type": "notice",
+   "list_date": "2026-11-17",
+   "first_seen": "2026-11-17T13:01:24+00:00",
+   "last_seen": "2026-11-17T13:01:24+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://ssc.gov.in",
+   "slug": "ssc-advisory-for-candidates-regarding-aadhaar-data-updates-and-f70aeb",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "ssc-advisory-aadhaar-data-updates-biometric-2026"
+  },
+  {
+   "id": "720baeef62d6",
+   "source": "ssc",
+   "org": "Staff Selection Commission",
+   "short": "SSC",
+   "scope": "central",
+   "title": "Notice of Grade 'C' Stenographers Limited Departmental Competitive Examination, 2026",
+   "url": "https://ssc.gov.in/home/notice-board?notice=i1rgugscddwe9f1o5e2oi",
+   "is_doc": false,
+   "type": "notice",
+   "list_date": "2026-11-17",
+   "first_seen": "2026-11-17T13:01:24+00:00",
+   "last_seen": "2026-11-17T13:01:24+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://ssc.gov.in",
+   "slug": "ssc-notice-of-grade-c-stenographers-limited-departmental-competitive-720bae",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "ssc-grade-c-stenographers-limited-departmental-2026"
+  },
+  {
+   "id": "956aa3103d04",
+   "source": "bceceb",
+   "org": "Bihar Combined Entrance Competitive Examination Board",
+   "short": "BCECEB",
+   "scope": "bihar",
+   "title": "Important Notice for of Registration-cum-Choice Filling for Stray Vacancy Round of Post Gradudate Dental Courses (PGDAC)-2026 (Adv. No. BCECEB(PGDAC)-2026/10",
+   "url": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGDAC26_10.pdf",
+   "is_doc": true,
+   "type": "notice",
+   "list_date": "2026-11-17",
+   "first_seen": "2026-11-17T13:03:20+00:00",
+   "last_seen": "2026-11-17T13:03:20+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://bceceboard.bihar.gov.in",
+   "slug": "important-notice-for-of-registration-cum-choice-filling-for-stray-956aa3",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "bceceb-registration-cum-choice-filling-stray-round-2026"
+  },
+  {
+   "id": "b0560496047c",
+   "source": "bceceb",
+   "org": "Bihar Combined Entrance Competitive Examination Board",
+   "short": "BCECEB",
+   "scope": "bihar",
+   "title": "Details of Registration-cum-Choice Filling for Stray Vacancy Round of Post Graduate Dental Courses (PGDAC)-2026 (Adv. No. BCECEB(PGDAC)-2026/09",
+   "url": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGDAC26_09.pdf",
+   "is_doc": true,
+   "type": "job",
+   "list_date": "2026-11-17",
+   "first_seen": "2026-11-17T13:03:20+00:00",
+   "last_seen": "2026-11-17T13:03:20+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://bceceboard.bihar.gov.in",
+   "slug": "details-of-registration-cum-choice-filling-for-stray-vacancy-round-of-b05604",
+   "details": {
+    "fields": {},
+    "pdf_quality": {
+     "chars": 32471,
+     "latin": 0.77,
+     "devanagari": 0.0,
+     "legacy_suspect": false,
+     "scanned_suspect": false
+    },
+    "parsed_at": "2026-11-17T13:03:30+00:00",
+    "pdf_error": null,
+    "attempts": 1
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "bceceb-registration-cum-choice-filling-stray-round-2026"
   }
  ]
 }
