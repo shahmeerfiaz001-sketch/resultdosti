@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T14:56:41+00:00",
+ "updated": "2026-11-17T17:02:55+00:00",
  "exams": [
   {
    "key": "uppsc-provisionally-a-e-asst-teacher-trained-graduate-2025",
@@ -16,6 +16,24 @@
    "year": 2025,
    "name": "UPPSC List of Provisionally Selected Candidates in Advt. No. A-5/E-1/2025, Asst.",
    "slug": "uppsc-list-of-provisionally-selected-candidates-in-advt-no-a-5-e-1-2025-asst-8ce10",
+   "types": [
+    "result"
+   ],
+   "latest": "2026-11-17"
+  },
+  {
+   "key": "uppsc-provisionally-a-e-assistant-teacher-trained-2025",
+   "source": "uppsc",
+   "short": "UPPSC",
+   "org": "Uttar Pradesh Public Service Commission",
+   "scope": "up",
+   "items": [
+    "5e40bb3ef62d",
+    "6f13896bd547"
+   ],
+   "year": 2025,
+   "name": "UPPSC List of Provisionally Selected Candidates in Advt. No. A-5/E-1/2025, Assistant",
+   "slug": "uppsc-list-of-provisionally-selected-candidates-in-advt-no-a-5-e-1-2025-7f660",
    "types": [
     "result"
    ],
@@ -6674,23 +6692,6 @@
    "slug": "uppsc-district-information-slip-admit-card-for-advt-no-d-3-e-1-2023-lecturer-0fc07",
    "types": [
     "admit"
-   ],
-   "latest": "2026-11-04"
-  },
-  {
-   "key": "uppsc-provisionally-a-e-assistant-teacher-trained-2025",
-   "source": "uppsc",
-   "short": "UPPSC",
-   "org": "Uttar Pradesh Public Service Commission",
-   "scope": "up",
-   "items": [
-    "5e40bb3ef62d"
-   ],
-   "year": 2025,
-   "name": "UPPSC List of Provisionally Selected Candidates in Advt. No. A-5/E-1/2025, Assistant",
-   "slug": "uppsc-list-of-provisionally-selected-candidates-in-advt-no-a-5-e-1-2025-7f660",
-   "types": [
-    "result"
    ],
    "latest": "2026-11-04"
   },

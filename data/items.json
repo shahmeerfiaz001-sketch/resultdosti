@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T14:56:41+00:00",
+ "updated": "2026-11-17T17:02:55+00:00",
  "items": [
   {
    "id": "eb5a27ddb770",
@@ -43907,6 +43907,32 @@
    "tier": 1,
    "status": "info",
    "group": "uppsc-d-e-department-medical-education-department-u-p-2026"
+  },
+  {
+   "id": "6f13896bd547",
+   "source": "uppsc",
+   "org": "Uttar Pradesh Public Service Commission",
+   "short": "UPPSC",
+   "scope": "up",
+   "title": "List of Provisionally Selected Candidates in Advt. No. A-5/E-1/2025, Assistant Teacher Trained Graduate (M./F.) Exam 2025, Subject-urdu",
+   "url": "https://uppsc.up.nic.in/Open_PDF_DB.aspx?I4PnQ0tBagn3Lnqaz4gdq5GDnL3/PIOE",
+   "is_doc": false,
+   "type": "result",
+   "list_date": null,
+   "first_seen": "2026-11-17T17:01:39+00:00",
+   "last_seen": "2026-11-17T17:01:39+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://uppsc.up.nic.in",
+   "slug": "uppsc-list-of-provisionally-selected-candidates-in-advt-no-a-5-e-1-6f1389",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "archive": true,
+   "status": "info",
+   "group": "uppsc-provisionally-a-e-assistant-teacher-trained-2025"
   }
  ]
 }
