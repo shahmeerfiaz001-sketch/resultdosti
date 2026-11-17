@@ -1,40 +1,31 @@
 {
- "run": "2026-11-17T13:03:31+00:00",
+ "run": "2026-11-17T14:56:41+00:00",
  "first_run": false,
  "new": [
   {
-   "id": "f70aeb513d7c",
+   "id": "e63112bfd26a",
    "type": "notice",
-   "title": "Advisory for Candidates regarding Aadhaar Data Updates and Biometric Authentication.",
+   "title": "Important Notice - Rescheduling of PET/PST dates of some candidates of SSC Constable (GD) Examination, 2026, in case of clash with SI in DP and CAPFs Exam, 2026 (Paper-I) and SI in DP and CAPFs Exam, 2025 (Paper-II)",
    "short": "SSC",
-   "url": "https://resultdosti.in/notice/ssc-advisory-for-candidates-regarding-aadhaar-data-updates-and-f70aeb/",
+   "url": "https://resultdosti.in/notice/important-notice-rescheduling-of-pet-pst-dates-of-some-candidates-of-e63112/",
    "last_date": null,
    "jobposting": false
   },
   {
-   "id": "720baeef62d6",
-   "type": "notice",
-   "title": "Notice of Grade 'C' Stenographers Limited Departmental Competitive Examination, 2026",
-   "short": "SSC",
-   "url": "https://resultdosti.in/notice/ssc-notice-of-grade-c-stenographers-limited-departmental-competitive-720bae/",
+   "id": "8ee7ab1a1e7f",
+   "type": "result",
+   "title": "List of Selected Candidates in Advt. No. D-1/E-1/2026, Department, Medical Education Department U.p. (Allopathy), Assistant Professor Oto-rhino-laryngology (Ent), S-08/46",
+   "short": "UPPSC",
+   "url": "https://resultdosti.in/result/uppsc-list-of-selected-candidates-in-advt-no-d-1-e-1-2026-department-8ee7ab/",
    "last_date": null,
    "jobposting": false
   },
   {
-   "id": "956aa3103d04",
-   "type": "notice",
-   "title": "Important Notice for of Registration-cum-Choice Filling for Stray Vacancy Round of Post Gradudate Dental Courses (PGDAC)-2026 (Adv. No. BCECEB(PGDAC)-2026/10",
-   "short": "BCECEB",
-   "url": "https://resultdosti.in/notice/important-notice-for-of-registration-cum-choice-filling-for-stray-956aa3/",
-   "last_date": null,
-   "jobposting": false
-  },
-  {
-   "id": "b0560496047c",
-   "type": "job",
-   "title": "Details of Registration-cum-Choice Filling for Stray Vacancy Round of Post Graduate Dental Courses (PGDAC)-2026 (Adv. No. BCECEB(PGDAC)-2026/09",
-   "short": "BCECEB",
-   "url": "https://resultdosti.in/job/details-of-registration-cum-choice-filling-for-stray-vacancy-round-of-b05604/",
+   "id": "e548104bc120",
+   "type": "result",
+   "title": "List of Selected Candidates in Advt. No. D-1/E-1/2026, Department, Medical Education Department U.p. (Allopathy), Assistant Professor Oto-rhino-laryn.....",
+   "short": "UPPSC",
+   "url": "https://resultdosti.in/result/uppsc-list-of-selected-candidates-in-advt-no-d-1-e-1-2026-department-e54810/",
    "last_date": null,
    "jobposting": false
   }

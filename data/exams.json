@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T13:03:31+00:00",
+ "updated": "2026-11-17T14:56:41+00:00",
  "exams": [
   {
    "key": "uppsc-provisionally-a-e-asst-teacher-trained-graduate-2025",
@@ -89,6 +89,41 @@
    "types": [
     "job",
     "notice"
+   ],
+   "latest": "2026-11-17"
+  },
+  {
+   "key": "ssc-rescheduling-some-ssc-constable-case-clash-si-2026",
+   "source": "ssc",
+   "short": "SSC",
+   "org": "Staff Selection Commission",
+   "scope": "central",
+   "items": [
+    "e63112bfd26a"
+   ],
+   "year": 2026,
+   "name": "Rescheduling of PET/PST dates of some candidates of SSC Constable Examination 2026",
+   "slug": "rescheduling-of-pet-pst-dates-of-some-candidates-of-ssc-constable-examination-78492",
+   "types": [
+    "notice"
+   ],
+   "latest": "2026-11-17"
+  },
+  {
+   "key": "uppsc-d-e-department-medical-education-department-u-p-2026",
+   "source": "uppsc",
+   "short": "UPPSC",
+   "org": "Uttar Pradesh Public Service Commission",
+   "scope": "up",
+   "items": [
+    "8ee7ab1a1e7f",
+    "e548104bc120"
+   ],
+   "year": 2026,
+   "name": "UPPSC List of Selected Candidates in Advt. No. D-1/E-1/2026, Department, Medical",
+   "slug": "uppsc-list-of-selected-candidates-in-advt-no-d-1-e-1-2026-department-medical-4c668",
+   "types": [
+    "result"
    ],
    "latest": "2026-11-17"
   },

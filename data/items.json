@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T13:03:31+00:00",
+ "updated": "2026-11-17T14:56:41+00:00",
  "items": [
   {
    "id": "eb5a27ddb770",
@@ -43832,6 +43832,81 @@
    "tier": 1,
    "status": "info",
    "group": "bceceb-registration-cum-choice-filling-stray-round-2026"
+  },
+  {
+   "id": "e63112bfd26a",
+   "source": "ssc",
+   "org": "Staff Selection Commission",
+   "short": "SSC",
+   "scope": "central",
+   "title": "Important Notice - Rescheduling of PET/PST dates of some candidates of SSC Constable (GD) Examination, 2026, in case of clash with SI in DP and CAPFs Exam, 2026 (Paper-I) and SI in DP and CAPFs Exam, 2025 (Paper-II)",
+   "url": "https://ssc.gov.in/home/notice-board?notice=srarwll27q5aoyfd1j42z",
+   "is_doc": false,
+   "type": "notice",
+   "list_date": "2026-11-17",
+   "first_seen": "2026-11-17T14:53:51+00:00",
+   "last_seen": "2026-11-17T14:53:51+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://ssc.gov.in",
+   "slug": "important-notice-rescheduling-of-pet-pst-dates-of-some-candidates-of-e63112",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "ssc-rescheduling-some-ssc-constable-case-clash-si-2026"
+  },
+  {
+   "id": "8ee7ab1a1e7f",
+   "source": "uppsc",
+   "org": "Uttar Pradesh Public Service Commission",
+   "short": "UPPSC",
+   "scope": "up",
+   "title": "List of Selected Candidates in Advt. No. D-1/E-1/2026, Department, Medical Education Department U.p. (Allopathy), Assistant Professor Oto-rhino-laryngology (Ent), S-08/46",
+   "url": "https://uppsc.up.nic.in/Open_PDF_DB.aspx?I4PnQ0tBagn3Lnqaz4gdq1V5zwlKle8k",
+   "is_doc": false,
+   "type": "result",
+   "list_date": null,
+   "first_seen": "2026-11-17T14:55:44+00:00",
+   "last_seen": "2026-11-17T14:55:44+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://uppsc.up.nic.in",
+   "slug": "uppsc-list-of-selected-candidates-in-advt-no-d-1-e-1-2026-department-8ee7ab",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "uppsc-d-e-department-medical-education-department-u-p-2026"
+  },
+  {
+   "id": "e548104bc120",
+   "source": "uppsc",
+   "org": "Uttar Pradesh Public Service Commission",
+   "short": "UPPSC",
+   "scope": "up",
+   "title": "List of Selected Candidates in Advt. No. D-1/E-1/2026, Department, Medical Education Department U.p. (Allopathy), Assistant Professor Oto-rhino-laryn.....",
+   "url": "https://uppsc.up.nic.in/Open_PDF.aspx?I4PnQ0tBagn3Lnqaz4gdq1b9+dbHbD9+",
+   "is_doc": false,
+   "type": "result",
+   "list_date": null,
+   "first_seen": "2026-11-17T14:55:44+00:00",
+   "last_seen": "2026-11-17T14:55:44+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://uppsc.up.nic.in",
+   "slug": "uppsc-list-of-selected-candidates-in-advt-no-d-1-e-1-2026-department-e54810",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "uppsc-d-e-department-medical-education-department-u-p-2026"
   }
  ]
 }
