@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T17:02:55+00:00",
+ "updated": "2026-11-17T18:59:33+00:00",
  "exams": [
   {
    "key": "uppsc-provisionally-a-e-asst-teacher-trained-graduate-2025",
@@ -13918,14 +13918,12 @@
     "cf3a8d3787b8",
     "2999d504b70d",
     "858386b36214",
-    "84ea1fdedb17",
-    "1d8ec8150327"
+    "84ea1fdedb17"
    ],
    "year": 2024,
    "name": "BPSSC Ref.:Advt. No.-01/2024: to the Marks",
    "slug": "bpssc-ref-advt-no-01-2024-to-the-marks-d4374",
    "types": [
-    "admit",
     "job",
     "notice",
     "result"

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T17:02:55+00:00",
+ "updated": "2026-11-17T18:59:33+00:00",
  "items": [
   {
    "id": "eb5a27ddb770",
@@ -22085,31 +22085,6 @@
    "link_policy": "deep",
    "official_home": "https://bpssc.bihar.gov.in",
    "slug": "bpssc-result-result-of-eligibility-test-for-the-post-of-steno-84ea1f",
-   "details": {
-    "fields": {},
-    "parsed_at": null
-   },
-   "tier": 1,
-   "status": "info",
-   "group": "bpssc-advt-01-2024"
-  },
-  {
-   "id": "1d8ec8150327",
-   "source": "bpssc",
-   "org": "Bihar Police Subordinate Services Commission",
-   "short": "BPSSC",
-   "scope": "bihar",
-   "title": "Important Notice: Admit Card of Eligibility Test for the post of Steno Assistant Sub-Inspector in Home (Police) Dept., Govt. of Bihar",
-   "url": "https://apply-bpssc.com/StenoTypingAdmitcards124/applicationIndex",
-   "is_doc": false,
-   "type": "admit",
-   "list_date": "2025-03-27",
-   "first_seen": "2026-11-04T17:37:13+00:00",
-   "last_seen": "2026-11-17T01:01:42+00:00",
-   "advt": "01/2024",
-   "link_policy": "deep",
-   "official_home": "https://bpssc.bihar.gov.in",
-   "slug": "bpssc-important-notice-admit-card-of-eligibility-test-for-the-post-of-1d8ec8",
    "details": {
     "fields": {},
     "parsed_at": null
