@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T14:56:03+00:00",
+ "updated": "2026-11-18T17:03:40+00:00",
  "items": [
   {
    "id": "eb5a27ddb770",
@@ -45604,6 +45604,138 @@
    "tier": 1,
    "status": "info",
    "group": "bceceb-round-counselling-pgmac-2026"
+  },
+  {
+   "id": "8034c8b138f5",
+   "source": "sbi",
+   "org": "State Bank of India Careers",
+   "short": "SBI",
+   "scope": "central",
+   "title": "Acquaint Yourself BOOKLET(HINDI/",
+   "url": "https://sbi.bank.in/webfiles/uploads/files_2627/11/SBI_Junior_Associates_Mains_IH_Hindi_2026_27_17.pdf",
+   "is_doc": true,
+   "type": "job",
+   "list_date": null,
+   "first_seen": "2026-11-18T17:01:12+00:00",
+   "last_seen": "2026-11-18T17:01:12+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://sbi.bank.in",
+   "slug": "sbi-acquaint-yourself-booklet-hindi-8034c8",
+   "details": {
+    "fields": {},
+    "pdf_quality": {
+     "chars": 22396,
+     "latin": 0.043,
+     "devanagari": 0.69,
+     "legacy_suspect": false,
+     "scanned_suspect": false
+    },
+    "parsed_at": "2026-11-18T17:03:39+00:00",
+    "pdf_error": null,
+    "attempts": 1
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "sbi-acquaint-yourself-booklet-hindi-2026"
+  },
+  {
+   "id": "d63622a2c3b0",
+   "source": "sbi",
+   "org": "State Bank of India Careers",
+   "short": "SBI",
+   "scope": "central",
+   "title": "Preliminary Exam Result",
+   "url": "https://sbi.bank.in/web/careers/japre-results-2026",
+   "is_doc": false,
+   "type": "result",
+   "list_date": null,
+   "first_seen": "2026-11-18T17:01:12+00:00",
+   "last_seen": "2026-11-18T17:01:12+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://sbi.bank.in",
+   "slug": "sbi-preliminary-exam-result-d63622",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info"
+  },
+  {
+   "id": "a4b20f21d479",
+   "source": "sbi",
+   "org": "State Bank of India Careers",
+   "short": "SBI",
+   "scope": "central",
+   "title": "Mains Examination Call Letter",
+   "url": "https://ibpsreg.ibps.in/sbijajul26/oecla_nov26/login.php?appid=2b36e1e3caeb9de9629bb324f39e78e5",
+   "is_doc": false,
+   "type": "admit",
+   "list_date": null,
+   "first_seen": "2026-11-18T17:01:12+00:00",
+   "last_seen": "2026-11-18T17:01:12+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://sbi.bank.in",
+   "slug": "sbi-mains-examination-call-letter-a4b20f",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info"
+  },
+  {
+   "id": "856ac4d6169f",
+   "source": "rbi",
+   "org": "Reserve Bank of India Opportunities",
+   "short": "RBI",
+   "scope": "central",
+   "title": "Scorecard and Cut-off Marks for Recruitment of Officers in Grade ‘B’ (DR) – DEPR Cadre – PY 2026",
+   "url": "https://opportunities.rbi.org.in/Scripts/bs_viewcontent.aspx?Id=5217",
+   "is_doc": false,
+   "type": "result",
+   "list_date": null,
+   "first_seen": "2026-11-18T17:01:21+00:00",
+   "last_seen": "2026-11-18T17:01:21+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://opportunities.rbi.org.in",
+   "slug": "rbi-scorecard-and-cut-off-marks-for-recruitment-of-officers-in-grade-856ac4",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "rbi-officers-grade-b-depr-cadre-py-2026"
+  },
+  {
+   "id": "64f8271b9776",
+   "source": "rbi",
+   "org": "Reserve Bank of India Opportunities",
+   "short": "RBI",
+   "scope": "central",
+   "title": "Scorecard and Cut-off Marks for Recruitment of Officers in Grade ‘B’ (DR) – DSIM Cadre – PY 2026",
+   "url": "https://opportunities.rbi.org.in/Scripts/bs_viewcontent.aspx?Id=5216",
+   "is_doc": false,
+   "type": "result",
+   "list_date": null,
+   "first_seen": "2026-11-18T17:01:21+00:00",
+   "last_seen": "2026-11-18T17:01:21+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://opportunities.rbi.org.in",
+   "slug": "rbi-scorecard-and-cut-off-marks-for-recruitment-of-officers-in-grade-64f827",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "rbi-officers-grade-b-dsim-cadre-py-2026"
   }
  ]
 }
