@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T13:09:39+00:00",
+ "updated": "2026-11-18T14:56:03+00:00",
  "items": [
   {
    "id": "eb5a27ddb770",
@@ -45553,6 +45553,57 @@
    "tier": 1,
    "status": "info",
    "group": "rbi-engagement-young-professionals-2026"
+  },
+  {
+   "id": "5b45d2250274",
+   "source": "uppsc",
+   "org": "Uttar Pradesh Public Service Commission",
+   "short": "UPPSC",
+   "scope": "up",
+   "title": "List of Provisionally Selected Candidates in Advt. No. A-5/E-1/2025, Assistant Teacher Trained Graduate (M./F.) Exam 2025, Subject-music",
+   "url": "https://uppsc.up.nic.in/Open_PDF_DB.aspx?I4PnQ0tBagn3Lnqaz4gdq+iDwu2k57EW",
+   "is_doc": false,
+   "type": "result",
+   "list_date": null,
+   "first_seen": "2026-11-18T14:55:08+00:00",
+   "last_seen": "2026-11-18T14:55:08+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://uppsc.up.nic.in",
+   "slug": "uppsc-list-of-provisionally-selected-candidates-in-advt-no-a-5-e-1-5b45d2",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "archive": true,
+   "status": "info",
+   "group": "uppsc-provisionally-a-e-assistant-teacher-trained-2025"
+  },
+  {
+   "id": "80cb5a451ea6",
+   "source": "bceceb",
+   "org": "Bihar Combined Entrance Competitive Examination Board",
+   "short": "BCECEB",
+   "scope": "bihar",
+   "title": "Important Notice Regarding Round-2 Counselling of PGMAC-2026 (Adv. No. BCECEB(PGMAC)-2026/04",
+   "url": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGMAC26_04.pdf",
+   "is_doc": true,
+   "type": "admission",
+   "list_date": "2026-11-18",
+   "first_seen": "2026-11-18T14:55:55+00:00",
+   "last_seen": "2026-11-18T14:55:55+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://bceceboard.bihar.gov.in",
+   "slug": "important-notice-regarding-round-2-counselling-of-pgmac-2026-adv-no-80cb5a",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "bceceb-round-counselling-pgmac-2026"
   }
  ]
 }

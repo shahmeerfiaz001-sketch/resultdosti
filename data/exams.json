@@ -1,6 +1,25 @@
 {
- "updated": "2026-11-18T13:09:39+00:00",
+ "updated": "2026-11-18T14:56:03+00:00",
  "exams": [
+  {
+   "key": "uppsc-provisionally-a-e-assistant-teacher-trained-2025",
+   "source": "uppsc",
+   "short": "UPPSC",
+   "org": "Uttar Pradesh Public Service Commission",
+   "scope": "up",
+   "items": [
+    "5e40bb3ef62d",
+    "6f13896bd547",
+    "5b45d2250274"
+   ],
+   "year": 2025,
+   "name": "UPPSC List of Provisionally Selected Candidates in Advt. No. A-5/E-1/2025, Assistant",
+   "slug": "uppsc-list-of-provisionally-selected-candidates-in-advt-no-a-5-e-1-2025-7f660",
+   "types": [
+    "result"
+   ],
+   "latest": "2026-11-18"
+  },
   {
    "key": "ssc-information-admission-certificate-sub-inspector-2025",
    "source": "ssc",
@@ -53,6 +72,23 @@
    "latest": "2026-11-18"
   },
   {
+   "key": "bceceb-round-counselling-pgmac-2026",
+   "source": "bceceb",
+   "short": "BCECEB",
+   "org": "Bihar Combined Entrance Competitive Examination Board",
+   "scope": "bihar",
+   "items": [
+    "80cb5a451ea6"
+   ],
+   "year": 2026,
+   "name": "BCECEB Round-2 Counselling of PGMAC-2026 -2026/04",
+   "slug": "bceceb-round-2-counselling-of-pgmac-2026-2026-04-38278",
+   "types": [
+    "admission"
+   ],
+   "latest": "2026-11-18"
+  },
+  {
    "key": "uppsc-provisionally-a-e-asst-teacher-trained-graduate-2025",
    "source": "uppsc",
    "short": "UPPSC",
@@ -67,24 +103,6 @@
    "year": 2025,
    "name": "UPPSC List of Provisionally Selected Candidates in Advt. No. A-5/E-1/2025, Asst.",
    "slug": "uppsc-list-of-provisionally-selected-candidates-in-advt-no-a-5-e-1-2025-asst-8ce10",
-   "types": [
-    "result"
-   ],
-   "latest": "2026-11-17"
-  },
-  {
-   "key": "uppsc-provisionally-a-e-assistant-teacher-trained-2025",
-   "source": "uppsc",
-   "short": "UPPSC",
-   "org": "Uttar Pradesh Public Service Commission",
-   "scope": "up",
-   "items": [
-    "5e40bb3ef62d",
-    "6f13896bd547"
-   ],
-   "year": 2025,
-   "name": "UPPSC List of Provisionally Selected Candidates in Advt. No. A-5/E-1/2025, Assistant",
-   "slug": "uppsc-list-of-provisionally-selected-candidates-in-advt-no-a-5-e-1-2025-7f660",
    "types": [
     "result"
    ],
