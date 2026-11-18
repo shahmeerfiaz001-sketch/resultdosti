@@ -1,6 +1,16 @@
 {
- "run": "2026-11-17T18:59:33+00:00",
+ "run": "2026-11-18T02:52:38+00:00",
  "first_run": false,
- "new": [],
+ "new": [
+  {
+   "id": "84cc304b635c",
+   "type": "answer",
+   "title": "Combined Higher Secondary (10+2) Level Examination, 2025 (Tier-II): Uploading of Final Answer Key(s) along with Candidates’ Response Sheet(s) and Marks of candidates",
+   "short": "SSC",
+   "url": "https://resultdosti.in/answer-key/ssc-combined-higher-secondary-10-2-level-examination-2025-tier-ii-84cc30/",
+   "last_date": null,
+   "jobposting": false
+  }
+ ],
  "closed": []
 }

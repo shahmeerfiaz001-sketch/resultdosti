@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T18:59:33+00:00",
+ "updated": "2026-11-18T02:52:38+00:00",
  "exams": [
   {
    "key": "uppsc-provisionally-a-e-asst-teacher-trained-graduate-2025",
@@ -142,6 +142,23 @@
    "slug": "uppsc-list-of-selected-candidates-in-advt-no-d-1-e-1-2026-department-medical-4c668",
    "types": [
     "result"
+   ],
+   "latest": "2026-11-17"
+  },
+  {
+   "key": "ssc-combined-higher-secondary-level-along-response-2025",
+   "source": "ssc",
+   "short": "SSC",
+   "org": "Staff Selection Commission",
+   "scope": "central",
+   "items": [
+    "84cc304b635c"
+   ],
+   "year": 2025,
+   "name": "SSC Combined Higher Secondary Level Examination, 2025 : Uploading of Final Answer",
+   "slug": "ssc-combined-higher-secondary-level-examination-2025-uploading-of-final-answer-05b10",
+   "types": [
+    "answer"
    ],
    "latest": "2026-11-17"
   },
@@ -750,7 +767,8 @@
    "org": "Staff Selection Commission",
    "scope": "central",
    "items": [
-    "e2f531673969"
+    "e2f531673969",
+    "34f3df376cea"
    ],
    "year": 2025,
    "name": "SSC Identity Verification for the candidates shortlisted in FRTA of Combined Hindi 2025",
@@ -10406,7 +10424,10 @@
    "items": [
     "1cd310286eb3",
     "e5a9b086842b",
-    "8a32aa70e250"
+    "8a32aa70e250",
+    "7346325257bf",
+    "0a23977b3f53",
+    "4650805b13cd"
    ],
    "year": 2025,
    "name": "SSC Tentative Vacancy of Grade 'C' Stenographers Limited Departmental Competitive 2025",
@@ -10414,7 +10435,8 @@
    "types": [
     "answer",
     "job",
-    "notice"
+    "notice",
+    "result"
    ],
    "latest": "2026-10-23"
   },
@@ -10614,7 +10636,9 @@
    "scope": "central",
    "items": [
     "7ed45fdf7eea",
-    "445acd9b6563"
+    "445acd9b6563",
+    "b0bd39ca6877",
+    "6e80026f01d2"
    ],
    "year": 2026,
    "name": "SSC Tentative Vacancies of Junior Engineer Examination, 2026.",
@@ -10649,12 +10673,14 @@
    "org": "Staff Selection Commission",
    "scope": "central",
    "items": [
-    "134b0085ad9b"
+    "134b0085ad9b",
+    "74008ba4eb96"
    ],
    "year": 2025,
    "name": "SSC Combined Higher Secondary Level Examination, 2025: Declaration of Final Result",
    "slug": "ssc-combined-higher-secondary-level-examination-2025-declaration-of-final-result-cf32a",
    "types": [
+    "notice",
     "result"
    ],
    "latest": "2026-10-07"
@@ -10666,7 +10692,8 @@
    "org": "Staff Selection Commission",
    "scope": "central",
    "items": [
-    "83c498e3c607"
+    "83c498e3c607",
+    "3ac90bac3537"
    ],
    "year": 2025,
    "name": "SSC Multi Tasking Staff, and Havaldar Examination, 2025: Declaration of additional",
@@ -11139,7 +11166,9 @@
    "org": "Staff Selection Commission",
    "scope": "central",
    "items": [
-    "776144108443"
+    "776144108443",
+    "b63fef3a0afb",
+    "a4d8ea79ae27"
    ],
    "year": 2026,
    "name": "SSC Information regarding the city of examination and Admission Certificate for the 2026",
@@ -11377,6 +11406,41 @@
    "latest": "2026-09-11"
   },
   {
+   "key": "ssc-instructions-pwbd-locomotor-disability-post-2026",
+   "source": "ssc",
+   "short": "SSC",
+   "org": "Staff Selection Commission",
+   "scope": "central",
+   "items": [
+    "cc65bc623800"
+   ],
+   "year": 2026,
+   "name": "SSC Instructions for PwBD Candidates with Locomotor Disability for Selection Post 2026",
+   "slug": "ssc-instructions-for-pwbd-candidates-with-locomotor-disability-for-selection-5d942",
+   "types": [
+    "notice"
+   ],
+   "latest": "2026-09-11"
+  },
+  {
+   "key": "ssc-calling-options-preferences-by-cbic-2025",
+   "source": "ssc",
+   "short": "SSC",
+   "org": "Staff Selection Commission",
+   "scope": "central",
+   "items": [
+    "56539abf753b",
+    "23a58e24bb2d"
+   ],
+   "year": 2025,
+   "name": "SSC Calling Options/Preferences by CBIC from selected candidates for the post of 2025",
+   "slug": "ssc-calling-options-preferences-by-cbic-from-selected-candidates-for-the-post-3189c",
+   "types": [
+    "result"
+   ],
+   "latest": "2026-09-11"
+  },
+  {
    "key": "nta-declaration-ugc-net-june-conducted-09th-10th-2026",
    "source": "nta",
    "short": "NTA",
@@ -11428,6 +11492,23 @@
    "latest": "2026-09-10"
   },
   {
+   "key": "ssc-sub-inspector-delhi-police-central-armed-police-2026",
+   "source": "ssc",
+   "short": "SSC",
+   "org": "Staff Selection Commission",
+   "scope": "central",
+   "items": [
+    "af77a36e70b8"
+   ],
+   "year": 2026,
+   "name": "SSC Sub-Inspector in Delhi Police and Central Armed Police Forces Examination, 2026.",
+   "slug": "ssc-sub-inspector-in-delhi-police-and-central-armed-police-forces-examination-20b13",
+   "types": [
+    "notice"
+   ],
+   "latest": "2026-09-10"
+  },
+  {
    "key": "bceceb-third-round-counselling-pgeac-2026",
    "source": "bceceb",
    "short": "BCECEB",
@@ -11441,6 +11522,100 @@
    "slug": "bceceb-schedule-for-third-round-counselling-of-pgeac-2026-2026-10-5821d",
    "types": [
     "admission"
+   ],
+   "latest": "2026-09-09"
+  },
+  {
+   "key": "ssc-declaration-annual-departmental-typing-2024",
+   "source": "ssc",
+   "short": "SSC",
+   "org": "Staff Selection Commission",
+   "scope": "central",
+   "items": [
+    "852e446e02d2"
+   ],
+   "year": 2024,
+   "name": "SSC Declaration of Result of Annual Departmental Typing Test, 2024",
+   "slug": "ssc-declaration-of-result-of-annual-departmental-typing-test-2024-823b5",
+   "types": [
+    "result"
+   ],
+   "latest": "2026-09-09"
+  },
+  {
+   "key": "ssc-declaration-annual-departmental-stenography-2024",
+   "source": "ssc",
+   "short": "SSC",
+   "org": "Staff Selection Commission",
+   "scope": "central",
+   "items": [
+    "e6b92441a01b"
+   ],
+   "year": 2024,
+   "name": "SSC Declaration of Result of Annual Departmental Stenography Test, 2024",
+   "slug": "ssc-declaration-of-result-of-annual-departmental-stenography-test-2024-7af9f",
+   "types": [
+    "result"
+   ],
+   "latest": "2026-09-09"
+  },
+  {
+   "key": "ssc-assistant-section-officer-assistant-grade-2025",
+   "source": "ssc",
+   "short": "SSC",
+   "org": "Staff Selection Commission",
+   "scope": "central",
+   "items": [
+    "c58add3367e7",
+    "74ceae45990a"
+   ],
+   "year": 2025,
+   "name": "SSC Tentative vacancy of Assistant Section Officer/Assistant Grade Limited 2025",
+   "slug": "ssc-tentative-vacancy-of-assistant-section-officer-assistant-grade-limited-2025-ce347",
+   "types": [
+    "answer",
+    "job"
+   ],
+   "latest": "2026-09-09"
+  },
+  {
+   "key": "ssc-senior-secretariat-assistant-upper-division-2025",
+   "source": "ssc",
+   "short": "SSC",
+   "org": "Staff Selection Commission",
+   "scope": "central",
+   "items": [
+    "30c32309360d",
+    "00957541cd3d",
+    "97720668e95b",
+    "f1def5fee672"
+   ],
+   "year": 2025,
+   "name": "SSC Tentative vacancies of Senior Secretariat Assistant/ Upper Division Clerk Grade 2025",
+   "slug": "ssc-tentative-vacancies-of-senior-secretariat-assistant-upper-division-clerk-8cd25",
+   "types": [
+    "answer",
+    "job",
+    "notice"
+   ],
+   "latest": "2026-09-09"
+  },
+  {
+   "key": "ssc-junior-secretariat-assistant-lower-division-2025",
+   "source": "ssc",
+   "short": "SSC",
+   "org": "Staff Selection Commission",
+   "scope": "central",
+   "items": [
+    "e6a2f8713806",
+    "d20d6a2118c3"
+   ],
+   "year": 2025,
+   "name": "SSC Junior Secretariat Assistant/ Lower Division Clerk Grade Limited Departmental 2025",
+   "slug": "ssc-junior-secretariat-assistant-lower-division-clerk-grade-limited-5e7b0",
+   "types": [
+    "answer",
+    "notice"
    ],
    "latest": "2026-09-09"
   },
@@ -11462,6 +11637,195 @@
    "latest": "2026-09-08"
   },
   {
+   "key": "ssc-combined-hindi-translators-2025",
+   "source": "ssc",
+   "short": "SSC",
+   "org": "Staff Selection Commission",
+   "scope": "central",
+   "items": [
+    "ff90a373fe16",
+    "f9a4b8534311"
+   ],
+   "year": 2025,
+   "name": "SSC Final Vacancies of Combined Hindi Translators Examination, 2025",
+   "slug": "ssc-final-vacancies-of-combined-hindi-translators-examination-2025-39bd0",
+   "types": [
+    "job",
+    "notice"
+   ],
+   "latest": "2026-09-08"
+  },
+  {
+   "key": "ssc-combined-hindi-translators-sample-option-cum-2025",
+   "source": "ssc",
+   "short": "SSC",
+   "org": "Staff Selection Commission",
+   "scope": "central",
+   "items": [
+    "015633a88326"
+   ],
+   "year": 2025,
+   "name": "SSC Combined Hindi Translators Examination, 2025: Sample Option-cum-Preference Form",
+   "slug": "ssc-combined-hindi-translators-examination-2025-sample-option-cum-preference-b4d32",
+   "types": [
+    "notice"
+   ],
+   "latest": "2026-09-08"
+  },
+  {
+   "key": "ssc-combined-hindi-translators-option-cum-preference-2025",
+   "source": "ssc",
+   "short": "SSC",
+   "org": "Staff Selection Commission",
+   "scope": "central",
+   "items": [
+    "12ae17ff60b2"
+   ],
+   "year": 2025,
+   "name": "SSC Combined Hindi Translators Examination, 2025: Important Notice regarding",
+   "slug": "ssc-combined-hindi-translators-examination-2025-important-notice-regarding-60f5b",
+   "types": [
+    "notice"
+   ],
+   "latest": "2026-09-08"
+  },
+  {
+   "key": "ssc-information-admission-certificate-xiv-posts-2026",
+   "source": "ssc",
+   "short": "SSC",
+   "org": "Staff Selection Commission",
+   "scope": "central",
+   "items": [
+    "5fb93fa66665"
+   ],
+   "year": 2026,
+   "name": "SSC Information regarding the city of examination and Admission Certificate for the 2026",
+   "slug": "ssc-information-regarding-the-city-of-examination-and-admission-certificate-for-edd36",
+   "types": [
+    "admit"
+   ],
+   "latest": "2026-09-08"
+  },
+  {
+   "key": "ssc-combined-higher-secondary-level-2026",
+   "source": "ssc",
+   "short": "SSC",
+   "org": "Staff Selection Commission",
+   "scope": "central",
+   "items": [
+    "3a2852d59c95"
+   ],
+   "year": 2026,
+   "name": "SSC Combined Higher Secondary Level Examination, 2026",
+   "slug": "ssc-combined-higher-secondary-level-examination-2026-6fa98",
+   "types": [
+    "notice"
+   ],
+   "latest": "2026-09-07"
+  },
+  {
+   "key": "ssc-verification-compensatory-time-entitlement-pwbd-2026",
+   "source": "ssc",
+   "short": "SSC",
+   "org": "Staff Selection Commission",
+   "scope": "central",
+   "items": [
+    "9f0d04e4280f"
+   ],
+   "year": 2026,
+   "name": "SSC Verification of Compensatory Time / Scribe Entitlement and Document Examination 2026",
+   "slug": "ssc-verification-of-compensatory-time-scribe-entitlement-and-document-4af6a",
+   "types": [
+    "notice"
+   ],
+   "latest": "2026-09-07"
+  },
+  {
+   "key": "ssc-advisory-functionaries-computer-based-ssc-2026",
+   "source": "ssc",
+   "short": "SSC",
+   "org": "Staff Selection Commission",
+   "scope": "central",
+   "items": [
+    "bc5e348f4476"
+   ],
+   "year": 2026,
+   "name": "SSC Advisory to Candidates and Exam Functionaries for Computer Based Examinations 2026",
+   "slug": "ssc-advisory-to-candidates-and-exam-functionaries-for-computer-based-ea031",
+   "types": [
+    "notice"
+   ],
+   "latest": "2026-09-07"
+  },
+  {
+   "key": "ssc-head-constable-assistant-wireless-operator-tele-2025",
+   "source": "ssc",
+   "short": "SSC",
+   "org": "Staff Selection Commission",
+   "scope": "central",
+   "items": [
+    "812d91175dd6"
+   ],
+   "year": 2025,
+   "name": "SSC Head Constable {Assistant Wireless Operator /Tele-Printer Operator } in Delhi 2025",
+   "slug": "ssc-head-constable-assistant-wireless-operator-tele-printer-operator-in-delhi-956a4",
+   "types": [
+    "notice"
+   ],
+   "latest": "2026-09-03"
+  },
+  {
+   "key": "ssc-constable-male-female-delhi-police-conduct-pe-mt-2025",
+   "source": "ssc",
+   "short": "SSC",
+   "org": "Staff Selection Commission",
+   "scope": "central",
+   "items": [
+    "459609e53f36"
+   ],
+   "year": 2025,
+   "name": "SSC Constable Male and Female in the Delhi Police Examination, 2025: Corrigendum",
+   "slug": "ssc-constable-male-and-female-in-the-delhi-police-examination-2025-corrigendum-61d09",
+   "types": [
+    "notice"
+   ],
+   "latest": "2026-09-03"
+  },
+  {
+   "key": "ssc-head-constable-delhi-police-conduct-pe-mt-2025",
+   "source": "ssc",
+   "short": "SSC",
+   "org": "Staff Selection Commission",
+   "scope": "central",
+   "items": [
+    "bf39165b9386"
+   ],
+   "year": 2025,
+   "name": "SSC Head Constable in Delhi Police Examination, 2025: Corrigendum- Conduct of PE",
+   "slug": "ssc-head-constable-in-delhi-police-examination-2025-corrigendum-conduct-of-pe-44a8a",
+   "types": [
+    "notice"
+   ],
+   "latest": "2026-09-03"
+  },
+  {
+   "key": "ssc-constable-male-delhi-police-conduct-pe-mt-2025",
+   "source": "ssc",
+   "short": "SSC",
+   "org": "Staff Selection Commission",
+   "scope": "central",
+   "items": [
+    "fa8f33ba3ec0"
+   ],
+   "year": 2025,
+   "name": "SSC Constable Male in Delhi Police Examination, 2025: Corrigendum- Conduct of PE",
+   "slug": "ssc-constable-male-in-delhi-police-examination-2025-corrigendum-conduct-of-pe-86925",
+   "types": [
+    "notice"
+   ],
+   "latest": "2026-09-03"
+  },
+  {
    "key": "bceceb-first-round-ugmac-2026",
    "source": "bceceb",
    "short": "BCECEB",
@@ -11474,6 +11838,23 @@
    "year": 2026,
    "name": "BCECEB Extension in Date for First Round Document Verification of UGMAC-2026 -2026/04",
    "slug": "bceceb-extension-in-date-for-first-round-document-verification-of-ugmac-2026-fc48f",
+   "types": [
+    "notice"
+   ],
+   "latest": "2026-08-31"
+  },
+  {
+   "key": "ssc-stenographer-grade-c-d-2026",
+   "source": "ssc",
+   "short": "SSC",
+   "org": "Staff Selection Commission",
+   "scope": "central",
+   "items": [
+    "4403274360f3"
+   ],
+   "year": 2026,
+   "name": "SSC revised dates for Stenographer Grade 'C' and 'D' Examination, 2026",
+   "slug": "ssc-revised-dates-for-stenographer-grade-c-and-d-examination-2026-59be0",
    "types": [
     "notice"
    ],
@@ -11626,6 +12007,23 @@
    "latest": "2026-08-25"
   },
   {
+   "key": "ssc-stenographer-grade-c-d-declaration-2025",
+   "source": "ssc",
+   "short": "SSC",
+   "org": "Staff Selection Commission",
+   "scope": "central",
+   "items": [
+    "4cf43b1b4c74"
+   ],
+   "year": 2025,
+   "name": "SSC Stenographer Grade 'C' and 'D' Examination, 2025: Declaration of Final Result",
+   "slug": "ssc-stenographer-grade-c-and-d-examination-2025-declaration-of-final-result-2b42a",
+   "types": [
+    "result"
+   ],
+   "latest": "2026-08-25"
+  },
+  {
    "key": "bceceb-filling-assistant-manager-assistant-account-2026",
    "source": "bceceb",
    "short": "BCECEB",
@@ -11642,6 +12040,91 @@
     "job"
    ],
    "latest": "2026-08-24"
+  },
+  {
+   "key": "ssc-junior-engineer-along-question-cum-response-2025",
+   "source": "ssc",
+   "short": "SSC",
+   "org": "Staff Selection Commission",
+   "scope": "central",
+   "items": [
+    "1b58f4407f02"
+   ],
+   "year": 2025,
+   "name": "SSC Junior Engineer Examination, 2025: Uploading of Final Answer Keys along with",
+   "slug": "ssc-junior-engineer-examination-2025-uploading-of-final-answer-keys-along-with-bff31",
+   "types": [
+    "answer"
+   ],
+   "latest": "2026-08-21"
+  },
+  {
+   "key": "ssc-mts-havaldar-2025",
+   "source": "ssc",
+   "short": "SSC",
+   "org": "Staff Selection Commission",
+   "scope": "central",
+   "items": [
+    "4548a0981466"
+   ],
+   "year": 2025,
+   "name": "SSC Schedule of PET/PST for MTS and Havaldar Examination 2025",
+   "slug": "ssc-schedule-of-pet-pst-for-mts-and-havaldar-examination-2025-88293",
+   "types": [
+    "notice"
+   ],
+   "latest": "2026-08-20"
+  },
+  {
+   "key": "ssc-first-round-allocation-combined-higher-2026",
+   "source": "ssc",
+   "short": "SSC",
+   "org": "Staff Selection Commission",
+   "scope": "central",
+   "items": [
+    "341e068cf5be"
+   ],
+   "year": 2026,
+   "name": "SSC Corrigendum to First Round of Tentative Allocation dated 17.08.2026 of Combined",
+   "slug": "ssc-corrigendum-to-first-round-of-tentative-allocation-dated-17-08-2026-of-b2db6",
+   "types": [
+    "notice"
+   ],
+   "latest": "2026-08-19"
+  },
+  {
+   "key": "ssc-filling-up-04-ex-cadre-accounts-officer-2026",
+   "source": "ssc",
+   "short": "SSC",
+   "org": "Staff Selection Commission",
+   "scope": "central",
+   "items": [
+    "ff6f3c324de5"
+   ],
+   "year": 2026,
+   "name": "Filling up 04 ex-cadre post of Accounts Officer in Regional Offices of SSC on 2026",
+   "slug": "filling-up-04-ex-cadre-post-of-accounts-officer-in-regional-offices-of-ssc-on-a0edf",
+   "types": [
+    "job"
+   ],
+   "latest": "2026-08-19"
+  },
+  {
+   "key": "ssc-filling-up-06-ex-cadre-accountant-regional-2026",
+   "source": "ssc",
+   "short": "SSC",
+   "org": "Staff Selection Commission",
+   "scope": "central",
+   "items": [
+    "6b4cb1111a71"
+   ],
+   "year": 2026,
+   "name": "Filling up 06 ex-cadre post of Accountant in Regional Offices of SSC on 2026",
+   "slug": "filling-up-06-ex-cadre-post-of-accountant-in-regional-offices-of-ssc-on-2026-f34bc",
+   "types": [
+    "job"
+   ],
+   "latest": "2026-08-19"
   },
   {
    "key": "csbc-advt-03-2025",
@@ -11715,6 +12198,23 @@
     "result"
    ],
    "latest": "2026-08-18"
+  },
+  {
+   "key": "ssc-departmental-be-at-delhi-2025",
+   "source": "ssc",
+   "short": "SSC",
+   "org": "Staff Selection Commission",
+   "scope": "central",
+   "items": [
+    "34e946d8f462"
+   ],
+   "year": 2025,
+   "name": "SSC Departmental examinations, 2025 to be held on 23.08.2026 at Delhi",
+   "slug": "ssc-departmental-examinations-2025-to-be-held-on-23-08-2026-at-delhi-1d641",
+   "types": [
+    "notice"
+   ],
+   "latest": "2026-08-17"
   },
   {
    "key": "upprpb-notice-2020",
@@ -11946,6 +12446,57 @@
    "latest": "2026-08-06"
   },
   {
+   "key": "ssc-recommended-combined-hindi-translators-2025",
+   "source": "ssc",
+   "short": "SSC",
+   "org": "Staff Selection Commission",
+   "scope": "central",
+   "items": [
+    "fc471af9a414"
+   ],
+   "year": 2025,
+   "name": "SSC recommended candidates of Combined Hindi Translators Examination, 2025 for",
+   "slug": "ssc-recommended-candidates-of-combined-hindi-translators-examination-2025-for-c5989",
+   "types": [
+    "notice"
+   ],
+   "latest": "2026-08-06"
+  },
+  {
+   "key": "ssc-identity-verification-shortlisted-frta-2025",
+   "source": "ssc",
+   "short": "SSC",
+   "org": "Staff Selection Commission",
+   "scope": "central",
+   "items": [
+    "065ea01d2561"
+   ],
+   "year": 2025,
+   "name": "SSC Identity Verification for the candidates shortlisted in FRTA of Stenographer 2025",
+   "slug": "ssc-identity-verification-for-the-candidates-shortlisted-in-frta-of-61095",
+   "types": [
+    "notice"
+   ],
+   "latest": "2026-08-03"
+  },
+  {
+   "key": "ssc-junior-engineer-declaration-2025",
+   "source": "ssc",
+   "short": "SSC",
+   "org": "Staff Selection Commission",
+   "scope": "central",
+   "items": [
+    "84a3b4ea7f99"
+   ],
+   "year": 2025,
+   "name": "SSC Junior Engineer Examination, 2025- Declaration of Final Result",
+   "slug": "ssc-junior-engineer-examination-2025-declaration-of-final-result-ab9c0",
+   "types": [
+    "result"
+   ],
+   "latest": "2026-08-03"
+  },
+  {
    "key": "bceceb-mop-up-counselling-dcece-pe-2026",
    "source": "bceceb",
    "short": "BCECEB",
@@ -11978,6 +12529,23 @@
    "slug": "bceceb-filling-up-online-application-form-for-second-round-of-pgeac-2026-2026-05-131de",
    "types": [
     "job",
+    "notice"
+   ],
+   "latest": "2026-07-31"
+  },
+  {
+   "key": "ssc-stenographer-grade-c-d-declaration-first-round-2025",
+   "source": "ssc",
+   "short": "SSC",
+   "org": "Staff Selection Commission",
+   "scope": "central",
+   "items": [
+    "e063e1578ebd"
+   ],
+   "year": 2025,
+   "name": "SSC Stenographer Grade 'C' and 'D' Examination, 2025: Declaration of Revised First",
+   "slug": "ssc-stenographer-grade-c-and-d-examination-2025-declaration-of-revised-first-dab4a",
+   "types": [
     "notice"
    ],
    "latest": "2026-07-31"
@@ -12041,6 +12609,23 @@
     "notice"
    ],
    "latest": "2026-07-28"
+  },
+  {
+   "key": "ssc-postponement-physical-endurance-measurement-2025",
+   "source": "ssc",
+   "short": "SSC",
+   "org": "Staff Selection Commission",
+   "scope": "central",
+   "items": [
+    "f9a52996ed29"
+   ],
+   "year": 2025,
+   "name": "SSC Postponement of Physical Endurance and Measurement Test for various 2025",
+   "slug": "ssc-postponement-of-physical-endurance-and-measurement-test-for-various-2025-a752c",
+   "types": [
+    "notice"
+   ],
+   "latest": "2026-07-27"
   },
   {
    "key": "rbi-direct-officers-grade-b-dsim-cadre-py-july-26-2026",
@@ -12125,6 +12710,23 @@
    "slug": "btsc-22-2025-hold-921c7",
    "types": [
     "job"
+   ],
+   "latest": "2026-07-24"
+  },
+  {
+   "key": "ssc-sub-inspector-delhi-police-capfs-2024",
+   "source": "ssc",
+   "short": "SSC",
+   "org": "Staff Selection Commission",
+   "scope": "central",
+   "items": [
+    "1c7da6e75c8d"
+   ],
+   "year": 2024,
+   "name": "SSC Sub Inspector in Delhi Police and CAPFs Examination, 2024:- Uploading Final",
+   "slug": "ssc-sub-inspector-in-delhi-police-and-capfs-examination-2024-uploading-final-eee88",
+   "types": [
+    "result"
    ],
    "latest": "2026-07-24"
   },
@@ -12255,6 +12857,23 @@
    "latest": "2026-07-20"
   },
   {
+   "key": "ssc-vocational-instructor-post-code-ne11526-ne14426-2026",
+   "source": "ssc",
+   "short": "SSC",
+   "org": "Staff Selection Commission",
+   "scope": "central",
+   "items": [
+    "76d19d54a755"
+   ],
+   "year": 2026,
+   "name": "SSC Corrigendum for the post of Vocational Instructor {Post Code NE11526 to 2026",
+   "slug": "ssc-corrigendum-for-the-post-of-vocational-instructor-post-code-ne11526-to-2026-cf683",
+   "types": [
+    "notice"
+   ],
+   "latest": "2026-07-20"
+  },
+  {
    "key": "bceceb-choice-filling-bcece-le-engineering-2026",
    "source": "bceceb",
    "short": "BCECEB",
@@ -12309,6 +12928,40 @@
    "latest": "2026-07-16"
   },
   {
+   "key": "ssc-e-c-g-technician-post-code-mp11626-post-xiv-2026",
+   "source": "ssc",
+   "short": "SSC",
+   "org": "Staff Selection Commission",
+   "scope": "central",
+   "items": [
+    "96b38f1c98df"
+   ],
+   "year": 2026,
+   "name": "SSC Corrigendum for the post of E.C.G. Technician Post Code MP11626 under Selection 2026",
+   "slug": "ssc-corrigendum-for-the-post-of-e-c-g-technician-post-code-mp11626-under-33786",
+   "types": [
+    "notice"
+   ],
+   "latest": "2026-07-14"
+  },
+  {
+   "key": "ssc-cancellation-ayurvedic-pharmacist-post-code-2026",
+   "source": "ssc",
+   "short": "SSC",
+   "org": "Staff Selection Commission",
+   "scope": "central",
+   "items": [
+    "2f7af0f1d982"
+   ],
+   "year": 2026,
+   "name": "SSC Cancellation Notice for the post of “Ayurvedic Pharmacist”, Post Code MP10826 2026",
+   "slug": "ssc-cancellation-notice-for-the-post-of-ayurvedic-pharmacist-post-code-mp10826-4073b",
+   "types": [
+    "notice"
+   ],
+   "latest": "2026-07-14"
+  },
+  {
    "key": "bceceb-counselling-bcece-joint-pcm-pcb-pcmb-2026",
    "source": "bceceb",
    "short": "BCECEB",
@@ -12325,6 +12978,57 @@
     "admission"
    ],
    "latest": "2026-07-12"
+  },
+  {
+   "key": "ssc-identity-verification-shortlisted-frta-junior-2025",
+   "source": "ssc",
+   "short": "SSC",
+   "org": "Staff Selection Commission",
+   "scope": "central",
+   "items": [
+    "a08507bceb10"
+   ],
+   "year": 2025,
+   "name": "SSC Identity Verification for the candidates shortlisted in FRTA of Junior Engineer 2025",
+   "slug": "ssc-identity-verification-for-the-candidates-shortlisted-in-frta-of-junior-f513c",
+   "types": [
+    "notice"
+   ],
+   "latest": "2026-07-10"
+  },
+  {
+   "key": "ssc-junior-engineer-declaration-first-round-2025",
+   "source": "ssc",
+   "short": "SSC",
+   "org": "Staff Selection Commission",
+   "scope": "central",
+   "items": [
+    "437446c0a9a4"
+   ],
+   "year": 2025,
+   "name": "SSC Junior Engineer Examination, 2025- Declaration of First Round of Tentative",
+   "slug": "ssc-junior-engineer-examination-2025-declaration-of-first-round-of-tentative-d2754",
+   "types": [
+    "notice"
+   ],
+   "latest": "2026-07-09"
+  },
+  {
+   "key": "ssc-combined-hindi-translators-2026",
+   "source": "ssc",
+   "short": "SSC",
+   "org": "Staff Selection Commission",
+   "scope": "central",
+   "items": [
+    "2a406e7a57c6"
+   ],
+   "year": 2026,
+   "name": "SSC Tentative Vacancy for Combined Hindi Translators Examination, 2026",
+   "slug": "ssc-tentative-vacancy-for-combined-hindi-translators-examination-2026-ba28b",
+   "types": [
+    "job"
+   ],
+   "latest": "2026-07-09"
   },
   {
    "key": "bpssc-advt-09-2026",
@@ -12359,6 +13063,23 @@
    "slug": "bceceb-filling-up-online-application-form-for-admission-to-post-graduate-pgeac-f3e66",
    "types": [
     "admission"
+   ],
+   "latest": "2026-07-07"
+  },
+  {
+   "key": "ssc-constable-male-female-delhi-police-along-2025",
+   "source": "ssc",
+   "short": "SSC",
+   "org": "Staff Selection Commission",
+   "scope": "central",
+   "items": [
+    "91efa6d26917"
+   ],
+   "year": 2025,
+   "name": "SSC Constable Male and Female in Delhi Police Examination, 2025: Uploading of Final",
+   "slug": "ssc-constable-male-and-female-in-delhi-police-examination-2025-uploading-of-ede30",
+   "types": [
+    "answer"
    ],
    "latest": "2026-07-07"
   },
