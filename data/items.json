@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T17:03:40+00:00",
+ "updated": "2026-11-18T18:57:40+00:00",
  "items": [
   {
    "id": "eb5a27ddb770",
@@ -16336,56 +16336,6 @@
    "tier": 1,
    "status": "info",
    "group": "cbse-cancellation-junior-accountant-2025"
-  },
-  {
-   "id": "48467dbcea58",
-   "source": "cbse",
-   "org": "Central Board of Secondary Education",
-   "short": "CBSE",
-   "scope": "central",
-   "title": "Result Notice for the post of Assistant Secretary (Administration)",
-   "url": "https://www.cbse.gov.in/cbsenew/documents/Result_Notice_Assistant_Secretary_Administration_28032025.pdf",
-   "is_doc": true,
-   "type": "result",
-   "list_date": "2025-03-28",
-   "first_seen": "2026-11-04T17:29:04+00:00",
-   "last_seen": "2026-11-18T01:08:35+00:00",
-   "advt": null,
-   "link_policy": "deep",
-   "official_home": "https://cbse.gov.in",
-   "slug": "cbse-result-notice-for-the-post-of-assistant-secretary-administration-48467d",
-   "details": {
-    "fields": {},
-    "parsed_at": null
-   },
-   "tier": 1,
-   "status": "info",
-   "group": "cbse-assistant-secretary-2025"
-  },
-  {
-   "id": "7751728f9029",
-   "source": "cbse",
-   "org": "Central Board of Secondary Education",
-   "short": "CBSE",
-   "scope": "central",
-   "title": "Cancellation of candidature for the post of Junior Accountant",
-   "url": "https://www.cbse.gov.in/cbsenew/documents/Candidature_Cancelation_28032025.pdf",
-   "is_doc": true,
-   "type": "notice",
-   "list_date": "2025-03-28",
-   "first_seen": "2026-11-04T17:29:04+00:00",
-   "last_seen": "2026-11-18T01:08:35+00:00",
-   "advt": null,
-   "link_policy": "deep",
-   "official_home": "https://cbse.gov.in",
-   "slug": "cbse-cancellation-of-candidature-for-the-post-of-junior-accountant-775172",
-   "details": {
-    "fields": {},
-    "parsed_at": null
-   },
-   "tier": 1,
-   "status": "info",
-   "group": "cbse-cancellation-candidature-junior-accountant-2025"
   },
   {
    "id": "5d6808ef382b",

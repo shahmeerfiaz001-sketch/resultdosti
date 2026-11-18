@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T17:03:40+00:00",
+ "updated": "2026-11-18T18:57:40+00:00",
  "exams": [
   {
    "key": "sbi-acquaint-yourself-booklet-hindi-2026",
@@ -15440,40 +15440,6 @@
     "job"
    ],
    "latest": "2025-03-29"
-  },
-  {
-   "key": "cbse-assistant-secretary-2025",
-   "source": "cbse",
-   "short": "CBSE",
-   "org": "Central Board of Secondary Education",
-   "scope": "central",
-   "items": [
-    "48467dbcea58"
-   ],
-   "year": 2025,
-   "name": "CBSE Result Notice for the post of Assistant Secretary 2025",
-   "slug": "cbse-result-notice-for-the-post-of-assistant-secretary-2025-be968",
-   "types": [
-    "result"
-   ],
-   "latest": "2025-03-28"
-  },
-  {
-   "key": "cbse-cancellation-candidature-junior-accountant-2025",
-   "source": "cbse",
-   "short": "CBSE",
-   "org": "Central Board of Secondary Education",
-   "scope": "central",
-   "items": [
-    "7751728f9029"
-   ],
-   "year": 2025,
-   "name": "CBSE Cancellation of candidature for the post of Junior Accountant 2025",
-   "slug": "cbse-cancellation-of-candidature-for-the-post-of-junior-accountant-2025-56b73",
-   "types": [
-    "notice"
-   ],
-   "latest": "2025-03-28"
   }
  ]
 }
