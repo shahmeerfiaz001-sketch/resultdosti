@@ -1,13 +1,40 @@
 {
- "run": "2026-11-18T02:52:38+00:00",
+ "run": "2026-11-18T13:09:39+00:00",
  "first_run": false,
  "new": [
   {
-   "id": "84cc304b635c",
-   "type": "answer",
-   "title": "Combined Higher Secondary (10+2) Level Examination, 2025 (Tier-II): Uploading of Final Answer Key(s) along with Candidates’ Response Sheet(s) and Marks of candidates",
+   "id": "607d6232011b",
+   "type": "admit",
+   "title": "Information regarding the city of examination and admission certificate for the candidates of Sub-Inspector in Delhi Police and Central Armed Police Forces Examination, 2025 (Paper-II)",
    "short": "SSC",
-   "url": "https://resultdosti.in/answer-key/ssc-combined-higher-secondary-10-2-level-examination-2025-tier-ii-84cc30/",
+   "url": "https://resultdosti.in/admit-card/ssc-information-regarding-the-city-of-examination-and-admission-607d62/",
+   "last_date": null,
+   "jobposting": false
+  },
+  {
+   "id": "4c3c386c8546",
+   "type": "notice",
+   "title": "Deputy Manager (Ai Specialists) - Interview Schedule",
+   "short": "SBI",
+   "url": "https://resultdosti.in/notice/sbi-deputy-manager-ai-specialists-interview-schedule-4c3c38/",
+   "last_date": null,
+   "jobposting": false
+  },
+  {
+   "id": "05d5da7a67f5",
+   "type": "notice",
+   "title": "(Interview Schedule Announced) - Advertisement( Hindi/ English )",
+   "short": "SBI",
+   "url": "https://resultdosti.in/notice/sbi-interview-schedule-announced-advertisement-hindi-english-05d5da/",
+   "last_date": null,
+   "jobposting": false
+  },
+  {
+   "id": "33322828e1ab",
+   "type": "result",
+   "title": "Engagement of Young Professionals - Result",
+   "short": "RBI",
+   "url": "https://resultdosti.in/result/rbi-engagement-of-young-professionals-result-333228/",
    "last_date": null,
    "jobposting": false
   }

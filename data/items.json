@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T02:52:38+00:00",
+ "updated": "2026-11-18T13:09:39+00:00",
  "items": [
   {
    "id": "eb5a27ddb770",
@@ -45454,6 +45454,105 @@
    "tier": 1,
    "status": "info",
    "group": "ssc-senior-secretariat-assistant-upper-division-2025"
+  },
+  {
+   "id": "607d6232011b",
+   "source": "ssc",
+   "org": "Staff Selection Commission",
+   "short": "SSC",
+   "scope": "central",
+   "title": "Information regarding the city of examination and admission certificate for the candidates of Sub-Inspector in Delhi Police and Central Armed Police Forces Examination, 2025 (Paper-II)",
+   "url": "https://ssc.gov.in/home/notice-board?notice=a943569wwhss5h8uedrgu",
+   "is_doc": false,
+   "type": "admit",
+   "list_date": "2026-11-18",
+   "first_seen": "2026-11-18T13:06:31+00:00",
+   "last_seen": "2026-11-18T13:06:31+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://ssc.gov.in",
+   "slug": "ssc-information-regarding-the-city-of-examination-and-admission-607d62",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "ssc-information-admission-certificate-sub-inspector-2025"
+  },
+  {
+   "id": "4c3c386c8546",
+   "source": "sbi",
+   "org": "State Bank of India Careers",
+   "short": "SBI",
+   "scope": "central",
+   "title": "Deputy Manager (Ai Specialists) - Interview Schedule",
+   "url": "https://sbi.bank.in/documents/77530/57941334/18112026_SCO_11_INT_SCH.pdf/855e83b5-7c8a-3253-7996-57d3085d26e5?t=1795003900788",
+   "is_doc": false,
+   "type": "notice",
+   "list_date": null,
+   "first_seen": "2026-11-18T13:06:42+00:00",
+   "last_seen": "2026-11-18T13:06:42+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://sbi.bank.in",
+   "slug": "sbi-deputy-manager-ai-specialists-interview-schedule-4c3c38",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "sbi-deputy-manager-2026"
+  },
+  {
+   "id": "05d5da7a67f5",
+   "source": "sbi",
+   "org": "State Bank of India Careers",
+   "short": "SBI",
+   "scope": "central",
+   "title": "(Interview Schedule Announced) - Advertisement( Hindi/ English )",
+   "url": "https://sbi.bank.in/documents/77530/52947104/22012026_SBI+-+CRPD-SCO-2025-26_22+-+Hindi.pdf/90e0c06b-74c0-5b65-6967-bcb05e6e27a4?t=1769074511491",
+   "is_doc": false,
+   "type": "notice",
+   "list_date": null,
+   "first_seen": "2026-11-18T13:06:42+00:00",
+   "last_seen": "2026-11-18T13:06:42+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://sbi.bank.in",
+   "slug": "sbi-interview-schedule-announced-advertisement-hindi-english-05d5da",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info"
+  },
+  {
+   "id": "33322828e1ab",
+   "source": "rbi",
+   "org": "Reserve Bank of India Opportunities",
+   "short": "RBI",
+   "scope": "central",
+   "title": "Engagement of Young Professionals - Result",
+   "url": "https://opportunities.rbi.org.in/Scripts/bs_viewcontent.aspx?Id=5215",
+   "is_doc": false,
+   "type": "result",
+   "list_date": null,
+   "first_seen": "2026-11-18T13:06:51+00:00",
+   "last_seen": "2026-11-18T13:06:51+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://opportunities.rbi.org.in",
+   "slug": "rbi-engagement-of-young-professionals-result-333228",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "rbi-engagement-young-professionals-2026"
   }
  ]
 }
