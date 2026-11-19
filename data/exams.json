@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T14:55:09+00:00",
+ "updated": "2026-11-19T19:00:27+00:00",
  "exams": [
   {
    "key": "uppsc-reagarding-a-e-assistant-teacher-trained-2025",
@@ -15508,42 +15508,6 @@
     "admit"
    ],
    "latest": "2025-04-04"
-  },
-  {
-   "key": "shsbihar-advt-01-2025",
-   "source": "shsbihar",
-   "short": "SHS Bihar",
-   "org": "State Health Society Bihar",
-   "scope": "bihar",
-   "items": [
-    "15245e9141f4",
-    "533c12361d8b",
-    "7b5240bfeaf5"
-   ],
-   "year": 2025,
-   "name": "SHS Bihar Advertisement for Conducting 'walk-in-interview' at Sihfw Patna for Appointment 2025",
-   "slug": "shs-bihar-advertisement-for-conducting-walk-in-interview-at-sihfw-patna-for-63585",
-   "types": [
-    "job"
-   ],
-   "latest": "2025-03-29"
-  },
-  {
-   "key": "shsbihar-tor-posts-2025",
-   "source": "shsbihar",
-   "short": "SHS Bihar",
-   "org": "State Health Society Bihar",
-   "scope": "bihar",
-   "items": [
-    "fb1b097308cb"
-   ],
-   "year": 2025,
-   "name": "SHS Bihar TOR 4 Posts 2025",
-   "slug": "shs-bihar-tor-4-posts-2025-535e4",
-   "types": [
-    "job"
-   ],
-   "latest": "2025-03-29"
   }
  ]
 }

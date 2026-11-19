@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T14:55:09+00:00",
+ "updated": "2026-11-19T19:00:27+00:00",
  "items": [
   {
    "id": "eb5a27ddb770",
@@ -28813,106 +28813,6 @@
    "group": "shsbihar-advt-02-2025"
   },
   {
-   "id": "15245e9141f4",
-   "source": "shsbihar",
-   "org": "State Health Society Bihar",
-   "short": "SHS Bihar",
-   "scope": "bihar",
-   "title": "Advertisement for Conducting 'walk-in-interview' at Sihfw Patna for Appointment Against Various Posts Against Advt. No. - 01/2025",
-   "url": "https://shs.bihar.gov.in/shs/advertisement/1743238421.pdf",
-   "is_doc": true,
-   "type": "job",
-   "list_date": "2025-03-29",
-   "first_seen": "2026-11-04T17:38:00+00:00",
-   "last_seen": "2026-11-19T01:08:11+00:00",
-   "advt": "01/2025",
-   "link_policy": "deep",
-   "official_home": "https://shs.bihar.gov.in",
-   "slug": "shs-bihar-advertisement-for-conducting-walk-in-interview-at-sihfw-15245e",
-   "details": {
-    "fields": {},
-    "parsed_at": null
-   },
-   "tier": 1,
-   "status": "info",
-   "group": "shsbihar-advt-01-2025"
-  },
-  {
-   "id": "533c12361d8b",
-   "source": "shsbihar",
-   "org": "State Health Society Bihar",
-   "short": "SHS Bihar",
-   "scope": "bihar",
-   "title": "ADVERTISEMENT For CONDUCTING 'WALK-IN-INTERVIEW' At Sihfw Patna For APPOINTMENT AGAINST VARIOUS Posts AGAINST ADVT. NO. - 01/2025 - Short Advertisement",
-   "url": "https://shs.bihar.gov.in/shs/advertisement/1743238342.pdf",
-   "is_doc": true,
-   "type": "job",
-   "list_date": "2025-03-29",
-   "first_seen": "2026-11-04T17:38:00+00:00",
-   "last_seen": "2026-11-19T01:08:11+00:00",
-   "advt": "01/2025",
-   "link_policy": "deep",
-   "official_home": "https://shs.bihar.gov.in",
-   "slug": "shs-bihar-advertisement-for-conducting-walk-in-interview-at-sihfw-533c12",
-   "details": {
-    "fields": {},
-    "parsed_at": null
-   },
-   "tier": 1,
-   "status": "info",
-   "group": "shsbihar-advt-01-2025"
-  },
-  {
-   "id": "7b5240bfeaf5",
-   "source": "shsbihar",
-   "org": "State Health Society Bihar",
-   "short": "SHS Bihar",
-   "scope": "bihar",
-   "title": "ADVERTISEMENT For CONDUCTING 'WALK-IN-INTERVIEW' At Sihfw Patna For APPOINTMENT AGAINST VARIOUS Posts AGAINST ADVT. NO. - 01/2025 - Detailed Advertisement",
-   "url": "https://shs.bihar.gov.in/shs/advertisement/1743238309.pdf",
-   "is_doc": true,
-   "type": "job",
-   "list_date": "2025-03-29",
-   "first_seen": "2026-11-04T17:38:00+00:00",
-   "last_seen": "2026-11-19T01:08:11+00:00",
-   "advt": "01/2025",
-   "link_policy": "deep",
-   "official_home": "https://shs.bihar.gov.in",
-   "slug": "shs-bihar-advertisement-for-conducting-walk-in-interview-at-sihfw-7b5240",
-   "details": {
-    "fields": {},
-    "parsed_at": null
-   },
-   "tier": 1,
-   "status": "info",
-   "group": "shsbihar-advt-01-2025"
-  },
-  {
-   "id": "fb1b097308cb",
-   "source": "shsbihar",
-   "org": "State Health Society Bihar",
-   "short": "SHS Bihar",
-   "scope": "bihar",
-   "title": "TOR 4 Posts",
-   "url": "https://shs.bihar.gov.in/shs/advertisement/1743238114.pdf",
-   "is_doc": true,
-   "type": "job",
-   "list_date": "2025-03-29",
-   "first_seen": "2026-11-04T17:38:00+00:00",
-   "last_seen": "2026-11-19T01:08:11+00:00",
-   "advt": null,
-   "link_policy": "deep",
-   "official_home": "https://shs.bihar.gov.in",
-   "slug": "shs-bihar-tor-4-posts-fb1b09",
-   "details": {
-    "fields": {},
-    "parsed_at": null
-   },
-   "tier": 0,
-   "status": "info",
-   "group": "shsbihar-tor-posts-2025"
-  },
-  {
    "id": "68a98f5efdc7",
    "source": "shsbihar",
    "org": "State Health Society Bihar",
@@ -39992,30 +39892,6 @@
    "archive": true,
    "status": "info",
    "group": "shsbihar-advt-02-2025"
-  },
-  {
-   "id": "8e3e5e447881",
-   "source": "shsbihar",
-   "org": "State Health Society Bihar",
-   "short": "SHS Bihar",
-   "scope": "bihar",
-   "title": "Annexure -1 (Application Form)",
-   "url": "https://shs.bihar.gov.in/shs/advertisement/1743238185.pdf",
-   "is_doc": true,
-   "type": "job",
-   "list_date": "2025-03-29",
-   "first_seen": "2026-11-04T19:06:47+00:00",
-   "last_seen": "2026-11-19T01:08:11+00:00",
-   "advt": null,
-   "link_policy": "deep",
-   "official_home": "https://shs.bihar.gov.in",
-   "slug": "shs-bihar-annexure-1-application-form-8e3e5e",
-   "details": {
-    "fields": {},
-    "parsed_at": null
-   },
-   "tier": 1,
-   "status": "info"
   },
   {
    "id": "26c9bc5d3b52",

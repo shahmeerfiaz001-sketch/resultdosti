@@ -1,25 +1,6 @@
 {
- "run": "2026-11-19T14:55:09+00:00",
+ "run": "2026-11-19T19:00:27+00:00",
  "first_run": false,
- "new": [
-  {
-   "id": "33ed97f3ea3b",
-   "type": "job",
-   "title": "List of eligible/Provisionally eligible/Not eligible candidates for the post of Assoc./Additional Professor of AIIMS, CAPFIMS.",
-   "short": "AIIMS",
-   "url": "https://resultdosti.in/job/list-of-eligible-provisionally-eligible-not-eligible-candidates-for-33ed97/",
-   "last_date": null,
-   "jobposting": false
-  },
-  {
-   "id": "8b674a90a088",
-   "type": "result",
-   "title": "List of eligible/Provisionally eligible/Not eligible/Not shortlisted candidates for the post of Assistant Professor of AIIMS-CAPFIMS",
-   "short": "AIIMS",
-   "url": "https://resultdosti.in/result/list-of-eligible-provisionally-eligible-not-eligible-not-shortlisted-8b674a/",
-   "last_date": null,
-   "jobposting": false
-  }
- ],
+ "new": [],
  "closed": []
 }
