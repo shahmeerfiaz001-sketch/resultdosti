@@ -1,6 +1,40 @@
 {
- "updated": "2026-11-18T18:57:40+00:00",
+ "updated": "2026-11-19T01:08:23+00:00",
  "exams": [
+  {
+   "key": "uppsc-reagarding-a-e-assistant-teacher-trained-2025",
+   "source": "uppsc",
+   "short": "UPPSC",
+   "org": "Uttar Pradesh Public Service Commission",
+   "scope": "up",
+   "items": [
+    "dada6859da5c"
+   ],
+   "year": 2025,
+   "name": "UPPSC Reagarding Document Verification for Advt. No. A-5/E-1/2025, Assistant Teacher",
+   "slug": "uppsc-reagarding-document-verification-for-advt-no-a-5-e-1-2025-assistant-817f7",
+   "types": [
+    "notice"
+   ],
+   "latest": "2026-11-20"
+  },
+  {
+   "key": "uppsc-a-e-assistant-teacher-trained-graduate-2025",
+   "source": "uppsc",
+   "short": "UPPSC",
+   "org": "Uttar Pradesh Public Service Commission",
+   "scope": "up",
+   "items": [
+    "6d948ac3bc81"
+   ],
+   "year": 2025,
+   "name": "UPPSC For Advt. No. A-5/E-1/2025, Assistant Teacher Trained Graduate Exam 2025, .",
+   "slug": "uppsc-for-advt-no-a-5-e-1-2025-assistant-teacher-trained-graduate-exam-2025-6afcd",
+   "types": [
+    "notice"
+   ],
+   "latest": "2026-11-20"
+  },
   {
    "key": "sbi-acquaint-yourself-booklet-hindi-2026",
    "source": "sbi",
@@ -973,23 +1007,6 @@
    "slug": "rbi-recruitment-for-the-post-of-office-attendant-in-reserve-bank-of-india-panel-ca5da",
    "types": [
     "result"
-   ],
-   "latest": "2026-11-06"
-  },
-  {
-   "key": "uppsc-a-e-assistant-teacher-trained-graduate-2025",
-   "source": "uppsc",
-   "short": "UPPSC",
-   "org": "Uttar Pradesh Public Service Commission",
-   "scope": "up",
-   "items": [
-    "6d948ac3bc81"
-   ],
-   "year": 2025,
-   "name": "UPPSC For Advt. No. A-5/E-1/2025, Assistant Teacher Trained Graduate Exam 2025, .",
-   "slug": "uppsc-for-advt-no-a-5-e-1-2025-assistant-teacher-trained-graduate-exam-2025-6afcd",
-   "types": [
-    "notice"
    ],
    "latest": "2026-11-06"
   },
@@ -6745,23 +6762,6 @@
    "slug": "lic-engagement-of-chief-financial-officer-on-contract-basis-2026-be99a",
    "types": [
     "job"
-   ],
-   "latest": "2026-11-04"
-  },
-  {
-   "key": "uppsc-reagarding-a-e-assistant-teacher-trained-2025",
-   "source": "uppsc",
-   "short": "UPPSC",
-   "org": "Uttar Pradesh Public Service Commission",
-   "scope": "up",
-   "items": [
-    "dada6859da5c"
-   ],
-   "year": 2025,
-   "name": "UPPSC Reagarding Document Verification for Advt. No. A-5/E-1/2025, Assistant Teacher",
-   "slug": "uppsc-reagarding-document-verification-for-advt-no-a-5-e-1-2025-assistant-817f7",
-   "types": [
-    "notice"
    ],
    "latest": "2026-11-04"
   },
