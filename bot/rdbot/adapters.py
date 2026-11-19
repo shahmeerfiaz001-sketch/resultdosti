@@ -1,7 +1,9 @@
+import re
 import json
 
 from . import fetch
 from .classify import NOISE, classify
+from .extract import good_title
 from .text import clean
 
 SSC_NOTICES = (
@@ -17,7 +19,7 @@ def ssc_items(payload):
     for rec in (payload or {}).get("data") or []:
         title = clean(rec.get("headline") or "")
         rid = rec.get("id")
-        if not title or not rid or NOISE.search(title):
+        if not title or not rid or NOISE.search(title) or not good_title(title) or re.match(r"^important\s+notice\b[\s\-:]*(schedule\s+of\s+examinations?)?$", title, re.I):
             continue
         kind = classify(title, "", "") or "notice"
         created = (rec.get("createdAt") or "")[:10] or None
