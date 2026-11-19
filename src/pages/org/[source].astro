@@ -19,7 +19,7 @@ const year = new Date().getFullYear();
 const host = new URL(s.base).hostname.replace(/^www\./, '');
 const c = [{ name: 'Home', url: '/' }, { name: scopeName(s.scope).name, url: `/state/${s.scope}/` }, { name: s.short }];
 ---
-<Base title={`${label} Recruitment ${year}: Notification, Admit Card, Result`} description={`Latest ${s.name} (${s.short}) updates: recruitment notices, admit cards, answer keys and results with official links from ${host}.`} crumbs={c}>
+<Base noindex={items.length < 3} title={`${label} Recruitment ${year}: Notification, Admit Card, Result`} description={`Latest ${s.name} (${s.short}) updates: recruitment notices, admit cards, answer keys and results with official links from ${host}.`} crumbs={c}>
   <div class="wrap">
     <Crumbs items={c} />
     <div class="list-head">

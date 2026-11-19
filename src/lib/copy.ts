@@ -62,7 +62,7 @@ export function metaDesc(i: Item, f: Record<string, Field>): string {
   const last = one(f.last_date);
   const t = i.title.length > 150 ? i.title.slice(0, 147) + '...' : i.title;
   const kind = { job: 'recruitment notice', admit: 'admit card', result: 'result', answer: 'answer key', syllabus: 'syllabus', admission: 'admission notice', notice: 'notice' }[i.type];
-  return `${i.short} ${kind}: ${t}.${d ? ` Dated ${d}.` : ''}${last ? ` Last date ${fmt(last)}.` : ''} Official link, key dates and how to download.`;
+  return `${i.short} ${kind}${d ? ` dated ${d}` : ''}: ${t}.${last ? ` Last date ${fmt(last)}.` : ''} Official link, key dates and how to download.`;
 }
 
 export function jobTitle(i: Item): string | null {

@@ -33,7 +33,7 @@ const titles: Record<string, string> = {
   notice: `Exam Date and Notices ${year}`
 };
 ---
-<Base title={titles[type]} description={`${intro[type]} Updated through the day on ResultDosti.`} crumbs={[{ name: 'Home', url: '/' }, { name: T.list }]}>
+<Base noindex={items.length < 3} title={titles[type]} description={`${intro[type]} Updated through the day on ResultDosti.`} crumbs={[{ name: 'Home', url: '/' }, { name: T.list }]}>
   <div class="wrap">
     <Crumbs items={[{ name: 'Home', url: '/' }, { name: T.list }]} />
     <div class="list-head">
