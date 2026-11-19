@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T01:08:23+00:00",
+ "updated": "2026-11-19T07:20:08+00:00",
  "items": [
   {
    "id": "eb5a27ddb770",
@@ -45686,6 +45686,79 @@
    "tier": 1,
    "status": "info",
    "group": "rbi-officers-grade-b-dsim-cadre-py-2026"
+  },
+  {
+   "id": "9dbdebe51705",
+   "source": "ibps",
+   "org": "Institute of Banking Personnel Selection",
+   "short": "IBPS",
+   "scope": "central",
+   "title": "Indian Bank Engagement of Apprentices Registration From 05-Nov-2026",
+   "url": "https://ibpsreg.ibps.in/inbraoct26/",
+   "is_doc": false,
+   "type": "job",
+   "list_date": "2026-11-05",
+   "first_seen": "2026-11-19T07:17:57+00:00",
+   "last_seen": "2026-11-19T07:17:57+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://www.ibps.in",
+   "slug": "ibps-indian-bank-engagement-of-apprentices-registration-from-05-nov-9dbdeb",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "ibps-indian-bank-engagement-apprentices-registration-2026"
+  },
+  {
+   "id": "e54e1440465b",
+   "source": "sbi",
+   "org": "State Bank of India Careers",
+   "short": "SBI",
+   "scope": "central",
+   "title": "(Apply Online from 19.11.2026 TO 03.12.2026) - ADVERTISEMENT English",
+   "url": "https://sbi.bank.in/documents/77530/57941334/19112026_Detailed+Adv.-SCO-36.pdf/c8a2a1f1-9ee6-cd83-bac8-bdff3d856374?t=1795068909785",
+   "is_doc": false,
+   "type": "job",
+   "list_date": "2026-11-19",
+   "first_seen": "2026-11-19T07:18:05+00:00",
+   "last_seen": "2026-11-19T07:18:05+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://sbi.bank.in",
+   "slug": "sbi-apply-online-from-19-11-2026-to-03-12-2026-advertisement-english-e54e14",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info"
+  },
+  {
+   "id": "74dbeeacd0c5",
+   "source": "sbi",
+   "org": "State Bank of India Careers",
+   "short": "SBI",
+   "scope": "central",
+   "title": "(Apply Online from 19.11.2026 TO 03.12.2026) - APPLY ONLINE (19.11.2026 TO",
+   "url": "https://recruitment.sbi.bank.in/crpd-sco-2026-27-36/apply",
+   "is_doc": false,
+   "type": "job",
+   "list_date": "2026-11-19",
+   "first_seen": "2026-11-19T07:18:05+00:00",
+   "last_seen": "2026-11-19T07:18:05+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://sbi.bank.in",
+   "slug": "sbi-apply-online-from-19-11-2026-to-03-12-2026-apply-online-19-11-74dbee",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info"
   }
  ]
 }

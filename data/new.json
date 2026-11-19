@@ -1,6 +1,25 @@
 {
- "run": "2026-11-19T01:08:23+00:00",
+ "run": "2026-11-19T07:20:08+00:00",
  "first_run": false,
- "new": [],
+ "new": [
+  {
+   "id": "e54e1440465b",
+   "type": "job",
+   "title": "(Apply Online from 19.11.2026 TO 03.12.2026) - ADVERTISEMENT English",
+   "short": "SBI",
+   "url": "https://resultdosti.in/job/sbi-apply-online-from-19-11-2026-to-03-12-2026-advertisement-english-e54e14/",
+   "last_date": null,
+   "jobposting": false
+  },
+  {
+   "id": "74dbeeacd0c5",
+   "type": "job",
+   "title": "(Apply Online from 19.11.2026 TO 03.12.2026) - APPLY ONLINE (19.11.2026 TO",
+   "short": "SBI",
+   "url": "https://resultdosti.in/job/sbi-apply-online-from-19-11-2026-to-03-12-2026-apply-online-19-11-74dbee/",
+   "last_date": null,
+   "jobposting": false
+  }
+ ],
  "closed": []
 }
