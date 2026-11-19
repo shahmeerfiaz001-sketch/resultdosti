@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T07:20:08+00:00",
+ "updated": "2026-11-19T09:04:09+00:00",
  "items": [
   {
    "id": "eb5a27ddb770",
@@ -45759,6 +45759,56 @@
    },
    "tier": 1,
    "status": "info"
+  },
+  {
+   "id": "85129b2b064d",
+   "source": "nta",
+   "org": "National Testing Agency",
+   "short": "NTA",
+   "scope": "central",
+   "title": "Public Notice for Subject-wise schedule of UGC-NET December 2026 Examination-Reg.",
+   "url": "https://nta.ac.in/Download/Notice/Notice_20261119125453.pdf",
+   "is_doc": true,
+   "type": "notice",
+   "list_date": null,
+   "first_seen": "2026-11-19T09:02:03+00:00",
+   "last_seen": "2026-11-19T09:02:03+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://nta.ac.in",
+   "slug": "nta-public-notice-for-subject-wise-schedule-of-ugc-net-december-2026-85129b",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "nta-public-subject-ugc-net-december-2026"
+  },
+  {
+   "id": "d7106b99871e",
+   "source": "aiims",
+   "org": "AIIMS Examinations",
+   "short": "AIIMS",
+   "scope": "central",
+   "title": "Re-Schedule notice for the Date of Departmental Assessment in online mode (Stage-II) for the INI-SS DM/M.Ch. January 2027 Session",
+   "url": "https://rrpdocuments.aiimsexams.ac.in/1795075577099-518705336.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVRUVRLXWMSLVSAP7%2F20261119%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261119T090059Z&X-Amz-Expires=604800&X-Amz-Signature=75aa0c16c4ac4a4b352eda0f6190f1a66e16d6cf5ab44b7680af912a7a789368&X-Amz-SignedHeaders=host&response-content-type=application%2Fpdf",
+   "is_doc": true,
+   "type": "notice",
+   "list_date": null,
+   "first_seen": "2026-11-19T09:02:45+00:00",
+   "last_seen": "2026-11-19T09:02:45+00:00",
+   "advt": null,
+   "link_policy": "home_only",
+   "official_home": "https://aiimsexams.ac.in/landingpage/notice",
+   "slug": "aiims-re-schedule-notice-for-the-date-of-departmental-assessment-in-d7106b",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "aiims-re-departmental-assessment-mode-ini-ss-dm-m-ch-2027"
   }
  ]
 }

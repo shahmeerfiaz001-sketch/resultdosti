@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T07:20:08+00:00",
+ "updated": "2026-11-19T09:04:09+00:00",
  "exams": [
   {
    "key": "uppsc-reagarding-a-e-assistant-teacher-trained-2025",
@@ -34,6 +34,40 @@
     "notice"
    ],
    "latest": "2026-11-20"
+  },
+  {
+   "key": "nta-public-subject-ugc-net-december-2026",
+   "source": "nta",
+   "short": "NTA",
+   "org": "National Testing Agency",
+   "scope": "central",
+   "items": [
+    "85129b2b064d"
+   ],
+   "year": 2026,
+   "name": "NTA Subject-wise schedule of UGC-NET December 2026 Examination",
+   "slug": "nta-subject-wise-schedule-of-ugc-net-december-2026-examination-c3259",
+   "types": [
+    "notice"
+   ],
+   "latest": "2026-11-19"
+  },
+  {
+   "key": "aiims-re-departmental-assessment-mode-ini-ss-dm-m-ch-2027",
+   "source": "aiims",
+   "short": "AIIMS",
+   "org": "AIIMS Examinations",
+   "scope": "central",
+   "items": [
+    "d7106b99871e"
+   ],
+   "year": 2027,
+   "name": "AIIMS Re-Schedule notice for the Date of Departmental Assessment in online mode for 2027",
+   "slug": "aiims-re-schedule-notice-for-the-date-of-departmental-assessment-in-online-mode-fa18f",
+   "types": [
+    "notice"
+   ],
+   "latest": "2026-11-19"
   },
   {
    "key": "sbi-acquaint-yourself-booklet-hindi-2026",
