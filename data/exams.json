@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T19:00:27+00:00",
+ "updated": "2026-11-20T07:15:15+00:00",
  "exams": [
   {
    "key": "uppsc-reagarding-a-e-assistant-teacher-trained-2025",
@@ -32,6 +32,24 @@
    "slug": "uppsc-for-advt-no-a-5-e-1-2025-assistant-teacher-trained-graduate-exam-2025-6afcd",
    "types": [
     "notice"
+   ],
+   "latest": "2026-11-20"
+  },
+  {
+   "key": "nta-publication-posts-nta-2026",
+   "source": "nta",
+   "short": "NTA",
+   "org": "National Testing Agency",
+   "scope": "central",
+   "items": [
+    "4a653b5412e2",
+    "a88a03722d70"
+   ],
+   "year": 2026,
+   "name": "Publication of Vacancy Notification for Various Posts in the NTA 2026",
+   "slug": "publication-of-vacancy-notification-for-various-posts-in-the-nta-2026-96b9c",
+   "types": [
+    "job"
    ],
    "latest": "2026-11-20"
   },
@@ -704,23 +722,6 @@
    "year": 2023,
    "name": "UPPSC Advt. No. A-10/E-1/2023 U.p. Khadi and Village Industries Board, Prashikshak",
    "slug": "uppsc-advt-no-a-10-e-1-2023-u-p-khadi-and-village-industries-board-prashikshak-92675",
-   "types": [
-    "job"
-   ],
-   "latest": "2026-11-12"
-  },
-  {
-   "key": "nta-publication-posts-nta-2026",
-   "source": "nta",
-   "short": "NTA",
-   "org": "National Testing Agency",
-   "scope": "central",
-   "items": [
-    "4a653b5412e2"
-   ],
-   "year": 2026,
-   "name": "Publication of Vacancy Notification for Various Posts in the NTA 2026",
-   "slug": "publication-of-vacancy-notification-for-various-posts-in-the-nta-2026-96b9c",
    "types": [
     "job"
    ],

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T19:00:27+00:00",
+ "updated": "2026-11-20T07:15:15+00:00",
  "items": [
   {
    "id": "eb5a27ddb770",
@@ -45794,6 +45794,41 @@
    "tier": 1,
    "status": "info",
    "group": "aiims-eligible-provisionally-eligible-not-eligible-2026"
+  },
+  {
+   "id": "a88a03722d70",
+   "source": "nta",
+   "org": "National Testing Agency",
+   "short": "NTA",
+   "scope": "central",
+   "title": "Publication of Vacancy Notification for Various Posts in the NTA",
+   "url": "https://nta.ac.in/Download/Notice/Notice_20261120110558.pdf",
+   "is_doc": true,
+   "type": "job",
+   "list_date": null,
+   "first_seen": "2026-11-20T07:13:13+00:00",
+   "last_seen": "2026-11-20T07:13:13+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://nta.ac.in",
+   "slug": "publication-of-vacancy-notification-for-various-posts-in-the-nta-a88a03",
+   "details": {
+    "fields": {},
+    "pdf_quality": {
+     "chars": 0,
+     "latin": 0.0,
+     "devanagari": 0.0,
+     "legacy_suspect": false,
+     "scanned_suspect": true,
+     "ocr": true
+    },
+    "parsed_at": "2026-11-20T07:15:14+00:00",
+    "pdf_error": null,
+    "attempts": 1
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "nta-publication-posts-nta-2026"
   }
  ]
 }
