@@ -1,13 +1,22 @@
 {
- "run": "2026-11-20T07:15:15+00:00",
+ "run": "2026-11-20T09:02:25+00:00",
  "first_run": false,
  "new": [
   {
-   "id": "a88a03722d70",
+   "id": "2185c72f0980",
    "type": "job",
-   "title": "Publication of Vacancy Notification for Various Posts in the NTA",
-   "short": "NTA",
-   "url": "https://resultdosti.in/job/publication-of-vacancy-notification-for-various-posts-in-the-nta-a88a03/",
+   "title": "(Apply Online from 20.11.2026 TO 10.12.2026) - ADVERTISEMENT English",
+   "short": "SBI",
+   "url": "https://resultdosti.in/job/sbi-apply-online-from-20-11-2026-to-10-12-2026-advertisement-english-2185c7/",
+   "last_date": null,
+   "jobposting": false
+  },
+  {
+   "id": "e81de539fe61",
+   "type": "job",
+   "title": "(Apply Online from 20.11.2026 TO 10.12.2026) - APPLY ONLINE (20.11.2026 TO",
+   "short": "SBI",
+   "url": "https://resultdosti.in/job/sbi-apply-online-from-20-11-2026-to-10-12-2026-apply-online-20-11-e81de5/",
    "last_date": null,
    "jobposting": false
   }
