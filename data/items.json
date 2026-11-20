@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T11:01:14+00:00",
+ "updated": "2026-11-20T13:07:58+00:00",
  "items": [
   {
    "id": "eb5a27ddb770",
@@ -45927,6 +45927,132 @@
    "tier": 1,
    "status": "info",
    "group": "nta-advance-study-webs-active-learning-young-2026"
+  },
+  {
+   "id": "53f6e4bcaec5",
+   "source": "ibps",
+   "org": "Institute of Banking Personnel Selection",
+   "short": "IBPS",
+   "scope": "central",
+   "title": "Result Status of Online Main Examination for CRP-PO/MTs-XVI",
+   "url": "http://ibpsreg.ibps.in/crppoxvijun26/fresta_nov26/login.php?appid=faa539a0e8fbd226743a6f2df8768c59",
+   "is_doc": false,
+   "type": "result",
+   "list_date": "2026-11-20",
+   "first_seen": "2026-11-20T13:05:51+00:00",
+   "last_seen": "2026-11-20T13:05:51+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://www.ibps.in",
+   "slug": "ibps-result-status-of-online-main-examination-for-crp-po-mts-xvi-53f6e4",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "ibps-crp-po-mts-xvi-2026"
+  },
+  {
+   "id": "47152ca549c0",
+   "source": "rbi",
+   "org": "Reserve Bank of India Opportunities",
+   "short": "RBI",
+   "scope": "central",
+   "title": "Recruitment for the Post of Assistant – PY 2025: Display of Roll Number of Finally Selected Candidates for Appointment in the Bank’s Hyderabad Office",
+   "url": "https://opportunities.rbi.org.in/Scripts/bs_viewcontent.aspx?Id=5218",
+   "is_doc": false,
+   "type": "result",
+   "list_date": null,
+   "first_seen": "2026-11-20T13:06:07+00:00",
+   "last_seen": "2026-11-20T13:06:07+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://opportunities.rbi.org.in",
+   "slug": "rbi-recruitment-for-the-post-of-assistant-py-2025-display-of-roll-47152c",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "rbi-assistant-py-display-finally-appointment-bank-s-2025"
+  },
+  {
+   "id": "6fe8bbae3b0b",
+   "source": "uppsc",
+   "org": "Uttar Pradesh Public Service Commission",
+   "short": "UPPSC",
+   "scope": "up",
+   "title": "Notice Reagarding Document Verification for Advt. No. A-5/E-1/2025, Assistant Teacher Trained Graduate (M./F.) Exam 2025, (Urdu, Music)",
+   "url": "https://uppsc.up.nic.in/Open_PDF_DB.aspx?I4PnQ0tBagn3Lnqaz4gdq0gwEWI26aiK",
+   "is_doc": false,
+   "type": "notice",
+   "list_date": null,
+   "first_seen": "2026-11-20T13:07:03+00:00",
+   "last_seen": "2026-11-20T13:07:03+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://uppsc.up.nic.in",
+   "slug": "uppsc-notice-reagarding-document-verification-for-advt-no-a-5-e-1-6fe8bb",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "archive": true,
+   "status": "info",
+   "group": "uppsc-reagarding-a-e-assistant-teacher-trained-2025"
+  },
+  {
+   "id": "3985ccb07a68",
+   "source": "upprpb",
+   "org": "UP Police Recruitment and Promotion Board",
+   "short": "UPPRPB",
+   "scope": "up",
+   "title": "आरक्षी नागरिक पुलिस, आरक्षी सशस्त्र पुलिस एवं आरक्षी पी0ए0सी0 से आरक्षी चालक के पद पर चयन हेतु चालन दक्षता परीक्षा के सम्बन्ध में अभ्यर्थियों हेतु आवश्यक सूचना",
+   "url": "https://uppbpb.gov.in/FilesUploaded/Notice/MT_notice_website600048d1-6b7c-4f10-9fe5-d9c0f2dd0169.pdf",
+   "is_doc": true,
+   "type": "notice",
+   "list_date": "2026-11-20",
+   "first_seen": "2026-11-20T13:07:07+00:00",
+   "last_seen": "2026-11-20T13:07:07+00:00",
+   "advt": null,
+   "link_policy": "home_only",
+   "official_home": "https://uppbpb.gov.in",
+   "slug": "upprpb-0-0-0-3985cc",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "upprpb-0-0-2026"
+  },
+  {
+   "id": "038e42664dc5",
+   "source": "patnahc",
+   "org": "Patna High Court",
+   "short": "Patna HC",
+   "scope": "bihar",
+   "title": "Notice regarding finalization of objections received against MCQs of Preliminary Test held on 18.09.2026 under Ex-Cadre Assistant Recruitment Examination, 2026.",
+   "url": "https://patnahighcourt.gov.in/getfile/MTEyNzA=-10ND3L2OqJ4=",
+   "is_doc": false,
+   "type": "answer",
+   "list_date": "2026-09-18",
+   "first_seen": "2026-11-20T13:07:57+00:00",
+   "last_seen": "2026-11-20T13:07:57+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://patnahighcourt.gov.in",
+   "slug": "patna-hc-notice-regarding-finalization-of-objections-received-against-038e42",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "patnahc-finalization-objections-received-mcqs-ex-cadre-2026"
   }
  ]
 }

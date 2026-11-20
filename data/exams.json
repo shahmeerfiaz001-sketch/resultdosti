@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T11:01:14+00:00",
+ "updated": "2026-11-20T13:07:58+00:00",
  "exams": [
   {
    "key": "nta-advance-study-webs-active-learning-young-2026",
@@ -26,7 +26,8 @@
    "org": "Uttar Pradesh Public Service Commission",
    "scope": "up",
    "items": [
-    "dada6859da5c"
+    "dada6859da5c",
+    "6fe8bbae3b0b"
    ],
    "year": 2025,
    "name": "UPPSC Reagarding Document Verification for Advt. No. A-5/E-1/2025, Assistant Teacher",
@@ -83,6 +84,57 @@
    "year": 2026,
    "name": "NTA Subject-wise Schedule of Joint CSIR-UGC NET December 2026",
    "slug": "nta-subject-wise-schedule-of-joint-csir-ugc-net-december-2026-b30c0",
+   "types": [
+    "notice"
+   ],
+   "latest": "2026-11-20"
+  },
+  {
+   "key": "ibps-crp-po-mts-xvi-2026",
+   "source": "ibps",
+   "short": "IBPS",
+   "org": "Institute of Banking Personnel Selection",
+   "scope": "central",
+   "items": [
+    "53f6e4bcaec5"
+   ],
+   "year": 2026,
+   "name": "IBPS Result Status of Online Main Examination for CRP-PO/MTs-XVI 2026",
+   "slug": "ibps-result-status-of-online-main-examination-for-crp-po-mts-xvi-2026-4c5de",
+   "types": [
+    "result"
+   ],
+   "latest": "2026-11-20"
+  },
+  {
+   "key": "rbi-assistant-py-display-finally-appointment-bank-s-2025",
+   "source": "rbi",
+   "short": "RBI",
+   "org": "Reserve Bank of India Opportunities",
+   "scope": "central",
+   "items": [
+    "47152ca549c0"
+   ],
+   "year": 2025,
+   "name": "RBI Recruitment for the Post of Assistant – PY 2025: Display of Roll Number of",
+   "slug": "rbi-recruitment-for-the-post-of-assistant-py-2025-display-of-roll-number-of-f7ffa",
+   "types": [
+    "result"
+   ],
+   "latest": "2026-11-20"
+  },
+  {
+   "key": "upprpb-0-0-2026",
+   "source": "upprpb",
+   "short": "UPPRPB",
+   "org": "UP Police Recruitment and Promotion Board",
+   "scope": "up",
+   "items": [
+    "3985ccb07a68"
+   ],
+   "year": 2026,
+   "name": "UPPRPB आरक्षी नागरिक पुलिस, आरक्षी सशस्त्र पुलिस एवं आरक्षी पी0ए0सी0 से आरक्षी चालक के 2026",
+   "slug": "upprpb-0-0-0-2026-29bff",
    "types": [
     "notice"
    ],
@@ -11438,6 +11490,23 @@
    "slug": "bceceb-document-verificatioin-for-the-post-of-senior-resident-tutor-under-b2048",
    "types": [
     "job"
+   ],
+   "latest": "2026-09-18"
+  },
+  {
+   "key": "patnahc-finalization-objections-received-mcqs-ex-cadre-2026",
+   "source": "patnahc",
+   "short": "Patna HC",
+   "org": "Patna High Court",
+   "scope": "bihar",
+   "items": [
+    "038e42664dc5"
+   ],
+   "year": 2026,
+   "name": "Patna HC finalization of objections received against MCQs of Preliminary Test held on 2026",
+   "slug": "patna-hc-finalization-of-objections-received-against-mcqs-of-preliminary-test-06c65",
+   "types": [
+    "answer"
    ],
    "latest": "2026-09-18"
   },

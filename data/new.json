@@ -1,22 +1,40 @@
 {
- "run": "2026-11-20T11:01:14+00:00",
+ "run": "2026-11-20T13:07:58+00:00",
  "first_run": false,
  "new": [
   {
-   "id": "a5433c10a51a",
-   "type": "notice",
-   "title": "Subject-wise Schedule of Joint CSIR-UGC NET December 2026",
-   "short": "NTA",
-   "url": "https://resultdosti.in/notice/nta-subject-wise-schedule-of-joint-csir-ugc-net-december-2026-a5433c/",
+   "id": "53f6e4bcaec5",
+   "type": "result",
+   "title": "Result Status of Online Main Examination for CRP-PO/MTs-XVI",
+   "short": "IBPS",
+   "url": "https://resultdosti.in/result/ibps-result-status-of-online-main-examination-for-crp-po-mts-xvi-53f6e4/",
    "last_date": null,
    "jobposting": false
   },
   {
-   "id": "dd704e03c2c7",
-   "type": "admit",
-   "title": "Advance City Intimation Slip for the Candidates of Study Webs of Active Learning for Young Aspiring Minds(SWAYAM) July 2026 Semester Exams-reg.",
-   "short": "NTA",
-   "url": "https://resultdosti.in/admit-card/nta-advance-city-intimation-slip-for-the-candidates-of-study-webs-of-dd704e/",
+   "id": "47152ca549c0",
+   "type": "result",
+   "title": "Recruitment for the Post of Assistant – PY 2025: Display of Roll Number of Finally Selected Candidates for Appointment in the Bank’s Hyderabad Office",
+   "short": "RBI",
+   "url": "https://resultdosti.in/result/rbi-recruitment-for-the-post-of-assistant-py-2025-display-of-roll-47152c/",
+   "last_date": null,
+   "jobposting": false
+  },
+  {
+   "id": "6fe8bbae3b0b",
+   "type": "notice",
+   "title": "Notice Reagarding Document Verification for Advt. No. A-5/E-1/2025, Assistant Teacher Trained Graduate (M./F.) Exam 2025, (Urdu, Music)",
+   "short": "UPPSC",
+   "url": "https://resultdosti.in/notice/uppsc-notice-reagarding-document-verification-for-advt-no-a-5-e-1-6fe8bb/",
+   "last_date": null,
+   "jobposting": false
+  },
+  {
+   "id": "3985ccb07a68",
+   "type": "notice",
+   "title": "आरक्षी नागरिक पुलिस, आरक्षी सशस्त्र पुलिस एवं आरक्षी पी0ए0सी0 से आरक्षी चालक के पद पर चयन हेतु चालन दक्षता परीक्षा के सम्बन्ध में अभ्यर्थियों हेतु आवश्यक सूचना",
+   "short": "UPPRPB",
+   "url": "https://resultdosti.in/notice/upprpb-0-0-0-3985cc/",
    "last_date": null,
    "jobposting": false
   }
