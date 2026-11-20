@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T13:07:58+00:00",
+ "updated": "2026-11-20T17:00:09+00:00",
  "exams": [
   {
    "key": "nta-advance-study-webs-active-learning-young-2026",
@@ -34,6 +34,29 @@
    "slug": "uppsc-reagarding-document-verification-for-advt-no-a-5-e-1-2025-assistant-817f7",
    "types": [
     "notice"
+   ],
+   "latest": "2026-11-20"
+  },
+  {
+   "key": "uppsc-d-e-medical-education-department-u-p-professor-2026",
+   "source": "uppsc",
+   "short": "UPPSC",
+   "org": "Uttar Pradesh Public Service Commission",
+   "scope": "up",
+   "items": [
+    "b4f944a6a189",
+    "7e00cef99008",
+    "ff0b8d11cfce",
+    "bc07c667f32f",
+    "25bcb7190a00",
+    "74283e66a0e1",
+    "74e15a870aae"
+   ],
+   "year": 2026,
+   "name": "UPPSC Result of Advt. No. D-1/E-1/2026, Medical Education Department U.p. /professor",
+   "slug": "uppsc-result-of-advt-no-d-1-e-1-2026-medical-education-department-u-p-professor-c7b96",
+   "types": [
+    "result"
    ],
    "latest": "2026-11-20"
   },
@@ -1142,28 +1165,6 @@
    "slug": "nta-inviting-online-application-form-for-study-webs-of-active-learning-for-90cc0",
    "types": [
     "job"
-   ],
-   "latest": "2026-11-06"
-  },
-  {
-   "key": "uppsc-d-e-medical-education-department-u-p-professor-2026",
-   "source": "uppsc",
-   "short": "UPPSC",
-   "org": "Uttar Pradesh Public Service Commission",
-   "scope": "up",
-   "items": [
-    "b4f944a6a189",
-    "7e00cef99008",
-    "ff0b8d11cfce",
-    "bc07c667f32f",
-    "25bcb7190a00",
-    "74283e66a0e1"
-   ],
-   "year": 2026,
-   "name": "UPPSC Result of Advt. No. D-1/E-1/2026, Medical Education Department U.p. /professor",
-   "slug": "uppsc-result-of-advt-no-d-1-e-1-2026-medical-education-department-u-p-professor-c7b96",
-   "types": [
-    "result"
    ],
    "latest": "2026-11-06"
   },
