@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T09:02:25+00:00",
+ "updated": "2026-11-20T11:01:14+00:00",
  "items": [
   {
    "id": "eb5a27ddb770",
@@ -45877,6 +45877,56 @@
    },
    "tier": 1,
    "status": "info"
+  },
+  {
+   "id": "a5433c10a51a",
+   "source": "nta",
+   "org": "National Testing Agency",
+   "short": "NTA",
+   "scope": "central",
+   "title": "Subject-wise Schedule of Joint CSIR-UGC NET December 2026",
+   "url": "https://nta.ac.in/Download/Notice/Notice_20261120161527.pdf",
+   "is_doc": true,
+   "type": "notice",
+   "list_date": null,
+   "first_seen": "2026-11-20T10:59:30+00:00",
+   "last_seen": "2026-11-20T10:59:30+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://nta.ac.in",
+   "slug": "nta-subject-wise-schedule-of-joint-csir-ugc-net-december-2026-a5433c",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "nta-subject-joint-csir-ugc-net-december-2026"
+  },
+  {
+   "id": "dd704e03c2c7",
+   "source": "nta",
+   "org": "National Testing Agency",
+   "short": "NTA",
+   "scope": "central",
+   "title": "Advance City Intimation Slip for the Candidates of Study Webs of Active Learning for Young Aspiring Minds(SWAYAM) July 2026 Semester Exams-reg.",
+   "url": "https://nta.ac.in/Download/Notice/Notice_20261120160752.pdf",
+   "is_doc": true,
+   "type": "admit",
+   "list_date": null,
+   "first_seen": "2026-11-20T10:59:30+00:00",
+   "last_seen": "2026-11-20T10:59:30+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://nta.ac.in",
+   "slug": "nta-advance-city-intimation-slip-for-the-candidates-of-study-webs-of-dd704e",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "nta-advance-study-webs-active-learning-young-2026"
   }
  ]
 }

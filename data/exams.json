@@ -1,6 +1,24 @@
 {
- "updated": "2026-11-20T09:02:25+00:00",
+ "updated": "2026-11-20T11:01:14+00:00",
  "exams": [
+  {
+   "key": "nta-advance-study-webs-active-learning-young-2026",
+   "source": "nta",
+   "short": "NTA",
+   "org": "National Testing Agency",
+   "scope": "central",
+   "items": [
+    "de6f46f832e9",
+    "dd704e03c2c7"
+   ],
+   "year": 2026,
+   "name": "NTA Advance City Intimation Slip for the Candidates of Study Webs of Active 2026",
+   "slug": "nta-advance-city-intimation-slip-for-the-candidates-of-study-webs-of-active-2026-db1e4",
+   "types": [
+    "admit"
+   ],
+   "latest": "2026-11-20"
+  },
   {
    "key": "uppsc-reagarding-a-e-assistant-teacher-trained-2025",
    "source": "uppsc",
@@ -50,6 +68,23 @@
    "slug": "publication-of-vacancy-notification-for-various-posts-in-the-nta-2026-96b9c",
    "types": [
     "job"
+   ],
+   "latest": "2026-11-20"
+  },
+  {
+   "key": "nta-subject-joint-csir-ugc-net-december-2026",
+   "source": "nta",
+   "short": "NTA",
+   "org": "National Testing Agency",
+   "scope": "central",
+   "items": [
+    "a5433c10a51a"
+   ],
+   "year": 2026,
+   "name": "NTA Subject-wise Schedule of Joint CSIR-UGC NET December 2026",
+   "slug": "nta-subject-wise-schedule-of-joint-csir-ugc-net-december-2026-b30c0",
+   "types": [
+    "notice"
    ],
    "latest": "2026-11-20"
   },
@@ -3062,23 +3097,6 @@
    "year": 2026,
    "name": "NTA Advance City Intimation of UGC-NET June 2026 Examination",
    "slug": "nta-advance-city-intimation-of-ugc-net-june-2026-examination-bf6a4",
-   "types": [
-    "admit"
-   ],
-   "latest": "2026-11-04"
-  },
-  {
-   "key": "nta-advance-study-webs-active-learning-young-2026",
-   "source": "nta",
-   "short": "NTA",
-   "org": "National Testing Agency",
-   "scope": "central",
-   "items": [
-    "de6f46f832e9"
-   ],
-   "year": 2026,
-   "name": "NTA Advance City Intimation Slip for the Candidates of Study Webs of Active 2026",
-   "slug": "nta-advance-city-intimation-slip-for-the-candidates-of-study-webs-of-active-2026-db1e4",
    "types": [
     "admit"
    ],
