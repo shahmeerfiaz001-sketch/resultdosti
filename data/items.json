@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T10:48:52+00:00",
+ "updated": "2026-11-21T14:52:19+00:00",
  "items": [
   {
    "id": "eb5a27ddb770",
@@ -46288,6 +46288,31 @@
    "tier": 1,
    "status": "info",
    "group": "bceceb-registration-cum-choice-filling-post-graduate-2026"
+  },
+  {
+   "id": "8a78ad70d911",
+   "source": "sbi",
+   "org": "State Bank of India Careers",
+   "short": "SBI",
+   "scope": "central",
+   "title": "(Apply Online from 02.11.2026 TO 23.11.2026) - ADVERTISEMENT Hindi/ English",
+   "url": "https://sbi.bank.in/documents/77530/57941334/21112026_SBI+-+CRPD-SCO-2026-27_27+-+Hindi.pdf/100973d2-df09-fdc6-9aa7-cbbda56bada8?t=1795265251245",
+   "is_doc": false,
+   "type": "job",
+   "list_date": "2026-11-02",
+   "first_seen": "2026-11-21T14:50:17+00:00",
+   "last_seen": "2026-11-21T14:50:17+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://sbi.bank.in",
+   "slug": "sbi-apply-online-from-02-11-2026-to-23-11-2026-advertisement-hindi-8a78ad",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "sbi-hindi-english-2026"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T10:48:52+00:00",
+ "updated": "2026-11-21T14:52:19+00:00",
  "exams": [
   {
    "key": "bceceb-registration-cum-choice-filling-post-graduate-2026",
@@ -719,12 +719,14 @@
     "8dc365da69d9",
     "69dc9e7a8538",
     "b0e873c2a7d6",
-    "c447ae3d8478"
+    "c447ae3d8478",
+    "8a78ad70d911"
    ],
    "year": 2026,
-   "name": "SBI ADVERTISEMENT Hindi / English 2026",
+   "name": "SBI ADVERTISEMENT Hindi/ English 2026",
    "slug": "sbi-advertisement-hindi-english-2026-ca904",
    "types": [
+    "job",
     "notice"
    ],
    "latest": "2026-11-16"
