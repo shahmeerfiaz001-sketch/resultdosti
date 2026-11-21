@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-21T08:53:11+00:00",
+ "updated": "2026-11-21T10:48:52+00:00",
  "exams": [
+  {
+   "key": "bceceb-registration-cum-choice-filling-post-graduate-2026",
+   "source": "bceceb",
+   "short": "BCECEB",
+   "org": "Bihar Combined Entrance Competitive Examination Board",
+   "scope": "bihar",
+   "items": [
+    "fc22cf82d454",
+    "448b701c3454",
+    "1e066d627d74",
+    "624d5e48706d",
+    "24fa899f1ac3",
+    "dcdc4ca553e8",
+    "5ad92dbc5075"
+   ],
+   "year": 2026,
+   "name": "BCECEB Registration-Cum-Choice filling for Post Graduate Medical Admission Counselling 2026",
+   "slug": "bceceb-registration-cum-choice-filling-for-post-graduate-medical-admission-25981",
+   "types": [
+    "admission",
+    "notice"
+   ],
+   "latest": "2026-11-21"
+  },
   {
    "key": "aiims-programme-be-direct-professor-aiims-capfims-2026",
    "source": "aiims",
@@ -1411,29 +1435,6 @@
     "job",
     "notice",
     "result"
-   ],
-   "latest": "2026-11-05"
-  },
-  {
-   "key": "bceceb-registration-cum-choice-filling-post-graduate-2026",
-   "source": "bceceb",
-   "short": "BCECEB",
-   "org": "Bihar Combined Entrance Competitive Examination Board",
-   "scope": "bihar",
-   "items": [
-    "fc22cf82d454",
-    "448b701c3454",
-    "1e066d627d74",
-    "624d5e48706d",
-    "24fa899f1ac3",
-    "dcdc4ca553e8"
-   ],
-   "year": 2026,
-   "name": "BCECEB Registration-Cum-Choice filling for Post Graduate Medical Admission Counselling 2026",
-   "slug": "bceceb-registration-cum-choice-filling-for-post-graduate-medical-admission-25981",
-   "types": [
-    "admission",
-    "notice"
    ],
    "latest": "2026-11-05"
   },

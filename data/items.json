@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T08:53:11+00:00",
+ "updated": "2026-11-21T10:48:52+00:00",
  "items": [
   {
    "id": "eb5a27ddb770",
@@ -46263,6 +46263,31 @@
    "tier": 1,
    "status": "info",
    "group": "bceceb-sechedule-pgmac-round-counselling-2026"
+  },
+  {
+   "id": "5ad92dbc5075",
+   "source": "bceceb",
+   "org": "Bihar Combined Entrance Competitive Examination Board",
+   "short": "BCECEB",
+   "scope": "bihar",
+   "title": "Revised Schedule for Registration-cum-Choice Filling for Post Graduate Degree [PGMAC (Ayush)]-2026 for MD (AYURVEDA) on the basis of AIAPGET[AYUSH]-2026 (Adv. No. BCECEB(PGMAC[AYUSH])-2026/07",
+   "url": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGAAC26_07.pdf",
+   "is_doc": true,
+   "type": "notice",
+   "list_date": "2026-11-21",
+   "first_seen": "2026-11-21T10:48:44+00:00",
+   "last_seen": "2026-11-21T10:48:44+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://bceceboard.bihar.gov.in",
+   "slug": "revised-schedule-for-registration-cum-choice-filling-for-post-5ad92d",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "bceceb-registration-cum-choice-filling-post-graduate-2026"
   }
  ]
 }
