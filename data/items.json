@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T17:00:09+00:00",
+ "updated": "2026-11-21T08:53:11+00:00",
  "items": [
   {
    "id": "eb5a27ddb770",
@@ -46078,6 +46078,191 @@
    "tier": 1,
    "status": "info",
    "group": "uppsc-d-e-medical-education-department-u-p-professor-2026"
+  },
+  {
+   "id": "6554fc2f1654",
+   "source": "sbi",
+   "org": "State Bank of India Careers",
+   "short": "SBI",
+   "scope": "central",
+   "title": "Interview Call Letter",
+   "url": "https://ibpsreg.ibps.in/sbipojun26/geicla_novm26/login.php?appid=c13394dc2fab18c4ca2c73aa0e903f65",
+   "is_doc": false,
+   "type": "admit",
+   "list_date": null,
+   "first_seen": "2026-11-21T08:51:09+00:00",
+   "last_seen": "2026-11-21T08:51:09+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://sbi.bank.in",
+   "slug": "sbi-interview-call-letter-6554fc",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info"
+  },
+  {
+   "id": "16de4bce2ebf",
+   "source": "aiims",
+   "org": "AIIMS Examinations",
+   "short": "AIIMS",
+   "scope": "central",
+   "title": "Programme of Interview to be held from 01/12/2026 to 05/12/2026 for the direct recruitment post of Professor for AIIMS-CAPFIMS, MaidanGarhi, Delhi",
+   "url": "https://rrpdocuments.aiimsexams.ac.in/1795247191704-189618225.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVRUVRLXWMSLVSAP7%2F20261121%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261121T085028Z&X-Amz-Expires=604800&X-Amz-Signature=a5a4534c74001e29629996bd227210d716a4959863b6be92d38854373f91d23d&X-Amz-SignedHeaders=host&response-content-type=application%2Fpdf",
+   "is_doc": true,
+   "type": "job",
+   "list_date": null,
+   "first_seen": "2026-11-21T08:51:58+00:00",
+   "last_seen": "2026-11-21T08:51:58+00:00",
+   "advt": null,
+   "link_policy": "home_only",
+   "official_home": "https://aiimsexams.ac.in/landingpage/notice",
+   "slug": "programme-of-interview-to-be-held-from-01-12-2026-to-05-12-2026-for-16de4b",
+   "details": {
+    "fields": {},
+    "pdf_quality": {
+     "chars": 6536,
+     "latin": 0.622,
+     "devanagari": 0.0,
+     "legacy_suspect": false,
+     "scanned_suspect": false
+    },
+    "parsed_at": "2026-11-21T08:53:09+00:00",
+    "pdf_error": null,
+    "attempts": 1
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "aiims-programme-be-direct-professor-aiims-capfims-2026"
+  },
+  {
+   "id": "53a210d07396",
+   "source": "aiims",
+   "org": "AIIMS Examinations",
+   "short": "AIIMS",
+   "scope": "central",
+   "title": "Programme of Interview to be held from 01/12/2026 to 05/12/2026 for the direct recruitment post of Additional/Associate Professor for AIIMS-CAPFIMS, MaidanGarhi, Delhi",
+   "url": "https://rrpdocuments.aiimsexams.ac.in/1795247164565-472076290.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVRUVRLXWMSLVSAP7%2F20261121%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261121T085028Z&X-Amz-Expires=604800&X-Amz-Signature=e6e60eb9f2cb867be0a47d3fc10e1c4f2cd12947831f4ceb0f247a09b2c82819&X-Amz-SignedHeaders=host&response-content-type=application%2Fpdf",
+   "is_doc": true,
+   "type": "job",
+   "list_date": null,
+   "first_seen": "2026-11-21T08:51:58+00:00",
+   "last_seen": "2026-11-21T08:51:58+00:00",
+   "advt": null,
+   "link_policy": "home_only",
+   "official_home": "https://aiimsexams.ac.in/landingpage/notice",
+   "slug": "programme-of-interview-to-be-held-from-01-12-2026-to-05-12-2026-for-53a210",
+   "details": {
+    "fields": {},
+    "pdf_quality": {
+     "chars": 6536,
+     "latin": 0.622,
+     "devanagari": 0.0,
+     "legacy_suspect": false,
+     "scanned_suspect": false
+    },
+    "parsed_at": "2026-11-21T08:53:10+00:00",
+    "pdf_error": null,
+    "attempts": 1
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "aiims-programme-be-direct-additional-associate-2026"
+  },
+  {
+   "id": "01bb9df1541c",
+   "source": "aiims",
+   "org": "AIIMS Examinations",
+   "short": "AIIMS",
+   "scope": "central",
+   "title": "Programme of Interview to be held from 01/12/2026 to 05/12/2026 for the direct recruitment post of Assistant Professor for AIIMS-CAPFIMS, MaidanGarhi, Delhi",
+   "url": "https://rrpdocuments.aiimsexams.ac.in/1795247136832-943102343.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVRUVRLXWMSLVSAP7%2F20261121%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261121T085028Z&X-Amz-Expires=604800&X-Amz-Signature=74f64f60f4f6c2a73d88cdf6509a3eb651ec27927f877a13a3b0ca14cc8f8309&X-Amz-SignedHeaders=host&response-content-type=application%2Fpdf",
+   "is_doc": true,
+   "type": "job",
+   "list_date": null,
+   "first_seen": "2026-11-21T08:51:58+00:00",
+   "last_seen": "2026-11-21T08:51:58+00:00",
+   "advt": null,
+   "link_policy": "home_only",
+   "official_home": "https://aiimsexams.ac.in/landingpage/notice",
+   "slug": "programme-of-interview-to-be-held-from-01-12-2026-to-05-12-2026-for-01bb9d",
+   "details": {
+    "fields": {},
+    "pdf_quality": {
+     "chars": 6536,
+     "latin": 0.622,
+     "devanagari": 0.0,
+     "legacy_suspect": false,
+     "scanned_suspect": false
+    },
+    "parsed_at": "2026-11-21T08:53:11+00:00",
+    "pdf_error": null,
+    "attempts": 1
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "aiims-programme-be-direct-assistant-professor-aiims-2026"
+  },
+  {
+   "id": "0499763551a7",
+   "source": "aiims",
+   "org": "AIIMS Examinations",
+   "short": "AIIMS",
+   "scope": "central",
+   "title": "Programme of Interview to be held from 01/12/2026 to 05/12/2026 for the direct recruitment post of Assistant Professor for AIIMS, Delhi",
+   "url": "https://rrpdocuments.aiimsexams.ac.in/1795247095587-805654911.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVRUVRLXWMSLVSAP7%2F20261121%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261121T085028Z&X-Amz-Expires=604800&X-Amz-Signature=34dc8e881a9af95335d8898f45a129a73337c7cd1205d59d2c38444e28e3989c&X-Amz-SignedHeaders=host&response-content-type=application%2Fpdf",
+   "is_doc": true,
+   "type": "job",
+   "list_date": null,
+   "first_seen": "2026-11-21T08:51:58+00:00",
+   "last_seen": "2026-11-21T08:51:58+00:00",
+   "advt": null,
+   "link_policy": "home_only",
+   "official_home": "https://aiimsexams.ac.in/landingpage/notice",
+   "slug": "programme-of-interview-to-be-held-from-01-12-2026-to-05-12-2026-for-049976",
+   "details": {
+    "fields": {},
+    "pdf_quality": {
+     "chars": 6536,
+     "latin": 0.622,
+     "devanagari": 0.0,
+     "legacy_suspect": false,
+     "scanned_suspect": false
+    },
+    "parsed_at": "2026-11-21T08:53:11+00:00",
+    "pdf_error": null,
+    "attempts": 1
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "aiims-programme-be-direct-assistant-professor-aiims-2026"
+  },
+  {
+   "id": "49f5a1021e08",
+   "source": "bceceb",
+   "org": "Bihar Combined Entrance Competitive Examination Board",
+   "short": "BCECEB",
+   "scope": "bihar",
+   "title": "Important Notice Sechedule for PGMAC-2026 Round-2 Counselling (Adv. No. BCECEB(PGMAC)-2026/05",
+   "url": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGMAC26_05.pdf",
+   "is_doc": true,
+   "type": "admission",
+   "list_date": "2026-11-21",
+   "first_seen": "2026-11-21T08:53:01+00:00",
+   "last_seen": "2026-11-21T08:53:01+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://bceceboard.bihar.gov.in",
+   "slug": "important-notice-sechedule-for-pgmac-2026-round-2-counselling-adv-no-49f5a1",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "bceceb-sechedule-pgmac-round-counselling-2026"
   }
  ]
 }

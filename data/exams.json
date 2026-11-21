@@ -1,6 +1,75 @@
 {
- "updated": "2026-11-20T17:00:09+00:00",
+ "updated": "2026-11-21T08:53:11+00:00",
  "exams": [
+  {
+   "key": "aiims-programme-be-direct-professor-aiims-capfims-2026",
+   "source": "aiims",
+   "short": "AIIMS",
+   "org": "AIIMS Examinations",
+   "scope": "central",
+   "items": [
+    "16de4bce2ebf"
+   ],
+   "year": 2026,
+   "name": "AIIMS Programme of Interview to be held from 01/12/2026 to 05/12/2026 for the direct",
+   "slug": "aiims-programme-of-interview-to-be-held-from-01-12-2026-to-05-12-2026-for-the-00ca0",
+   "types": [
+    "job"
+   ],
+   "latest": "2026-11-21"
+  },
+  {
+   "key": "aiims-programme-be-direct-additional-associate-2026",
+   "source": "aiims",
+   "short": "AIIMS",
+   "org": "AIIMS Examinations",
+   "scope": "central",
+   "items": [
+    "53a210d07396"
+   ],
+   "year": 2026,
+   "name": "AIIMS Programme of Interview to be held from 01/12/2026 to 05/12/2026 for the direct",
+   "slug": "aiims-programme-of-interview-to-be-held-from-01-12-2026-to-05-12-2026-for-the-b4820",
+   "types": [
+    "job"
+   ],
+   "latest": "2026-11-21"
+  },
+  {
+   "key": "aiims-programme-be-direct-assistant-professor-aiims-2026",
+   "source": "aiims",
+   "short": "AIIMS",
+   "org": "AIIMS Examinations",
+   "scope": "central",
+   "items": [
+    "01bb9df1541c",
+    "0499763551a7"
+   ],
+   "year": 2026,
+   "name": "AIIMS Programme of Interview to be held from 01/12/2026 to 05/12/2026 for the direct",
+   "slug": "aiims-programme-of-interview-to-be-held-from-01-12-2026-to-05-12-2026-for-the-17621",
+   "types": [
+    "job"
+   ],
+   "latest": "2026-11-21"
+  },
+  {
+   "key": "bceceb-sechedule-pgmac-round-counselling-2026",
+   "source": "bceceb",
+   "short": "BCECEB",
+   "org": "Bihar Combined Entrance Competitive Examination Board",
+   "scope": "bihar",
+   "items": [
+    "49f5a1021e08"
+   ],
+   "year": 2026,
+   "name": "BCECEB Sechedule for PGMAC-2026 Round-2 Counselling -2026/05",
+   "slug": "bceceb-sechedule-for-pgmac-2026-round-2-counselling-2026-05-62db1",
+   "types": [
+    "admission"
+   ],
+   "latest": "2026-11-21"
+  },
   {
    "key": "nta-advance-study-webs-active-learning-young-2026",
    "source": "nta",
