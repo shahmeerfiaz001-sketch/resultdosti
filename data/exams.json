@@ -1,6 +1,26 @@
 {
- "updated": "2026-11-23T17:02:52+00:00",
+ "updated": "2026-11-23T19:03:41+00:00",
  "exams": [
+  {
+   "key": "ssc-information-admission-certificate-combined-2026",
+   "source": "ssc",
+   "short": "SSC",
+   "org": "Staff Selection Commission",
+   "scope": "central",
+   "items": [
+    "776144108443",
+    "b63fef3a0afb",
+    "a4d8ea79ae27",
+    "39c985a2cd46"
+   ],
+   "year": 2026,
+   "name": "SSC Information regarding the city of examination and Admission Certificate for the 2026",
+   "slug": "ssc-information-regarding-the-city-of-examination-and-admission-certificate-for-55560",
+   "types": [
+    "admit"
+   ],
+   "latest": "2026-11-23"
+  },
   {
    "key": "upmsp-notice-2027",
    "source": "upmsp",
@@ -11614,25 +11634,6 @@
    "slug": "cbse-announcements-detailed-2026-69c65",
    "types": [
     "job"
-   ],
-   "latest": "2026-09-21"
-  },
-  {
-   "key": "ssc-information-admission-certificate-combined-2026",
-   "source": "ssc",
-   "short": "SSC",
-   "org": "Staff Selection Commission",
-   "scope": "central",
-   "items": [
-    "776144108443",
-    "b63fef3a0afb",
-    "a4d8ea79ae27"
-   ],
-   "year": 2026,
-   "name": "SSC Information regarding the city of examination and Admission Certificate for the 2026",
-   "slug": "ssc-information-regarding-the-city-of-examination-and-admission-certificate-for-55560",
-   "types": [
-    "admit"
    ],
    "latest": "2026-09-21"
   },

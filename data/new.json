@@ -1,16 +1,18 @@
 {
- "run": "2026-11-23T17:02:52+00:00",
+ "run": "2026-11-23T19:03:41+00:00",
  "first_run": false,
  "new": [
   {
-   "id": "95ce18be4691",
-   "type": "admission",
-   "title": "Inviting Online Applications for Common Management Admission Test(CMAT)-2027-reg.",
-   "short": "NTA",
-   "url": "https://resultdosti.in/admission/nta-inviting-online-applications-for-common-management-admission-test-95ce18/",
+   "id": "39c985a2cd46",
+   "type": "admit",
+   "title": "Information regarding the city of examination and Admission Certificate for the candidates of Combined Higher Secondary (10+2) Level Examination, 2026 (Computer Based Examination) (Tier-I)",
+   "short": "SSC",
+   "url": "https://resultdosti.in/admit-card/ssc-information-regarding-the-city-of-examination-and-admission-39c985/",
    "last_date": null,
    "jobposting": false
   }
  ],
- "closed": []
+ "closed": [
+  "https://resultdosti.in/job/bceceb-detail-regarding-filling-up-online-application-form-for-the-a1c729/"
+ ]
 }

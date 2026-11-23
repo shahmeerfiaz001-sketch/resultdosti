@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T17:02:52+00:00",
+ "updated": "2026-11-23T19:03:41+00:00",
  "items": [
   {
    "id": "eb5a27ddb770",
@@ -37512,7 +37512,7 @@
     "attempts": 1
    },
    "tier": 2,
-   "status": "open",
+   "status": "closed",
    "group": "bceceb-filling-up-senior-resident-tutor-health-2026",
    "last_date": "2026-11-23"
   },
@@ -46663,6 +46663,31 @@
    "tier": 1,
    "status": "info",
    "group": "nta-common-management-admission-2027"
+  },
+  {
+   "id": "39c985a2cd46",
+   "source": "ssc",
+   "org": "Staff Selection Commission",
+   "short": "SSC",
+   "scope": "central",
+   "title": "Information regarding the city of examination and Admission Certificate for the candidates of Combined Higher Secondary (10+2) Level Examination, 2026 (Computer Based Examination) (Tier-I)",
+   "url": "https://ssc.gov.in/home/notice-board?notice=9celr6829nkfg1aviocx0",
+   "is_doc": false,
+   "type": "admit",
+   "list_date": "2026-11-23",
+   "first_seen": "2026-11-23T19:01:33+00:00",
+   "last_seen": "2026-11-23T19:01:33+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://ssc.gov.in",
+   "slug": "ssc-information-regarding-the-city-of-examination-and-admission-39c985",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "ssc-information-admission-certificate-combined-2026"
   }
  ]
 }
