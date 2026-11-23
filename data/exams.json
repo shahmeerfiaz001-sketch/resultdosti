@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T15:03:09+00:00",
+ "updated": "2026-11-23T17:02:52+00:00",
  "exams": [
   {
    "key": "upmsp-notice-2027",
@@ -140,6 +140,23 @@
    "slug": "btsc-advt-no-20-2025-6793e",
    "types": [
     "notice"
+   ],
+   "latest": "2026-11-23"
+  },
+  {
+   "key": "nta-common-management-admission-2027",
+   "source": "nta",
+   "short": "NTA",
+   "org": "National Testing Agency",
+   "scope": "central",
+   "items": [
+    "95ce18be4691"
+   ],
+   "year": 2027,
+   "name": "NTA Inviting Online Applications for Common Management Admission Test -2027",
+   "slug": "nta-inviting-online-applications-for-common-management-admission-test-2027-18ac5",
+   "types": [
+    "admission"
    ],
    "latest": "2026-11-23"
   },

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T15:03:09+00:00",
+ "updated": "2026-11-23T17:02:52+00:00",
  "items": [
   {
    "id": "eb5a27ddb770",
@@ -46638,6 +46638,31 @@
    "tier": 1,
    "status": "info",
    "group": "upmsp-notice-2027"
+  },
+  {
+   "id": "95ce18be4691",
+   "source": "nta",
+   "org": "National Testing Agency",
+   "short": "NTA",
+   "scope": "central",
+   "title": "Inviting Online Applications for Common Management Admission Test(CMAT)-2027-reg.",
+   "url": "https://nta.ac.in/Download/Notice/Notice_20261123210726.pdf",
+   "is_doc": true,
+   "type": "admission",
+   "list_date": null,
+   "first_seen": "2026-11-23T17:01:00+00:00",
+   "last_seen": "2026-11-23T17:01:00+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://nta.ac.in",
+   "slug": "nta-inviting-online-applications-for-common-management-admission-test-95ce18",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "nta-common-management-admission-2027"
   }
  ]
 }
