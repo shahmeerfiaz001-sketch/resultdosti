@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T11:09:38+00:00",
+ "updated": "2026-11-23T13:17:36+00:00",
  "exams": [
   {
    "key": "aiims-eligible-provisionally-eligible-not-eligible-2026",
@@ -105,6 +105,23 @@
    "slug": "bceceb-provisional-merit-list-of-eligible-and-not-eligible-candidates-for-the-d565c",
    "types": [
     "result"
+   ],
+   "latest": "2026-11-23"
+  },
+  {
+   "key": "btsc-advt-20-2025",
+   "source": "btsc",
+   "short": "BTSC",
+   "org": "Bihar Technical Service Commission",
+   "scope": "bihar",
+   "items": [
+    "392c3cc5089c"
+   ],
+   "year": 2025,
+   "name": "BTSC Advt No-20/2025",
+   "slug": "btsc-advt-no-20-2025-6793e",
+   "types": [
+    "notice"
    ],
    "latest": "2026-11-23"
   },

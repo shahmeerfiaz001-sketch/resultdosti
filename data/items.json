@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T11:09:38+00:00",
+ "updated": "2026-11-23T13:17:36+00:00",
  "items": [
   {
    "id": "eb5a27ddb770",
@@ -46588,6 +46588,31 @@
    "tier": 1,
    "status": "info",
    "group": "bceceb-eligible-not-eligible-dentistry-senior-resident-2026"
+  },
+  {
+   "id": "392c3cc5089c",
+   "source": "btsc",
+   "org": "Bihar Technical Service Commission",
+   "short": "BTSC",
+   "scope": "bihar",
+   "title": "Important Notice regarding Advt No-20/2025 (Dentist) (Letter No. 3885)",
+   "url": "https://btsc.bihar.gov.in/sites/default/files/circulars/3885.pdf",
+   "is_doc": true,
+   "type": "notice",
+   "list_date": "2026-11-23",
+   "first_seen": "2026-11-23T13:17:15+00:00",
+   "last_seen": "2026-11-23T13:17:15+00:00",
+   "advt": "20/2025",
+   "link_policy": "deep",
+   "official_home": "https://btsc.bihar.gov.in",
+   "slug": "btsc-important-notice-regarding-advt-no-20-2025-dentist-letter-no-3885-392c3c",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "btsc-advt-20-2025"
   }
  ]
 }
