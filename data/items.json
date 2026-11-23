@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T13:17:36+00:00",
+ "updated": "2026-11-23T15:03:09+00:00",
  "items": [
   {
    "id": "eb5a27ddb770",
@@ -46613,6 +46613,31 @@
    "tier": 1,
    "status": "info",
    "group": "btsc-advt-20-2025"
+  },
+  {
+   "id": "746c81dfd2d4",
+   "source": "upmsp",
+   "org": "UP Madhyamik Shiksha Parishad",
+   "short": "UP Board",
+   "scope": "up",
+   "title": "हाई स्कूल एवं इंटरमीडिएट परीक्षा वर्ष 2027 से सम्बन्धित विज्ञप्ति ।",
+   "url": "https://upmsp.edu.in/Downloads/Vigyapti_Practical_Exams_2027.pdf",
+   "is_doc": true,
+   "type": "notice",
+   "list_date": null,
+   "first_seen": "2026-11-23T15:02:17+00:00",
+   "last_seen": "2026-11-23T15:02:17+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://upmsp.edu.in",
+   "slug": "up-board-2027-746c81",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "upmsp-notice-2027"
   }
  ]
 }
