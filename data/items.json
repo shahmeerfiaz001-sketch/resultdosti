@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T07:33:27+00:00",
+ "updated": "2026-11-23T09:25:33+00:00",
  "items": [
   {
    "id": "eb5a27ddb770",
@@ -46455,6 +46455,114 @@
    "tier": 1,
    "status": "info",
    "group": "rbi-assistant-panel-year-display-finally-2025"
+  },
+  {
+   "id": "6e33c0a54dac",
+   "source": "sbi",
+   "org": "State Bank of India Careers",
+   "short": "SBI",
+   "scope": "central",
+   "title": "(Apply Online from 04.11.2026 TO 25.11.2026) - ADVERTISEMENT( Hindi / English )",
+   "url": "https://sbi.bank.in/documents/77530/57941334/HN+FIRE+SBI+-+CRPD-SCO-2026-27_29+-+Hindi.pdf/a2c40cd3-10f7-bd2b-c63b-60dfa80be788?t=1795419039741",
+   "is_doc": false,
+   "type": "job",
+   "list_date": "2026-11-04",
+   "first_seen": "2026-11-23T09:23:12+00:00",
+   "last_seen": "2026-11-23T09:23:12+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://sbi.bank.in",
+   "slug": "sbi-apply-online-from-04-11-2026-to-25-11-2026-advertisement-hindi-6e33c0",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info"
+  },
+  {
+   "id": "5e80d8471bde",
+   "source": "sbi",
+   "org": "State Bank of India Careers",
+   "short": "SBI",
+   "scope": "central",
+   "title": "(Apply Online from 04.11.2026 TO 25.11.2026) - ADVERTISEMENT( Hindi ) /( English )",
+   "url": "https://sbi.bank.in/documents/77530/57941334/HN+SECURITY+SBI+-+CRPD-SCO-2026-27_28+-+Hindi+%281%29.pdf/0badfcb4-7a93-b311-cd9f-6da105468b10?t=1795418535751",
+   "is_doc": false,
+   "type": "job",
+   "list_date": "2026-11-04",
+   "first_seen": "2026-11-23T09:23:12+00:00",
+   "last_seen": "2026-11-23T09:23:12+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://sbi.bank.in",
+   "slug": "sbi-apply-online-from-04-11-2026-to-25-11-2026-advertisement-hindi-5e80d8",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info"
+  },
+  {
+   "id": "4d9a76a6a272",
+   "source": "aiims",
+   "org": "AIIMS Examinations",
+   "short": "AIIMS",
+   "scope": "central",
+   "title": "Schedule for the interview of 02 faculty members for promotion to the next higher grade under Assessment Promotion Scheme-2026(APS-2026)",
+   "url": "https://rrpdocuments.aiimsexams.ac.in/1795425171762-431062798.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVRUVRLXWMSLVSAP7%2F20261123%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261123T092340Z&X-Amz-Expires=604800&X-Amz-Signature=b0eae6f48c4baac2b93a58ee4c11da6f52a18e11e0d4af9e83d4df098ac82c99&X-Amz-SignedHeaders=host&response-content-type=application%2Fpdf",
+   "is_doc": true,
+   "type": "notice",
+   "list_date": null,
+   "first_seen": "2026-11-23T09:24:07+00:00",
+   "last_seen": "2026-11-23T09:24:07+00:00",
+   "advt": null,
+   "link_policy": "home_only",
+   "official_home": "https://aiimsexams.ac.in/landingpage/notice",
+   "slug": "aiims-schedule-for-the-interview-of-02-faculty-members-for-promotion-4d9a76",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "aiims-02-faculty-members-promotion-next-higher-grade-2026"
+  },
+  {
+   "id": "b27f08365d91",
+   "source": "aiims",
+   "org": "AIIMS Examinations",
+   "short": "AIIMS",
+   "scope": "central",
+   "title": "Programme of Interview to be held from 01/12/2026 to 05/12/2026 for the direct recruitment post of Professor for AIIMS-CAPFIMS, MaidanGarhi, Delhi",
+   "url": "https://rrpdocuments.aiimsexams.ac.in/1795424904045-864679334.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVRUVRLXWMSLVSAP7%2F20261123%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261123T092340Z&X-Amz-Expires=604800&X-Amz-Signature=4785f903b8cf47990cbfe3a815d3ce6d66a0cc1dd5de678821dedd15ba29c0f2&X-Amz-SignedHeaders=host&response-content-type=application%2Fpdf",
+   "is_doc": true,
+   "type": "job",
+   "list_date": null,
+   "first_seen": "2026-11-23T09:24:07+00:00",
+   "last_seen": "2026-11-23T09:24:07+00:00",
+   "advt": null,
+   "link_policy": "home_only",
+   "official_home": "https://aiimsexams.ac.in/landingpage/notice",
+   "slug": "programme-of-interview-to-be-held-from-01-12-2026-to-05-12-2026-for-b27f08",
+   "details": {
+    "fields": {},
+    "pdf_quality": {
+     "chars": 0,
+     "latin": 0.0,
+     "devanagari": 0.0,
+     "legacy_suspect": false,
+     "scanned_suspect": true,
+     "ocr": true
+    },
+    "parsed_at": "2026-11-23T09:25:32+00:00",
+    "pdf_error": null,
+    "attempts": 1
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "aiims-programme-be-direct-professor-aiims-capfims-2026"
   }
  ]
 }

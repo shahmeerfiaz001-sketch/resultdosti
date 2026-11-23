@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T07:33:27+00:00",
+ "updated": "2026-11-23T09:25:33+00:00",
  "exams": [
   {
    "key": "aiims-eligible-provisionally-eligible-not-eligible-2026",
@@ -19,6 +19,24 @@
    "types": [
     "job",
     "result"
+   ],
+   "latest": "2026-11-23"
+  },
+  {
+   "key": "aiims-programme-be-direct-professor-aiims-capfims-2026",
+   "source": "aiims",
+   "short": "AIIMS",
+   "org": "AIIMS Examinations",
+   "scope": "central",
+   "items": [
+    "16de4bce2ebf",
+    "b27f08365d91"
+   ],
+   "year": 2026,
+   "name": "AIIMS Programme of Interview to be held from 01/12/2026 to 05/12/2026 for the direct",
+   "slug": "aiims-programme-of-interview-to-be-held-from-01-12-2026-to-05-12-2026-for-the-00ca0",
+   "types": [
+    "job"
    ],
    "latest": "2026-11-23"
   },
@@ -57,6 +75,23 @@
    "latest": "2026-11-23"
   },
   {
+   "key": "aiims-02-faculty-members-promotion-next-higher-grade-2026",
+   "source": "aiims",
+   "short": "AIIMS",
+   "org": "AIIMS Examinations",
+   "scope": "central",
+   "items": [
+    "4d9a76a6a272"
+   ],
+   "year": 2026,
+   "name": "AIIMS Schedule for the interview of 02 faculty members for promotion to the next 2026",
+   "slug": "aiims-schedule-for-the-interview-of-02-faculty-members-for-promotion-to-the-27948",
+   "types": [
+    "notice"
+   ],
+   "latest": "2026-11-23"
+  },
+  {
    "key": "bceceb-registration-cum-choice-filling-post-graduate-2026",
    "source": "bceceb",
    "short": "BCECEB",
@@ -77,23 +112,6 @@
    "types": [
     "admission",
     "notice"
-   ],
-   "latest": "2026-11-21"
-  },
-  {
-   "key": "aiims-programme-be-direct-professor-aiims-capfims-2026",
-   "source": "aiims",
-   "short": "AIIMS",
-   "org": "AIIMS Examinations",
-   "scope": "central",
-   "items": [
-    "16de4bce2ebf"
-   ],
-   "year": 2026,
-   "name": "AIIMS Programme of Interview to be held from 01/12/2026 to 05/12/2026 for the direct",
-   "slug": "aiims-programme-of-interview-to-be-held-from-01-12-2026-to-05-12-2026-for-the-00ca0",
-   "types": [
-    "job"
    ],
    "latest": "2026-11-21"
   },
