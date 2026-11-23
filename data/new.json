@@ -1,31 +1,22 @@
 {
- "run": "2026-11-23T05:18:54+00:00",
+ "run": "2026-11-23T07:33:27+00:00",
  "first_run": false,
  "new": [
   {
-   "id": "c16d41e2200b",
-   "type": "notice",
-   "title": "Date Sheet Notification No. 177 / 2026 of Final MBBS (Regular) Professional Examinations to be held in December 2026 to January 2027",
-   "short": "AIIMS",
-   "url": "https://resultdosti.in/notice/aiims-date-sheet-notification-no-177-2026-of-final-mbbs-regular-c16d41/",
+   "id": "761a19f54214",
+   "type": "admit",
+   "title": "(Interview Call Letter Is Available to ) - Notice",
+   "short": "SBI",
+   "url": "https://resultdosti.in/admit-card/sbi-interview-call-letter-is-available-to-notice-761a19/",
    "last_date": null,
    "jobposting": false
   },
   {
-   "id": "1c1244566a06",
-   "type": "job",
-   "title": "List of eligible/Provisionally eligible/Not eligible candidates for the post of Professor of AIIMS, CAPFIMS.",
-   "short": "AIIMS",
-   "url": "https://resultdosti.in/job/list-of-eligible-provisionally-eligible-not-eligible-candidates-for-1c1244/",
-   "last_date": null,
-   "jobposting": false
-  },
-  {
-   "id": "8263bcbd74a8",
-   "type": "job",
-   "title": "List of eligible/Provisionally eligible/Not eligible candidates for the post of Assoc./Additional Professor of AIIMS, CAPFIMS.",
-   "short": "AIIMS",
-   "url": "https://resultdosti.in/job/list-of-eligible-provisionally-eligible-not-eligible-candidates-for-8263bc/",
+   "id": "aaa94eb5c889",
+   "type": "result",
+   "title": "Recruitment for the Post of Assistant – Panel Year 2025: Display of Roll Number of Finally Selected Candidates for Appointment in the Bank’s Thiruvananthapuram Office",
+   "short": "RBI",
+   "url": "https://resultdosti.in/result/rbi-recruitment-for-the-post-of-assistant-panel-year-2025-display-of-aaa94e/",
    "last_date": null,
    "jobposting": false
   }

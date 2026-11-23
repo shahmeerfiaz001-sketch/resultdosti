@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T05:18:54+00:00",
+ "updated": "2026-11-23T07:33:27+00:00",
  "items": [
   {
    "id": "eb5a27ddb770",
@@ -46406,6 +46406,55 @@
    "tier": 1,
    "status": "info",
    "group": "aiims-eligible-provisionally-eligible-not-eligible-2026"
+  },
+  {
+   "id": "761a19f54214",
+   "source": "sbi",
+   "org": "State Bank of India Careers",
+   "short": "SBI",
+   "scope": "central",
+   "title": "(Interview Call Letter Is Available to ) - Notice",
+   "url": "https://sbi.bank.in/webfiles/uploads/files_2627/11/Notice_for_Psychometric_Test.pdf",
+   "is_doc": true,
+   "type": "admit",
+   "list_date": null,
+   "first_seen": "2026-11-23T07:31:22+00:00",
+   "last_seen": "2026-11-23T07:31:22+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://sbi.bank.in",
+   "slug": "sbi-interview-call-letter-is-available-to-notice-761a19",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info"
+  },
+  {
+   "id": "aaa94eb5c889",
+   "source": "rbi",
+   "org": "Reserve Bank of India Opportunities",
+   "short": "RBI",
+   "scope": "central",
+   "title": "Recruitment for the Post of Assistant – Panel Year 2025: Display of Roll Number of Finally Selected Candidates for Appointment in the Bank’s Thiruvananthapuram Office",
+   "url": "https://opportunities.rbi.org.in/Scripts/bs_viewcontent.aspx?Id=5220",
+   "is_doc": false,
+   "type": "result",
+   "list_date": null,
+   "first_seen": "2026-11-23T07:31:31+00:00",
+   "last_seen": "2026-11-23T07:31:31+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://opportunities.rbi.org.in",
+   "slug": "rbi-recruitment-for-the-post-of-assistant-panel-year-2025-display-of-aaa94e",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "rbi-assistant-panel-year-display-finally-2025"
   }
  ]
 }

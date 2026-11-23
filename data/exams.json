@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T05:18:54+00:00",
+ "updated": "2026-11-23T07:33:27+00:00",
  "exams": [
   {
    "key": "aiims-eligible-provisionally-eligible-not-eligible-2026",
@@ -36,6 +36,23 @@
    "slug": "aiims-date-sheet-notification-no-177-2026-of-final-mbbs-professional-46528",
    "types": [
     "notice"
+   ],
+   "latest": "2026-11-23"
+  },
+  {
+   "key": "rbi-assistant-panel-year-display-finally-2025",
+   "source": "rbi",
+   "short": "RBI",
+   "org": "Reserve Bank of India Opportunities",
+   "scope": "central",
+   "items": [
+    "aaa94eb5c889"
+   ],
+   "year": 2025,
+   "name": "RBI Recruitment for the Post of Assistant – Panel Year 2025: Display of Roll Number",
+   "slug": "rbi-recruitment-for-the-post-of-assistant-panel-year-2025-display-of-roll-number-e1022",
+   "types": [
+    "result"
    ],
    "latest": "2026-11-23"
   },
