@@ -1,6 +1,44 @@
 {
- "updated": "2026-11-21T14:52:19+00:00",
+ "updated": "2026-11-23T05:18:54+00:00",
  "exams": [
+  {
+   "key": "aiims-eligible-provisionally-eligible-not-eligible-2026",
+   "source": "aiims",
+   "short": "AIIMS",
+   "org": "AIIMS Examinations",
+   "scope": "central",
+   "items": [
+    "33ed97f3ea3b",
+    "8b674a90a088",
+    "1c1244566a06",
+    "8263bcbd74a8"
+   ],
+   "year": 2026,
+   "name": "AIIMS List of eligible/Provisionally eligible/Not eligible candidates for the post of 2026",
+   "slug": "aiims-list-of-eligible-provisionally-eligible-not-eligible-candidates-for-the-b680d",
+   "types": [
+    "job",
+    "result"
+   ],
+   "latest": "2026-11-23"
+  },
+  {
+   "key": "aiims-sheet-mbbs-professional-be-december-january-2026",
+   "source": "aiims",
+   "short": "AIIMS",
+   "org": "AIIMS Examinations",
+   "scope": "central",
+   "items": [
+    "c16d41e2200b"
+   ],
+   "year": 2026,
+   "name": "AIIMS Date Sheet Notification No. 177 / 2026 of Final MBBS Professional Examinations",
+   "slug": "aiims-date-sheet-notification-no-177-2026-of-final-mbbs-professional-46528",
+   "types": [
+    "notice"
+   ],
+   "latest": "2026-11-23"
+  },
   {
    "key": "bceceb-registration-cum-choice-filling-post-graduate-2026",
    "source": "bceceb",
@@ -321,25 +359,6 @@
    "slug": "sbi-deputy-cto-interview-schedule-2026-a2044",
    "types": [
     "notice"
-   ],
-   "latest": "2026-11-19"
-  },
-  {
-   "key": "aiims-eligible-provisionally-eligible-not-eligible-2026",
-   "source": "aiims",
-   "short": "AIIMS",
-   "org": "AIIMS Examinations",
-   "scope": "central",
-   "items": [
-    "33ed97f3ea3b",
-    "8b674a90a088"
-   ],
-   "year": 2026,
-   "name": "AIIMS List of eligible/Provisionally eligible/Not eligible candidates for the post of 2026",
-   "slug": "aiims-list-of-eligible-provisionally-eligible-not-eligible-candidates-for-the-b680d",
-   "types": [
-    "job",
-    "result"
    ],
    "latest": "2026-11-19"
   },

@@ -1,6 +1,34 @@
 {
- "run": "2026-11-21T14:52:19+00:00",
+ "run": "2026-11-23T05:18:54+00:00",
  "first_run": false,
- "new": [],
+ "new": [
+  {
+   "id": "c16d41e2200b",
+   "type": "notice",
+   "title": "Date Sheet Notification No. 177 / 2026 of Final MBBS (Regular) Professional Examinations to be held in December 2026 to January 2027",
+   "short": "AIIMS",
+   "url": "https://resultdosti.in/notice/aiims-date-sheet-notification-no-177-2026-of-final-mbbs-regular-c16d41/",
+   "last_date": null,
+   "jobposting": false
+  },
+  {
+   "id": "1c1244566a06",
+   "type": "job",
+   "title": "List of eligible/Provisionally eligible/Not eligible candidates for the post of Professor of AIIMS, CAPFIMS.",
+   "short": "AIIMS",
+   "url": "https://resultdosti.in/job/list-of-eligible-provisionally-eligible-not-eligible-candidates-for-1c1244/",
+   "last_date": null,
+   "jobposting": false
+  },
+  {
+   "id": "8263bcbd74a8",
+   "type": "job",
+   "title": "List of eligible/Provisionally eligible/Not eligible candidates for the post of Assoc./Additional Professor of AIIMS, CAPFIMS.",
+   "short": "AIIMS",
+   "url": "https://resultdosti.in/job/list-of-eligible-provisionally-eligible-not-eligible-candidates-for-8263bc/",
+   "last_date": null,
+   "jobposting": false
+  }
+ ],
  "closed": []
 }
