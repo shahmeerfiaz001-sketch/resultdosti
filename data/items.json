@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T09:25:33+00:00",
+ "updated": "2026-11-23T11:09:38+00:00",
  "items": [
   {
    "id": "eb5a27ddb770",
@@ -46563,6 +46563,31 @@
    "tier": 1,
    "status": "info",
    "group": "aiims-programme-be-direct-professor-aiims-capfims-2026"
+  },
+  {
+   "id": "b1b9f80356da",
+   "source": "bceceb",
+   "org": "Bihar Combined Entrance Competitive Examination Board",
+   "short": "BCECEB",
+   "scope": "bihar",
+   "title": "Provisional Merit List of Eligible and Not Eligible Candidates for the Post of DENTISTRY after Document Verification of Senior Resident / Tutor Under Health Department (Adv. No. BCECEB(Health(SR))-2026(II)/07",
+   "url": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_2SR26_07.pdf",
+   "is_doc": true,
+   "type": "result",
+   "list_date": "2026-11-23",
+   "first_seen": "2026-11-23T11:09:31+00:00",
+   "last_seen": "2026-11-23T11:09:31+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://bceceboard.bihar.gov.in",
+   "slug": "provisional-merit-list-of-eligible-and-not-eligible-candidates-for-b1b9f8",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "bceceb-eligible-not-eligible-dentistry-senior-resident-2026"
   }
  ]
 }

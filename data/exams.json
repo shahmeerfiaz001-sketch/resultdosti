@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T09:25:33+00:00",
+ "updated": "2026-11-23T11:09:38+00:00",
  "exams": [
   {
    "key": "aiims-eligible-provisionally-eligible-not-eligible-2026",
@@ -88,6 +88,23 @@
    "slug": "aiims-schedule-for-the-interview-of-02-faculty-members-for-promotion-to-the-27948",
    "types": [
     "notice"
+   ],
+   "latest": "2026-11-23"
+  },
+  {
+   "key": "bceceb-eligible-not-eligible-dentistry-senior-resident-2026",
+   "source": "bceceb",
+   "short": "BCECEB",
+   "org": "Bihar Combined Entrance Competitive Examination Board",
+   "scope": "bihar",
+   "items": [
+    "b1b9f80356da"
+   ],
+   "year": 2026,
+   "name": "BCECEB Provisional Merit List of Eligible and Not Eligible Candidates for the Post of 2026",
+   "slug": "bceceb-provisional-merit-list-of-eligible-and-not-eligible-candidates-for-the-d565c",
+   "types": [
+    "result"
    ],
    "latest": "2026-11-23"
   },
