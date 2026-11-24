@@ -1,13 +1,40 @@
 {
- "run": "2026-11-24T07:14:46+00:00",
+ "run": "2026-11-24T13:15:54+00:00",
  "first_run": false,
  "new": [
   {
-   "id": "e9288adb19ae",
+   "id": "abab9dc840bb",
+   "type": "admission",
+   "title": "Schedule for Round-2 Counselling of PGMAC[UNANI]-2026 (Adv. No. BCECEB(PGMAC[AYUSH])-2026/09",
+   "short": "BCECEB",
+   "url": "https://resultdosti.in/admission/schedule-for-round-2-counselling-of-pgmac-unani-2026-adv-no-bceceb-abab9d/",
+   "last_date": null,
+   "jobposting": false
+  },
+  {
+   "id": "bb378342d348",
+   "type": "admission",
+   "title": "Schedule for Round-2 Counselling of PGMAC[HOMEOPATH]-2026 (Adv. No. BCECEB(PGMAC[AYUSH])-2026/08",
+   "short": "BCECEB",
+   "url": "https://resultdosti.in/admission/schedule-for-round-2-counselling-of-pgmac-homeopath-2026-adv-no-bb3783/",
+   "last_date": null,
+   "jobposting": false
+  },
+  {
+   "id": "98ac80934eb0",
    "type": "notice",
-   "title": "3885, 3887 Important Notice (Updated) regarding Advt No-20/2025 (Dentist) (Letter No. 3885,3887)",
-   "short": "BTSC",
-   "url": "https://resultdosti.in/notice/btsc-3885-3887-important-notice-updated-regarding-advt-no-20-2025-e9288a/",
+   "title": "Important Notice for Online Application and Choice Filling for UGMAC[AYUSH]-2026 Stray Vacancy Round-2(Adv. No. BCECEB[UGMAC(Ayush)]-2026/12",
+   "short": "BCECEB",
+   "url": "https://resultdosti.in/notice/important-notice-for-online-application-and-choice-filling-for-ugmac-98ac80/",
+   "last_date": null,
+   "jobposting": false
+  },
+  {
+   "id": "66d46b372f56",
+   "type": "job",
+   "title": "Details for Online Application and Choice Filling for UGMAC[AYUSH]-2026 Stray Vacancy Round-2(Adv. No. BCECEB[UGMAC(Ayush)]-2026/11",
+   "short": "BCECEB",
+   "url": "https://resultdosti.in/job/details-for-online-application-and-choice-filling-for-ugmac-ayush-66d46b/",
    "last_date": null,
    "jobposting": false
   }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T07:14:46+00:00",
+ "updated": "2026-11-24T13:15:54+00:00",
  "items": [
   {
    "id": "eb5a27ddb770",
@@ -46713,6 +46713,115 @@
    "tier": 1,
    "status": "info",
    "group": "btsc-advt-20-2025"
+  },
+  {
+   "id": "abab9dc840bb",
+   "source": "bceceb",
+   "org": "Bihar Combined Entrance Competitive Examination Board",
+   "short": "BCECEB",
+   "scope": "bihar",
+   "title": "Schedule for Round-2 Counselling of PGMAC[UNANI]-2026 (Adv. No. BCECEB(PGMAC[AYUSH])-2026/09",
+   "url": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGAAC26_09.pdf",
+   "is_doc": true,
+   "type": "admission",
+   "list_date": "2026-11-24",
+   "first_seen": "2026-11-24T13:15:43+00:00",
+   "last_seen": "2026-11-24T13:15:43+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://bceceboard.bihar.gov.in",
+   "slug": "schedule-for-round-2-counselling-of-pgmac-unani-2026-adv-no-bceceb-abab9d",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "bceceb-round-counselling-pgmac-unani-2026"
+  },
+  {
+   "id": "bb378342d348",
+   "source": "bceceb",
+   "org": "Bihar Combined Entrance Competitive Examination Board",
+   "short": "BCECEB",
+   "scope": "bihar",
+   "title": "Schedule for Round-2 Counselling of PGMAC[HOMEOPATH]-2026 (Adv. No. BCECEB(PGMAC[AYUSH])-2026/08",
+   "url": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGAAC26_08.pdf",
+   "is_doc": true,
+   "type": "admission",
+   "list_date": "2026-11-24",
+   "first_seen": "2026-11-24T13:15:43+00:00",
+   "last_seen": "2026-11-24T13:15:43+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://bceceboard.bihar.gov.in",
+   "slug": "schedule-for-round-2-counselling-of-pgmac-homeopath-2026-adv-no-bb3783",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "bceceb-round-counselling-pgmac-homeopath-2026"
+  },
+  {
+   "id": "98ac80934eb0",
+   "source": "bceceb",
+   "org": "Bihar Combined Entrance Competitive Examination Board",
+   "short": "BCECEB",
+   "scope": "bihar",
+   "title": "Important Notice for Online Application and Choice Filling for UGMAC[AYUSH]-2026 Stray Vacancy Round-2(Adv. No. BCECEB[UGMAC(Ayush)]-2026/12",
+   "url": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGAAC26_12.pdf",
+   "is_doc": true,
+   "type": "notice",
+   "list_date": "2026-11-24",
+   "first_seen": "2026-11-24T13:15:43+00:00",
+   "last_seen": "2026-11-24T13:15:43+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://bceceboard.bihar.gov.in",
+   "slug": "important-notice-for-online-application-and-choice-filling-for-ugmac-98ac80",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "bceceb-choice-filling-ugmac-ayush-stray-round-2026"
+  },
+  {
+   "id": "66d46b372f56",
+   "source": "bceceb",
+   "org": "Bihar Combined Entrance Competitive Examination Board",
+   "short": "BCECEB",
+   "scope": "bihar",
+   "title": "Details for Online Application and Choice Filling for UGMAC[AYUSH]-2026 Stray Vacancy Round-2(Adv. No. BCECEB[UGMAC(Ayush)]-2026/11",
+   "url": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGAAC26_11.pdf",
+   "is_doc": true,
+   "type": "job",
+   "list_date": "2026-11-24",
+   "first_seen": "2026-11-24T13:15:43+00:00",
+   "last_seen": "2026-11-24T13:15:43+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://bceceboard.bihar.gov.in",
+   "slug": "details-for-online-application-and-choice-filling-for-ugmac-ayush-66d46b",
+   "details": {
+    "fields": {},
+    "pdf_quality": {
+     "chars": 31691,
+     "latin": 0.762,
+     "devanagari": 0.0,
+     "legacy_suspect": false,
+     "scanned_suspect": false
+    },
+    "parsed_at": "2026-11-24T13:15:54+00:00",
+    "pdf_error": null,
+    "attempts": 1
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "bceceb-choice-filling-ugmac-ayush-stray-round-2026"
   }
  ]
 }

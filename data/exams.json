@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-24T07:14:46+00:00",
+ "updated": "2026-11-24T13:15:54+00:00",
  "exams": [
+  {
+   "key": "bceceb-choice-filling-ugmac-ayush-stray-round-2026",
+   "source": "bceceb",
+   "short": "BCECEB",
+   "org": "Bihar Combined Entrance Competitive Examination Board",
+   "scope": "bihar",
+   "items": [
+    "1d70065e92fe",
+    "bedb420d3648",
+    "98ac80934eb0",
+    "66d46b372f56"
+   ],
+   "year": 2026,
+   "name": "BCECEB Online Application and Choice Filling for UGMAC[AYUSH]-2026 Stray Vacancy",
+   "slug": "bceceb-online-application-and-choice-filling-for-ugmac-ayush-2026-stray-vacancy-99d4d",
+   "types": [
+    "job",
+    "notice"
+   ],
+   "latest": "2026-11-24"
+  },
+  {
+   "key": "bceceb-round-counselling-pgmac-unani-2026",
+   "source": "bceceb",
+   "short": "BCECEB",
+   "org": "Bihar Combined Entrance Competitive Examination Board",
+   "scope": "bihar",
+   "items": [
+    "abab9dc840bb"
+   ],
+   "year": 2026,
+   "name": "BCECEB Schedule for Round-2 Counselling of PGMAC[UNANI]-2026 -2026/09",
+   "slug": "bceceb-schedule-for-round-2-counselling-of-pgmac-unani-2026-2026-09-0203c",
+   "types": [
+    "admission"
+   ],
+   "latest": "2026-11-24"
+  },
+  {
+   "key": "bceceb-round-counselling-pgmac-homeopath-2026",
+   "source": "bceceb",
+   "short": "BCECEB",
+   "org": "Bihar Combined Entrance Competitive Examination Board",
+   "scope": "bihar",
+   "items": [
+    "bb378342d348"
+   ],
+   "year": 2026,
+   "name": "BCECEB Schedule for Round-2 Counselling of PGMAC[HOMEOPATH]-2026 -2026/08",
+   "slug": "bceceb-schedule-for-round-2-counselling-of-pgmac-homeopath-2026-2026-08-f5254",
+   "types": [
+    "admission"
+   ],
+   "latest": "2026-11-24"
+  },
   {
    "key": "ssc-information-admission-certificate-combined-2026",
    "source": "ssc",
@@ -1073,25 +1128,6 @@
    "slug": "uppsc-advt-no-a-10-e-1-2023-u-p-khadi-and-village-industries-board-prashikshak-92675",
    "types": [
     "job"
-   ],
-   "latest": "2026-11-12"
-  },
-  {
-   "key": "bceceb-choice-filling-ugmac-ayush-stray-round-2026",
-   "source": "bceceb",
-   "short": "BCECEB",
-   "org": "Bihar Combined Entrance Competitive Examination Board",
-   "scope": "bihar",
-   "items": [
-    "1d70065e92fe",
-    "bedb420d3648"
-   ],
-   "year": 2026,
-   "name": "BCECEB Online Application and Choice Filling for UGMAC[AYUSH]-2026 Stray Vacancy",
-   "slug": "bceceb-online-application-and-choice-filling-for-ugmac-ayush-2026-stray-vacancy-99d4d",
-   "types": [
-    "job",
-    "notice"
    ],
    "latest": "2026-11-12"
   },
