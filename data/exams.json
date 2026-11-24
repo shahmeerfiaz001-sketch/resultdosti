@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T19:03:41+00:00",
+ "updated": "2026-11-24T07:14:46+00:00",
  "exams": [
   {
    "key": "ssc-information-admission-certificate-combined-2026",
@@ -153,7 +153,8 @@
    "org": "Bihar Technical Service Commission",
    "scope": "bihar",
    "items": [
-    "392c3cc5089c"
+    "392c3cc5089c",
+    "e9288adb19ae"
    ],
    "year": 2025,
    "name": "BTSC Advt No-20/2025",

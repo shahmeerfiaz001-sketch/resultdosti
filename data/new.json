@@ -1,18 +1,16 @@
 {
- "run": "2026-11-23T19:03:41+00:00",
+ "run": "2026-11-24T07:14:46+00:00",
  "first_run": false,
  "new": [
   {
-   "id": "39c985a2cd46",
-   "type": "admit",
-   "title": "Information regarding the city of examination and Admission Certificate for the candidates of Combined Higher Secondary (10+2) Level Examination, 2026 (Computer Based Examination) (Tier-I)",
-   "short": "SSC",
-   "url": "https://resultdosti.in/admit-card/ssc-information-regarding-the-city-of-examination-and-admission-39c985/",
+   "id": "e9288adb19ae",
+   "type": "notice",
+   "title": "3885, 3887 Important Notice (Updated) regarding Advt No-20/2025 (Dentist) (Letter No. 3885,3887)",
+   "short": "BTSC",
+   "url": "https://resultdosti.in/notice/btsc-3885-3887-important-notice-updated-regarding-advt-no-20-2025-e9288a/",
    "last_date": null,
    "jobposting": false
   }
  ],
- "closed": [
-  "https://resultdosti.in/job/bceceb-detail-regarding-filling-up-online-application-form-for-the-a1c729/"
- ]
+ "closed": []
 }
