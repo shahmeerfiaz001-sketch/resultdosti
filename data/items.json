@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T09:06:20+00:00",
+ "updated": "2026-11-25T13:19:29+00:00",
  "items": [
   {
    "id": "eb5a27ddb770",
@@ -46983,6 +46983,65 @@
    "tier": 1,
    "status": "info",
    "group": "bpsc-advt-08-2026"
+  },
+  {
+   "id": "c17cdfc29666",
+   "source": "nta",
+   "org": "National Testing Agency",
+   "short": "NTA",
+   "scope": "central",
+   "title": "Important Advisory to Candidates Regarding Examination Schedule, Reporting Time, Lunch Break and Other Instructions for RIMC Entrance Examination Scheduled on 06 December 2026.",
+   "url": "https://nta.ac.in/Download/Notice/Notice_20261125175249.pdf",
+   "is_doc": true,
+   "type": "notice",
+   "list_date": null,
+   "first_seen": "2026-11-25T13:17:32+00:00",
+   "last_seen": "2026-11-25T13:17:32+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://nta.ac.in",
+   "slug": "nta-important-advisory-to-candidates-regarding-examination-schedule-c17cdf",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "nta-advisory-reporting-time-lunch-break-other-2026"
+  },
+  {
+   "id": "a555d4bdb1dc",
+   "source": "aiims",
+   "org": "AIIMS Examinations",
+   "short": "AIIMS",
+   "scope": "central",
+   "title": "Revised Programme of Interview to be held from 01/12/2026 to 05/12/2026 for the direct recruitment post of Assistant Professor for AIIMS, Delhi",
+   "url": "https://rrpdocuments.aiimsexams.ac.in/1795605265386-61135881.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVRUVRLXWMSLVSAP7%2F20261125%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261125T131746Z&X-Amz-Expires=604800&X-Amz-Signature=0ba6d7ce434f5cb4f546231a53108d76d505ee1ed3a74b81475c0240708b2345&X-Amz-SignedHeaders=host&response-content-type=application%2Fpdf",
+   "is_doc": true,
+   "type": "job",
+   "list_date": null,
+   "first_seen": "2026-11-25T13:18:11+00:00",
+   "last_seen": "2026-11-25T13:18:11+00:00",
+   "advt": null,
+   "link_policy": "home_only",
+   "official_home": "https://aiimsexams.ac.in/landingpage/notice",
+   "slug": "revised-programme-of-interview-to-be-held-from-01-12-2026-to-05-12-a555d4",
+   "details": {
+    "fields": {},
+    "pdf_quality": {
+     "chars": 6718,
+     "latin": 0.614,
+     "devanagari": 0.0,
+     "legacy_suspect": false,
+     "scanned_suspect": false
+    },
+    "parsed_at": "2026-11-25T13:19:29+00:00",
+    "pdf_error": null,
+    "attempts": 1
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "aiims-programme-be-direct-assistant-professor-aiims-2026"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T09:06:20+00:00",
+ "updated": "2026-11-25T13:19:29+00:00",
  "exams": [
   {
    "key": "uppsc-reagarding-a-e-assistant-teacher-trained-2025",
@@ -18,6 +18,25 @@
     "notice"
    ],
    "latest": "2026-11-26"
+  },
+  {
+   "key": "aiims-programme-be-direct-assistant-professor-aiims-2026",
+   "source": "aiims",
+   "short": "AIIMS",
+   "org": "AIIMS Examinations",
+   "scope": "central",
+   "items": [
+    "01bb9df1541c",
+    "0499763551a7",
+    "a555d4bdb1dc"
+   ],
+   "year": 2026,
+   "name": "AIIMS Programme of Interview to be held from 01/12/2026 to 05/12/2026 for the direct",
+   "slug": "aiims-programme-of-interview-to-be-held-from-01-12-2026-to-05-12-2026-for-the-17621",
+   "types": [
+    "job"
+   ],
+   "latest": "2026-11-25"
   },
   {
    "key": "btsc-3919-hold-2025",
@@ -101,6 +120,23 @@
    "slug": "bpsc-results-research-officer-competitive-examination-2026-a0e09",
    "types": [
     "result"
+   ],
+   "latest": "2026-11-25"
+  },
+  {
+   "key": "nta-advisory-reporting-time-lunch-break-other-2026",
+   "source": "nta",
+   "short": "NTA",
+   "org": "National Testing Agency",
+   "scope": "central",
+   "items": [
+    "c17cdfc29666"
+   ],
+   "year": 2026,
+   "name": "NTA Important Advisory to Candidates Regarding Examination Schedule, Reporting 2026",
+   "slug": "nta-important-advisory-to-candidates-regarding-examination-schedule-reporting-238f7",
+   "types": [
+    "notice"
    ],
    "latest": "2026-11-25"
   },
@@ -375,24 +411,6 @@
    "year": 2026,
    "name": "AIIMS Programme of Interview to be held from 01/12/2026 to 05/12/2026 for the direct",
    "slug": "aiims-programme-of-interview-to-be-held-from-01-12-2026-to-05-12-2026-for-the-b4820",
-   "types": [
-    "job"
-   ],
-   "latest": "2026-11-21"
-  },
-  {
-   "key": "aiims-programme-be-direct-assistant-professor-aiims-2026",
-   "source": "aiims",
-   "short": "AIIMS",
-   "org": "AIIMS Examinations",
-   "scope": "central",
-   "items": [
-    "01bb9df1541c",
-    "0499763551a7"
-   ],
-   "year": 2026,
-   "name": "AIIMS Programme of Interview to be held from 01/12/2026 to 05/12/2026 for the direct",
-   "slug": "aiims-programme-of-interview-to-be-held-from-01-12-2026-to-05-12-2026-for-the-17621",
    "types": [
     "job"
    ],
