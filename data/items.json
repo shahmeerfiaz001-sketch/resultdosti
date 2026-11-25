@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T13:19:29+00:00",
+ "updated": "2026-11-25T15:05:25+00:00",
  "items": [
   {
    "id": "eb5a27ddb770",
@@ -4151,7 +4151,7 @@
    "type": "result",
    "list_date": null,
    "first_seen": "2026-11-04T17:28:45+00:00",
-   "last_seen": "2026-11-18T01:08:18+00:00",
+   "last_seen": "2026-11-25T15:02:48+00:00",
    "advt": null,
    "link_policy": "deep",
    "official_home": "https://sbi.bank.in",
@@ -47042,6 +47042,98 @@
    "tier": 1,
    "status": "info",
    "group": "aiims-programme-be-direct-assistant-professor-aiims-2026"
+  },
+  {
+   "id": "e20cfe4cba15",
+   "source": "sbi",
+   "org": "State Bank of India Careers",
+   "short": "SBI",
+   "scope": "central",
+   "title": "Main Exam Result",
+   "url": "https://sbi.bank.in/webfiles/uploads/files_2627/11/Junior_Associates-SPLDRIVE-2025-26-RESULT-15_FORMAT.pdf",
+   "is_doc": true,
+   "type": "result",
+   "list_date": null,
+   "first_seen": "2026-11-25T15:02:44+00:00",
+   "last_seen": "2026-11-25T15:02:44+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://sbi.bank.in",
+   "slug": "sbi-main-exam-result-e20cfe",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 0,
+   "status": "info"
+  },
+  {
+   "id": "9d2a9306e7be",
+   "source": "sbi",
+   "org": "State Bank of India Careers",
+   "short": "SBI",
+   "scope": "central",
+   "title": "Candidates Provisionally Selected in Second Wait List",
+   "url": "https://sbi.bank.in/webfiles/uploads/files_2627/11/Junior_Associates-WL-2-2025-RESULT-15_FORMAT.pdf",
+   "is_doc": true,
+   "type": "job",
+   "list_date": null,
+   "first_seen": "2026-11-25T15:02:44+00:00",
+   "last_seen": "2026-11-25T15:02:44+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://sbi.bank.in",
+   "slug": "sbi-candidates-provisionally-selected-in-second-wait-list-9d2a93",
+   "details": {
+    "fields": {},
+    "pdf_quality": {
+     "chars": 4496,
+     "latin": 0.139,
+     "devanagari": 0.0,
+     "legacy_suspect": false,
+     "scanned_suspect": false
+    },
+    "parsed_at": "2026-11-25T15:05:25+00:00",
+    "pdf_error": null,
+    "attempts": 1
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "sbi-provisionally-second-wait-2026"
+  },
+  {
+   "id": "380186ba25df",
+   "source": "nta",
+   "org": "National Testing Agency",
+   "short": "NTA",
+   "scope": "central",
+   "title": "Engagement of Office Assistant (OA) at NTA on contractual basis",
+   "url": "https://nta.ac.in/Download/Notice/Notice_20261125203042.pdf",
+   "is_doc": true,
+   "type": "job",
+   "list_date": null,
+   "first_seen": "2026-11-25T15:02:57+00:00",
+   "last_seen": "2026-11-25T15:02:57+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://nta.ac.in",
+   "slug": "engagement-of-office-assistant-oa-at-nta-on-contractual-basis-380186",
+   "details": {
+    "fields": {},
+    "pdf_quality": {
+     "chars": 11189,
+     "latin": 0.711,
+     "devanagari": 0.073,
+     "legacy_suspect": false,
+     "scanned_suspect": false
+    },
+    "parsed_at": "2026-11-25T15:05:23+00:00",
+    "pdf_error": null,
+    "attempts": 1
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "nta-engagement-assistant-at-nta-contractual-basis-2026"
   }
  ]
 }

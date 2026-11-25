@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T13:19:29+00:00",
+ "updated": "2026-11-25T15:05:25+00:00",
  "exams": [
   {
    "key": "uppsc-reagarding-a-e-assistant-teacher-trained-2025",
@@ -137,6 +137,40 @@
    "slug": "nta-important-advisory-to-candidates-regarding-examination-schedule-reporting-238f7",
    "types": [
     "notice"
+   ],
+   "latest": "2026-11-25"
+  },
+  {
+   "key": "sbi-provisionally-second-wait-2026",
+   "source": "sbi",
+   "short": "SBI",
+   "org": "State Bank of India Careers",
+   "scope": "central",
+   "items": [
+    "9d2a9306e7be"
+   ],
+   "year": 2026,
+   "name": "SBI Candidates Provisionally Selected in Second Wait List 2026",
+   "slug": "sbi-candidates-provisionally-selected-in-second-wait-list-2026-2fe6c",
+   "types": [
+    "job"
+   ],
+   "latest": "2026-11-25"
+  },
+  {
+   "key": "nta-engagement-assistant-at-nta-contractual-basis-2026",
+   "source": "nta",
+   "short": "NTA",
+   "org": "National Testing Agency",
+   "scope": "central",
+   "items": [
+    "380186ba25df"
+   ],
+   "year": 2026,
+   "name": "Engagement of Office Assistant at NTA on contractual basis 2026",
+   "slug": "engagement-of-office-assistant-at-nta-on-contractual-basis-2026-cb332",
+   "types": [
+    "job"
    ],
    "latest": "2026-11-25"
   },
