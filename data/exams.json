@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T07:19:47+00:00",
+ "updated": "2026-11-25T09:06:20+00:00",
  "exams": [
   {
    "key": "uppsc-reagarding-a-e-assistant-teacher-trained-2025",
@@ -33,6 +33,74 @@
    "slug": "btsc-no-3919-21-2025-hold-b8814",
    "types": [
     "job"
+   ],
+   "latest": "2026-11-25"
+  },
+  {
+   "key": "bpsc-program-integrated-71st-combined-competitive-2026",
+   "source": "bpsc",
+   "short": "BPSC",
+   "org": "Bihar Public Service Commission",
+   "scope": "bihar",
+   "items": [
+    "f365235b7dcf"
+   ],
+   "year": 2026,
+   "name": "BPSC Document Verification Program : Integrated 71st Combined Competitive Examination 2026",
+   "slug": "bpsc-document-verification-program-integrated-71st-combined-competitive-54d8e",
+   "types": [
+    "notice"
+   ],
+   "latest": "2026-11-25"
+  },
+  {
+   "key": "bpsc-advt-38-2025",
+   "source": "bpsc",
+   "short": "BPSC",
+   "org": "Bihar Public Service Commission",
+   "scope": "bihar",
+   "items": [
+    "16e8a44fbac6"
+   ],
+   "year": 2025,
+   "name": "BPSC Final Results : District Statistical Officer/Assistant Director Competitive 2025",
+   "slug": "bpsc-final-results-district-statistical-officer-assistant-director-competitive-22ee9",
+   "types": [
+    "result"
+   ],
+   "latest": "2026-11-25"
+  },
+  {
+   "key": "bpsc-advt-13-2026",
+   "source": "bpsc",
+   "short": "BPSC",
+   "org": "Bihar Public Service Commission",
+   "scope": "bihar",
+   "items": [
+    "be0a9c4c42b7"
+   ],
+   "year": 2026,
+   "name": "BPSC Results : Prosecution Officer Competitive Examination. 2026",
+   "slug": "bpsc-results-prosecution-officer-competitive-examination-2026-93a99",
+   "types": [
+    "result"
+   ],
+   "latest": "2026-11-25"
+  },
+  {
+   "key": "bpsc-advt-08-2026",
+   "source": "bpsc",
+   "short": "BPSC",
+   "org": "Bihar Public Service Commission",
+   "scope": "bihar",
+   "items": [
+    "96b468c03b8e"
+   ],
+   "year": 2026,
+   "name": "BPSC Results : Research Officer Competitive Examination. 2026",
+   "slug": "bpsc-results-research-officer-competitive-examination-2026-a0e09",
+   "types": [
+    "result"
    ],
    "latest": "2026-11-25"
   },

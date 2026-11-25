@@ -1,22 +1,40 @@
 {
- "run": "2026-11-25T07:19:47+00:00",
+ "run": "2026-11-25T09:06:20+00:00",
  "first_run": false,
  "new": [
   {
-   "id": "62ee61def58a",
-   "type": "job",
-   "title": "(Apply Online from 19.11.2026 TO 03.12.2026) - ADVERTISEMENT Hindi/ English",
-   "short": "SBI",
-   "url": "https://resultdosti.in/job/sbi-apply-online-from-19-11-2026-to-03-12-2026-advertisement-hindi-62ee61/",
+   "id": "f365235b7dcf",
+   "type": "notice",
+   "title": "Document Verification Program : Integrated 71st Combined Competitive Examination",
+   "short": "BPSC",
+   "url": "https://resultdosti.in/notice/bpsc-document-verification-program-integrated-71st-combined-f36523/",
    "last_date": null,
    "jobposting": false
   },
   {
-   "id": "0260eff585c0",
-   "type": "job",
-   "title": "Notice No 3919 विज्ञापन सं.– 21/2025 (Dresser) के अन्तर्गत नियुक्ति के प्रसंग मे HOLD पर रखे गये अभ्यर्थियों में से अनुशंसित अभ्यर्थी की सूची (Notice No-3919, Dated: -25.11.2026)",
-   "short": "BTSC",
-   "url": "https://resultdosti.in/job/btsc-notice-no-3919-21-2025-dresser-hold-notice-no-3919-dated-25-11-0260ef/",
+   "id": "16e8a44fbac6",
+   "type": "result",
+   "title": "Final Results : District Statistical Officer/Assistant Director Competitive Examination. (Advt. No. 38/2025)",
+   "short": "BPSC",
+   "url": "https://resultdosti.in/result/bpsc-final-results-district-statistical-officer-assistant-director-16e8a4/",
+   "last_date": null,
+   "jobposting": false
+  },
+  {
+   "id": "be0a9c4c42b7",
+   "type": "result",
+   "title": "Results : Prosecution Officer (Preliminary) Competitive Examination. (Advt. No. 13/2026)",
+   "short": "BPSC",
+   "url": "https://resultdosti.in/result/bpsc-results-prosecution-officer-preliminary-competitive-examination-be0a9c/",
+   "last_date": null,
+   "jobposting": false
+  },
+  {
+   "id": "96b468c03b8e",
+   "type": "result",
+   "title": "Results : Research Officer (Preliminary) Competitive Examination. (Advt. No. 08/2026)",
+   "short": "BPSC",
+   "url": "https://resultdosti.in/result/bpsc-results-research-officer-preliminary-competitive-examination-96b468/",
    "last_date": null,
    "jobposting": false
   }

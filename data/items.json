@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T07:19:47+00:00",
+ "updated": "2026-11-25T09:06:20+00:00",
  "items": [
   {
    "id": "eb5a27ddb770",
@@ -46882,6 +46882,107 @@
    "tier": 1,
    "status": "info",
    "group": "btsc-3919-hold-2025"
+  },
+  {
+   "id": "f365235b7dcf",
+   "source": "bpsc",
+   "org": "Bihar Public Service Commission",
+   "short": "BPSC",
+   "scope": "bihar",
+   "title": "Document Verification Program : Integrated 71st Combined Competitive Examination",
+   "url": "https://bpsc.bihar.gov.in/wp-content/uploads/BPSC_content/Notices/DV-Program-Integrated-71st-CCE_BPSC-20261118-vwk9rz.pdf",
+   "is_doc": true,
+   "type": "notice",
+   "list_date": null,
+   "first_seen": "2026-11-25T09:05:42+00:00",
+   "last_seen": "2026-11-25T09:05:42+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://bpsc.bihar.gov.in",
+   "slug": "bpsc-document-verification-program-integrated-71st-combined-f36523",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "bpsc-program-integrated-71st-combined-competitive-2026"
+  },
+  {
+   "id": "16e8a44fbac6",
+   "source": "bpsc",
+   "org": "Bihar Public Service Commission",
+   "short": "BPSC",
+   "scope": "bihar",
+   "title": "Final Results : District Statistical Officer/Assistant Director Competitive Examination. (Advt. No. 38/2025)",
+   "url": "https://bpsc.bihar.gov.in/wp-content/uploads/BPSC_content/Notices/Final-Results-382025-District-Statistical-Officer-Assistant-Director_BPSC-20261123-il0j5w.pdf",
+   "is_doc": true,
+   "type": "result",
+   "list_date": null,
+   "first_seen": "2026-11-25T09:05:42+00:00",
+   "last_seen": "2026-11-25T09:05:42+00:00",
+   "advt": "38/2025",
+   "link_policy": "deep",
+   "official_home": "https://bpsc.bihar.gov.in",
+   "slug": "bpsc-final-results-district-statistical-officer-assistant-director-16e8a4",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "archive": true,
+   "status": "info",
+   "group": "bpsc-advt-38-2025"
+  },
+  {
+   "id": "be0a9c4c42b7",
+   "source": "bpsc",
+   "org": "Bihar Public Service Commission",
+   "short": "BPSC",
+   "scope": "bihar",
+   "title": "Results : Prosecution Officer (Preliminary) Competitive Examination. (Advt. No. 13/2026)",
+   "url": "https://bpsc.bihar.gov.in/wp-content/uploads/BPSC_content/Notices/Results-132026-Prosecution-Officer-Preliminary-Examination_BPSC-20261119-d637of.pdf",
+   "is_doc": true,
+   "type": "result",
+   "list_date": null,
+   "first_seen": "2026-11-25T09:05:42+00:00",
+   "last_seen": "2026-11-25T09:05:42+00:00",
+   "advt": "13/2026",
+   "link_policy": "deep",
+   "official_home": "https://bpsc.bihar.gov.in",
+   "slug": "bpsc-results-prosecution-officer-preliminary-competitive-examination-be0a9c",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "bpsc-advt-13-2026"
+  },
+  {
+   "id": "96b468c03b8e",
+   "source": "bpsc",
+   "org": "Bihar Public Service Commission",
+   "short": "BPSC",
+   "scope": "bihar",
+   "title": "Results : Research Officer (Preliminary) Competitive Examination. (Advt. No. 08/2026)",
+   "url": "https://bpsc.bihar.gov.in/wp-content/uploads/BPSC_content/Notices/Results-082026-Research-Officer-Preliminary-Examination_BPSC-20261119-phtmr7.pdf",
+   "is_doc": true,
+   "type": "result",
+   "list_date": null,
+   "first_seen": "2026-11-25T09:05:42+00:00",
+   "last_seen": "2026-11-25T09:05:42+00:00",
+   "advt": "08/2026",
+   "link_policy": "deep",
+   "official_home": "https://bpsc.bihar.gov.in",
+   "slug": "bpsc-results-research-officer-preliminary-competitive-examination-96b468",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "bpsc-advt-08-2026"
   }
  ]
 }
