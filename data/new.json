@@ -1,25 +1,6 @@
 {
- "run": "2026-11-25T15:05:25+00:00",
+ "run": "2026-11-25T18:54:16+00:00",
  "first_run": false,
- "new": [
-  {
-   "id": "9d2a9306e7be",
-   "type": "job",
-   "title": "Candidates Provisionally Selected in Second Wait List",
-   "short": "SBI",
-   "url": "https://resultdosti.in/job/sbi-candidates-provisionally-selected-in-second-wait-list-9d2a93/",
-   "last_date": null,
-   "jobposting": false
-  },
-  {
-   "id": "380186ba25df",
-   "type": "job",
-   "title": "Engagement of Office Assistant (OA) at NTA on contractual basis",
-   "short": "NTA",
-   "url": "https://resultdosti.in/job/engagement-of-office-assistant-oa-at-nta-on-contractual-basis-380186/",
-   "last_date": null,
-   "jobposting": false
-  }
- ],
+ "new": [],
  "closed": []
 }

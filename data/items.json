@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T15:05:25+00:00",
+ "updated": "2026-11-25T18:54:16+00:00",
  "items": [
   {
    "id": "eb5a27ddb770",
@@ -12384,31 +12384,6 @@
    "status": "info",
    "archive": true,
    "group": "nta-study-webs-active-learning-young-aspiring-minds-2025"
-  },
-  {
-   "id": "e46aec0f724b",
-   "source": "nta",
-   "org": "National Testing Agency",
-   "short": "NTA",
-   "scope": "central",
-   "title": "Public Notice regarding release of Admit Cards for the Candidates of JEE (Main)-2025 Session-2 (April 2025) scheduled to appear on 02, 03 and 04 April 2025",
-   "url": "https://nta.ac.in/Download/Notice/Notice_20250328220505.pdf",
-   "is_doc": true,
-   "type": "admit",
-   "list_date": "2025-04-04",
-   "first_seen": "2026-11-04T17:28:52+00:00",
-   "last_seen": "2026-11-25T01:10:34+00:00",
-   "advt": null,
-   "link_policy": "deep",
-   "official_home": "https://nta.ac.in",
-   "slug": "nta-public-notice-regarding-release-of-admit-cards-for-the-candidates-e46aec",
-   "details": {
-    "fields": {},
-    "parsed_at": null
-   },
-   "tier": 1,
-   "status": "info",
-   "group": "nta-public-jee-session-scheduled-appear-02-03-04-2025"
   },
   {
    "id": "cac19b59f94b",

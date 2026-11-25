@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T15:05:25+00:00",
+ "updated": "2026-11-25T18:54:16+00:00",
  "exams": [
   {
    "key": "uppsc-reagarding-a-e-assistant-teacher-trained-2025",
@@ -15934,23 +15934,6 @@
     "admit"
    ],
    "latest": "2025-04-09"
-  },
-  {
-   "key": "nta-public-jee-session-scheduled-appear-02-03-04-2025",
-   "source": "nta",
-   "short": "NTA",
-   "org": "National Testing Agency",
-   "scope": "central",
-   "items": [
-    "e46aec0f724b"
-   ],
-   "year": 2025,
-   "name": "NTA release of Admit Cards for the Candidates of JEE -2025 Session-2 scheduled to",
-   "slug": "nta-release-of-admit-cards-for-the-candidates-of-jee-2025-session-2-scheduled-to-5ca67",
-   "types": [
-    "admit"
-   ],
-   "latest": "2025-04-04"
   }
  ]
 }
