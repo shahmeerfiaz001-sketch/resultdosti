@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T01:12:22+00:00",
+ "updated": "2026-11-25T07:19:47+00:00",
  "items": [
   {
    "id": "eb5a27ddb770",
@@ -46822,6 +46822,66 @@
    "tier": 1,
    "status": "info",
    "group": "bceceb-choice-filling-ugmac-ayush-stray-round-2026"
+  },
+  {
+   "id": "62ee61def58a",
+   "source": "sbi",
+   "org": "State Bank of India Careers",
+   "short": "SBI",
+   "scope": "central",
+   "title": "(Apply Online from 19.11.2026 TO 03.12.2026) - ADVERTISEMENT Hindi/ English",
+   "url": "https://sbi.bank.in/documents/77530/57941334/25112026_SBI+-+CRPD-SCO-2026-27_36+-+Hindi.pdf/d9edb6e7-2193-abbe-b93a-f96f79b0d2fc?t=1795586806942",
+   "is_doc": false,
+   "type": "job",
+   "list_date": "2026-11-19",
+   "first_seen": "2026-11-25T07:17:23+00:00",
+   "last_seen": "2026-11-25T07:17:23+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://sbi.bank.in",
+   "slug": "sbi-apply-online-from-19-11-2026-to-03-12-2026-advertisement-hindi-62ee61",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "sbi-hindi-english-2026"
+  },
+  {
+   "id": "0260eff585c0",
+   "source": "btsc",
+   "org": "Bihar Technical Service Commission",
+   "short": "BTSC",
+   "scope": "bihar",
+   "title": "Notice No 3919 विज्ञापन सं.– 21/2025 (Dresser) के अन्तर्गत नियुक्ति के प्रसंग मे HOLD पर रखे गये अभ्यर्थियों में से अनुशंसित अभ्यर्थी की सूची (Notice No-3919, Dated: -25.11.2026)",
+   "url": "https://btsc.bihar.gov.in/sites/default/files/circulars/Notice_No_3919.pdf",
+   "is_doc": true,
+   "type": "job",
+   "list_date": "2026-11-25",
+   "first_seen": "2026-11-25T07:19:23+00:00",
+   "last_seen": "2026-11-25T07:19:23+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://btsc.bihar.gov.in",
+   "slug": "btsc-notice-no-3919-21-2025-dresser-hold-notice-no-3919-dated-25-11-0260ef",
+   "details": {
+    "fields": {},
+    "pdf_quality": {
+     "chars": 0,
+     "latin": 0.0,
+     "devanagari": 0.0,
+     "legacy_suspect": false,
+     "scanned_suspect": true,
+     "ocr": true
+    },
+    "parsed_at": "2026-11-25T07:19:47+00:00",
+    "pdf_error": null,
+    "attempts": 1
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "btsc-3919-hold-2025"
   }
  ]
 }

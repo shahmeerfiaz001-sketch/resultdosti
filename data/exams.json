@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T01:12:22+00:00",
+ "updated": "2026-11-25T07:19:47+00:00",
  "exams": [
   {
    "key": "uppsc-reagarding-a-e-assistant-teacher-trained-2025",
@@ -18,6 +18,23 @@
     "notice"
    ],
    "latest": "2026-11-26"
+  },
+  {
+   "key": "btsc-3919-hold-2025",
+   "source": "btsc",
+   "short": "BTSC",
+   "org": "Bihar Technical Service Commission",
+   "scope": "bihar",
+   "items": [
+    "0260eff585c0"
+   ],
+   "year": 2025,
+   "name": "BTSC No 3919 विज्ञापन सं.– 21/2025 के अन्तर्गत नियुक्ति के प्रसंग मे HOLD पर रखे गये",
+   "slug": "btsc-no-3919-21-2025-hold-b8814",
+   "types": [
+    "job"
+   ],
+   "latest": "2026-11-25"
   },
   {
    "key": "bceceb-choice-filling-ugmac-ayush-stray-round-2026",
@@ -475,6 +492,29 @@
    "latest": "2026-11-20"
   },
   {
+   "key": "sbi-hindi-english-2026",
+   "source": "sbi",
+   "short": "SBI",
+   "org": "State Bank of India Careers",
+   "scope": "central",
+   "items": [
+    "8dc365da69d9",
+    "69dc9e7a8538",
+    "b0e873c2a7d6",
+    "c447ae3d8478",
+    "8a78ad70d911",
+    "62ee61def58a"
+   ],
+   "year": 2026,
+   "name": "SBI ADVERTISEMENT Hindi/ English 2026",
+   "slug": "sbi-advertisement-hindi-english-2026-ca904",
+   "types": [
+    "job",
+    "notice"
+   ],
+   "latest": "2026-11-19"
+  },
+  {
    "key": "nta-public-subject-ugc-net-december-2026",
    "source": "nta",
    "short": "NTA",
@@ -905,28 +945,6 @@
     "job",
     "notice",
     "result"
-   ],
-   "latest": "2026-11-16"
-  },
-  {
-   "key": "sbi-hindi-english-2026",
-   "source": "sbi",
-   "short": "SBI",
-   "org": "State Bank of India Careers",
-   "scope": "central",
-   "items": [
-    "8dc365da69d9",
-    "69dc9e7a8538",
-    "b0e873c2a7d6",
-    "c447ae3d8478",
-    "8a78ad70d911"
-   ],
-   "year": 2026,
-   "name": "SBI ADVERTISEMENT Hindi/ English 2026",
-   "slug": "sbi-advertisement-hindi-english-2026-ca904",
-   "types": [
-    "job",
-    "notice"
    ],
    "latest": "2026-11-16"
   },

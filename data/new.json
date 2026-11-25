@@ -1,6 +1,25 @@
 {
- "run": "2026-11-25T01:12:22+00:00",
+ "run": "2026-11-25T07:19:47+00:00",
  "first_run": false,
- "new": [],
+ "new": [
+  {
+   "id": "62ee61def58a",
+   "type": "job",
+   "title": "(Apply Online from 19.11.2026 TO 03.12.2026) - ADVERTISEMENT Hindi/ English",
+   "short": "SBI",
+   "url": "https://resultdosti.in/job/sbi-apply-online-from-19-11-2026-to-03-12-2026-advertisement-hindi-62ee61/",
+   "last_date": null,
+   "jobposting": false
+  },
+  {
+   "id": "0260eff585c0",
+   "type": "job",
+   "title": "Notice No 3919 विज्ञापन सं.– 21/2025 (Dresser) के अन्तर्गत नियुक्ति के प्रसंग मे HOLD पर रखे गये अभ्यर्थियों में से अनुशंसित अभ्यर्थी की सूची (Notice No-3919, Dated: -25.11.2026)",
+   "short": "BTSC",
+   "url": "https://resultdosti.in/job/btsc-notice-no-3919-21-2025-dresser-hold-notice-no-3919-dated-25-11-0260ef/",
+   "last_date": null,
+   "jobposting": false
+  }
+ ],
  "closed": []
 }
