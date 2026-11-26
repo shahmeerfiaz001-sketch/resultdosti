@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T18:54:16+00:00",
+ "updated": "2026-11-26T07:17:55+00:00",
  "exams": [
   {
    "key": "uppsc-reagarding-a-e-assistant-teacher-trained-2025",
@@ -171,6 +171,23 @@
    "slug": "engagement-of-office-assistant-at-nta-on-contractual-basis-2026-cb332",
    "types": [
     "job"
+   ],
+   "latest": "2026-11-25"
+  },
+  {
+   "key": "ssc-change-centre-constable-central-armed-police-2026",
+   "source": "ssc",
+   "short": "SSC",
+   "org": "Staff Selection Commission",
+   "scope": "central",
+   "items": [
+    "a71a47678959"
+   ],
+   "year": 2026,
+   "name": "SSC Change in PET/PST Centre of candidates in Constable in Central Armed Police 2026",
+   "slug": "ssc-change-in-pet-pst-centre-of-candidates-in-constable-in-central-armed-police-973aa",
+   "types": [
+    "notice"
    ],
    "latest": "2026-11-25"
   },

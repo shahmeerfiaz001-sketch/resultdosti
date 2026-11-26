@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T18:54:16+00:00",
+ "updated": "2026-11-26T07:17:55+00:00",
  "items": [
   {
    "id": "eb5a27ddb770",
@@ -47109,6 +47109,31 @@
    "tier": 1,
    "status": "info",
    "group": "nta-engagement-assistant-at-nta-contractual-basis-2026"
+  },
+  {
+   "id": "a71a47678959",
+   "source": "ssc",
+   "org": "Staff Selection Commission",
+   "short": "SSC",
+   "scope": "central",
+   "title": "Important Notice - Change in PET/PST Centre of candidates in Constable (GD) in Central Armed Police Forces (CAPFs) and SSF, and Rifleman (GD) in Assam Rifles Examination, 2026",
+   "url": "https://ssc.gov.in/home/notice-board?notice=y89fpqyet8skzs4i1y96a",
+   "is_doc": false,
+   "type": "notice",
+   "list_date": "2026-11-25",
+   "first_seen": "2026-11-26T07:15:08+00:00",
+   "last_seen": "2026-11-26T07:15:08+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://ssc.gov.in",
+   "slug": "ssc-important-notice-change-in-pet-pst-centre-of-candidates-in-a71a47",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "ssc-change-centre-constable-central-armed-police-2026"
   }
  ]
 }
