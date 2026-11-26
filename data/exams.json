@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T13:18:39+00:00",
+ "updated": "2026-11-26T15:01:16+00:00",
  "exams": [
   {
    "key": "uppsc-reagarding-a-e-assistant-teacher-trained-2025",
@@ -34,6 +34,25 @@
    "slug": "rbi-recruitment-for-the-post-of-assistant-panel-year-2025-in-reserve-bank-of-6fe0b",
    "types": [
     "result"
+   ],
+   "latest": "2026-11-26"
+  },
+  {
+   "key": "upmsp-notice-2027",
+   "source": "upmsp",
+   "short": "UP Board",
+   "org": "UP Madhyamik Shiksha Parishad",
+   "scope": "up",
+   "items": [
+    "8898e51de67a",
+    "746c81dfd2d4",
+    "9b151ea41463"
+   ],
+   "year": 2027,
+   "name": "UP Board उत्तर प्रदेश में जनगणना 2027 के द्वितीय एवं अंतिम चरण के कार्यक्रम से सम्बन्धित",
+   "slug": "up-board-2027-d7264",
+   "types": [
+    "notice"
    ],
    "latest": "2026-11-26"
   },
@@ -332,24 +351,6 @@
    "slug": "ssc-information-regarding-the-city-of-examination-and-admission-certificate-for-55560",
    "types": [
     "admit"
-   ],
-   "latest": "2026-11-23"
-  },
-  {
-   "key": "upmsp-notice-2027",
-   "source": "upmsp",
-   "short": "UP Board",
-   "org": "UP Madhyamik Shiksha Parishad",
-   "scope": "up",
-   "items": [
-    "8898e51de67a",
-    "746c81dfd2d4"
-   ],
-   "year": 2027,
-   "name": "UP Board उत्तर प्रदेश में जनगणना 2027 के द्वितीय एवं अंतिम चरण के कार्यक्रम से सम्बन्धित",
-   "slug": "up-board-2027-d7264",
-   "types": [
-    "notice"
    ],
    "latest": "2026-11-23"
   },

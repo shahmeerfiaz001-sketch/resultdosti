@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T13:18:39+00:00",
+ "updated": "2026-11-26T15:01:16+00:00",
  "items": [
   {
    "id": "eb5a27ddb770",
@@ -47236,6 +47236,31 @@
    "archive": true,
    "status": "info",
    "group": "patnahc-regard-filling-up-cadre-district-judge-25-quota-2024"
+  },
+  {
+   "id": "9b151ea41463",
+   "source": "upmsp",
+   "org": "UP Madhyamik Shiksha Parishad",
+   "short": "UP Board",
+   "scope": "up",
+   "title": "हाई स्कूल एवं इंटरमीडिएट परीक्षा 2027 के केंद्र निर्धारण से सम्बन्धित विज्ञप्ति",
+   "url": "https://upmsp.edu.in/Downloads/Notification_Centre_26112026.pdf",
+   "is_doc": true,
+   "type": "notice",
+   "list_date": "2026-11-26",
+   "first_seen": "2026-11-26T15:00:27+00:00",
+   "last_seen": "2026-11-26T15:00:27+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://upmsp.edu.in",
+   "slug": "up-board-2027-9b151e",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "upmsp-notice-2027"
   }
  ]
 }
