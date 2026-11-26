@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T15:01:16+00:00",
+ "updated": "2026-11-26T17:08:18+00:00",
  "exams": [
   {
    "key": "uppsc-reagarding-a-e-assistant-teacher-trained-2025",
@@ -20,6 +20,32 @@
    "latest": "2026-11-26"
   },
   {
+   "key": "uppsc-d-e-medical-education-department-u-p-professor-2026",
+   "source": "uppsc",
+   "short": "UPPSC",
+   "org": "Uttar Pradesh Public Service Commission",
+   "scope": "up",
+   "items": [
+    "b4f944a6a189",
+    "7e00cef99008",
+    "ff0b8d11cfce",
+    "bc07c667f32f",
+    "25bcb7190a00",
+    "74283e66a0e1",
+    "74e15a870aae",
+    "b2efe3e74b6f",
+    "c7b2efc4c0e2",
+    "300da65d66b8"
+   ],
+   "year": 2026,
+   "name": "UPPSC Result of Advt. No. D-1/E-1/2026, Medical Education Department U.p. /professor",
+   "slug": "uppsc-result-of-advt-no-d-1-e-1-2026-medical-education-department-u-p-professor-c7b96",
+   "types": [
+    "result"
+   ],
+   "latest": "2026-11-26"
+  },
+  {
    "key": "rbi-assistant-panel-year-reserve-bank-india-display-2025",
    "source": "rbi",
    "short": "RBI",
@@ -32,6 +58,31 @@
    "year": 2025,
    "name": "RBI Recruitment for the Post of Assistant - Panel Year 2025 in Reserve Bank of",
    "slug": "rbi-recruitment-for-the-post-of-assistant-panel-year-2025-in-reserve-bank-of-6fe0b",
+   "types": [
+    "result"
+   ],
+   "latest": "2026-11-26"
+  },
+  {
+   "key": "uppsc-d-e-medical-education-department-u-p-assistant-2026",
+   "source": "uppsc",
+   "short": "UPPSC",
+   "org": "Uttar Pradesh Public Service Commission",
+   "scope": "up",
+   "items": [
+    "bc761dde702f",
+    "e624da6b4e79",
+    "a2a9b3e5ee89",
+    "06e02c5b8f3f",
+    "7c28caa8daf3",
+    "4def4d5e25af",
+    "4ab55bf9394b",
+    "b051a3b1430d",
+    "1c6486deaa44"
+   ],
+   "year": 2026,
+   "name": "UPPSC Result of Advt. No. D-1/E-1/2026, Medical Education Department U.p. , Assistant",
+   "slug": "uppsc-result-of-advt-no-d-1-e-1-2026-medical-education-department-u-p-assistant-9eb6b",
    "types": [
     "result"
    ],
@@ -104,6 +155,41 @@
    "slug": "patna-hc-with-regard-to-filling-up-of-the-vacancies-in-the-cadre-of-district-b48d2",
    "types": [
     "job"
+   ],
+   "latest": "2026-11-26"
+  },
+  {
+   "key": "uppsc-d-e-planning-department-uttar-pradesh-joint-2025",
+   "source": "uppsc",
+   "short": "UPPSC",
+   "org": "Uttar Pradesh Public Service Commission",
+   "scope": "up",
+   "items": [
+    "89821a25ad7e"
+   ],
+   "year": 2025,
+   "name": "UPPSC Result of Advt. NO:-D-5/E-1/2025, Planning Department Uttar Pradesh / Joint",
+   "slug": "uppsc-result-of-advt-no-d-5-e-1-2025-planning-department-uttar-pradesh-joint-9f996",
+   "types": [
+    "result"
+   ],
+   "latest": "2026-11-26"
+  },
+  {
+   "key": "uppsc-district-information-a-e-combined-state-upper-2026",
+   "source": "uppsc",
+   "short": "UPPSC",
+   "org": "Uttar Pradesh Public Service Commission",
+   "scope": "up",
+   "items": [
+    "ce783e1cc80b",
+    "c53df84ebda2"
+   ],
+   "year": 2026,
+   "name": "UPPSC District Information Slip / Admit Card for Advt. NO:A-1/E-1/2026, Combined",
+   "slug": "uppsc-district-information-slip-admit-card-for-advt-no-a-1-e-1-2026-combined-8a70c",
+   "types": [
+    "admit"
    ],
    "latest": "2026-11-26"
   },
@@ -569,29 +655,6 @@
    "slug": "nta-advance-city-intimation-slip-for-the-candidates-of-study-webs-of-active-2026-db1e4",
    "types": [
     "admit"
-   ],
-   "latest": "2026-11-20"
-  },
-  {
-   "key": "uppsc-d-e-medical-education-department-u-p-professor-2026",
-   "source": "uppsc",
-   "short": "UPPSC",
-   "org": "Uttar Pradesh Public Service Commission",
-   "scope": "up",
-   "items": [
-    "b4f944a6a189",
-    "7e00cef99008",
-    "ff0b8d11cfce",
-    "bc07c667f32f",
-    "25bcb7190a00",
-    "74283e66a0e1",
-    "74e15a870aae"
-   ],
-   "year": 2026,
-   "name": "UPPSC Result of Advt. No. D-1/E-1/2026, Medical Education Department U.p. /professor",
-   "slug": "uppsc-result-of-advt-no-d-1-e-1-2026-medical-education-department-u-p-professor-c7b96",
-   "types": [
-    "result"
    ],
    "latest": "2026-11-20"
   },
@@ -1171,29 +1234,6 @@
    "slug": "sbi-online-registration-extended-till-2026-875fe",
    "types": [
     "notice"
-   ],
-   "latest": "2026-11-16"
-  },
-  {
-   "key": "uppsc-d-e-medical-education-department-u-p-assistant-2026",
-   "source": "uppsc",
-   "short": "UPPSC",
-   "org": "Uttar Pradesh Public Service Commission",
-   "scope": "up",
-   "items": [
-    "bc761dde702f",
-    "e624da6b4e79",
-    "a2a9b3e5ee89",
-    "06e02c5b8f3f",
-    "7c28caa8daf3",
-    "4def4d5e25af",
-    "4ab55bf9394b"
-   ],
-   "year": 2026,
-   "name": "UPPSC Result of Advt. No. D-1/E-1/2026, Medical Education Department U.p. , Assistant",
-   "slug": "uppsc-result-of-advt-no-d-1-e-1-2026-medical-education-department-u-p-assistant-9eb6b",
-   "types": [
-    "result"
    ],
    "latest": "2026-11-16"
   },
