@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T11:01:12+00:00",
+ "updated": "2026-11-26T13:18:39+00:00",
  "exams": [
   {
    "key": "uppsc-reagarding-a-e-assistant-teacher-trained-2025",
@@ -20,6 +20,24 @@
    "latest": "2026-11-26"
   },
   {
+   "key": "rbi-assistant-panel-year-reserve-bank-india-display-2025",
+   "source": "rbi",
+   "short": "RBI",
+   "org": "Reserve Bank of India Opportunities",
+   "scope": "central",
+   "items": [
+    "2abeb8283486",
+    "e7f64c90613c"
+   ],
+   "year": 2025,
+   "name": "RBI Recruitment for the Post of Assistant - Panel Year 2025 in Reserve Bank of",
+   "slug": "rbi-recruitment-for-the-post-of-assistant-panel-year-2025-in-reserve-bank-of-6fe0b",
+   "types": [
+    "result"
+   ],
+   "latest": "2026-11-26"
+  },
+  {
    "key": "ibps-personality-remote-proctored-mode-crp-po-mt-xvi-2026",
    "source": "ibps",
    "short": "IBPS",
@@ -33,6 +51,40 @@
    "slug": "ibps-online-personality-test-in-remote-proctored-mode-for-crp-po-mt-xvi-2026-41879",
    "types": [
     "notice"
+   ],
+   "latest": "2026-11-26"
+  },
+  {
+   "key": "patnahc-regard-filling-up-cadre-district-judge-50-quota-2024",
+   "source": "patnahc",
+   "short": "Patna HC",
+   "org": "Patna High Court",
+   "scope": "bihar",
+   "items": [
+    "c462172f5bef"
+   ],
+   "year": 2024,
+   "name": "Patna HC With regard to filling up of the vacancies in the cadre of District Judge 2024",
+   "slug": "patna-hc-with-regard-to-filling-up-of-the-vacancies-in-the-cadre-of-district-18dec",
+   "types": [
+    "job"
+   ],
+   "latest": "2026-11-26"
+  },
+  {
+   "key": "patnahc-regard-filling-up-cadre-district-judge-25-quota-2024",
+   "source": "patnahc",
+   "short": "Patna HC",
+   "org": "Patna High Court",
+   "scope": "bihar",
+   "items": [
+    "b8e300af53f8"
+   ],
+   "year": 2024,
+   "name": "Patna HC With regard to filling up of the vacancies in the cadre of District Judge 2024",
+   "slug": "patna-hc-with-regard-to-filling-up-of-the-vacancies-in-the-cadre-of-district-b48d2",
+   "types": [
+    "job"
    ],
    "latest": "2026-11-26"
   },
@@ -10622,23 +10674,6 @@
    "year": 2026,
    "name": "RBI Final Result of Direct Recruitment for the Post of Officers in Grade ‘B’ – 2026",
    "slug": "rbi-final-result-of-direct-recruitment-for-the-post-of-officers-in-grade-b-2026-7daf0",
-   "types": [
-    "result"
-   ],
-   "latest": "2026-11-04"
-  },
-  {
-   "key": "rbi-assistant-panel-year-reserve-bank-india-display-2025",
-   "source": "rbi",
-   "short": "RBI",
-   "org": "Reserve Bank of India Opportunities",
-   "scope": "central",
-   "items": [
-    "2abeb8283486"
-   ],
-   "year": 2025,
-   "name": "RBI Recruitment for the Post of Assistant - Panel Year 2025 in Reserve Bank of",
-   "slug": "rbi-recruitment-for-the-post-of-assistant-panel-year-2025-in-reserve-bank-of-6fe0b",
    "types": [
     "result"
    ],

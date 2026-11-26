@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T11:01:12+00:00",
+ "updated": "2026-11-26T13:18:39+00:00",
  "items": [
   {
    "id": "eb5a27ddb770",
@@ -47159,6 +47159,83 @@
    "tier": 1,
    "status": "info",
    "group": "ibps-personality-remote-proctored-mode-crp-po-mt-xvi-2026"
+  },
+  {
+   "id": "e7f64c90613c",
+   "source": "rbi",
+   "org": "Reserve Bank of India Opportunities",
+   "short": "RBI",
+   "scope": "central",
+   "title": "Recruitment for the Post of Assistant - Panel Year 2025 in Reserve Bank of India Display of Roll Numbers of Provisionally Shortlisted Candidates from Kanpur and Lucknow Recruiting Unit",
+   "url": "https://opportunities.rbi.org.in/Scripts/bs_viewcontent.aspx?Id=5228",
+   "is_doc": false,
+   "type": "result",
+   "list_date": null,
+   "first_seen": "2026-11-26T13:16:39+00:00",
+   "last_seen": "2026-11-26T13:16:39+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://opportunities.rbi.org.in",
+   "slug": "rbi-recruitment-for-the-post-of-assistant-panel-year-2025-in-reserve-e7f64c",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "rbi-assistant-panel-year-reserve-bank-india-display-2025"
+  },
+  {
+   "id": "c462172f5bef",
+   "source": "patnahc",
+   "org": "Patna High Court",
+   "short": "Patna HC",
+   "scope": "bihar",
+   "title": "Notice With regard to filling up of the vacancies in the cadre of District Judge (Entry Level), against 50% quota for the year 2024-25.",
+   "url": "https://patnahighcourt.gov.in/getfile/MTEyOTI=-YT9S1Pj5L9g=",
+   "is_doc": false,
+   "type": "job",
+   "list_date": null,
+   "first_seen": "2026-11-26T13:18:37+00:00",
+   "last_seen": "2026-11-26T13:18:37+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://patnahighcourt.gov.in",
+   "slug": "patna-hc-notice-with-regard-to-filling-up-of-the-vacancies-in-the-c46217",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "archive": true,
+   "status": "info",
+   "group": "patnahc-regard-filling-up-cadre-district-judge-50-quota-2024"
+  },
+  {
+   "id": "b8e300af53f8",
+   "source": "patnahc",
+   "org": "Patna High Court",
+   "short": "Patna HC",
+   "scope": "bihar",
+   "title": "Notice With regard to filling up of the vacancies in the cadre of District Judge (Entry Level), against 25% quota (through Limited Departmental Competitive Examination) for the year 2024-25.",
+   "url": "https://patnahighcourt.gov.in/getfile/MTEyOTE=-41J9hIJ36Zs=",
+   "is_doc": false,
+   "type": "job",
+   "list_date": null,
+   "first_seen": "2026-11-26T13:18:37+00:00",
+   "last_seen": "2026-11-26T13:18:37+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://patnahighcourt.gov.in",
+   "slug": "patna-hc-notice-with-regard-to-filling-up-of-the-vacancies-in-the-b8e300",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "archive": true,
+   "status": "info",
+   "group": "patnahc-regard-filling-up-cadre-district-judge-25-quota-2024"
   }
  ]
 }
