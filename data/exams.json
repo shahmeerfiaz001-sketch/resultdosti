@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T07:17:55+00:00",
+ "updated": "2026-11-26T11:01:12+00:00",
  "exams": [
   {
    "key": "uppsc-reagarding-a-e-assistant-teacher-trained-2025",
@@ -14,6 +14,23 @@
    "year": 2025,
    "name": "UPPSC Reagarding Document Verification for Advt. No. A-5/E-1/2025, Assistant Teacher",
    "slug": "uppsc-reagarding-document-verification-for-advt-no-a-5-e-1-2025-assistant-817f7",
+   "types": [
+    "notice"
+   ],
+   "latest": "2026-11-26"
+  },
+  {
+   "key": "ibps-personality-remote-proctored-mode-crp-po-mt-xvi-2026",
+   "source": "ibps",
+   "short": "IBPS",
+   "org": "Institute of Banking Personnel Selection",
+   "scope": "central",
+   "items": [
+    "2473dc56bc93"
+   ],
+   "year": 2026,
+   "name": "IBPS Online Personality Test in Remote Proctored Mode for CRP-PO/MT-XVI 2026",
+   "slug": "ibps-online-personality-test-in-remote-proctored-mode-for-crp-po-mt-xvi-2026-41879",
    "types": [
     "notice"
    ],

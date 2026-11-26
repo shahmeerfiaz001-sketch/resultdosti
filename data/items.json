@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T07:17:55+00:00",
+ "updated": "2026-11-26T11:01:12+00:00",
  "items": [
   {
    "id": "eb5a27ddb770",
@@ -87,7 +87,7 @@
    "type": "job",
    "list_date": "2026-11-04",
    "first_seen": "2026-11-04T17:28:33+00:00",
-   "last_seen": "2026-11-25T01:10:13+00:00",
+   "last_seen": "2026-11-26T10:58:19+00:00",
    "advt": null,
    "link_policy": "deep",
    "official_home": "https://www.ibps.in",
@@ -20018,7 +20018,7 @@
    "type": "notice",
    "list_date": null,
    "first_seen": "2026-11-04T17:36:47+00:00",
-   "last_seen": "2026-11-25T01:11:35+00:00",
+   "last_seen": "2026-11-26T11:00:24+00:00",
    "advt": null,
    "link_policy": "deep",
    "official_home": "https://updeled.gov.in",
@@ -20044,7 +20044,7 @@
    "type": "admission",
    "list_date": "2026-08-07",
    "first_seen": "2026-11-04T17:36:47+00:00",
-   "last_seen": "2026-11-25T01:11:35+00:00",
+   "last_seen": "2026-11-26T11:00:24+00:00",
    "advt": null,
    "link_policy": "deep",
    "official_home": "https://updeled.gov.in",
@@ -20069,7 +20069,7 @@
    "type": "admission",
    "list_date": "2026-10-01",
    "first_seen": "2026-11-04T17:36:47+00:00",
-   "last_seen": "2026-11-25T01:11:35+00:00",
+   "last_seen": "2026-11-26T11:00:24+00:00",
    "advt": null,
    "link_policy": "deep",
    "official_home": "https://updeled.gov.in",
@@ -42735,7 +42735,7 @@
    "type": "admit",
    "list_date": "2026-11-09",
    "first_seen": "2026-11-09T10:55:18+00:00",
-   "last_seen": "2026-11-16T01:17:21+00:00",
+   "last_seen": "2026-11-26T10:58:19+00:00",
    "advt": null,
    "link_policy": "deep",
    "official_home": "https://www.ibps.in",
@@ -47134,6 +47134,31 @@
    "tier": 1,
    "status": "info",
    "group": "ssc-change-centre-constable-central-armed-police-2026"
+  },
+  {
+   "id": "2473dc56bc93",
+   "source": "ibps",
+   "org": "Institute of Banking Personnel Selection",
+   "short": "IBPS",
+   "scope": "central",
+   "title": "Notice for Online Personality Test in Remote Proctored Mode (RPA Mode) for CRP-PO/MT-XVI",
+   "url": "https://www.ibps.in/wp-content/uploads/NOTICE-FOR-PERSONALITY-TEST_CRP-PO-XVI.pdf",
+   "is_doc": true,
+   "type": "notice",
+   "list_date": "2026-11-26",
+   "first_seen": "2026-11-26T10:58:19+00:00",
+   "last_seen": "2026-11-26T10:58:19+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://www.ibps.in",
+   "slug": "ibps-notice-for-online-personality-test-in-remote-proctored-mode-rpa-2473dc",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "ibps-personality-remote-proctored-mode-crp-po-mt-xvi-2026"
   }
  ]
 }
