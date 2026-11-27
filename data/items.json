@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T01:17:03+00:00",
+ "updated": "2026-11-27T07:18:03+00:00",
  "items": [
   {
    "id": "eb5a27ddb770",
@@ -47469,6 +47469,32 @@
    "archive": true,
    "status": "info",
    "group": "uppsc-district-information-a-e-combined-state-upper-2026"
+  },
+  {
+   "id": "379ef39be91b",
+   "source": "patnahc",
+   "org": "Patna High Court",
+   "short": "Patna HC",
+   "scope": "bihar",
+   "title": "Notice With regard to filling up of the vacancies in the cadre of Civil Judge (Senior Division) against 10% quota for the year 2024-25.",
+   "url": "https://patnahighcourt.gov.in/getfile/MTEyOTU=-awdKBUZfHao=",
+   "is_doc": false,
+   "type": "job",
+   "list_date": null,
+   "first_seen": "2026-11-27T07:18:02+00:00",
+   "last_seen": "2026-11-27T07:18:02+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://patnahighcourt.gov.in",
+   "slug": "patna-hc-notice-with-regard-to-filling-up-of-the-vacancies-in-the-379ef3",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "archive": true,
+   "status": "info",
+   "group": "patnahc-regard-filling-up-cadre-civil-judge-10-quota-2024"
   }
  ]
 }

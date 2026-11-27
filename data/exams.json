@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T01:17:03+00:00",
+ "updated": "2026-11-27T07:18:03+00:00",
  "exams": [
   {
    "key": "uppsc-provisionally-a-e-asst-teacher-trained-graduate-2025",
@@ -20,6 +20,23 @@
     "result"
    ],
    "latest": "2026-11-28"
+  },
+  {
+   "key": "patnahc-regard-filling-up-cadre-civil-judge-10-quota-2024",
+   "source": "patnahc",
+   "short": "Patna HC",
+   "org": "Patna High Court",
+   "scope": "bihar",
+   "items": [
+    "379ef39be91b"
+   ],
+   "year": 2024,
+   "name": "Patna HC With regard to filling up of the vacancies in the cadre of Civil Judge against 2024",
+   "slug": "patna-hc-with-regard-to-filling-up-of-the-vacancies-in-the-cadre-of-civil-judge-31b06",
+   "types": [
+    "job"
+   ],
+   "latest": "2026-11-27"
   },
   {
    "key": "uppsc-reagarding-a-e-assistant-teacher-trained-2025",

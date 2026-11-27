@@ -1,6 +1,16 @@
 {
- "run": "2026-11-27T01:17:03+00:00",
+ "run": "2026-11-27T07:18:03+00:00",
  "first_run": false,
- "new": [],
+ "new": [
+  {
+   "id": "379ef39be91b",
+   "type": "job",
+   "title": "Notice With regard to filling up of the vacancies in the cadre of Civil Judge (Senior Division) against 10% quota for the year 2024-25.",
+   "short": "Patna HC",
+   "url": "https://resultdosti.in/job/patna-hc-notice-with-regard-to-filling-up-of-the-vacancies-in-the-379ef3/",
+   "last_date": null,
+   "jobposting": false
+  }
+ ],
  "closed": []
 }
