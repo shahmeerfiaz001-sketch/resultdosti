@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T14:56:50+00:00",
+ "updated": "2026-11-27T17:07:32+00:00",
  "items": [
   {
    "id": "eb5a27ddb770",
@@ -47655,6 +47655,31 @@
    },
    "tier": 1,
    "status": "info"
+  },
+  {
+   "id": "7d001f983ca7",
+   "source": "uppsc",
+   "org": "Uttar Pradesh Public Service Commission",
+   "short": "UPPSC",
+   "scope": "up",
+   "title": "Result of Advt. NO:-D-1/E-1/2026, Medical Education Department U.p. (Allopathy) / Professor Anesthesiology, S-08/05...",
+   "url": "https://uppsc.up.nic.in/Open_PDF_DB.aspx?I4PnQ0tBagldjThZjoT+Ruxenxa0FgCl",
+   "is_doc": false,
+   "type": "result",
+   "list_date": null,
+   "first_seen": "2026-11-27T17:06:35+00:00",
+   "last_seen": "2026-11-27T17:06:35+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://uppsc.up.nic.in",
+   "slug": "uppsc-result-of-advt-no-d-1-e-1-2026-medical-education-department-u-p-7d001f",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "uppsc-d-e-medical-education-department-u-p-professor-2026"
   }
  ]
 }
