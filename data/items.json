@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T10:58:11+00:00",
+ "updated": "2026-11-27T13:14:31+00:00",
  "items": [
   {
    "id": "eb5a27ddb770",
@@ -47605,6 +47605,32 @@
    "tier": 1,
    "status": "info",
    "group": "ibps-sidbi-officers-registration-21-nov-2026"
+  },
+  {
+   "id": "ec2237a310c9",
+   "source": "patnahc",
+   "org": "Patna High Court",
+   "short": "Patna HC",
+   "scope": "bihar",
+   "title": "Marks obtained by the officers in the 14th Limited Competitive Examination held for filling up of the vacancies in the cadre of District Judge (Entry Level), against 10% quota for the year 2023-24",
+   "url": "https://patnahighcourt.gov.in/EXAM/LoginJOLimited10.aspx",
+   "is_doc": false,
+   "type": "job",
+   "list_date": null,
+   "first_seen": "2026-11-27T13:14:30+00:00",
+   "last_seen": "2026-11-27T13:14:30+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://patnahighcourt.gov.in",
+   "slug": "patna-hc-marks-obtained-by-the-officers-in-the-14th-limited-ec2237",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "archive": true,
+   "status": "info",
+   "group": "patnahc-obtained-by-officers-14th-limited-competitive-2023"
   }
  ]
 }

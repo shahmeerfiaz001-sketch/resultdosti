@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T10:58:11+00:00",
+ "updated": "2026-11-27T13:14:31+00:00",
  "exams": [
   {
    "key": "uppsc-provisionally-a-e-asst-teacher-trained-graduate-2025",
@@ -68,6 +68,23 @@
    "year": 2026,
    "name": "IBPS IEB Direct Recruitment Drive for Management Trainees and Managers Registration 2026",
    "slug": "ibps-ieb-direct-recruitment-drive-for-management-trainees-and-managers-cdda2",
+   "types": [
+    "job"
+   ],
+   "latest": "2026-11-27"
+  },
+  {
+   "key": "patnahc-obtained-by-officers-14th-limited-competitive-2023",
+   "source": "patnahc",
+   "short": "Patna HC",
+   "org": "Patna High Court",
+   "scope": "bihar",
+   "items": [
+    "ec2237a310c9"
+   ],
+   "year": 2023,
+   "name": "Patna HC Marks obtained by the officers in the 14th Limited Competitive Examination held 2023",
+   "slug": "patna-hc-marks-obtained-by-the-officers-in-the-14th-limited-competitive-1af0a",
    "types": [
     "job"
    ],
