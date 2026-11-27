@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T07:18:03+00:00",
+ "updated": "2026-11-27T09:05:30+00:00",
  "items": [
   {
    "id": "eb5a27ddb770",
@@ -47495,6 +47495,41 @@
    "archive": true,
    "status": "info",
    "group": "patnahc-regard-filling-up-cadre-civil-judge-10-quota-2024"
+  },
+  {
+   "id": "481166d19764",
+   "source": "nta",
+   "org": "National Testing Agency",
+   "short": "NTA",
+   "scope": "central",
+   "title": "Correction in Particulars of Online Application Form of Joint Entrance Examination(Main) - 2027 (Session 1)- Reg.",
+   "url": "https://nta.ac.in/Download/Notice/Notice_20261127125048.pdf",
+   "is_doc": true,
+   "type": "job",
+   "list_date": null,
+   "first_seen": "2026-11-27T09:02:44+00:00",
+   "last_seen": "2026-11-27T09:02:44+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://nta.ac.in",
+   "slug": "nta-correction-in-particulars-of-online-application-form-of-joint-481166",
+   "details": {
+    "fields": {},
+    "pdf_quality": {
+     "chars": 0,
+     "latin": 0.0,
+     "devanagari": 0.0,
+     "legacy_suspect": false,
+     "scanned_suspect": true,
+     "ocr": true
+    },
+    "parsed_at": "2026-11-27T09:05:30+00:00",
+    "pdf_error": null,
+    "attempts": 1
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "nta-joint-entrance-2027"
   }
  ]
 }

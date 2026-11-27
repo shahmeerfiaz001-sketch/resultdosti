@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T07:18:03+00:00",
+ "updated": "2026-11-27T09:05:30+00:00",
  "exams": [
   {
    "key": "uppsc-provisionally-a-e-asst-teacher-trained-graduate-2025",
@@ -20,6 +20,24 @@
     "result"
    ],
    "latest": "2026-11-28"
+  },
+  {
+   "key": "nta-joint-entrance-2027",
+   "source": "nta",
+   "short": "NTA",
+   "org": "National Testing Agency",
+   "scope": "central",
+   "items": [
+    "8865054e4723",
+    "481166d19764"
+   ],
+   "year": 2027,
+   "name": "NTA Inviting Online Application form for the Joint Entrance Examination -2027 –",
+   "slug": "nta-inviting-online-application-form-for-the-joint-entrance-examination-2027-7de29",
+   "types": [
+    "job"
+   ],
+   "latest": "2026-11-27"
   },
   {
    "key": "patnahc-regard-filling-up-cadre-civil-judge-10-quota-2024",
@@ -2778,23 +2796,6 @@
    "year": 2026,
    "name": "NTA Correction in Particulars of the Online Application Form of Rashtriya Military 2026",
    "slug": "nta-correction-in-particulars-of-the-online-application-form-of-rashtriya-25045",
-   "types": [
-    "job"
-   ],
-   "latest": "2026-11-04"
-  },
-  {
-   "key": "nta-joint-entrance-2027",
-   "source": "nta",
-   "short": "NTA",
-   "org": "National Testing Agency",
-   "scope": "central",
-   "items": [
-    "8865054e4723"
-   ],
-   "year": 2027,
-   "name": "NTA Inviting Online Application form for the Joint Entrance Examination -2027 –",
-   "slug": "nta-inviting-online-application-form-for-the-joint-entrance-examination-2027-7de29",
    "types": [
     "job"
    ],
