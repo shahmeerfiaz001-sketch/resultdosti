@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T09:05:30+00:00",
+ "updated": "2026-11-27T10:58:11+00:00",
  "exams": [
   {
    "key": "uppsc-provisionally-a-e-asst-teacher-trained-graduate-2025",
@@ -51,6 +51,23 @@
    "year": 2024,
    "name": "Patna HC With regard to filling up of the vacancies in the cadre of Civil Judge against 2024",
    "slug": "patna-hc-with-regard-to-filling-up-of-the-vacancies-in-the-cadre-of-civil-judge-31b06",
+   "types": [
+    "job"
+   ],
+   "latest": "2026-11-27"
+  },
+  {
+   "key": "ibps-ieb-direct-drive-management-trainees-managers-2026",
+   "source": "ibps",
+   "short": "IBPS",
+   "org": "Institute of Banking Personnel Selection",
+   "scope": "central",
+   "items": [
+    "14a141f70548"
+   ],
+   "year": 2026,
+   "name": "IBPS IEB Direct Recruitment Drive for Management Trainees and Managers Registration 2026",
+   "slug": "ibps-ieb-direct-recruitment-drive-for-management-trainees-and-managers-cdda2",
    "types": [
     "job"
    ],
@@ -245,6 +262,23 @@
    "slug": "uppsc-district-information-slip-admit-card-for-advt-no-a-1-e-1-2026-combined-8a70c",
    "types": [
     "admit"
+   ],
+   "latest": "2026-11-26"
+  },
+  {
+   "key": "ibps-bmc-promotion-senior-inspector-qualified-2026",
+   "source": "ibps",
+   "short": "IBPS",
+   "org": "Institute of Banking Personnel Selection",
+   "scope": "central",
+   "items": [
+    "60f3dc931e08"
+   ],
+   "year": 2026,
+   "name": "IBPS BMC Promotion for the post of Senior Inspector Qualified Registration From 2026",
+   "slug": "ibps-bmc-promotion-for-the-post-of-senior-inspector-qualified-registration-from-ddd30",
+   "types": [
+    "job"
    ],
    "latest": "2026-11-26"
   },
@@ -692,6 +726,23 @@
    "slug": "bceceb-sechedule-for-pgmac-2026-round-2-counselling-2026-05-62db1",
    "types": [
     "admission"
+   ],
+   "latest": "2026-11-21"
+  },
+  {
+   "key": "ibps-sidbi-officers-registration-21-nov-2026",
+   "source": "ibps",
+   "short": "IBPS",
+   "org": "Institute of Banking Personnel Selection",
+   "scope": "central",
+   "items": [
+    "9ea5ac1b2878"
+   ],
+   "year": 2026,
+   "name": "IBPS SIDBI Recruitment of Officers Registration From 21-Nov-2026",
+   "slug": "ibps-sidbi-recruitment-of-officers-registration-from-21-nov-2026-d489b",
+   "types": [
+    "job"
    ],
    "latest": "2026-11-21"
   },

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T09:05:30+00:00",
+ "updated": "2026-11-27T10:58:11+00:00",
  "items": [
   {
    "id": "eb5a27ddb770",
@@ -47530,6 +47530,81 @@
    "tier": 1,
    "status": "info",
    "group": "nta-joint-entrance-2027"
+  },
+  {
+   "id": "14a141f70548",
+   "source": "ibps",
+   "org": "Institute of Banking Personnel Selection",
+   "short": "IBPS",
+   "scope": "central",
+   "title": "IEB Direct Recruitment Drive for Management Trainees and Managers Registration From 27-Nov-2026",
+   "url": "https://ibpsreg.ibps.in/iebmtmnov26/",
+   "is_doc": false,
+   "type": "job",
+   "list_date": "2026-11-27",
+   "first_seen": "2026-11-27T10:55:27+00:00",
+   "last_seen": "2026-11-27T10:55:27+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://www.ibps.in",
+   "slug": "ibps-ieb-direct-recruitment-drive-for-management-trainees-and-14a141",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "ibps-ieb-direct-drive-management-trainees-managers-2026"
+  },
+  {
+   "id": "60f3dc931e08",
+   "source": "ibps",
+   "org": "Institute of Banking Personnel Selection",
+   "short": "IBPS",
+   "scope": "central",
+   "title": "BMC Promotion for the post of Senior Inspector (Licence) Qualified Registration From 26-Nov-2026",
+   "url": "https://ibpsreg.ibps.in/bmcsioct26/",
+   "is_doc": false,
+   "type": "job",
+   "list_date": "2026-11-26",
+   "first_seen": "2026-11-27T10:55:27+00:00",
+   "last_seen": "2026-11-27T10:55:27+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://www.ibps.in",
+   "slug": "ibps-bmc-promotion-for-the-post-of-senior-inspector-licence-qualified-60f3dc",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "ibps-bmc-promotion-senior-inspector-qualified-2026"
+  },
+  {
+   "id": "9ea5ac1b2878",
+   "source": "ibps",
+   "org": "Institute of Banking Personnel Selection",
+   "short": "IBPS",
+   "scope": "central",
+   "title": "SIDBI Recruitment of Officers Registration From 21-Nov-2026",
+   "url": "https://ibpsreg.ibps.in/sidbimay26/",
+   "is_doc": false,
+   "type": "job",
+   "list_date": "2026-11-21",
+   "first_seen": "2026-11-27T10:55:27+00:00",
+   "last_seen": "2026-11-27T10:55:27+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://www.ibps.in",
+   "slug": "ibps-sidbi-recruitment-of-officers-registration-from-21-nov-2026-9ea5ac",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "ibps-sidbi-officers-registration-21-nov-2026"
   }
  ]
 }

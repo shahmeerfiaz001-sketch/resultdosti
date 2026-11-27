@@ -1,13 +1,31 @@
 {
- "run": "2026-11-27T09:05:30+00:00",
+ "run": "2026-11-27T10:58:11+00:00",
  "first_run": false,
  "new": [
   {
-   "id": "481166d19764",
+   "id": "14a141f70548",
    "type": "job",
-   "title": "Correction in Particulars of Online Application Form of Joint Entrance Examination(Main) - 2027 (Session 1)- Reg.",
-   "short": "NTA",
-   "url": "https://resultdosti.in/job/nta-correction-in-particulars-of-online-application-form-of-joint-481166/",
+   "title": "IEB Direct Recruitment Drive for Management Trainees and Managers Registration From 27-Nov-2026",
+   "short": "IBPS",
+   "url": "https://resultdosti.in/job/ibps-ieb-direct-recruitment-drive-for-management-trainees-and-14a141/",
+   "last_date": null,
+   "jobposting": false
+  },
+  {
+   "id": "60f3dc931e08",
+   "type": "job",
+   "title": "BMC Promotion for the post of Senior Inspector (Licence) Qualified Registration From 26-Nov-2026",
+   "short": "IBPS",
+   "url": "https://resultdosti.in/job/ibps-bmc-promotion-for-the-post-of-senior-inspector-licence-qualified-60f3dc/",
+   "last_date": null,
+   "jobposting": false
+  },
+  {
+   "id": "9ea5ac1b2878",
+   "type": "job",
+   "title": "SIDBI Recruitment of Officers Registration From 21-Nov-2026",
+   "short": "IBPS",
+   "url": "https://resultdosti.in/job/ibps-sidbi-recruitment-of-officers-registration-from-21-nov-2026-9ea5ac/",
    "last_date": null,
    "jobposting": false
   }
