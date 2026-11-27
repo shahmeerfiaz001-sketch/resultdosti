@@ -1,6 +1,26 @@
 {
- "updated": "2026-11-26T17:08:18+00:00",
+ "updated": "2026-11-27T01:17:03+00:00",
  "exams": [
+  {
+   "key": "uppsc-provisionally-a-e-asst-teacher-trained-graduate-2025",
+   "source": "uppsc",
+   "short": "UPPSC",
+   "org": "Uttar Pradesh Public Service Commission",
+   "scope": "up",
+   "items": [
+    "40bd01b48731",
+    "adfe408ebb41",
+    "292dfea3c765",
+    "54bc77001796"
+   ],
+   "year": 2025,
+   "name": "UPPSC List of Provisionally Selected Candidates in Advt. No. A-5/E-1/2025, Asst.",
+   "slug": "uppsc-list-of-provisionally-selected-candidates-in-advt-no-a-5-e-1-2025-asst-8ce10",
+   "types": [
+    "result"
+   ],
+   "latest": "2026-11-28"
+  },
   {
    "key": "uppsc-reagarding-a-e-assistant-teacher-trained-2025",
    "source": "uppsc",
@@ -990,26 +1010,6 @@
     "result"
    ],
    "latest": "2026-11-18"
-  },
-  {
-   "key": "uppsc-provisionally-a-e-asst-teacher-trained-graduate-2025",
-   "source": "uppsc",
-   "short": "UPPSC",
-   "org": "Uttar Pradesh Public Service Commission",
-   "scope": "up",
-   "items": [
-    "40bd01b48731",
-    "adfe408ebb41",
-    "292dfea3c765",
-    "54bc77001796"
-   ],
-   "year": 2025,
-   "name": "UPPSC List of Provisionally Selected Candidates in Advt. No. A-5/E-1/2025, Asst.",
-   "slug": "uppsc-list-of-provisionally-selected-candidates-in-advt-no-a-5-e-1-2025-asst-8ce10",
-   "types": [
-    "result"
-   ],
-   "latest": "2026-11-17"
   },
   {
    "key": "aiims-fees-second-mbbs-mbbs-md-ms-mds-dm-mch-2026",
