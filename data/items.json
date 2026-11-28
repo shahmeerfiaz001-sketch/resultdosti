@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T08:53:32+00:00",
+ "updated": "2026-11-28T10:53:49+00:00",
  "items": [
   {
    "id": "eb5a27ddb770",
@@ -47774,6 +47774,31 @@
    "tier": 1,
    "status": "info",
    "group": "bceceb-verificatioin-senior-resident-tutor-health-2026"
+  },
+  {
+   "id": "8feb63e0a6a5",
+   "source": "patnahc",
+   "org": "Patna High Court",
+   "short": "Patna HC",
+   "scope": "bihar",
+   "title": "Notice regarding updation of online application for District Judge (Entry Level), Direct from Bar Exam-2026.",
+   "url": "https://patnahighcourt.gov.in/getfile/MTEzMDM=---am1--YzZvvGszBA=",
+   "is_doc": false,
+   "type": "job",
+   "list_date": null,
+   "first_seen": "2026-11-28T10:53:48+00:00",
+   "last_seen": "2026-11-28T10:53:48+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://patnahighcourt.gov.in",
+   "slug": "patna-hc-notice-regarding-updation-of-online-application-for-district-8feb63",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "patnahc-updation-district-judge-direct-bar-2026"
   }
  ]
 }
