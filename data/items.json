@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T17:07:32+00:00",
+ "updated": "2026-11-28T07:10:30+00:00",
  "items": [
   {
    "id": "eb5a27ddb770",
@@ -47680,6 +47680,31 @@
    "tier": 1,
    "status": "info",
    "group": "uppsc-d-e-medical-education-department-u-p-professor-2026"
+  },
+  {
+   "id": "01143200fe05",
+   "source": "patnahc",
+   "org": "Patna High Court",
+   "short": "Patna HC",
+   "scope": "bihar",
+   "title": "Link to update online application for District Judge (Entry Level), Direct from Bar Exam-2026.",
+   "url": "https://patnahighcourt.gov.in/exam/bsjs2026/defaultbsjs2026.aspx",
+   "is_doc": false,
+   "type": "job",
+   "list_date": null,
+   "first_seen": "2026-11-28T07:10:28+00:00",
+   "last_seen": "2026-11-28T07:10:28+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://patnahighcourt.gov.in",
+   "slug": "patna-hc-link-to-update-online-application-for-district-judge-entry-011432",
+   "details": {
+    "fields": {},
+    "parsed_at": null
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "patnahc-update-district-judge-direct-bar-2026"
   }
  ]
 }

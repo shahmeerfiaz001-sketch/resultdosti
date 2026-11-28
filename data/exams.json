@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T17:07:32+00:00",
+ "updated": "2026-11-28T07:10:30+00:00",
  "exams": [
   {
    "key": "uppsc-provisionally-a-e-asst-teacher-trained-graduate-2025",
@@ -18,6 +18,23 @@
    "slug": "uppsc-list-of-provisionally-selected-candidates-in-advt-no-a-5-e-1-2025-asst-8ce10",
    "types": [
     "result"
+   ],
+   "latest": "2026-11-28"
+  },
+  {
+   "key": "patnahc-update-district-judge-direct-bar-2026",
+   "source": "patnahc",
+   "short": "Patna HC",
+   "org": "Patna High Court",
+   "scope": "bihar",
+   "items": [
+    "01143200fe05"
+   ],
+   "year": 2026,
+   "name": "Patna HC Link to update online application for District Judge , Direct from Bar 2026",
+   "slug": "patna-hc-link-to-update-online-application-for-district-judge-direct-from-bar-e975c",
+   "types": [
+    "job"
    ],
    "latest": "2026-11-28"
   },
