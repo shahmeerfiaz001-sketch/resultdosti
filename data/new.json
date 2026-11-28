@@ -1,13 +1,22 @@
 {
- "run": "2026-11-28T07:10:30+00:00",
+ "run": "2026-11-28T08:53:32+00:00",
  "first_run": false,
  "new": [
   {
-   "id": "01143200fe05",
+   "id": "5a552d0d5931",
    "type": "job",
-   "title": "Link to update online application for District Judge (Entry Level), Direct from Bar Exam-2026.",
-   "short": "Patna HC",
-   "url": "https://resultdosti.in/job/patna-hc-link-to-update-online-application-for-district-judge-entry-011432/",
+   "title": "Notice for Document Verificatioin for the post of Senior Resident /Tutor Under Health Department (Adv. No. BCECEB(Health(SR)(III))-2026/04",
+   "short": "BCECEB",
+   "url": "https://resultdosti.in/job/notice-for-document-verificatioin-for-the-post-of-senior-resident-5a552d/",
+   "last_date": null,
+   "jobposting": false
+  },
+  {
+   "id": "8f56d36ff57e",
+   "type": "job",
+   "title": "Details of Document Verificatioin for the post of Senior Resident /Tutor Under Health Department (Adv. No. BCECEB(Health(SR)(III))-2026/03",
+   "short": "BCECEB",
+   "url": "https://resultdosti.in/job/details-of-document-verificatioin-for-the-post-of-senior-resident-8f56d3/",
    "last_date": null,
    "jobposting": false
   }

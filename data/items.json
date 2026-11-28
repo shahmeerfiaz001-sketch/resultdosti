@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T07:10:30+00:00",
+ "updated": "2026-11-28T08:53:32+00:00",
  "items": [
   {
    "id": "eb5a27ddb770",
@@ -47705,6 +47705,75 @@
    "tier": 1,
    "status": "info",
    "group": "patnahc-update-district-judge-direct-bar-2026"
+  },
+  {
+   "id": "5a552d0d5931",
+   "source": "bceceb",
+   "org": "Bihar Combined Entrance Competitive Examination Board",
+   "short": "BCECEB",
+   "scope": "bihar",
+   "title": "Notice for Document Verificatioin for the post of Senior Resident /Tutor Under Health Department (Adv. No. BCECEB(Health(SR)(III))-2026/04",
+   "url": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_3SR26_04.pdf",
+   "is_doc": true,
+   "type": "job",
+   "list_date": "2026-11-28",
+   "first_seen": "2026-11-28T08:53:19+00:00",
+   "last_seen": "2026-11-28T08:53:19+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://bceceboard.bihar.gov.in",
+   "slug": "notice-for-document-verificatioin-for-the-post-of-senior-resident-5a552d",
+   "details": {
+    "fields": {},
+    "pdf_quality": {
+     "chars": 268,
+     "latin": 0.634,
+     "devanagari": 0.0,
+     "legacy_suspect": false,
+     "scanned_suspect": false,
+     "ocr": true
+    },
+    "parsed_at": "2026-11-28T08:53:31+00:00",
+    "pdf_error": null,
+    "attempts": 1
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "bceceb-verificatioin-senior-resident-tutor-health-2026"
+  },
+  {
+   "id": "8f56d36ff57e",
+   "source": "bceceb",
+   "org": "Bihar Combined Entrance Competitive Examination Board",
+   "short": "BCECEB",
+   "scope": "bihar",
+   "title": "Details of Document Verificatioin for the post of Senior Resident /Tutor Under Health Department (Adv. No. BCECEB(Health(SR)(III))-2026/03",
+   "url": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_3SR26_03.pdf",
+   "is_doc": true,
+   "type": "job",
+   "list_date": "2026-11-28",
+   "first_seen": "2026-11-28T08:53:19+00:00",
+   "last_seen": "2026-11-28T08:53:19+00:00",
+   "advt": null,
+   "link_policy": "deep",
+   "official_home": "https://bceceboard.bihar.gov.in",
+   "slug": "details-of-document-verificatioin-for-the-post-of-senior-resident-8f56d3",
+   "details": {
+    "fields": {},
+    "pdf_quality": {
+     "chars": 6202,
+     "latin": 0.27,
+     "devanagari": 0.0,
+     "legacy_suspect": false,
+     "scanned_suspect": false
+    },
+    "parsed_at": "2026-11-28T08:53:32+00:00",
+    "pdf_error": null,
+    "attempts": 1
+   },
+   "tier": 1,
+   "status": "info",
+   "group": "bceceb-verificatioin-senior-resident-tutor-health-2026"
   }
  ]
 }
